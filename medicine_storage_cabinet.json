@@ -1,0 +1,23 @@
+{
+  "name": "MEDICINE STORAGE CABINET",
+  "desc": "The INNOLAB INSTRUMENTS Controlled Room Temperature (CRT) Medicine Storage Cabinet is designed for medical and clinical trial applications where medicines are stored at 15°C and 25°C. Features double wall construction with stainless steel 304 interior, forced air circulation, and a microprocessor-based controller for uniform temperature distribution.",
+  "features": [
+    "15°C to 25°C standard storage temperature range",
+    "Uniform temperature distribution across the chamber via Axial Fan",
+    "Stainless steel 304 inner construction with corrosion-free exterior",
+    "Microprocessor based controller with audible/visual alerts",
+    "CFC free refrigeration system from reputed brands"
+  ],
+  "specifications": {
+    "Temperature Range": "10°C to 35°C",
+    "Controller": "Microprocessor based with Display of SV & PV",
+    "Inner Construction": "Stainless steel 304",
+    "Air Circulation": "Forced air circulation by Axial Fan",
+    "Cooling System": "CFC refrigeration system",
+    "Power Supply": "220 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/medicine_storage_cabinet.glb",
+  "image": "assets/instruments/medicine_storage_cabinet.webp",
+  "images": null
+}

@@ -1,0 +1,35 @@
+{
+  "name": "PULSE VACUUM VERTICAL AUTOCLAVE",
+  "desc": "The INNOLAB INSTRUMENTS INNO-V-PVAU-220 Pulse Vacuum Vertical Autoclave is a highly advanced, fully automatic steam sterilizer designed to deliver exceptional sterilization performance. This system utilizes a sophisticated imported water-ring vacuum pump to execute pre-vacuum cycles for immediate and efficient air removal, ensuring deep steam penetration.",
+  "features": [
+    "Imported Water Ring Vacuum Pump for Pre and Post Pulse Vacuum Cycles",
+    "LCD Smart Controller with 4 Preselected Programs (Glassware, Instrument, Liquid, Dressing)",
+    "Internal Steam Collector Tank ensuring zero open steam discharge",
+    "Stainless Steel 304 chamber secured by a Hand Wheel Type locking mechanism",
+    "0.2µ Bacterial Air Filter for secure chamber ventilation"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Pulse Vacuum Vertical Autoclave",
+    "Working Temperature Range": "0 to 134°C",
+    "Working Pressure": "0.22 Mpa",
+    "Chamber Construction": "Stainless Steel 304",
+    "Door Locking Mechanism": "Hand Wheel Type",
+    "Door Gasket": "Jointless Silicone Rubber Gasket",
+    "Controller": "LCD Smart Controller",
+    "Operation Mode": "Fully Automatic",
+    "Cycle Programs": "4 Preselected Programs (Glassware, Instrument, Liquid, Dressing)",
+    "Vacuum System": "Pre and Post Pulse Vacuum Cycles",
+    "Vacuum Pump": "Imported Water Ring Vacuum Pump Included",
+    "Air Filtration": "0.2µ Bacterial Air Filter",
+    "Timer Range": "0 to 99 Minutes",
+    "Steam Discharge": "Internal Steam Collector Tank (No Open Steam Discharge)",
+    "Baskets Supplied": "2 Nos. Wire Mesh Baskets",
+    "Electrical Power Supply": "220 Volts, 50Hz",
+    "Target Applications": "Hospital & Laboratory Sterilization, Epidemic Disinfection",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/pulse_vacuum_vertical_autoclave.glb",
+  "image": "assets/instruments/pulse_vacuum_vertical_autoclave.webp",
+  "images": null
+}

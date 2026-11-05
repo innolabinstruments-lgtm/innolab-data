@@ -1,0 +1,35 @@
+{
+  "name": "REFRIGERATED WATER BATH (CHILLER)",
+  "desc": "Laboratory Floor/Benchtop Refrigerated Circulating Water Bath engineered for high-precision constant temperature thermal management and sample cooling preservation. Features an expansive 28-liter capacity reservoir built with a double-walled insulated square structure.",
+  "features": [
+    "28 Litre volumetric industrial-scale internal reservoir tank",
+    "High-precision sub-ambient cooling and stable low-temperature sample holding",
+    "Active continuous mechanical fluid circulation for absolute uniformity",
+    "Integrated hermetically sealed low-vibration refrigeration compressor system",
+    "Heavy-duty Double Walled construction layer preventing heat exchange"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Microprocessor Refrigerated Circulating Water Bath",
+    "Primary Process Function": "High-precision sub-ambient cooling and stable low-temperature sample holding",
+    "Fluid Containment Capacity": "28 Litre volumetric industrial-scale internal reservoir tank",
+    "Bath Circulation Type": "Active continuous mechanical fluid circulation for absolute uniformity",
+    "Primary Control Mechanism": "Advanced Microprocessor-Based digital electronic controller assembly",
+    "Chassis Structural Shape": "Ergonomic Square space-optimized benchtop layout",
+    "Access Port Infrastructure": "1 Hole processing deck with high-sealing insulated lid arrangement",
+    "Insulated Build Fabrication": "Heavy-duty Double Walled construction layer preventing heat exchange",
+    "Thermal Thermal Medium": "Pure distilled water base optimization compatibility",
+    "Primary Target Assays": "Enzyme reactions, DNA or RNA preservation, and advanced chemical tests",
+    "Cooling Engine Core": "Integrated hermetically sealed low-vibration refrigeration compressor system",
+    "Uniformity Circulation Pump": "High-durability continuous magnetic drive internal pump assembly",
+    "Display Panel Architecture": "High-visibility bold Digital parameter display dashboard",
+    "Electrical Power Inputs": "Standard 220 V AC, 50 Hz, Single Phase stable Indian plug connection",
+    "Chassis Frame Protection": "Corrosion-resistant, easy-to-sanitize high-durability external finish",
+    "Target Field Applications": "Research Facilities, Molecular Diagnostics, and Industrial Quality Control",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on compressor and logic",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/refrigerated_water_bath_chiller.glb",
+  "image": "assets/instruments/refrigerated_water_bath_chiller.webp",
+  "images": null
+}

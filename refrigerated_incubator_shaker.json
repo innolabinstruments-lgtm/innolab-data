@@ -1,0 +1,36 @@
+{
+  "name": "REFRIGERATED INCUBATOR SHAKER",
+  "desc": "Benchtop Microprocessor-Controlled Refrigerated Incubator Shaker engineered for high-performance mixing and precise thermal incubation. Features a heavy-duty 3-shelves layout accommodating up to 9 flasks, driven by a maintenance-free Brushless DC motor.",
+  "features": [
+    "Integrated Refrigerated Cooling System (Eco-Friendly CFC-Free)",
+    "Smooth and Uniform Orbital Shaking Motion up to 200 RPM",
+    "Ultra-stable ± 0.5°C tight thermal tolerance",
+    "3 Heavy-Duty Removable and Height-Adjustable Storage Shelves",
+    "Heavy-Duty Brushless DC (BLDC) Motor for silent operation"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Integrated Refrigerated Incubator and Orbital Shaker Workstation",
+    "Incubator Functional Type": "BOD (Biochemical Oxygen Demand) Climate Enclosure Layout",
+    "Cooling & Thermal System": "High-Efficiency Refrigerated Cooling System (Eco-Friendly CFC-Free)",
+    "Shelves Configuration": "3 Heavy-Duty Removable and Height-Adjustable Storage Shelves",
+    "Shaking Mechanism Type": "Smooth and Uniform Orbital Shaking Motion",
+    "Drive Motor Assembly": "Heavy-Duty Brushless DC (BLDC) Motor (Maintenance-free, silent run)",
+    "Maximum Shaking Speed": "Up to 200 RPM precisely controlled digital adjustment",
+    "Temperature Control Accuracy": "Ultra-stable ± 0.5°C tight thermal tolerance",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital PID Control Interface",
+    "Mounting Layout Type": "Benchtop Space-Saving Compact Footprint",
+    "Flask Loading Capacity": "Spacious platform accommodating up to 9 Conical Flasks simultaneously",
+    "Enclosure Chamber Material": "High-Grade Corrosion-Resistant Stainless Steel (SS 304) Inner Chamber",
+    "Outer Body Shell Build": "Heavy-Gauge Mild Steel with scratch-resistant industrial powder coating",
+    "Chamber Door Design": "Double-glazed insulated Glass Door for safe sample observation",
+    "Power & Electrical Load": "Energy-Efficient 200 Watts operational consumption (230V AC, 50Hz)",
+    "Safety Integration Features": "Over-temperature safety cut-off and automated speed balance protection",
+    "Target Applications": "Cell Culture Growth, Biological Mixing, Aeration, & Quality Control Assays",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete unit and motor",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/refrigerated_incubator_shaker.glb",
+  "image": "assets/instruments/refrigerated_incubator_shaker.webp",
+  "images": null
+}

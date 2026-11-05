@@ -1,0 +1,41 @@
+{
+  "name": "HORIZONTAL TUBE FURNACE",
+  "desc": "High-Precision Horizontal Vacuum Atmosphere Tube Furnace workstation engineered for accurate high-temperature thermal treatments and anaerobic sintering operations. Features a high-purity quartz processing tube reaching a maximum heating temperature of 1200°C.",
+  "features": [
+    "High-intensity thermal processing peak calibrated at exactly 1200°C",
+    "High-purity thermal shock resistant transparent Quartz Tube assembly",
+    "Low-thermal-mass high-efficiency structural Alumina Ceramic Fiber liners",
+    "Multi-segment memory block supporting a single program with 30 steps",
+    "Supplied complete with high-efficiency heavy-duty external mechanical Vacuum Pump"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Smart Horizontal Vacuum Atmosphere Tube Furnace Station",
+    "Primary Process Function": "High-uniformity small sample heating, sintering, and thermal profiling under gas purge",
+    "Maximum Hot-Zone Temperature": "High-intensity thermal processing peak calibrated at exactly 1200 degrees C",
+    "Continuous Operational Heat": "Continuous safe thermal operational workspace index rated at 1100 degrees C",
+    "Processing Tube Core Material": "High-purity thermal shock resistant transparent Quartz Tube assembly",
+    "Standard Tube Outer Diameter": "Precision structural layout footprint tracking a tube size of exactly 60 mm",
+    "Chamber Heating Zone Length": "Continuous single-zone uniform heating span measuring exactly 350 mm",
+    "Thermal Monitoring Sensor": "Industrial-grade integrated high-precision K Type structural thermocouple",
+    "Core Heating Element Matrix": "Heavy-duty high-stability resistance wire elements with uniform surround wrapping",
+    "Chamber Insulation Architecture": "Low-thermal-mass high-efficiency structural Alumina Ceramic Fiber liners",
+    "Primary System Controller": "Advanced Programmable PID Temperature Controller with SCR power regulation",
+    "Process Program Profiling": "Multi-segment memory block supporting a single program with 30 steps for Ramp and Dwell",
+    "Display Panel Architecture": "High-contrast integrated dual LED screen displaying live Set Value and Process Value",
+    "Dynamic Thermal Ramp Speed": "Controllable heating and cooling escalation scaling from 0 to 15 degrees C per minute",
+    "Anaerobic Processing Atmosphere": "Fully optimized for inert atmosphere based heat treatments using Nitrogen or Argon",
+    "Primary Vacuum Auxiliary Kit": "Supplied complete with high-efficiency heavy-duty external mechanical Vacuum Pump",
+    "Chamber Vacuum Capacity Index": "Engineered to safely achieve initial vacuum negative drawdowns up to 0.1 MPa",
+    "Tube Sealing Hardware Kit": "Pair of high-vacuum stainless steel matching sealing Flanges with secure O rings",
+    "Thermal Equilibrium Safeguards": "Supplied complete with 1 pair of high-density Alumina Ceramic End Plugs for tube edges",
+    "Chamber Connection Piping": "High-durability temperature-stable flexible Silicone Tube assembly loops",
+    "Electrical Power Inputs": "Standard 220 Volts AC, 50 Hz, Single Phase stable Indian plug mains connection",
+    "Target Field Applications": "Nanotechnology, Thin Film Deposition, Chemical Vapor Diffusion, and Wafer Sintering",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on core PID logic and elements",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/horizontal_tube_furnace.glb",
+  "image": "assets/instruments/horizontal_tube_furnace.webp",
+  "images": null
+}

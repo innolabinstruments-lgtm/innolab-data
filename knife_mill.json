@@ -1,0 +1,30 @@
+{
+  "name": "KNIFE MILL",
+  "desc": "The INNOLAB INSTRUMENTS INNO-KM-200 Knife Mill (Blender) is predominantly used in agriculture, food testing, and forensic laboratories. It is engineered for the rapid size reduction and homogenization of soft, elastic, fibrous, and high-moisture samples like meat, plant leaves, seeds, and chocolate. It features interval, regular, and reverse modes for optimal mixing.",
+  "features": [
+    "Razor-sharp blades (Stainless Steel or Titanium coating/alloy)",
+    "High-speed motor adjustable from 500 up to 10000 rpm (Model dependent)",
+    "Coarse grinding and fine grinding realized in one step",
+    "Electromagnetic safety lid lock prevents opening during grinding",
+    "Supports dry as well as wet grinding applications"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Speed Laboratory Knife Mill / Blender",
+    "Number of Blades": "2 Blades / 4 Blades options",
+    "Feed Size": "<40mm / <130mm (Model Dependent)",
+    "Final Fineness": "< 300 μm",
+    "Motor Speed": "500 - 4000 rpm / 2000 – 10000 rpm (Model Dependent)",
+    "Batch Quantity": "150-700ml / 1-4.5L (Model Dependent)",
+    "Knives Material": "Stainless steel, Titanium alloy / coating",
+    "Operational Modes": "Interval mode, Reverse mode, Press-and-play mode",
+    "Time Setting": "0:01 - 9:59 (min/s) / 00:00 - 99:59 (min/s)",
+    "Rated Power": "1.1 KW / 1.5 KW",
+    "Power Supply": "220V, 50Hz",
+    "Target Applications": "Food Testing, Agriculture, Forensics, Meat & Plant Homogenization",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/knife_mill.glb",
+  "image": "assets/instruments/knife_mill.webp",
+  "images": null
+}

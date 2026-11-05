@@ -1,0 +1,40 @@
+{
+  "name": "PCR THERMAL CYCLER",
+  "desc": "Premium Gradient PCR Thermal Cycler engineered for high-throughput DNA amplification and precise molecular diagnostics. Features a 96 x 0.2 ml block capacity driven by a long-service-life Peltier system with an adjustable pressure hot lid and a 5-inch large color touchscreen display.",
+  "features": [
+    "96 Wells x 0.2 ml amplification block layout",
+    "Wide gradient tuning capabilities ranging from 30°C to 99°C",
+    "Integrated 5 Inch large color high-resolution touch screen dashboard",
+    "High-speed processing performance tracking at 5°C per second",
+    "Dual USB 2.0 device ports support with a built-in wireless Wi-Fi module"
+  ],
+  "specifications": {
+    "Sample Block Capacity": "96 Wells x 0.2 ml amplification block layout",
+    "Operating Temperature Range": "High-precision thermal control spanning from 4°C up to 105°C",
+    "Gradient Temperature Settings": "Wide gradient tuning capabilities ranging from 30°C to 99°C",
+    "Thermal Display Accuracy": "Real-time display resolution index sharp at ± 0.1°C",
+    "Maximum Ramping Rate": "High-speed processing performance tracking at 5°C per second",
+    "Maximum Heating Capacity": "Steady state heating performance up to 2.5°C per second",
+    "Maximum Cooling Capacity": "Regulated state cooling performance below 2.5°C per second",
+    "Temperature Step Increments": "Micro-adjustable values from 0.1°C up to 10.0°C",
+    "Time Adjustment Increments": "Time increment controls setting from -1 second to 600 seconds",
+    "Peltier Thermal Engine Lifecycle": "Long service life Peltier blocks rated for greater than 1,000,000 cycles",
+    "Reliability Non-Breakdown Index": "Certified to perform 20,000 times continuous non-breakdown operations",
+    "Sample Loss Protection": "Integrated adjustable pressure hot lid preventing volatilizing and dewing",
+    "Operating System Interface": "Advanced Android System framework with large internal program storage",
+    "Display Panel Architecture": "Integrated 5 Inch large color high-resolution touch screen dashboard",
+    "Chassis Structural Design": "Unique left-right separate layouts separating amplification zone from controls",
+    "Network & Data Interfaces": "Dual USB 2.0 device ports support with a built-in wireless Wi-Fi module",
+    "Maximum Program Cycles": "Supports up to 1000b0 maximum cycle numbers per programmed sequence run",
+    "Physical Footprint (DxWxH)": "Compact layout space measuring 200 mm x 300 mm x 170 mm",
+    "Equipment Net Weight": "Lightweight benchtop layout tracking at exactly 4.5 Kg",
+    "Power Supply Requirements": "Universal AC 100 to 240 V, 50-60 Hz stable adaptive electrical line",
+    "Regulatory Customs HSN Code": "Certified product classification registry number: 90273020",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete Peltier and logic array",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/pcr_thermal_cycler.glb",
+  "image": "assets/instruments/pcr_thermal_cycler.webp",
+  "images": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "LABORATORY OIL BATH",
+  "desc": "The INNOLAB INSTRUMENTS Laboratory Oil Bath is engineered for high-temperature chemical reactions, distillations, and materials testing that require heating well above the boiling point of water. Utilizing high-grade stainless steel, specialized thermal insulation, and an advanced PID controller, it safely handles hot silicone oils up to 200°C (or 300°C optionally) without the risk of breakdown, ensuring consistent thermal stability for complex experiments.",
+  "features": [
+    "Designed for constant high-temperature control using thermal oil",
+    "Rugged double wall construction with excellent 5-sided glass wool insulation",
+    "Microprocessor PID temperature controller with ±1°C accuracy",
+    "Available in round and rectangular chamber configurations",
+    "Optional inner circulation or stirring function for uniform heating",
+    "Durable Stainless steel immersion heaters"
+  ],
+  "specifications": {
+    "Volume Options": "Rectangular: 12L to 32L / Round: 2L to 20L",
+    "Temperature Range": "Ambient+10°C to 200°C (Optional up to 300°C)",
+    "Temperature Accuracy": "±1°C or better",
+    "Temperature Controller": "Microprocessor PID temperature controller",
+    "Temperature Sensor": "PT100",
+    "Timer": "Digital timer up to 99 hours",
+    "Inner Chamber": "Thick gauge Stainless Steel 304",
+    "Exterior Material": "Stainless Steel 304 or Powder Coated MS",
+    "Standard Fittings": "Brass drain tap, Mains On/off switch",
+    "Power Supply": "220 Volts 50 Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laboratory_oil_bath.glb",
+  "image": "assets/instruments/laboratory_oil_bath.webp",
+  "images": null
+}

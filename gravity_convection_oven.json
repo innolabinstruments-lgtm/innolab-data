@@ -1,0 +1,29 @@
+{
+  "name": "GRAVITY CONVECTION OVEN",
+  "desc": "Digital Gravity Convection Oven providing gentle airflow, ideal for sterilization and drying without cross-contamination. Manufactured by Innolab Instruments, this unit features a 250-liter capacity with 16 trays and a high-precision PLC touch screen control system.",
+  "features": [
+    "Gentle airflow - ideal for sterilization and drying",
+    "Adjustable ventilation to provide control of inner air & vapour circulation",
+    "Advanced PLC touch screen control system",
+    "Motor-driven / Cylinder automatic door options",
+    "High-accuracy temperature stabilization within ±1°C at 100°C"
+  ],
+  "specifications": {
+    "Capacity": "250 Liters (Matched with model)",
+    "Number of Trays": "16 Trays (Tray Size: 442x325 mm)",
+    "Power Source": "Gas / 230 Vac Stabletemp",
+    "Maximum Temperature": "500 °C",
+    "Control Type": "PLC, Touch Screen System",
+    "Temperature Accuracy": "±1°C at 100°C",
+    "Body Material": "304/316L Stainless Steel Optional",
+    "Operation Type": "Automatic",
+    "System Language": "Optional (English / Russian...)",
+    "Output System": "Recorder, Printer",
+    "Warranty": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/gravity_convection_oven.glb",
+  "image": "assets/instruments/gravity_convection_oven.webp",
+  "images": null
+}

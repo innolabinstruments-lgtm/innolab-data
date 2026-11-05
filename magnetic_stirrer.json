@@ -1,0 +1,14 @@
+{
+  "name": "MAGNETIC STIRRER",
+  "desc": "Magnetic Stirrer is an essential laboratory instrument used for uniformly mixing and blending liquid samples. Widely utilized in chemistry, microbiology, and pharmaceutical laboratories, this unit ensures stable and continuous stirring. We at Innolab Instruments manufacture premium magnetic stirrers that offer highly accurate speed control, ensuring optimum performance for long hours. Designed to be economical and durable, it perfectly fits the rigorous demands of modern research facilities.",
+  "features": [
+    "Pending Update"
+  ],
+  "specifications": {
+    "Status": "Pending Update",
+    "Brand": "Innolab Instruments"
+  },
+  "model_3d": "assets/3d_models/magnetic_stirrer.glb",
+  "image": "assets/instruments/magnetic_stirrer.webp",
+  "images": null
+}

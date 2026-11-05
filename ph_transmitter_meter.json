@@ -1,0 +1,34 @@
+{
+  "name": "PH TRANSMITTER METER",
+  "desc": "Premium Microprocessor-Based Digital Table-Top pH Transmitter Meter engineered for high-precision electrochemical analysis. Features a wide measuring range from -2.00 to 16.00 pH with Automatic Temperature Compensation (ATC) and an industrial analog current output loop.",
+  "features": [
+    "Broad scale scanning from -2.00 to 16.00 pH lines",
+    "Ultra-precise performance verified at ± 0.01 pH variance",
+    "Fully automated operational Automatic Temperature Compensation (ATC)",
+    "Integrated analog current loop delivering 0/4 to 20 mA signal bands",
+    "High-reliability serial RS232 interface output link for data logging"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Benchtop Digital Table-Top pH Transmitter Meter",
+    "Primary Measuring Metrics": "Dual sensor input tracking for absolute pH or oxidation-reduction (mV)",
+    "pH Operational Measurement Range": "Broad scale scanning from -2.00 to 16.00 pH lines",
+    "Millivolt (mV) Range Scale": "Heavy-duty electrical potential tracking up to plus or minus 1999 mV",
+    "pH Measuring Accuracy Index": "Ultra-precise performance verified at plus or minus 0.01 pH variance",
+    "Signal Resolution Capacity": "High-linearity step tracking index calibrated at 1 mV",
+    "Temperature Compensation": "Fully automated operational Automatic Temperature Compensation (ATC)",
+    "System Calibration Protocol": "Advanced multi-point configuration matching up to 3 points calibration",
+    "Industrial Process Output": "Integrated analog current loop delivering 0/4 to 20 mA signal bands",
+    "Process Loop Safety Alarm": "Built-in high-limit loop notification trigger fixed at 22 mA alarm state",
+    "Data Interfacing Port": "High-reliability serial RS232 interface output link for data logging",
+    "Display Interface Panel": "High-visibility bold multi-parameter Digital display panel",
+    "Power Drive Source": "Continuous stable mains performance utilizing 220-230 V AC, 50 Hz line",
+    "Chassis Mechanical Net Mass": "Compact stable benchtop structural layout weighing exactly 1.5 Kg",
+    "Target Field Applications": "Field Testing, Education, Industrial Automation, Water Testing, and Food Processing",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete electronic matrix",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/ph_transmitter_meter.glb",
+  "image": "assets/instruments/ph_transmitter_meter.webp",
+  "images": null
+}

@@ -1,0 +1,30 @@
+{
+  "name": "HORIZONTAL PLANETARY BALL MILL",
+  "desc": "The INNOLAB INSTRUMENTS INNO-HPBM-8L Horizontal Planetary Ball Mill is specifically engineered for advanced research laboratories to prevent materials from sinking or sticking to the bottom of the grinding jar. Used for challenging synthetic materials, this horizontal design ensures superior fineness and homogenization while adopting high-speed planetary movement with large energy impact.",
+  "features": [
+    "Horizontal design prevents material from sinking or sticking to the bottom",
+    "Imported frequency converter precisely controls speed and protects the motor",
+    "Adjustable time of forward, reverse rotation, and alternation functions",
+    "Maximum four powder samples from different materials can be ground simultaneously",
+    "Integrated safety switch stops the machine if the lid is opened while running"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Horizontal Planetary Ball Mill Workstation",
+    "Volume Options": "400ml / 1L / 2L / 4L / 6L / 8L",
+    "Max. Jars": "4 Nos.",
+    "Speed Regulation": "Frequency control (Imported converter)",
+    "Revolution Speed": "35-335 rpm",
+    "Rotation Speed": "70-670 rpm",
+    "Total Timing": "1-9999 min (Alternate running time: 1-999 min)",
+    "Max. Continuous Operating Time": "72 hours",
+    "Feed Size": "Soil/crispy material ≤10mm, other material ≤3mm",
+    "Output Granularity": "Minimum up to 0.1µm (depends on material)",
+    "MOC of Jar & Balls": "SS304/316, Agate, Nylon, Corundum, Zirconia, Tungsten Carbide",
+    "Target Applications": "Advanced Materials Research, Synthetic Chemistry, Nanomaterials",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/horizontal_planetary_ball_mill.glb",
+  "image": "assets/instruments/horizontal_planetary_ball_mill.webp",
+  "images": null
+}

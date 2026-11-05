@@ -1,0 +1,40 @@
+{
+  "name": "MORTUARY CHAMBER",
+  "desc": "2-Body Laboratory and Hospital Mortuary Cabinet engineered for highly reliable, low-temperature cadaver preservation. Features 2 independent SS304 body compartments driven by dedicated cooling systems for each chamber using CFC-free R-404A refrigerant.",
+  "features": [
+    "Stable preservation baseline from 2°C to 6°C",
+    "2 Body Compartments independent dual chamber layout",
+    "Individual dedicated refrigeration system for each separate chamber",
+    "High-Grade Corrosion-Proof Stainless Steel (SS304 Grade) inside and out",
+    "Integrated Data Logger and Temperature Chart Recorder system"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Heavy-Duty Hospital & Morgue Cadaver Preservation Mortuary Cabinet",
+    "Storage Capacity Profile": "2 Body Compartments independent dual chamber layout",
+    "Temperature Control Range": "Stable preservation baseline from 2°C to 6°C",
+    "Controller Architecture": "Advanced Microprocessor-Based Temperature Controller",
+    "Display Interface Panel": "High-Visibility Digital LED Display with real-time parameter tracking",
+    "Thermal Tracking Tools": "Integrated Analogue Temperature Gauge with digital data logging layout",
+    "Refrigeration System Design": "Individual dedicated refrigeration system for each separate chamber",
+    "Compressor Integrity": "Heavy-Duty Industrial ISI Marked Compressor assembly",
+    "Eco-Refrigerant Gas Type": "100% CFC-Free eco-safe R-404A cooling medium",
+    "Air Distribution Method": "Motorized Forced Air Cooling system for rapid thermal equilibrium",
+    "Defrosting Type Control": "Manual Defrosting configuration with dedicated internal drainage channels",
+    "Internal Body Material": "High-Grade Corrosion-Proof Stainless Steel (SS304 Grade)",
+    "External Body Material": "High-Grade Corrosion-Proof Stainless Steel (SS304 Grade)",
+    "Door & Hardware Material": "Heavy-duty Stainless Steel doors with independent secure handles",
+    "Chamber Locking System": "Individual standard secure key lock assembly for each chamber",
+    "Insulation Core Barrier": "50 mm to 100 mm thick High-Grade Polyurethane Foam (PUF)",
+    "Safety Integration Alarms": "Built-in Audio and Visual Temperature Variation Alarm system",
+    "Internal Lighting System": "Moisture-proof internal cabinet illumination lamps for human safety",
+    "Standard Accessories Kit": "Loading Trolley, Telescopic Carriage Trays, and suitable Voltage Stabilizer",
+    "Data Auditing Interfaces": "Integrated Data Logger and Temperature Chart Recorder system",
+    "Electrical Power Line": "220 V (±10%), 50 Hz, Single Phase stable Indian plug configuration",
+    "Warranty Cover Protection": "2 Years Comprehensive Warranty covering full system and compressor",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/mortuary_chamber.glb",
+  "image": "assets/instruments/mortuary_chamber.webp",
+  "images": null
+}

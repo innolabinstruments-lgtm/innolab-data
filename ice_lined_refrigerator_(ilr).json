@@ -1,0 +1,23 @@
+{
+  "name": "ICE LINED REFRIGERATOR (ILR)",
+  "desc": "The INNOLAB INSTRUMENTS Ice Lined Refrigerator (ILR) is designed to maintain 0°C to 8°C for 20 to 25 hours without power supply. Lined with high-quality ice packs, this direct cooling refrigerator is ideal for transporting and storing vaccines, medicines, and blood bags in remote areas.",
+  "features": [
+    "Over 25 hours hold over time without power",
+    "Inner walls lined with high quality plastic ice packs",
+    "Microprocessor temperature controller with sensor error alarms",
+    "Corrosion-free stainless steel 304 interior and powder-coated exterior",
+    "Direct cooling mechanism optimized for off-grid clinical setups"
+  ],
+  "specifications": {
+    "Temperature": "2°C to 8°C",
+    "Holdover Time": "20-25 hours",
+    "Controller": "Microprocessor temperature controller",
+    "Inner Chamber": "Stainless steel 304",
+    "Cooling Type": "Direct cooling",
+    "Power Supply": "220 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/ice_lined_refrigerator.glb",
+  "image": "assets/instruments/ice_lined_refrigerator.webp",
+  "images": null
+}

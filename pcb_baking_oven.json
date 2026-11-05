@@ -1,0 +1,29 @@
+{
+  "name": "PCB BAKING OVEN",
+  "desc": "Industrial PCB Baking and Curing Oven designed for precise thermal curing and moisture removal from printed circuit boards. Innolab Instruments supplies these heavy-duty 220-liter ovens with uniform heat distribution and PID closed-loop control to ensure flawless soldering and processing.",
+  "features": [
+    "PID closed-loop control paired with high-efficiency SSR drive",
+    "Conveyor height optimized at 900±20mm",
+    "Fast heating up time tracking under 30 minutes",
+    "High-capacity processing accommodating up to 70 PCBs",
+    "Adjustable Guide rail parallelism <±0.8mm"
+  ],
+  "specifications": {
+    "Capacity": "220 Liters (Matched with model)",
+    "Temperature Range": "Room temperature ~ 200°C",
+    "Temperature Control Mode": "PID closed-loop control + SSR drive",
+    "Min PCB Size": "90 x 90 mm",
+    "Max PCB Size": "300 x 350 mm",
+    "PCB Stacking Spacing": "25.4 mm",
+    "Conveyor Height": "900±20 mm",
+    "Direction": "L-R or R-L configurable",
+    "Heating Up Time": "< 30 Min",
+    "Power Supply": "220 V",
+    "Warranty": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/pcb_baking_oven.glb",
+  "image": "assets/instruments/pcb_baking_oven.webp",
+  "images": null
+}

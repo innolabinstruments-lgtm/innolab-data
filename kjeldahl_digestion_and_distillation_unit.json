@@ -1,0 +1,27 @@
+{
+  "name": "KJELDAHL DIGESTION AND DISTILLATION UNIT",
+  "desc": "The INNOLAB INSTRUMENTS Kjeldahl Digestion and Distillation Unit is heavily relied upon in food testing, agriculture, and environmental laboratories. It is used to safely break down complex organic structures using concentrated sulfuric acid to determine nitrogen, protein, and ammonia content. It combines digestion and distillation on a single sturdy frame with individual energy regulators for 3 or 6 tests.",
+  "features": [
+    "Combined digestion and distillation unit in a single metallic frame",
+    "Available in 3-test and 6-test capacities (500 ml flasks)",
+    "Individual energy regulators for each heating mantle",
+    "Durable fiberglass net heating surface with Nichrome heating elements",
+    "Low energy consumption instrument requiring minimal maintenance",
+    "Available with or without high-quality glass apparatus"
+  ],
+  "specifications": {
+    "Test Capacity": "3-Test or 6-Test configurations",
+    "Flask Capacity": "500 ml per flask",
+    "Temperature Range": "Ambient+10°C to 350°C",
+    "Heating Element": "Nichrome heating element on Fiber glass net",
+    "Temperature Controller": "Individual Energy regulators (Optional PID)",
+    "Structure": "Powder coated MS cabinet with vertical/horizontal rods & clamps",
+    "Fume Extraction": "Integrated fume duct",
+    "Glassware": "Available with or without glass parts",
+    "Power Supply": "220 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/kjeldahl_digestion.glb",
+  "image": "assets/instruments/kjeldahl_digestion.webp",
+  "images": null
+}

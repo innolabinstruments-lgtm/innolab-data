@@ -1,0 +1,27 @@
+{
+  "name": "MALT MASHING BATH",
+  "desc": "The INNOLAB INSTRUMENTS Malt Mashing Bath is specifically tailored for the brewing industry, food technology, and quality control laboratories. It is used to evaluate the extract yield of malt and barley by simulating Congress and Hartong procedures. Featuring motorized multi-jar agitators and precise PID temperature controls, it ensures brewmasters get highly accurate and repeatable enzymatic conversions for their quality checks.",
+  "features": [
+    "Designed to work on Congress and Hartong mashing procedures",
+    "Available with 4, 6, 8, 10, or 12 stainless steel jars/agitators",
+    "Heavy duty motor with SS shafts and variable speed controller (15-150 rpm)",
+    "Precise PID temperature controller with optional Ramp & Soak functions",
+    "Audio/visual alarms and low water level safety cut-off"
+  ],
+  "specifications": {
+    "Number of Beakers/Jars": "6, 8, 10, or 12 Jars",
+    "Temperature Range": "Up to 95°C",
+    "Temperature Accuracy": "±0.5°C (PT100 Sensor)",
+    "Stirrer Type": "Heavy duty motor with SS shafts",
+    "Stirrer Speed": "15 to 150 rpm (Rotary type variable speed controller)",
+    "RPM Display": "Digital LED Display",
+    "Working Chamber": "Stainless steel 304",
+    "External Body": "Powder coated GI sheet",
+    "Safety Features": "Low water level safety cut-off with alarm",
+    "Power Supply": "220 volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/malt_mashing_bath.glb",
+  "image": "assets/instruments/malt_mashing_bath.webp",
+  "images": null
+}

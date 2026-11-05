@@ -1,0 +1,36 @@
+{
+  "name": "ORBITAL SHAKER INCUBATOR",
+  "desc": "Benchtop Microprocessor-Controlled Orbital Shaker Incubator engineered to provide a strictly controlled thermal and mixing environment for cell cultures. Features a 100-liter SS 304 internal chamber, large 400x400 mm platform, and digital PID control for temps from Ambient plus 5°C up to 70°C.",
+  "features": [
+    "Ambient plus 5°C to 70°C highly accurate incubation span",
+    "20 to 250 RPM smooth digital velocity configuration",
+    "Large 400x400 mm shaking platform supporting up to 50 Kg load",
+    "Accommodates up to 16 × 250 mL Conical Flasks simultaneously",
+    "Transparent Toughened Glass Door for seamless process viewing"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Combined Orbital Shaker and Thermal Incubator Workstation",
+    "Chamber Net Capacity": "100 Liters optimized processing volume",
+    "Shaking Platform Dimensions": "400 mm x 400 mm heavy-duty shaking platform area",
+    "Temperature Control Range": "Ambient plus 5°C to 70°C highly accurate incubation span",
+    "Shaking Speed Range": "20 to 250 RPM smooth digital velocity configuration",
+    "Shaking Orbit Diameter": "10 mm optimal circular orbit for excellent aeration",
+    "Inner Chamber Material": "Premium High-Grade Corrosion-Free Stainless Steel (SS 304)",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital PID Control System",
+    "Speed Control Interface": "Precise Digital Speed Controller with continuous tracking",
+    "Mounting Configuration": "Bench Top Space-Saving Compact Model",
+    "Flask Holding Capacity": "Accommodates up to 16 × 250 mL Conical Flasks simultaneously",
+    "Maximum Platform Load": "Heavy-Duty structural drive mechanism supporting up to 50 Kg load",
+    "Chamber Door Design": "Transparent Toughened Glass Door for seamless process viewing",
+    "Included Platform Trays": "High-capacity Flask Tray accessory included as standard",
+    "Specialized Sample Holders": "Microplate Holder and versatile Tube Rack accessories supplied",
+    "Securing Mechanism": "Universal Clamps set included for assorted glassware protection",
+    "Power Supply Requirements": "230 V AC, 50 Hz, Single Phase standard Indian plug configuration",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/orbital_shaker_incubator.glb",
+  "image": "assets/instruments/orbital_shaker_incubator.webp",
+  "images": null
+}

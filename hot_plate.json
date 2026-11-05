@@ -1,0 +1,35 @@
+{
+  "name": "HOT PLATE",
+  "desc": "Heavy-Duty Rectangular Laboratory Hot Plate engineered for uniform thermal heating and sample preparation workflows. Features a robust 12-inch heavy cast iron heating plate reaching surface temperatures up to 300°C.",
+  "features": [
+    "Robust Industrial Grade Cast Iron heavy-duty plate (12-inch diameter)",
+    "Maximum Surface Temperature reaching up to 300°C",
+    "Rapid response pulling 1 Litre of H2O to boiling point in approx 15 minutes",
+    "Precision Energy Regulator system for incremental heat control",
+    "Protection Class 1 configuration with IP 20 environmental enclosure rating"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Heavy-Duty Rectangular Laboratory Hot Plate",
+    "Heating Surface Dimension": "12 Inch Diameter / Width spacious workspace layout",
+    "Plate Material Construction": "Robust Industrial Grade Cast Iron heavy-duty plate",
+    "Outer Enclosure Build": "Mild Steel (MS) sheet structure with protective powder coating",
+    "Temperature Control Target": "Fully adjustable setting up to 200 degree Celsius",
+    "Maximum Surface Temperature": "High thermal capacity reaching up to 300 degree Celsius",
+    "Controller Architecture": "Precision Energy Regulator system for incremental heat control",
+    "Glass Ceramic Workspace Zone": "235 millimeter integrated high-efficiency heating area",
+    "Thermal Uniformity Feature": "Advanced cross-plate uniform heat distribution layout",
+    "Boiling Performance Rate": "Rapid response pulling 1 Litre of H2O to boiling point in approx 15 minutes",
+    "Operational Shape Design": "Space-saving Rectangular design footprint",
+    "Visual Indicator Lights": "Built-in Pilot Lamp Indicator to display active heat status (On/Off)",
+    "Electrical Power Rating": "3 kiloWatt high-capacity consumption (220 Volt, 50 Hertz)",
+    "System Protection Ratings": "Protection Class 1 configuration with IP 20 environmental enclosure rating",
+    "Operational Humidity Scale": "Stable moisture tolerance functioning up to 85 percent RH ambient humidity",
+    "Equipment Net Weight": "Compact robust build weighing exactly 4 Kilograms",
+    "Warranty Cover Protection": "2 Years Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/hot_plate.glb",
+  "image": "assets/instruments/hot_plate.webp",
+  "images": null
+}

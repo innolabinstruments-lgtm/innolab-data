@@ -1,0 +1,22 @@
+{
+  "name": "MULTI TANK ULTRASONIC CLEANER",
+  "desc": "The INNOLAB INSTRUMENTS Multi Tank Ultrasonic Cleaner combines three separate tanks for comprehensive cleaning, rinsing, and hot air drying in one workstation. Widely used for electronics, optics, and medical implants, featuring a split-type generator and bottom-shock ultrasonic direction.",
+  "features": [
+    "3-Tank system: Ultrasonic Cleaning, Ultrasonic Rinsing, and Hot Air Drying",
+    "Thick gauge stainless steel 304 construction (SS 316 available on request)",
+    "28/40 KHz ultrasonic frequency with bottom shock direction",
+    "First tank includes an integrated filtration system",
+    "Digital temperature (up to 95°C) and timer controllers"
+  ],
+  "specifications": {
+    "Number of Tanks": "3 tanks (Cleaning, Rinsing & Drying)",
+    "Ultrasonic Frequency": "28/40 KHz",
+    "Temperature": "Up to 95°C",
+    "Ultrasonic Generator": "Split type",
+    "Construction": "Stainless steel 304",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/multi_tank_ultrasonic_cleaner.glb",
+  "image": "assets/instruments/multi_tank_ultrasonic_cleaner.webp",
+  "images": null
+}

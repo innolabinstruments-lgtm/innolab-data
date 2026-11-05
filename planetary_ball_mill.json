@@ -1,0 +1,29 @@
+{
+  "name": "PLANETARY BALL MILL",
+  "desc": "The INNOLAB INSTRUMENTS INNO-PBM-8L Planetary Ball Mill is a high-energy milling machine used extensively in nanotechnology, pharmaceuticals, and materials science. It is engineered to pulverize, mix, and mechanically alloy powders and slurries down to the sub-micron or nano level (particle size below 1 µm). This machine handles soft, medium-hard, very hard, brittle, and fibrous samples in either dry or wet mode.",
+  "features": [
+    "Particle size below 1 µm achievable (material dependent)",
+    "Color touch screen programmable controller (forward, reverse, pause)",
+    "Variable speed with VFD controller up to 870 rpm (model dependent)",
+    "Dual clamping holds jars firmly and safely during high-speed operation",
+    "Heavy-duty gear and belt drive built for long, trouble-free operation"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Energy Planetary Ball Mill",
+    "Number of Stations": "4 Jar Stations",
+    "Controller": "Programmable RPM controller (Color Touch Screen)",
+    "Timer": "1-9999 minutes",
+    "Drive Mechanism": "Gear and belt drive",
+    "Feed Size": "≤10 mm for soft/brittle material, ≤3 mm for hard material",
+    "Output Size": "Minimum output particle size <1 µm (material dependent)",
+    "Speed Range": "40 rpm up to 870 rpm (Depending on model volume)",
+    "Jars & Balls Materials": "Stainless Steel 304, Zirconia, Alumina, Tungsten Carbide, Agate, PTFE/PU",
+    "Target Applications": "Battery research, Nanotech, Ceramics, Geology, Pharmaceuticals",
+    "Optional Configurations": "Vacuum jars for oxygen-sensitive materials",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/planetary_ball_mill.glb",
+  "image": "assets/instruments/planetary_ball_mill.webp",
+  "images": null
+}

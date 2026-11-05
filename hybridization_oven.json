@@ -1,0 +1,30 @@
+{
+  "name": "HYBRIDIZATION OVEN",
+  "desc": "Premium Hybridization Oven designed for molecular biology laboratories specializing in nucleic acid hybridization and blot analysis. We at Innolab Instruments manufacture this unit with a 560-liter capacity, precise microprocessor PID digital controller, and an integrated bottle rotator.",
+  "features": [
+    "Microprocessor PID digital controller with 0.1°C display resolution",
+    "Supplied with a carrier to hold 6 bottles (30mm dia x 200mm depth)",
+    "Rotates continuously at a controlled speed of 10 to 30 rpm",
+    "Natural Air circulation with double-walled Stainless Steel 304 inner chamber",
+    "Transparent glass viewing window in the door to inspect the chamber"
+  ],
+  "specifications": {
+    "Capacity": "560 Liters (Matched with model)",
+    "Temp Range": "50°C to 200°C (Adjustable ambient to 90°C typical)",
+    "Temperature Accuracy": "± 0.5°C",
+    "Display Resolution": "0.1°C",
+    "Rotor Capacity": "6 Bottles (Size: 30 mm Dia)",
+    "Speed Range": "10 to 30 rpm",
+    "Air Circulation": "Natural Air Circulation",
+    "Inner Chamber Material": "Stainless Steel (SS 304)",
+    "Outer Chamber Material": "M.S. Sheet duly powder coated",
+    "View Window": "Yes",
+    "Power Supply": "230V AC Single Phase, 50 Hz",
+    "Warranty": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/hybridization_oven.glb",
+  "image": "assets/instruments/hybridization_oven.webp",
+  "images": null
+}

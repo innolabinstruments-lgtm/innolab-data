@@ -1,0 +1,38 @@
+{
+  "name": "LAMINAR AIR FLOW (VERTICAL)",
+  "desc": "Premium Benchtop Vertical Laminar Air Flow Cabinet designed to deliver a Class 100 sterile working environment. Fully constructed from high-grade Stainless Steel 316, featuring integrated HEPA filtration with over 99.97% efficiency and a hermetically sealed glass front door.",
+  "features": [
+    "Class 100 sterile working environment",
+    "Main HEPA filter with > 99.97% efficiency at 0.3 μm",
+    "Germicidal UV lamp for complete surface decontamination",
+    "Microprocessor-based control system with LCD/LED display",
+    "Integrated digital pressure gauge with audio-visual alarm"
+  ],
+  "specifications": {
+    "Equipment Function": "Enclosed Sterile Workstation for contamination-free sample handling",
+    "Air Flow Direction": "Vertical Unidirectional Sterile Airflow",
+    "Configuration Type": "Benchtop Model",
+    "Size of Work Top (L×D)": "1500 × 600 mm (Tolerance ±100 mm)",
+    "Height of Work Top": "750 mm (Tolerance ±100 mm)",
+    "Material of Construction": "Premium High-Grade Stainless Steel 316 (SS 316 Enclosure)",
+    "Material of Work Top": "Heavy-Gauge Stainless Steel Grade 316",
+    "Side Panels Structure": "Stainless Steel 316 (LHS & RHS above the work top)",
+    "Front Door Material": "Heavy-Duty Toughened Glass (Hermetically sealed frames)",
+    "Laminar Air Flow Velocity": "0.31 to 0.4 m/s uniform draft",
+    "Air Changes per Hour (ACH)": "240 to 480 ACH for rapid contamination control",
+    "Main HEPA Filter Efficiency": "> 99.97% efficiency at particle size of 0.3 μm",
+    "Pre-Filter System": "Washable Fibre Pre-filter efficient down to 10 microns",
+    "Blower Assembly": "Dynamically balanced centrifugal blower system",
+    "Control System": "Microprocessor-based system with LCD/LED Display",
+    "Illumination System": "High-intensity, glare-free LED Lighting integrated",
+    "Sterilization System": "Germicidal UV Lamp for complete surface decontamination",
+    "Safety Monitoring": "Integrated Digital Pressure Gauge with Audio-Visual Alarm",
+    "Power Supply Requirements": "AC 230V ±10%, Single Phase, 50 Hz",
+    "Warranty Support": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laminar_air_flow_vertical.glb",
+  "image": "assets/instruments/laminar_air_flow_vertical.webp",
+  "images": null
+}

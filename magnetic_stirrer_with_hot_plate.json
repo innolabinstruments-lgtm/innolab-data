@@ -1,0 +1,23 @@
+{
+  "name": "MAGNETIC STIRRER WITH HOT PLATE",
+  "desc": "The INNOLAB INSTRUMENTS Magnetic Stirrer with Hot Plate combines continuous heating and stirring functions into a single robust unit. Ideal for culture media preparation and chemical applications, it features a stainless steel 304 hot plate, thermostatic or digital PID controller, and a precise speed regulator.",
+  "features": [
+    "Combination of magnetic stirrer and hot plate in a single unit",
+    "Durable Stainless Steel 304 heating top",
+    "Precise thermostatic or digital temperature controller",
+    "Adjustable speed regulator for continuous stirring",
+    "Available in 1, 2, and 5 Liters stirring capacities"
+  ],
+  "specifications": {
+    "Temperature": "Up to 200°C",
+    "Stirring Capacity Options": "1 Liter, 2 Liters, 5 Liters",
+    "Plate Material": "SS 304",
+    "Cabinet Material": "Powder coated MS",
+    "RPM Controller": "Speed Regulator",
+    "Power Supply": "220 Volts 50 Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/magnetic_stirrer_with_hot_plate.glb",
+  "image": "assets/instruments/magnetic_stirrer_with_hot_plate.webp",
+  "images": null
+}

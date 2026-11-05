@@ -1,0 +1,30 @@
+{
+  "name": "LAMINAR AIR FLOW (HORIZONTAL)",
+  "desc": "Designed to provide a continuous, uniform stream of ultra-clean filtered air across a minimum 4ft workspace, achieving a strict Class 100 cleanliness level. Equipped with dual-stage filtration (10-micron Pre-filter and 0.3-micron HEPA filter).",
+  "features": [
+    "Strict Class 100 cleanliness level",
+    "Dual-stage filtration with 0.3-micron HEPA filter",
+    "High-intensity Germicidal UV Lamp for automated surface disinfection",
+    "Dynamically balanced blower unit for uniform air velocity",
+    "Heavy-Duty Enclosure with high-grade Stainless Steel work surface"
+  ],
+  "specifications": {
+    "Airflow Configuration": "Horizontal Unidirectional Stream (Laminar Flow UV Chamber layout)",
+    "Working Area Dimensions": "Minimum 4ft (Width) x 2ft (Height) x 2ft (Depth) spacious work zone",
+    "Primary Filtration Stage": "Washable Pre-filter efficient in removing dust particles above 10-micron size",
+    "Secondary Filtration Stage": "High-Efficiency HEPA Filter removing 99.97% of particles down to 0.3 micron size",
+    "Airflow Performance": "Dynamically balanced blower unit ensuring a smooth and uniform air velocity",
+    "Material of Construction": "Heavy-Duty Enclosure with high-grade Stainless Steel work surface",
+    "Front Sash / Door": "Clear view protective screen for easy access and process visibility",
+    "Sterilization System": "High-intensity Germicidal UV Lamp integrated for automated surface disinfection",
+    "Chamber Illumination": "In-built glare-free lighting system for precision analysis activities",
+    "Control Interface": "User-friendly electronic switches for Blower, LED Light, and UV Lamp operation",
+    "Document Submission": "Agreed to furnish all signed TP documents and test reports to buyer on demand",
+    "Warranty Support": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laminar_air_flow_horizontal.glb",
+  "image": "assets/instruments/laminar_air_flow_horizontal.webp",
+  "images": null
+}

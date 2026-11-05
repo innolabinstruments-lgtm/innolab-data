@@ -1,0 +1,42 @@
+{
+  "name": "REFRIGERATED CENTRIFUGE",
+  "desc": "Standard Benchtop Microprocessor-Controlled Refrigerated Centrifuge designed for diverse testing and research laboratories. Equipped with a high-performance brushless motor, dual manual and electronic lid locks, LCD display for real-time parameter tracking, and an advanced CFC-free compressor cooling system operating down to -20°C.",
+  "features": [
+    "High-Torque Brushless Motor (maintenance-free)",
+    "Advanced CFC-free compressor cooling system (down to -20°C)",
+    "Intelligent Rotor Imbalance Diagnostics with Automatic Stop",
+    "Microprocessor-controlled with Digital LCD Display",
+    "Advanced Dual Safety Lid Lock System (Manual and Electronic)"
+  ],
+  "specifications": {
+    "Equipment Purpose": "To centrifuge different kinds of samples in testing and research labs",
+    "Centrifuge Design / Type": "Bench Top Model",
+    "Motor Type": "High-Torque Brushless Motor (Without carbons, maintenance-free)",
+    "Lid Lock Mechanism": "Advanced Dual Safety System (Both Manual and Electronic)",
+    "Rotor Configuration": "Supplied High-Grade Autoclavable Angle Rotor (At 121°C standard)",
+    "Rotor Capacity & Speed": "6 × 50 mL capacity with operational speed up to 13000 RPM",
+    "Maximum RPM (No Load)": "12000 to 15000 RPM or above capability",
+    "Maximum RCF": "14000 g powerful separation force",
+    "Speed Control System": "Microprocessor-controlled pre-programmed speed controller",
+    "Display Interface": "Digital LCD Display screen",
+    "Monitored Parameters": "Continuous display of RPM, RCF, Set Time, Run Time, and Imbalance",
+    "Safety Diagnostics": "Intelligent Rotor Imbalance Diagnostics with Automatic Stop features",
+    "Timer Settings Range": "Programmable from 1 Minute to 9 Hours 59 Minutes",
+    "Cooling Arrangement": "Heavy-Duty Compressor Cooling System",
+    "Refrigerant Type": "100% Eco-Friendly & CFC-Free Refrigerant",
+    "Temperature Control Range": "Fully adjustable from +40°C down to -20°C",
+    "Temperature Controller": "Microprocessor-based PID Digital Temperature Controller cum Indicator",
+    "Temperature Accuracy": "± 2°C tight tolerance control",
+    "Chamber Bowl Material": "Premium Corrosion-Resistant Stainless Steel Bowl with Zinc-Coated Armor Ring",
+    "Outer Body Material": "Heavy-Gauge C.R.C Steel Finish with Protective Powder Coating",
+    "Front Panel / Lid Construction": "High-Impact PC-ABS Plastics & Powder Coated CRC Steel Finish",
+    "Physical Dimensions (W x D x H)": "Compact 300 mm x 300 mm x 300 mm footprint",
+    "Power Supply Requirements": "220 Volts, 50 Hz AC ± 10% (Power consumption: 500 Watts)",
+    "Warranty Cover": "2 Years Comprehensive On-site Manufacturer Warranty for Equipment & Rotor",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/refrigerated_centrifuge.glb",
+  "image": "assets/instruments/refrigerated_centrifuge.webp",
+  "images": null
+}

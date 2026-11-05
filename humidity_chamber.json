@@ -1,0 +1,39 @@
+{
+  "name": "HUMIDITY CHAMBER",
+  "desc": "Premium Double-Walled Laboratory Humidity Chamber engineered for highly precise environmental simulation, climate testing, and stability studies. Features a 100-liter capacity with high-grade Stainless Steel 304 interior and a CFC-free hermetically sealed cooling system.",
+  "features": [
+    "Fully adjustable Temperature Range from +10°C to 70°C",
+    "Wide Humidity Control Range from 10% RH to 95% RH",
+    "Automated Steam Injection Method for rapid ambient mist creation",
+    "Advanced Microprocessor-Based PID Digital Controller Layout",
+    "Hermetically sealed CFC-Free compressor unit (R134a eco-refrigerant)"
+  ],
+  "specifications": {
+    "Volume of Chamber": "100 Liters nominal processing capacity",
+    "Interior Dimensions (W x D x H)": "450 mm x 400 mm x 500 mm (Tolerance compliant)",
+    "Exterior Dimensions (W x D x H)": "600 mm x 1100 mm x 1050 mm industrial footprint",
+    "Inner Chamber Material": "Premium High-Grade Stainless Steel (S.S. 304 Grade)",
+    "Exterior Body Material": "Heavy-Duty Mild Steel (MS) with durable powder-coated finish",
+    "Thermal Insulation Barrier": "70mm thick high-density Polyurethane Foam (PUF) insulation",
+    "Refrigeration & Cooling": "Hermetically sealed CFC-Free compressor unit (R134a eco-refrigerant)",
+    "Humidity Generation System": "Automated Steam Injection Method for rapid ambient mist creation",
+    "Internal Air Circulation": "Quiet running motorized blower system ensuring cross-chamber uniformity",
+    "Temperature Control Range": "Fully adjustable from +10°C to 70°C",
+    "Humidity Control Range": "Wide range operation from 10% RH to 95% RH",
+    "Controller Architecture": "Advanced Microprocessor-Based PID Digital Controller Layout",
+    "Temperature Control Accuracy": "Ultra-precise ± 0.1°C tracking resolution",
+    "Humidity Control Accuracy": "Strict ± 2% RH parameter control stability",
+    "Display Interface Screen": "High-visibility 5-inch digital display panel",
+    "Trays / Storage Shelves": "3 Removable perforated wire-mesh trays made of strong Stainless Steel",
+    "Shelves Load Separation": "Adjustable setup maintaining a standard 15 cm distance between trays",
+    "Chamber Lighting & Safeties": "Fluorescent light with automated door switch and CE compliant wiring",
+    "Integrated Safety Systems": "High-temperature safety cutoff mechanism for absolute system protection",
+    "Target Field Applications": "Plant Growth, Insect Culture, Cosmetics Testing, and Packaging Stability",
+    "Warranty & Quality Compliance": "1 Year Comprehensive Manufacturer Warranty with CE Certification",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/humidity_chamber.glb",
+  "image": "assets/instruments/humidity_chamber.webp",
+  "images": null
+}

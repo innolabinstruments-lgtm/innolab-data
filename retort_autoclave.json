@@ -1,0 +1,32 @@
+{
+  "name": "RETORT AUTOCLAVE",
+  "desc": "The INNOLAB INSTRUMENTS INNO-RXAU-110 Retort Autoclave is a heavy-duty, horizontal industrial sterilizer specifically engineered for the rigorous demands of the food processing and packaging industries. Designed to provide optimal food preservation by eliminating harmful bacteria, it effectively sterilizes retort pouches, cans, and liquid-filled containers.",
+  "features": [
+    "Horizontal Cylindrical design insulated with Aluminum Silicate",
+    "Stainless Steel 304 / 316 OR Carbon Steel material construction",
+    "Microprocessor Based Controller managing semi-automatic operations",
+    "Maximum Working Temperature of 121°C at 0.3 Mpa / 43.5 Psi",
+    "Mechanical Lock with high-temperature Silicone Rubber Seal"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Horizontal Retort Sterilizer",
+    "Vessel Design": "Cylindrical",
+    "Construction Material": "Stainless Steel 304 / 316 OR Carbon Steel",
+    "Insulation Material": "Aluminum Silicate",
+    "Maximum Working Temperature": "121°C",
+    "Design Temperature": "147°C",
+    "Maximum Working Pressure": "0.3 Mpa / 43.5 Psi",
+    "Design Pressure": "0.35 Mpa / 50.8 Psi",
+    "Door Sealing": "Silicone Rubber Seal",
+    "Door Locking Mechanism": "Mechanical Lock",
+    "Operation Mode": "Semi-Automatic (Standard)",
+    "Controller": "Microprocessor Based Controller",
+    "Electrical Power Supply": "415V / 50 Hz Three Phase (or as required)",
+    "Target Applications": "Food Preservation, Retort Pouches, Canned Foods, Mushroom Cultivation",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/retort_autoclave.glb",
+  "image": "assets/instruments/retort_autoclave.webp",
+  "images": null
+}

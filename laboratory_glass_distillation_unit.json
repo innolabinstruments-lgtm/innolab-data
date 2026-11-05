@@ -1,0 +1,28 @@
+{
+  "name": "LABORATORY GLASS DISTILLATION UNIT",
+  "desc": "The INNOLAB INSTRUMENTS Laboratory Glass Distillation Unit is essential for academic research, medical labs, and pharmaceutical facilities requiring high-purity, pyrogen-free distilled water. Fabricated with premium heat-resistant quartz glass and branded spiral heaters, it ensures safe, superior, and continuous water purification. The demountable boiler design makes cleaning and maintenance incredibly easy.",
+  "features": [
+    "Produces highly pure, pyrogen-free distilled water",
+    "Available in Single, Double, and Triple stage configurations",
+    "Constructed with high-quality heat resistant quartz glass (cylinders and tubes)",
+    "Removable quartz spiral heaters connected by screw threads for easy maintenance",
+    "Sturdy, powder-coated mild steel stand for secure mounting",
+    "Optional automatic low water cut-off device for heater safety"
+  ],
+  "specifications": {
+    "Number of Stages": "Available in One or Two Stages",
+    "Output Capacity": "4 Liters Per Hour (LPH)",
+    "Apparatus Material": "Heat-resistant Quartz glass",
+    "Heater Type": "Quartz Spiral heater (1.5 KW or 3 KW)",
+    "Distillate Temperature": "25°C to 40°C",
+    "Output Conductivity": "1.5 - 2.0 μS/cm",
+    "Output pH": "5.5 - 6.0",
+    "Stand Material": "Powder coated MS",
+    "Safety Feature": "Optional Low water cut-off device",
+    "Power Supply": "220 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laboratory_glass_distillation_unit.glb",
+  "image": "assets/instruments/laboratory_glass_distillation_unit.webp",
+  "images": null
+}

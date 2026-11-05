@@ -1,0 +1,39 @@
+{
+  "name": "NON-REFRIGERATED CENTRIFUGE",
+  "desc": "Premium High-Speed Benchtop Microprocessor-Based Non-Refrigerated Laboratory Centrifuge. Features a heavy-duty brushless motor with electronic drive, a 4-line jumbo LCD display for real-time parameter recall, and programmable acceleration/deceleration profiles.",
+  "features": [
+    "High-Capacity RCF up to 28672 'G'",
+    "Programmable Speed Range 500 to 16000 RPM",
+    "Dynamically Balanced Brushless Motor with Maintenance-Free Electronic Drive",
+    "Electronic Lid Lock (auto-opens on stop)",
+    "Multi-Profile Storage system supporting up to 50 user-defined programs"
+  ],
+  "specifications": {
+    "Equipment Type": "High-Speed Benchtop Laboratory Centrifuge Machine (Non-Refrigerated)",
+    "Control System Layout": "Microprocessor-Based System with User-Friendly Control Panel",
+    "Display Type Interface": "Premium 4 Lines, 20 Characters Jumbo LCD Display screen",
+    "Monitored Parameters": "Continuous tracking of Set/Run Time, Set/Run RPM, RCF, and Rotor ID",
+    "Parameter Tuning": "Advanced Rotary Encoder-Based Fast Parameter Setting mechanism",
+    "Motor Drive Assembly": "Dynamically Balanced Brushless Motor with Maintenance-Free Electronic Drive",
+    "Programmable Speed Range": "500 to 16000 RPM (Adjustable in precise intervals of 100 RPM)",
+    "Maximum Separation Force": "High-Capacity RCF up to 28672 'G'",
+    "Rotor Configuration": "Standard Angular Rotor Head Supported",
+    "Lid Safety Mechanism": "Electronic Lid Lock (Prevents opening during run; auto-opens on stop)",
+    "Memory Capacity": "Multi-Profile Storage system supporting up to 50 user-defined programs",
+    "Speed Profiles Control": "Programmable Acceleration & Deceleration Time (15 to 200 Seconds range)",
+    "Braking & Safety": "Intelligent Dynamic Automatic Brake with advanced Coast Feature",
+    "Digital Timer Range": "Integrated digital timer adjustable from 0 to 99 Minutes",
+    "Internal Chamber Material": "Heavy-Gauge Stainless Steel 304 Grade Rust-Free Centrifugal Bowl",
+    "Outer Enclosure Material": "Heavy-Duty Cold Rolled Close (C.R.C.) Steel Finish with Powder Coating",
+    "Operation Mechanics": "Soft Suspension System for smooth, stable, and noiseless operation",
+    "Acoustic Noise Level": "Ultra-Silent Operation (Maximum Noise Level ≤ 54 dB)",
+    "Power Supply & Efficiency": "220-240V AC, 50Hz Single Phase (Max Power Consumption: 200W)",
+    "Internal Power Electronics": "Integrated Delta (Taiwan) VFD and Stabilized SMPS system",
+    "Warranty Support": "1 Year Comprehensive Manufacturer Warranty against manufacturing defects",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/non_refrigerated_centrifuge.glb",
+  "image": "assets/instruments/non_refrigerated_centrifuge.webp",
+  "images": null
+}

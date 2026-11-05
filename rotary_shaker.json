@@ -1,0 +1,47 @@
+{
+  "name": "ROTARY SHAKER",
+  "desc": "Benchtop Microprocessor-Controlled Rotary Shaker engineered for uniform mixing and culture development. Equipped with a maintenance-free Brushless DC motor, stepless frequency speed control ranging from 15 to 525 RPM, and a compact counterbalance drive mechanism for vibration-free stability.",
+  "features": [
+    "15 RPM to 525 RPM highly adjustable scale",
+    "Heavy-Duty Brushless DC Motor (Maintenance-free, long-life)",
+    "Universal platform accommodating assorted conical flasks up to 1000 ml",
+    "Intelligent Auto-Restart feature after power supply resumption",
+    "Includes 25 interchangeable holding clamps (50ml to 1000ml)"
+  ],
+  "specifications": {
+    "Equipment Function": "Mixing and development of cultures, chemicals, solvents, and assays",
+    "Mounting Configuration": "Bench Top Compact Model",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital System",
+    "Motor Drive Assembly": "Heavy-Duty Brushless DC Motor (Maintenance-free, long-life)",
+    "Speed Control Mechanism": "Stepless Frequency Speed Control for smooth acceleration",
+    "Operational Speed Range": "15 RPM to 525 RPM highly adjustable scale",
+    "Shaking Amplitude": "10 mm optimum orbit diameter",
+    "Stability Mechanism": "Compact counter-balance drive mechanism to ensure vibration-free stability",
+    "Platform Configuration": "Universal platform with adjustable rollers/surface to hold interchangeable clamps",
+    "Platform Size Dimensions": "300 mm x 300 mm (Standard 12 × 12 Inches workspace layout)",
+    "Maximum Flask Compatibility": "Accommodates assorted conical flasks up to 1000 ml volume",
+    "Included 50 ml Clamps": "5 Pieces of high-grade Stainless Steel clamps supplied",
+    "Included 100 ml Clamps": "5 Pieces of high-grade Stainless Steel clamps supplied",
+    "Included 250 ml Clamps": "5 Pieces of high-grade Stainless Steel clamps supplied",
+    "Included 500 ml Clamps": "5 Pieces of high-grade Stainless Steel clamps supplied",
+    "Included 1000 ml Clamps": "5 Pieces of high-grade Stainless Steel clamps supplied",
+    "Display Interface Panel": "High-Visibility Digital LED Display",
+    "Monitored Parameters": "Continuous tracking of Speed with preset facility and operational parameters",
+    "Integrated Timer Range": "Digital programmable timer up to 999 Minutes",
+    "Power Resumption Mode": "Intelligent Auto-Restart feature after power supply resumption",
+    "Maximum Batch Volume": "Up to 2 Liters total liquid loading capacity",
+    "Motor Safety Features": "Smart Overload Protection (LED light flash notification with auto-stop function)",
+    "Enclosure Structure Build": "Heavy-Gauge Mild Steel (MS) with industrial protective powder coating",
+    "Physical Dimensions & Weight": "300 mm x 300 mm compact footprint (Net structural weight: 22 Kg)",
+    "Power Supply Requirements": "220 Volts, 50 Hz, Single Phase stable Indian plug setup",
+    "Warranty & Test Reports": "1 Year Comprehensive Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/rotary_shaker.glb",
+  "image": null,
+  "images": [
+    "assets/instruments/rotary_shaker.webp",
+    "assets/instruments/rotary_shaker_02.webp"
+  ]
+}

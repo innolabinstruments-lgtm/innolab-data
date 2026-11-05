@@ -1,0 +1,32 @@
+{
+  "name": "LABORATORY BALL MILL",
+  "desc": "Desktop-Type Laboratory Ball Mill engineered for uniform mixing, particle size reduction, and ultra-fine grinding of diverse chemical powders. Outfitted with an interchangeable SS304 grinding jar supporting a capacity up to 2 kg, driven by a Fractional Horsepower (FHP) motor.",
+  "features": [
+    "Heavy-duty interchangeable structural jar holding up to 2 Kg sample volumes",
+    "Supplied complete with multi-sized high-grade Stainless Steel grinding balls",
+    "Industrial-grade heavy-torque Fractional Horsepower (FHP) continuous motor",
+    "Integrated automated high-accuracy RPM controller adjustment module",
+    "Built-in programmable mechanical/digital Batch Timer tracking from 0 to 60 Minutes"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Benchtop Mechanical Laboratory Ball Mill Workstation",
+    "Primary Process Function": "High-efficiency mixing, micro-grinding, and milling of solids and liquids",
+    "Acceptable Sample Formats": "Versatile processing optimized for dry powders, chemical gels, and liquid matrices",
+    "Grinding Chamber Jar Capacity": "Heavy-duty interchangeable structural jar holding up to 2 Kg sample volumes",
+    "Chamber Contact Material (MOC)": "Premium corrosion-resistant and non-contaminating Stainless Steel (SS304 Grade)",
+    "Grinding Media Infrastructure": "Supplied complete with multi-sized high-grade Stainless Steel grinding balls",
+    "Jar Maintenance Profile": "Ergonomic quick-release configuration that is easily removable and changeable",
+    "Primary Mechanical Drive Engine": "Industrial-grade heavy-torque Fractional Horsepower (FHP) continuous motor",
+    "Velocity Control Framework": "Integrated automated high-accuracy RPM controller adjustment module",
+    "Process Operational Timer": "Built-in programmable mechanical/digital Batch Timer tracking from 0 to 60 Minutes",
+    "Electrical Power Inputs": "Standard 220 Volts AC, 50 Hz, Single Phase stable Indian plug mains connection",
+    "Chassis Structural Build": "High-durability vibration-absorbing structural steel base framing structure",
+    "Target Field Applications": "R and D Laboratories, Pharmacy Formulation, Chemical Assays, and Metallurgy Labs",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on FHP drive motor and speed panel",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laboratory_ball_mill.glb",
+  "image": "assets/instruments/laboratory_ball_mill.webp",
+  "images": null
+}

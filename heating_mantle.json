@@ -1,0 +1,30 @@
+{
+  "name": "HEATING MANTLE",
+  "desc": "1-Liter Laboratory Heating Mantle engineered for uniform thermal heating and safe distillation workflows of round bottom glass flasks. Features a robust aluminum exterior housing and an integrated temperature controller reaching up to 350°C.",
+  "features": [
+    "1 Liter (1000 ml) standard round-bottom flask compliance",
+    "High-grade internal glass-fiber yarn mantle with integrated heating elements",
+    "High thermal capacity reaching up to 350°C",
+    "Robust Rigid Aluminum Casing for maximum strength and even heat distribution",
+    "Integrated analog energy regulator knob for precise temperature control"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Heavy-Duty Laboratory Flask Heating Mantle Workstation",
+    "Flask Storage Capacity": "1 Liter (1000 ml) standard round-bottom flask compliance",
+    "Outer Enclosure Build": "Robust Rigid Aluminum Casing for maximum strength and even heat distribution",
+    "Heating Element Layout": "High-grade internal glass-fiber yarn mantle with integrated heating elements",
+    "Maximum Operational Temp": "High thermal capacity reaching up to 350 degree Celsius",
+    "Power Consumption Scale": "Dynamic 300 Watts to 1800 Watts high-capacity power rating",
+    "Controller Architecture": "Integrated analog energy regulator knob for precise temperature control",
+    "Thermal Performance": "Provides reliable, steady, and uniform heat distribution across the flask surface",
+    "Electrical Power Rating": "220-230 V AC, 50 Hz, Single Phase standard Indian plug configuration",
+    "Target Field Applications": "Distillation, extraction, boiling, and organic synthesis heating in chemistry labs",
+    "Equipment Net Weight": "Ultra-lightweight portable structure weighing exactly 2 Kilograms",
+    "Warranty Cover Protection": "6 Months Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/heating_mantle.glb",
+  "image": "assets/instruments/heating_mantle.webp",
+  "images": null
+}

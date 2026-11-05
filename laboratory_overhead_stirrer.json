@@ -1,0 +1,31 @@
+{
+  "name": "LABORATORY OVERHEAD STIRRER",
+  "desc": "Premium Digital Laboratory Overhead Stirrer engineered for universal mixing and precise fluid agitation. Features a robust, slimline drive unit with an advanced constant power-drive system and dual mechanical speed ranges from 60 to 2,000 RPM.",
+  "features": [
+    "Dual mechanical speed ranges from 60 to 2000 RPM universal use",
+    "Advanced Constant Power-Drive for consistent torque under load",
+    "Push-through agitator shafts design feature (operates when stationary)",
+    "Integrated High-Visibility Digital LED Display",
+    "Ultra-stable lightweight compact footprint weighing exactly 3.1 Kg"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Laboratory Overhead Stirrer (Drive Unit)",
+    "Operational Speed Range": "Dual mechanical speed ranges from 60 to 2000 RPM universal use",
+    "Drive Mechanism System": "Advanced Constant Power-Drive for consistent torque under load",
+    "Display Interface Panel": "Integrated High-Visibility Digital LED Display",
+    "Design & Ergonomics": "Robust, slimline space-saving layout with ergonomic control knobs",
+    "Agitator Shaft Compatibility": "Push-through agitator shafts design feature (operates when stationary)",
+    "Physical Dimensions (W×H×D)": "Compact footprint: 88 mm × 294 mm × 212 mm",
+    "Equipment Net Weight": "Ultra-stable lightweight design weighing exactly 3.1 Kg",
+    "Power Supply Requirements": "Standard 230 V AC, 50-60 Hz, Single Phase stable power input",
+    "Standard Packaging Scope": "Securely packed single piece kit (Pack of 1 Drive Unit)",
+    "Mounting Note Context": "Standard drive unit block (Stand, stirrer tools, and clamps optional)",
+    "Target Field Application": "Universal stirring, viscous fluid mixing, and chemical assay processing",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on the drive assembly",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laboratory_overhead_stirrer.glb",
+  "image": "assets/instruments/laboratory_overhead_stirrer.webp",
+  "images": null
+}

@@ -1,0 +1,41 @@
+{
+  "name": "MOISTURE ANALYZER BALANCE",
+  "desc": "Microprocessor-Controlled High-Precision Digital Moisture Analyzer Balance engineered for rapid and reliable moisture determination. Features a maximum weighing capacity of 200g with an analytical readability of 0.001g, powered by a high-resolution EMFC Monotech sensor.",
+  "features": [
+    "200 g continuous analytical load spectrum layout",
+    "Ultra-precise 0.001 g measurement resolution index",
+    "Integrated rapid Halogen SRA (Smart Radiation Attachment) and reflector",
+    "Internal logging tracking up to 4 User IDs, 40 distinct Methods, 100 Batches",
+    "High-speed integrated RS232, USB, and PS/2 data transfer interfaces"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Benchtop Digital Moisture Analyzer Balance",
+    "Core Measurement Application": "Fast, precise sample moisture determination and solid mass tracking",
+    "Maximum Weighing Capacity": "200 g continuous analytical load spectrum layout",
+    "Analytical Weight Readability": "Ultra-precise 0.001 g measurement resolution index",
+    "Moisture Content Readability": "High-accuracy evaluation fine-tuned down to 0.001%",
+    "Primary Core Sensor Technology": "Brilliant Monotech Electromagnetic Force Compensation (EMFC) Sensor",
+    "System Overload Protection": "Built-in physical mechanical shield against accidental over-capacity loads",
+    "Drying Thermal Heating Source": "Integrated rapid Halogen SRA (Smart Radiation Attachment) and reflector",
+    "Drying Operational Temp Range": "Wide adjustable heating scale spanning from 30°C to 175°C",
+    "Optional Thermal Upgrades": "Structural support configuration reaching up to 250°C heating boundaries",
+    "Thermal Drying Profile Modes": "Versatile profiles: Standard, Gentle, Rapid, Steps, and High Temperature",
+    "Auto Switch-Off Selection Criteria": "Programmable modes: Auto, Manual, Time-based, User-defined weight/time, User-defined %/time, and Intelligent cutoff",
+    "Testing Pan Dimension Layout": "Round circular drying pan measuring exactly Ø 95 mm in diameter",
+    "System Security Parameters": "Multi-level secure Password Protection module against unauthorized changes",
+    "Data Memory Storage Volume": "Internal logging tracking up to 4 User IDs, 40 distinct Methods, 100 Batches, and up to 1000 analytical Results",
+    "Display Panel Dashboard": "Bright backlit Graphical LCD display with wide viewing angle matrices",
+    "Data Synchronization Ports": "High-speed integrated RS232, USB, and PS/2 data transfer interfaces",
+    "Regulatory Framework Quality": "Stamped and fully compliant with GLP (Good Laboratory Practice), GMP, and SOP protocols",
+    "Calibration Diagnostics": "Built-in Real-Time Clock (RTC) for accurate time-stamped testing data log rows",
+    "Enclosure Footprint Dimensions": "Compact laboratory body sizing at 211 mm x 342 mm x 180 mm",
+    "Equipment Net Structural Mass": "Main balance unit net weight tracking at exactly 5 Kg",
+    "Power Supply Requirements": "Universal 230V AC / 50Hz stable single-phase Indian plug configuration",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/moisture_analyzer_balance.glb",
+  "image": "assets/instruments/moisture_analyzer_balance.webp",
+  "images": null
+}

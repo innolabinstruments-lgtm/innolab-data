@@ -1,0 +1,41 @@
+{
+  "name": "LABORATORY REFRIGERATOR",
+  "desc": "Double-Door Laboratory Refrigerator designed for high-capacity, precise climate-controlled storage of biological products within a strict 2°C to 8°C range. Features a massive 1000-liter SS 304 internal chamber with 8 perforated trays and an advanced microprocessor touch display controller.",
+  "features": [
+    "Stable micro-climate control from 2°C to 8°C with ±0.5°C stability",
+    "1000 Liters large-scale laboratory storage capacity",
+    "Microprocessor-Based Digital Touch Display Temperature Controller",
+    "Motorized Forced Air Cooling System for perfect thermal equilibrium",
+    "Integrated USB, Wifi, Ethernet, RS232, and RS485 communication protocols"
+  ],
+  "specifications": {
+    "Equipment Function": "High-precision safe storage of biological products, vaccines, and media reagents",
+    "Chamber Net Capacity": "1000 Liters large-scale laboratory storage capacity",
+    "Operating Temperature Range": "Stable micro-climate control from 2°C to 8°C (±0.5°C stability)",
+    "Temperature Tuning Step": "Micro-adjustment step size down to 0.1°C intervals",
+    "Temperature Uniformity & Accuracy": "Strict control index maintaining ±0.5°C across the entire inner chamber",
+    "Internal Chamber Material": "Premium Corrosion-Resistant Stainless Steel (SS 304 Grade)",
+    "External Enclosure Build": "Heavy-Gauge Mild Steel (MS) structure with durable powder-coated finish",
+    "Door Configuration": "2 Insulated Toughened Glass Doors with heavy-duty key lock system",
+    "Shelves / Trays Structure": "8 Perforated Stainless Steel 304 corrosion-resistant trays included",
+    "Cooling Distribution Method": "Motorized Forced Air Cooling System for perfect thermal equilibrium",
+    "Eco-Refrigerant Specification": "R290 Hydrocarbon Gas (100% Non-CFC, Non-HCFC, Non-HFC green tech)",
+    "Compressor Mechanism": "Heavy-Duty Hermetically Sealed Refrigeration Compressor system",
+    "Insulation Core Barrier": "High-Density Eco-friendly Polyurethane Foam (PUF) insulation",
+    "Controller Architecture": "Microprocessor-Based Digital Touch Display Temperature Controller",
+    "Display Panel Screen": "1-Inch High-Visibility LED screen with interactive parameters",
+    "Mobility Support": "4 Heavy-Duty Lockable Castor Wheels for seamless movement",
+    "Data Connectivity Interface": "Integrated USB, Wifi, Ethernet, RS232, and RS485 communication protocols",
+    "Multi-Point Safety Alarms": "Alerts for Temp deviation, Power/Sensor/Battery failure, Voltage, and Door Ajar",
+    "Acoustic Noise Pressure": "Ultra-silent operational mechanics (Maximum Sound Level ≤ 46 decibels)",
+    "Power Consumption Rate": "High efficiency energy-saving design tracking at just 260 Watts (5-Star)",
+    "Internal Dimensions (W x D x H)": "Spacious layout: 1240 mm x 560 mm x 1560 mm",
+    "Overall Footprint (W x D x H)": "Standard outer frame: 1330 mm x 690 mm x 2080 mm (Net weight: 150 kg)",
+    "Warranty & Quality Cover": "1 Year Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laboratory_refrigerator.glb",
+  "image": "assets/instruments/laboratory_refrigerator.webp",
+  "images": null
+}

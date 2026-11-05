@@ -1,0 +1,41 @@
+{
+  "name": "HORIZONTAL AUTOCLAVE",
+  "desc": "Triple-Walled Cylindrical Horizontal Autoclave engineered for high-capacity sterilization and disinfection of medical instruments. Features a 150-liter inner chamber, radial locking door, inbuilt boiler with low-water cut-off, and an advanced PID microprocessor controller with USB logging.",
+  "features": [
+    "121°C to 135°C highly regulated sterilization footprint at 15-32 PSI",
+    "Triple-Walled Cylindrical Design with full Argon Welding",
+    "Advanced Microprocessor-Based PID Controller with 5-Inch Touchscreen",
+    "Inbuilt Boiler Assembly with low-water cut-off and safety valves",
+    "Integrated USB data port interface with built-in Print Records Facility"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Triple-Walled Horizontal Steam Autoclave",
+    "Chamber Net Capacity": "150 Liters",
+    "Chamber Orientation / Shape": "Cylindrical Design Type with stable heavy-duty chrome-plated MS stand",
+    "Internal Chamber Material": "High-Grade Stainless Steel (SS 304 / SS 316) with full Argon Welding",
+    "Finishing Treatment": "Mirror-finished inner and external surfaces for easy decontamination",
+    "Door Operation Mechanism": "Single Door equipped with heavy-duty Radial Locking safety device",
+    "Door Construction Build": "Robust Chrome-Plated Mild Steel (MS) structure with silicon gasket sealing",
+    "Operational Temp Range": "121°C to 135°C highly regulated sterilization footprint",
+    "Working Pressure Scale": "15 to 32 PSI optimized pressure control range",
+    "Hydraulic Safety Test": "Minimum hydraulic pressure tested up to 40 PSI for structural integrity",
+    "Primary Heating Source": "High-Efficiency Immersion Heaters (Nickel Chromium Plated Copper Tubes)",
+    "Inbuilt Boiler Assembly": "Equipped with water inlet/outlet valves, water level glass window, and safety valve",
+    "Controller Architecture": "Advanced Microprocessor-Based PID Temperature and Pressure Controller",
+    "Display Interface Screen": "Premium 5-Inch or larger high-visibility Digital LCD/LED/TFT Display",
+    "Pressure Release Automation": "Automated auto-release of pressure through solenoid / pneumatic valves",
+    "Manual Safety Overrides": "Independent manual pressure release valves for both chamber and jacket",
+    "Secondary Safety Overrides": "Spring-loaded safety valves for excess pressure inside jacket and steam generator",
+    "Post-Process Features": "Integrated Multiport Valve with active provision for complete Vacuum Drying",
+    "Chamber Condensate Line": "Heavy-duty line fitted with high-efficiency steam trap and check valve",
+    "System Security Controls": "Intelligent Low Water Cut-Off mechanism to prevent heater burnout",
+    "Data Auditing Interfaces": "Integrated USB data port interface with built-in Print Records Facility",
+    "Power Supply Requirements": "220V Single Phase / 440V Three Phase, 50-60 Hz Industrial Link",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on complete system",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/horizontal_autoclave.glb",
+  "image": "assets/instruments/horizontal_autoclave.webp",
+  "images": null
+}

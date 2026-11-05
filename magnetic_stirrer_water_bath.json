@@ -1,0 +1,28 @@
+{
+  "name": "MAGNETIC STIRRER WATER BATH",
+  "desc": "The INNOLAB INSTRUMENTS Magnetic Stirrer Water Bath is an advanced workstation used heavily in chemical synthesis and biology laboratories. It allows researchers to simultaneously heat and independently stir multiple flasks. Integrating magnetic drive points beneath the stainless steel water tank, it offers an elegant solution for synchronized, contamination-free mixing during precise incubation procedures.",
+  "features": [
+    "Combination of water bath and magnetic stirrer in a single unit",
+    "Available in single and multi-position models (1, 4, 8, or 12 stations)",
+    "Uniform temperature distribution via internal DC motor driven circulation",
+    "Stainless steel spring-loaded clamps to securely hold conical flasks",
+    "Precise temperature and RPM speed control with digital displays",
+    "Supplied with Teflon coated magnetic stir bars"
+  ],
+  "specifications": {
+    "Number of Stations": "Available in 1, 4, 8, and 12 station models",
+    "Flask Volume Capacity": "250mL to 2000mL (Depending on model)",
+    "Temperature Range": "Ambient+10ºC to 100ºC",
+    "Stirrer Type": "Magnetic stirrer with magnetic bar",
+    "Stirrer Speed": "Up to 1200 RPM controlled by speed regulator",
+    "Inner Water Circulation": "DC motor driven stirrer / magnetic pump",
+    "Inner Tank Material": "Corrosion resistant Stainless Steel 304",
+    "Lid Material": "Stainless steel 304 lid",
+    "Outer Body": "Powder coated MS (Optional SS 304)",
+    "Power Supply": "220V/50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/magnetic_stirrer_water_bath.glb",
+  "image": "assets/instruments/magnetic_stirrer_water_bath.webp",
+  "images": null
+}

@@ -1,0 +1,35 @@
+{
+  "name": "MUFFLE FURNACE",
+  "desc": "Premium Heavy-Duty Laboratory Muffle Furnace designed for high-temperature thermal processing, ashing, and material testing up to 1200°C. Features a 13-liter internal capacity, built with high-grade Kanthal A1 heating elements and a highly responsive R-Type thermocouple.",
+  "features": [
+    "100°C to 1200°C high-temperature capability",
+    "Premium Grade Kanthal A1 High-Temperature Resistance Wires",
+    "Heavy-Duty R-Type Thermocouple for accurate thermal tracking",
+    "Advanced Microprocessor-Based PID Digital Controller Layout",
+    "Double-walled structure with high-grade ceramic fiberboard insulation"
+  ],
+  "specifications": {
+    "Equipment Type": "High-Temperature Laboratory Muffle Furnace",
+    "Chamber Internal Volume": "13 Liters optimized processing capacity",
+    "Inner Chamber Dimensions": "12 Inch (Length) x 8 Inch (Width) heavy-duty operational layout",
+    "Maximum Temperature Range": "100°C to 1200°C high-temp capability",
+    "Continuous Operating Temp": "100°C to 1100°C stable long-run operations",
+    "Temperature Control Accuracy": "Precise ± 5°C safety margin control",
+    "Heating Element Technology": "Premium Grade Kanthal A1 High-Temperature Resistance Wires",
+    "Thermocouple Sensor Type": "Heavy-Duty R-Type Thermocouple for accurate thermal tracking",
+    "Controller Architecture": "Advanced Microprocessor-Based PID Digital Controller Layout",
+    "Display Interface Screen": "High-Visibility Bright Digital LED Display",
+    "Safety Integration Features": "Built-in High-Pitch Audible Alarm System for process alerts",
+    "Profile Programming": "Standard Fixed-Set PID Control (Non-Profile Programmable Model)",
+    "Chamber Construction": "Double-walled structure with high-grade ceramic fiberboard insulation",
+    "Power & Electrical Phase": "Triple Phase stable power connection configuration (440V compatible)",
+    "Enclosure Outer Body Material": "Heavy-gauge Cold Rolled Steel with heat-resistant epoxy powder coating",
+    "Calibration Documents": "Standard manufacturer test report provided (NABL report on demand)",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty from date of supply",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/muffle_furnace.glb",
+  "image": "assets/instruments/muffle_furnace.webp",
+  "images": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PLASMA THAWING BATH",
+  "desc": "The INNOLAB INSTRUMENTS Plasma Thawing Bath is a highly critical clinical instrument used exclusively in blood banks and hospital trauma centers. It is designed to safely and rapidly thaw Fresh Frozen Plasma (FFP) and cryoprecipitate bags. Engineered to maintain a constant 37°C with an internal centrifugal water circulation pump, it preserves coagulation factors, ensuring immediate patient readiness with a rapid thaw time of 20-25 minutes.",
+  "features": [
+    "Maintains constant critical temperature at 37°C with ±0.5°C accuracy",
+    "Rapid thaw time of approximately 20 to 25 minutes",
+    "Centrifugal water circulation pump for unmatched temperature uniformity",
+    "In-built programmable timer with an END process alert buzzer",
+    "Includes a removable Stainless Steel tray to securely hold plasma bags",
+    "Designed for continuous operation with low energy consumption"
+  ],
+  "specifications": {
+    "Volume Options": "20 Liters and 40 Liters",
+    "Bag Capacity": "Up to 15 bags (300 ml) or 12 bags (450 ml)",
+    "Temperature Range": "37°C to 56°C",
+    "Temperature Accuracy": "±0.5°C (Resolution ±0.1°C)",
+    "Temperature Controller": "PID controller with in-built timer & buzzer",
+    "Shaking/Circulation": "Centrifugal water circulation pump",
+    "Inner Tank": "Stainless steel 304",
+    "External Cabinet": "Powder coated GI sheet",
+    "Average Thaw Time": "20 minutes",
+    "Power Supply": "220 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/plasma_thawing_bath.glb",
+  "image": "assets/instruments/plasma_thawing_bath.webp",
+  "images": null
+}

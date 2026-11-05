@@ -1,0 +1,37 @@
+{
+  "name": "OZONE TEST CHAMBER",
+  "desc": "PLC-Controlled Environmental Ozone Test Chamber engineered for accelerated rubber degradation testing and polymer aging evaluation. Features a spacious 500-liter internal working volume fabricated from corrosion-resistant SS304 and a controlled temperature range up to 80°C.",
+  "features": [
+    "500 Litre spacious high-capacity test chamber containment",
+    "Dynamic ozone control indexing from 0 to 500 pphm",
+    "Advanced Microprocessor-Based Programmable Logic Controller (PLC)",
+    "High-efficiency reciprocating specimen movement tracking loops",
+    "Premium industrial-grade high-stability Emerson cooling compressor array"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Industrial Environmental Ozone Test Chamber",
+    "Primary Process Function": "Accelerated durability tracking of elastomers, polymers, and rubber coatings",
+    "Internal Volume Capacity": "500 Litre spacious high-capacity test chamber containment",
+    "Ozone Concentration Range": "Dynamic control indexing from 0 to 500 pphm (parts per hundred million)",
+    "Thermal Operating Range": "Controlled temperature spectrum from Room Temperature up to 80 degrees C",
+    "Thermal Refrigeration Engine": "Premium industrial-grade high-stability Emerson cooling compressor array",
+    "Test Environment Type": "Specialized Static testing framework with continuous concentration tracking",
+    "Specimen Dynamic Movement": "High-efficiency reciprocating specimen movement tracking loops",
+    "Inner Chamber Build Material": "High-grade corrosion-proof polished Stainless Steel (SS304 Grade)",
+    "Outer Structure Build Material": "Heavy-duty rugged industrial Steel frame with protective coat finish",
+    "Primary Controller Architecture": "Advanced Microprocessor-Based Programmable Logic Controller (PLC)",
+    "Gas Distribution System": "Integrated inlet feed gas pressure regulation valve mechanics",
+    "Measurement Parameter Unit": "Direct software selection toggle between Degree scales or ppm metrics",
+    "Mechanical Mechanical Stroke": "Full Stroke mechanism support for automated test cycles",
+    "Equipment Handling Class": "Offered as brand-new factory-certified system layouts only",
+    "Electrical Power Inputs": "Standard 220 V AC, 50 Hz, Single Phase stable electrical line link",
+    "Enclosure Sizing Matrices": "Tailored footprint dimensions customized based on application floor space",
+    "Target Application Fields": "Pharmaceutical Testing, Scientific Research, Automotive Rubber, and Polymers",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on PLC and compressor",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/ozone_test_chamber.glb",
+  "image": "assets/instruments/ozone_test_chamber.webp",
+  "images": null
+}

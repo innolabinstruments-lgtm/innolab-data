@@ -1,0 +1,41 @@
+{
+  "name": "LYOPHILIZER",
+  "desc": "Premium Floor-Standing Laboratory Freeze Dryer (Lyophilizer) engineered for high-performance sublimation and sample preservation. Features a 6-liter ice-condensing capacity with an ultra-low condenser cooling threshold reaching down to -80°C and a 7-inch interactive color touchscreen display.",
+  "features": [
+    "6 Litre volumetric vapor trapping collection capacity",
+    "Ultra-low thermal cooling performance reaching down to -80°C",
+    "7 Inch large color interactive Touch Screen Display panel",
+    "Real-time integrated dynamic graphing array for drying cycle analysis",
+    "High-efficiency automated Electric Heating defrost system"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Floor Standing Laboratory Freeze Dryer (Lyophilizer)",
+    "Primary Process Mechanism": "Cold trap sublimation drying for biological sample preservation",
+    "Ice Condenser Capacity": "6 Litre volumetric vapor trapping collection capacity",
+    "Condenser Temperature Threshold": "Ultra-low thermal cooling performance reaching down to minus 80 degree C",
+    "Control System Architecture": "Microprocessor-based automated process optimization core",
+    "User Operator Interface": "7 Inch large color interactive Touch Screen Display panel",
+    "Visual Process Monitoring": "Real-time concurrent tracking display of condenser temp, sample temp, and vacuum level",
+    "Data Visualization Engine": "Real-time integrated dynamic graphing array for drying cycle analysis",
+    "Vacuum Regulation Control": "High-precision interactive Vacuum Control functionality integration",
+    "Pressure Tracking Tools": "Integrated industrial-grade high-precision vacuum gauge system",
+    "Calibration Diagnostics": "Built-in vacuum and temperature software correction loops for long-term accuracy",
+    "Defrosting Operational Mode": "High-efficiency automated Electric Heating defrost system",
+    "Power Supply Safeguards": "Intelligent Power-off Auto-recovery function with user-defined restart timers",
+    "Operational Protection Alarms": "Comprehensive multi-parameter built-in audio-visual alarms preventing mis-operation",
+    "Pump Operational Safety": "Programmable automated vacuum pump start/stop link based on condenser temperature",
+    "Environmental Pump Accessory": "High-performance integrated Oil Mist Filter assembly safeguarding indoor air",
+    "Door Assembly Architecture": "Heavy-duty Single Door structural compression lock layout",
+    "Chassis Fabrication Material": "Industrial-grade heavy-gauge Mild Steel (MS) rigid chassis shell",
+    "Mobility Infrastructure": "Ultra-smooth industrial caster wheels with dedicated foot locking stability jacks",
+    "Total Electrical Power Load": "Optimized electrical footprint drawing up to 2 kW peak consumption",
+    "Electrical Power Inputs": "Standard 230 V AC, 50 Hz, Single Phase stable electrical connection",
+    "Target Application Fields": "Molecular Biology, Vaccine Production, Pathology Labs, and Pharma R and D",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on compressor and vacuum loop",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/lyophilizer.glb",
+  "image": "assets/instruments/lyophilizer.webp",
+  "images": null
+}

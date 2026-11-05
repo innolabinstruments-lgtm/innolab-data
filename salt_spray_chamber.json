@@ -1,0 +1,38 @@
+{
+  "name": "SALT SPRAY CHAMBER",
+  "desc": "Digital Laboratory Salt Spray Corrosion Test Chamber engineered for accelerated corrosion resistance analysis in strict compliance with ASTM B-117. Completely constructed from heavy-duty, anti-corrosive high impact PVC material.",
+  "features": [
+    "Certified full compliance parameters matching international ASTM B-117 protocols",
+    "100% Heavy-Duty Anti-Corrosive High-Impact Industrial PVC sheets construction",
+    "Heavy moisture saturation operational profile holding ≥ 85% RH",
+    "Precision mist regulation holding within 0.5 to 2.0 ml per 80 cm square area per hour",
+    "Integrated digital process timer up to 999 hours supporting cyclical atomization"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Digital Laboratory Salt Spray Corrosion Test Chamber",
+    "Primary Testing Function": "Accelerated evaluation of anti-corrosion tracking for metals and surface coatings",
+    "Regulatory Standards Compliance": "Certified full compliance parameters matching international ASTM B-117 protocols",
+    "Chamber Volumetric Scope": "Versatile capacity scale handling standard 108 to 600 Litres load matrices",
+    "Baseline Chamber Working Volume": "Optimized standard inner workspace layout sizing at 600 × 450 × 400 mm",
+    "Supported Test Methodologies": "Versatile processing modes: Salt Spray (SS), NSS, ASS, and advanced CASS modes",
+    "Chassis Construction Material": "100 percent Heavy-Duty Anti-Corrosive High-Impact Industrial PVC sheets",
+    "Thermal Operating Range": "Controlled heating environment working from Ambient up to 60 degrees C",
+    "Temperature Fluctuation Index": "Ultra-precise micro-stabilization calibrated at plus or minus 0.5 degrees C",
+    "Thermal Uniformity Factor": "Consistent multi-position structural equilibrium within plus or minus 2.0 degrees C",
+    "Chamber Relative Humidity index": "Heavy moisture saturation operational profile holding greater than or equal to 85 percent RH",
+    "Salt Mist Atomization Modes": "Flexible continuous atomization or programmable cyclical execution paths",
+    "Salt Spray Deposition Rate": "Precision mist regulation holding within 0.5 to 2.0 ml per 80 cm square area per hour",
+    "Primary Thermal Tracking Sensor": "Industrial-grade high-precision PT100 RTD feedback sensor assembly",
+    "Chamber Clearance Mechanism": "Built-in high-efficiency automated internal pneumatic Defog Function",
+    "Process Sequence Controller": "Advanced Microprocessor-Based Digital Controller panel interface",
+    "Integrated Process Timer": "Precise digital tracking clock programmable from 0 to 999 Hours maximum",
+    "Electrical Power Options": "Standard Single Phase 220V 50Hz line or Industrial Three Phase 380V 50Hz line",
+    "Target Field Applications": "Metallurgical Quality Control, Automotive Finishing, Electronics, and Coating Labs",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on core heating and atomizers",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/salt_spray_chamber.glb",
+  "image": "assets/instruments/salt_spray_chamber.webp",
+  "images": null
+}

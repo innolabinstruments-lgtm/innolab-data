@@ -1,0 +1,34 @@
+{
+  "name": "ROTARY VACUUM EVAPORATOR",
+  "desc": "Industrial-Scale Rotary Vacuum Evaporator engineered for high-efficiency solvent recovery and vacuum drying. Features a massive 100-liter processing capacity built with premium Borosilicate Glass components and a high-efficiency vertical condenser.",
+  "features": [
+    "Massive 100 Liters multi-application storage layout (Pilot Plant Model)",
+    "Premium High-Grade Heavy-Wall Borosilicate Glass components",
+    "Heavy-Duty Vertical Condenser for optimum solvent recovery rates",
+    "Analog Micro-Adjustable Temperature Control interface (20°C to 180°C)",
+    "Dual independent over-temperature safety cutout protection devices"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Industrial-Scale Rotary Vacuum Evaporator Assembly (Pilot Plant Model)",
+    "Chamber Processing Capacity": "Massive 100 Liters multi-application storage layout",
+    "Condenser Geometry Type": "Heavy-Duty Vertical Condenser for optimum solvent recovery rates",
+    "Glass Hardware Construction": "Premium High-Grade Heavy-Wall Borosilicate Glass components",
+    "Heating Bath Temp Range": "Wide operational thermal control 20 to 180 Degree",
+    "Control System Architecture": "Analog Micro-Adjustable Temperature Control interface",
+    "Primary Process Mechanism": "Thin film evaporation across large surface area via uniform heat transfer",
+    "Vacuum Performance Focus": "Sealing systems engineered specifically for high continuous vacuum operations",
+    "Safety Integration Cutouts": "Dual independent over-temperature safety cutout protection devices",
+    "Physical Safety Features": "Heavy-duty protection hood for the oil/water heating bath and rotating flask",
+    "Target Field Applications": "Vacuum drying of wet solids, degassing of liquids, and solvent recovery",
+    "Operational Versatility": "Supports both batch and continuous extraction operations under pressure",
+    "Flask Customization Scope": "Adaptable configuration supporting interchangeable evaporation flask volumes",
+    "Electrical Power Line": "220 V, 50-60 Hz Single Phase / Three Phase flexible industrial link",
+    "System Distillation Index": "High distillation rates with maximum purity of distillate/recovered solvent",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on full drive and bath framework",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/rotary_vacuum_evaporator.glb",
+  "image": "assets/instruments/rotary_vacuum_evaporator.webp",
+  "images": null
+}

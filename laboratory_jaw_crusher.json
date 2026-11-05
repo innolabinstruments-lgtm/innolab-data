@@ -1,0 +1,28 @@
+{
+  "name": "LABORATORY JAW CRUSHER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-JC-J200E Laboratory Jaw Crusher is an indispensable primary crushing unit used in geology, mining, and metallurgy laboratories. It is engineered to forcefully and quickly break down hard, brittle rocks, ores, ceramics, cement, and glass into smaller, manageable pieces for further analytical preparation.",
+  "features": [
+    "Zero point adjustment feature for precise gap setting",
+    "Models available with final fineness < 2mm and < 0.5mm",
+    "Removable anti-splash feed hopper for easy sample loading",
+    "Powerful industrial drive with in-built overload protection",
+    "Choice of jaw plates: Manganese steel, Stainless steel, Tungsten carbide, Zirconium oxide"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Primary Laboratory Jaw Crusher",
+    "Feed Size": "<90mm or <40mm (Model Dependent)",
+    "Final Fineness": "<2mm or <0.5mm (Model Dependent)",
+    "Speed": "690 rpm / 500-1000 rpm (Model Dependent)",
+    "Gap Setting": "0 - 30mm / 0 - 11mm (Zero point adjustment included)",
+    "Collector Capacity": "3L / 5L",
+    "Jaw Plate Material Options": "Manganese steel, Stainless steel, Tungsten carbide, Zirconium oxide",
+    "Rated Power": "1.1 KW / 2.2 KW",
+    "Power Supply": "220 Volts 50Hz / 415V 50Hz",
+    "Target Applications": "Geology, Mining, Metallurgy, Cement, and Coal analysis",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/laboratory_jaw_crusher.glb",
+  "image": "assets/instruments/laboratory_jaw_crusher.webp",
+  "images": null
+}

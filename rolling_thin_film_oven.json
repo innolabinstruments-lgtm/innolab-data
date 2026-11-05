@@ -1,0 +1,34 @@
+{
+  "name": "ROLLING THIN FILM OVEN",
+  "desc": "Automatic Rolling Thin Film Oven (RTFOT) engineered to simulate the short-term aging (STA) of bituminous binders under continuous rotation in strict compliance with AASHTO T240 standards. Features an 8-bottle testing capacity layout operating at a precision-controlled rotation speed of 20 RPM.",
+  "features": [
+    "Full operational compliance with international AASHTO T240 protocols",
+    "8 Bottles carousel carrier containment wheel setup",
+    "High-stability fixed performance tracking at exactly 20 RPM velocity",
+    "Specialized integrated Vertical Down Airflow circulation system",
+    "Constant hot-zone thermal tracking baseline managed up to 180°C"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Automatic Rolling Thin Film Oven (RTFOT) Chamber",
+    "Primary Testing Application": "Simulation profiling of Short-Term Aging (STA) parameters of bituminous binders",
+    "Regulatory Standards Compliance": "Certified full operational compliance with international AASHTO T240 protocols",
+    "Testing Bottle Capacity": "8 Bottles carousel carrier containment wheel setup",
+    "Carriage Wheel Rotation Speed": "High-stability fixed performance tracking at exactly 20 RPM velocity",
+    "Maximum Test Temperature Scale": "Constant hot-zone thermal tracking baseline managed up to 180°C",
+    "Primary Controller Architecture": "Advanced high-accuracy Digital PID Temperature Controller assembly",
+    "Convection Air-Flow Direction": "Specialized integrated Vertical Down Airflow circulation system",
+    "Automation Grade Engine": "Fully Automatic micro-stabilized heating and rotational cycle execution",
+    "Door Structural Assembly": "Heavy-insulated Single Door layout fitted with clear thermal inspection glass",
+    "Chassis Structural Material": "Industrial-grade heavy-gauge Mild Steel (MS) rigid structural body shell",
+    "Chassis Surface Protection": "Premium chemical-resistant anti-corrosion protective powder coated finish",
+    "Thermal Insulation Barrier": "High-density specialized multi-layer structural insulation blanket wrap",
+    "Electrical Power Inputs": "Standard 220-240 V AC, 50 Hz, Single Phase stable Indian plug configuration",
+    "Target Field Applications": "Highway Construction Testing, Asphalt Refineries, and Pavement Quality Engineering",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on core PID and rotation system",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/rolling_thin_film_oven.glb",
+  "image": "assets/instruments/rolling_thin_film_oven.webp",
+  "images": null
+}

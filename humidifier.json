@@ -1,0 +1,33 @@
+{
+  "name": "HUMIDIFIER",
+  "desc": "Fully Automatic Large-Capacity Ultrasonic Humidifier engineered to optimize micro-climates in greenhouse and horticultural environments. Features a 13-liter tank delivering 6 liters/hour mist output, driven by an energy-efficient 500W ultrasonic transducer.",
+  "features": [
+    "High-volume mist output tracking at 6 Liters per hour",
+    "High-frequency Ultrasonic Transducer producing Ultra-fine Cool Mist",
+    "Powerful cross-chamber distribution covering up to 500 sq ft",
+    "Advanced digital Relative Humidity (RH) sensors built-in",
+    "Fully Automatic with intelligent micro-climate monitoring"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Heavy-Duty Industrial Agricultural Ultrasonic Humidifier",
+    "Operation Automation Grade": "Fully Automatic with intelligent micro-climate monitoring",
+    "Integrated Tank Capacity": "13 Liters large volume water reservoir",
+    "Humidification Capacity": "High-volume mist output tracking at 6 Liters per hour",
+    "Effective Coverage Area": "Powerful cross-chamber distribution covering up to 500 sq ft",
+    "Mist Generation Technology": "High-frequency Ultrasonic Transducer (Ultra-fine Cool Mist)",
+    "Thermal Variance Factor": "Cool mist projection with absolute zero heat generation",
+    "Mist Outlets Configuration": "Dual (2 Outlets) directional mist distribution network",
+    "Climate Sensor Assembly": "Advanced digital Relative Humidity (RH) sensors built-in",
+    "Power Consumption Rate": "High-efficiency green technology consuming just 500 Watts",
+    "Enclosure Structure Build": "Corrosion-proof and weather-resistant industrial grade housing",
+    "Acoustic Noise Index": "Ultra-silent uniform misting operation to protect the ecosystem",
+    "Target Field Applications": "Commercial Greenhouses, Botanical Nurseries, and Horticulture",
+    "Power Supply Requirements": "Standard 230 V AC, 50 Hz, Single Phase stable Indian plug link",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete system",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/humidifier.glb",
+  "image": "assets/instruments/humidifier.webp",
+  "images": null
+}

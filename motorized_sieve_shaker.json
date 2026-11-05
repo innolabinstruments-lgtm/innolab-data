@@ -1,0 +1,29 @@
+{
+  "name": "MOTORIZED SIEVE SHAKER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-MSS-65 Motorized Sieve Shaker (Gyratory) is a heavy-duty, floor-mounted grading unit used primarily in mining, metallurgy, and industrial quality control labs. It is designed to impart a steady circular and tapping motion, ensuring reliable and rapid segregation of heavy, granular batch samples.",
+  "features": [
+    "Imparts a smooth Gyratory (circular and tapping) mechanical motion",
+    "Rugged heavy gauge mild steel construction mounted on a cast iron base",
+    "Can hold up to 6 test sieves mounted securely on helical springs",
+    "Driven by a robust ¼ HP geared motor mechanism",
+    "Integrated mechanical timer (up to 60 mins) and vibration speed regulator"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Heavy-Duty Motorized (Gyratory) Sieve Shaker",
+    "Housing Material": "Heavy gauge mild steel powder coated on cast iron base",
+    "Test Sieves Supported": "8 x 2 inch OR 12 x 2 inch (Dia. x Height)",
+    "Maximum Number of Sieves": "6 Sieves",
+    "Motor Power": "¼ HP",
+    "Vibration Control": "Speed regulator",
+    "Timer": "Mechanical timer up to 60 minutes (Digital optional)",
+    "Standard Fittings": "Clamps and steel rods",
+    "Power Supply": "220 Volts 50Hz",
+    "Target Applications": "Segregation of heavy granular materials in Mining & Metallurgy",
+    "Optional Upgrades": "Brass or SS test sieves with Lid & Pan, Digital Timer",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/motorized_sieve_shaker.glb",
+  "image": "assets/instruments/motorized_sieve_shaker.webp",
+  "images": null
+}
