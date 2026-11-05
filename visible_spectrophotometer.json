@@ -1,0 +1,30 @@
+{
+  "name": "VISIBLE SPECTROPHOTOMETER",
+  "desc": "Benchtop Digital Visible Spectrophotometer engineered for routine photometric analysis, quantitative chemical assays, and quality control processing. Features a compact, highly portable single beam optical layout optimized for the visible spectrum range with a built-in USB data output port.",
+  "features": [
+    "High-stability Single Beam optical topology pathway",
+    "Quantitative tracking of Transmittance (%T), Absorbance (A), and Concentration (C)",
+    "High-Visibility integrated Digital Display dashboard panel",
+    "Built-in high-speed USB Interface Port for direct computer alignment",
+    "Highly compact, lightweight, and Portable benchtop configuration"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Benchtop Digital Visible Spectrophotometer Unit",
+    "Optical System Design": "High-stability Single Beam optical topology pathway",
+    "Application Spectrum Class": "Specialized Visible spectrum optical analysis framework",
+    "Display Panel Architecture": "High-Visibility integrated Digital Display dashboard panel",
+    "Data Output Connectivity": "Built-in high-speed USB Interface Port for direct computer alignment",
+    "Mobility Layout Profile": "Highly compact, lightweight, and Portable benchtop configuration",
+    "Measurement Modes": "Quantitative tracking of Transmittance (%T), Absorbance (A), and Concentration (C)",
+    "Control Interface Panel": "Tactile user-friendly buttons for smooth zeroing and blanking runs",
+    "Chassis Housing Build": "Rugged, chemical-resistant laboratory-grade outer enclosure framework",
+    "Target Field Applications": "Industrial Quality Control, Academic Research, and Clinical Laboratories",
+    "Power Supply Requirements": "Standard 220-230 V AC, 50 Hz, Single Phase stable Indian plug connection",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/visible_spectrophotometer.glb",
+  "image": "assets/instruments/visible_spectrophotometer.webp",
+  "images": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "SINGLE TANK ULTRASONIC CLEANER",
+  "desc": "The INNOLAB INSTRUMENTS Single Tank Ultrasonic Cleaner is an industrial-grade washing system crafted with CNC and laser-cut stainless steel 304. Designed for rugged applications, it features adjustable ultrasonic power, a 0-99 hours timer, and advanced temperature controls.",
+  "features": [
+    "Industrial grade construction with thick gauge SS 304 sheets",
+    "Digital temperature controller (35°C to 95°C) and digital timer (0 to 99 hours)",
+    "Adjustable ultrasonic power regulator",
+    "CNC and laser cut fabrication for excellent metal finishing",
+    "Includes a stainless steel wire mesh basket"
+  ],
+  "specifications": {
+    "Volume Options": "38 Liters to 360 Liters",
+    "Ultrasonic Frequency": "40 KHz",
+    "Temperature Range": "35°C to 95°C",
+    "Timer Range": "0 to 99 hours",
+    "Construction": "Stainless steel 304",
+    "Power Supply": "220 Volts or 415 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/single_tank_ultrasonic_cleaner.glb",
+  "image": "assets/instruments/single_tank_ultrasonic_cleaner.webp",
+  "images": null
+}

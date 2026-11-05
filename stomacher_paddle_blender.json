@@ -1,0 +1,31 @@
+{
+  "name": "STOMACHER PADDLE BLENDER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-SPB-8S Stomacher Paddle Blender is a standard instrument used in food microbiology, clinical, and environmental testing labs. It is used to mechanically extract bacteria and microorganisms from solid food or clinical samples inside a sterile plastic bag. The paddles apply pressure without direct contact, completely eliminating cross-contamination risks.",
+  "features": [
+    "Designed for 3 to 400ml sample volumes inside sterile bags (17x30 cm)",
+    "Color touch screen LCD controller display with 3 Segments programming",
+    "Adjustable panting speed (3 – 12 times / second) and spacing (0 – 50mm)",
+    "Stainless steel door with toughened glass load & unload window",
+    "Automatic stop and anti-pinch safety functions"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Laboratory Stomacher / Paddle Blender",
+    "Volume": "3 – 400 ml",
+    "Controller": "Microprocessor based controller, 3 Segments programming",
+    "Display": "LCD Display",
+    "Panting Time": "0.1 – 99 min 59 sec / continuous working",
+    "Panting Speed": "3 – 12 times / second",
+    "Panting Spacing": "0 – 50mm (adjustable)",
+    "Sterile Bag Size": "17 x 30 cm",
+    "Housing Material": "Steel with powder coated paint",
+    "Window": "Load & unload window w/ toughened glass door",
+    "Safety Functions": "Automatic stop, anti-pinch, pause function",
+    "Power Supply": "220 Volts 50Hz",
+    "Target Applications": "Microbiological Extraction from Food, Water, Soil, and Clinical Specimens",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/stomacher_paddle_blender.glb",
+  "image": "assets/instruments/stomacher_paddle_blender.webp",
+  "images": null
+}

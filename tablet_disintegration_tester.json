@@ -1,0 +1,40 @@
+{
+  "name": "TABLET DISINTEGRATION TESTER",
+  "desc": "Pharmacopoeia-Compliant Double-Basket Digital Tablet Disintegration Test Apparatus engineered for automated disintegration time evaluation. Features a dual basket configuration driven by a stable 30 RPM mechanical drive and a PID temperature controller utilizing dual stainless steel PT-100 sensors.",
+  "features": [
+    "Full structural compliance with IP, USP, and BP pharmacopoeia protocols",
+    "2 Station assembly managing Double Basket setup (2 × 6 test tubes matrix)",
+    "High-stability fixed speed tracking at 30 strokes per minute (30 RPM)",
+    "Auto lift-up mechanism parking both baskets at top position upon test completion",
+    "Microprocessor preset countdown timer from 00.01 to 99.59 Hours with audio alarm"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Pharmacopoeia Grade Double Basket Digital Tablet Disintegration Tester",
+    "Regulatory Test Standards": "Full structural compliance with IP, USP, and BP pharmacopoeia protocols",
+    "Basket Station Capacity": "2 Station assembly managing Double Basket setup (2 × 6 test tubes matrix)",
+    "Primary Measuring Metric": "Automated high-accuracy calculation of tablet disintegration timelines",
+    "Mechanical Tapping Speed": "High-stability fixed speed tracking at 30 strokes per minute (30 RPM)",
+    "Stroke Linear Displacement": "Regulated vertical travel stroke path from 50 mm to 55 mm",
+    "End-of-Test Automation": "Auto lift-up mechanism parking both baskets at top position upon test completion",
+    "Temperature Control Type": "Microprocessor-Based PID Temperature Controller with Solid State circuitry",
+    "Thermal Tracking Sensors": "Dual high-accuracy Stainless Steel PT-100 RTD sensor configuration",
+    "Water Bath Temperature Range": "Digital tracking from 5°C above ambient temperature up to 45.0°C",
+    "Temperature Control Accuracy": "Ultra-precise thermal calibration index stabilizing within a ± 0.2°C margin",
+    "Programmable Sequence Timer": "Microprocessor preset countdown timer from 00.01 to 99.59 Hours with audio alarm",
+    "Media Containment Vessel": "Heavy-duty clear thick acrylic water bath optimized for 1000 ml glass beaker",
+    "Thermal Heating Block": "Heavy-duty 350 Watts high-durability immersion heating element",
+    "Display Panel Architecture": "Integrated high-visibility 12 mm Red LED Display for time and temperature",
+    "Operator Interface Controls": "4-Digit responsive Up/Down configuration tactile switch panel",
+    "Chassis Fabrication Material": "Heavy-gauge Mild Steel (MS) rigid anti-vibration structural housing shell",
+    "Surface Finish Treatment": "Premium protective chemical-resistant President Blue textured powder coating",
+    "Power Supply Requirements": "Standard 230 V AC, 50 Hz, Single Phase stable Indian plug configuration",
+    "Physical Dimensions (WxDxH)": "Compact laboratory benchtop footprint measuring 375 mm x 350 mm x 550 mm",
+    "Equipment Net Mass": "Robust structural weight stabilizing around exactly 22 Kg",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete drive and controller",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/tablet_disintegration_tester.glb",
+  "image": "assets/instruments/tablet_disintegration_tester.webp",
+  "images": null
+}

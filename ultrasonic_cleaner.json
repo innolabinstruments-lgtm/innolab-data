@@ -1,0 +1,23 @@
+{
+  "name": "ULTRASONIC CLEANER",
+  "desc": "The INNOLAB INSTRUMENTS Ultrasonic Cleaner (Bath Sonicator) uses 40 KHz ultrasonic sound waves to effortlessly remove biological particles from dental instruments and precision parts. Constructed with thick gauge SS 304, it includes a digital timer, digital temperature controller, and built-in generator.",
+  "features": [
+    "40 KHz ultrasonic frequency for deep, non-destructive cleaning",
+    "Digital timer (1 to 99 minutes) and digital temperature controller (up to 80°C)",
+    "Completely made of thick gauge stainless steel 304",
+    "Built-in generator with Semiwave and Degas functions",
+    "Compact tabletop design ideal for spaces with major size concerns"
+  ],
+  "specifications": {
+    "Ultrasonic Frequency": "40 KHz",
+    "Temperature Range": "Up to 80°C",
+    "Timer": "Digital timer 1 to 99 minutes",
+    "Construction": "Stainless steel 304",
+    "Display": "LED display",
+    "Power Supply": "220 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/ultrasonic_cleaner.glb",
+  "image": "assets/instruments/ultrasonic_cleaner.webp",
+  "images": null
+}

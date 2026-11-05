@@ -1,0 +1,42 @@
+{
+  "name": "STABILITY TEST CHAMBER",
+  "desc": "Double-Walled Laboratory Stability Test Chamber engineered for precise long-term climate testing and drug stability studies. Features a 100-liter SS inner chamber, advanced CFC-free PUF insulation, and high-precision microprocessor safety control.",
+  "features": [
+    "Broad operational temperature baseline from 5°C to 60°C",
+    "Wide controlled moisture spectrum from 30% RH up to 95% RH",
+    "Ultra-precise control index maintaining ±0.2°C & ±2% RH accuracy",
+    "CFC-Free High-Density PUF (Polyurethane Foam) insulation",
+    "Optional PC Interface / Software equipped with 21 CFR Part 11 features"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Double-Walled Environmental Stability Test Chamber Workstation",
+    "Target Application": "Precision Drug Stability Studies and Accelerated Aging Tests",
+    "Chamber Net Capacity": "100 Liters (100% usable layout area with 25% extra distribution space)",
+    "Chamber Cooling Mechanism": "Heavy-Duty Refrigeration System equipped with high-efficiency Condenser",
+    "Insulation Core Barrier": "CFC-Free High-Density PUF (Polyurethane Foam) insulation up to 80°C",
+    "Internal Chamber Material": "Premium Stainless Steel (SS 304 dull finish / SS 316 option)",
+    "External Enclosure Build": "Heavy GI Epoxy powder coated sheet with 7-tank pretreatment process",
+    "Primary Outer Door Design": "Magnetic gasket door with spring-loaded auto door closure facility",
+    "Secondary Inner Door": "Full-length Acrylic / Glass viewing door with heavy-duty latches",
+    "Thermal Sealing System": "High-integrity heat and moisture resistant silicone gasket at inner door",
+    "Temperature Control Range": "Broad operational baseline from 5°C to 60°C adjustable scale",
+    "Humidity Operational Range": "Wide controlled moisture spectrum from 30% RH up to 95% RH",
+    "Control System Accuracy": "Ultra-precise control index maintaining ±0.2°C & ±2% RH accuracy",
+    "Spatial Uniformity Index": "Extreme cross-chamber equilibrium tracking at ±1°C & ±3% RH",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital Climate & Safety Controller",
+    "Air Circulation Method": "High-CFM Motorized Blower system for perfect thermal distribution",
+    "Equipment Illumination": "Imported specialized chamber lights for high visibility and human safety",
+    "Validation Integration": "Labeled 50 mm diameter Porthole fitted with high-grade silicone cork",
+    "Storage Tray Infrastructure": "Electro-polished Stainless Steel wire mesh trays with adjustable channels",
+    "Data Software Compliance": "Optional PC Interface / Software equipped with 21 CFR Part 11 features",
+    "Standby Safety Options": "Supports integration of standby refrigeration systems and data scanners",
+    "Power Supply Requirements": "Standard 220 V AC, 50 Hz, Single Phase stable Indian plug connection",
+    "Mobility & Leveling": "Rests on durable nylon bullet feet with built-in screwing height adjustment",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/stability_test_chamber.glb",
+  "image": "assets/instruments/stability_test_chamber.webp",
+  "images": null
+}

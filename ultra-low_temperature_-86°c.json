@@ -1,0 +1,41 @@
+{
+  "name": "ULTRA-LOW TEMPERATURE -86°C",
+  "desc": "Premium Vertical Ultra-Low Temperature (ULT) Laboratory Deep Freezer engineered for long-term preservation of critical bio-samples at temperatures down to -86°C. Features a massive 1000-liter SS internal cabinet, heavy-duty cascade refrigeration system, and integrated CO₂ backup system.",
+  "features": [
+    "Operating Temperature Range from -10°C down to -86°C",
+    "Heavy-duty Cascade Refrigeration System (Dual Compressors)",
+    "5 Independent inner storage compartments fitted with insulated sub-doors",
+    "Integrated CO₂ Cylinder Backup System for emergency cooling maintenance",
+    "Built-in Temperature Chart Recorder for permanent audit monitoring"
+  ],
+  "specifications": {
+    "Equipment Function": "Ultra-Low Temperature long-term storage of critical bio-samples, ATCC cultures, and vaccines",
+    "Cabinet Configuration": "Vertical / Upright Type Heavy-Duty Cabinet Layout",
+    "Storage Capacity": "1000 Liters",
+    "Internal Cabinet Material": "High-Grade Corrosion-Free Stainless Steel (SS Internal)",
+    "External Enclosure Build": "Heavy-Duty Galvanized Steel Body with tough powder-coated exterior finish",
+    "Inner Compartments Design": "5 Independent inner storage compartments fitted with insulated sub-doors",
+    "Shelving & Racking System": "5 Heavy-Duty Corrosion-Resistant Racks included for sample separation",
+    "Mobility & Positioning": "Heavy-duty lockable castors with a standard 100 mm ground clearance",
+    "Outer Door Security": "Lockable outer doors and lids with ergonomic handle and vacuum release port",
+    "Cooling Mechanism Type": "Direct cooling with heavy-duty Cascade Refrigeration System (Dual Compressors)",
+    "Refrigeration Eco-Type": "Energy-efficient system using CFC-free & HCFC-free non-flammable green refrigerants",
+    "Operating Temperature Range": "Adjustable from -10°C down to -86°C",
+    "Temperature Tuning Step": "Micro-increment variation setting of 1°C steps",
+    "Pull Down Performance": "Rapid thermal response pulling down to maximum low in 2.5 Hours",
+    "Controller Architecture": "Microprocessor Digital Electronic Controller Cum Indicator, PID Controller",
+    "Display Interface": "High-visibility digital temperature display screen with password security lock",
+    "Integrated Safety Alarms": "Audible and visible alarm system for unwanted temp rise, power failure, and system failure",
+    "Emergency Backup Safety": "Integrated CO₂ Cylinder Backup System supplied for emergency cooling maintenance",
+    "Data Logging System": "Built-in Temperature Chart Recorder provided for permanent audit monitoring",
+    "Voltage Stabilization Support": "Supplied with one 5KVA Servo Controller Voltage Stabilizer (5 Years Stabilizer Warranty)",
+    "Acoustic Noise Level": "Silent laboratory operations (Maximum Noise Level ≤ 60 dB)",
+    "Energy Consumption Rate": "High efficiency eco-design rating at 24 KWh/day",
+    "Warranty Cover Protection": "5 Years Comprehensive Manufacturer Warranty from the date of installation",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/ultra_low_temperature_86c.glb",
+  "image": "assets/instruments/ultra_low_temperature_86c.webp",
+  "images": null
+}

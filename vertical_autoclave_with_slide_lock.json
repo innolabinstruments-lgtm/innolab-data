@@ -1,0 +1,36 @@
+{
+  "name": "VERTICAL AUTOCLAVE WITH SLIDE LOCK",
+  "desc": "The INNOLAB INSTRUMENTS INNO-LXAU-160 is a highly advanced, fully automatic vertical autoclave engineered to deliver precise sterilization for demanding laboratory environments. Distinguished by its electronic double inner slide locks and an eight-column evenly distributed interlocking device, it offers rapid and effortless loading.",
+  "features": [
+    "'Inspiration' Fast Speed Microcomputer Controller with 20 memory cycles",
+    "Flip Open Type lid with 8-Column Interlock and Electric Double Inner Locks",
+    "Automatic Internal Discharge with 2 Embedded Steam Collectors",
+    "Preset Auto-Start timer up to 6 Days in Advance",
+    "Special Temperature Functions: Melting (60°C - 100°C), Warming (46°C - 60°C)"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Fully Automatic Vertical Autoclave",
+    "Inner Chamber Material": "Stainless Steel 304",
+    "Controller": "'Inspiration' Fast Speed Microcomputer Controller",
+    "Sterilization Temperature": "105°C to 138°C",
+    "Sterilization Time Range": "1 - 6000 Minutes",
+    "Special Temperature Functions": "Melting (60°C - 100°C), Warming (46°C - 60°C)",
+    "Warming Time Range": "1 - 9999 Minutes",
+    "Pre-Programmed Cycles": "Liquid, Liquid w/ Warming, Solid, Wrapped Instrument, Fabric, Rubber, Fast, Waste, Agar Melting",
+    "Customization": "1 Self-Defined Cycle, 20 Cycle Memory",
+    "Timer Function": "Preset Auto-Start up to 6 Days in Advance",
+    "Door Locking Mechanism": "Flip Open Type, 8-Column Interlock, Electric Double Inner Locks",
+    "Exhaust System": "Automatic Internal Discharge with 2 Embedded Steam Collectors (6 selectable speeds)",
+    "Cooling Lock Safety": "40°C-80°C (Liquid Cycle), 40-99°C (Other Cycles)",
+    "Pressure Parameters": "Max Working: 0.27 Mpa, Design: 0.35 Mpa",
+    "Working Environment": "5-45°C, 10% to 85% Relative Humidity",
+    "Baskets Supplied": "Stainless Steel Baskets (2 or 3 depending on model)",
+    "Electrical Power Supply": "220V/50Hz Single Phase, 32A",
+    "Standard Safety Features": "Lid Closing Check, Dry Scorch Protection, Overpressure Valve, Water Level Sensor, Over Current/Leakage Protection, Anti-Scald Chamber Cover",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vertical_autoclave_with_slide_lock.glb",
+  "image": "assets/instruments/vertical_autoclave_with_slide_lock.webp",
+  "images": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "STIRRED WATER BATH",
+  "desc": "The INNOLAB INSTRUMENTS Stirred Water Bath combines the functions of a precision liquid incubator and a mechanical stirrer. It is widely used in chemical extraction, distillation, enzymatic research labs, and sample warmings where constant temperature uniformity is critical. Equipped with an electric stirrer for water recirculation and a precision PID controller, it guarantees exceptional temperature stability across the entire liquid reservoir while keeping your samples in a consistent environment.",
+  "features": [
+    "Precise stirring control with an independent stirrer on/off switch",
+    "Digital PID temperature controller with bright LED display",
+    "Exceptional water temperature stability and uniform distribution",
+    "ISI marked immersion heater for safe and fast heating",
+    "Durable double wall construction with 5-sided glass wool insulation",
+    "Corrosion-resistant Stainless Steel 304 inner tank"
+  ],
+  "specifications": {
+    "Volume Options": "12 Liters, 14 Liters, 18 Liters, 25 Liters, 32 Liters (Customizable)",
+    "Temperature Range": "Ambient+5°C to 99°C",
+    "Temperature Controller": "Microprocessor PID temperature controller",
+    "Temperature Display": "Dual LED display of SV & PV",
+    "Timer": "Digital timer up to 9999 minutes",
+    "Stirrer Type": "Heavy duty motor with paddle & blade (Variable Speed)",
+    "Insulation": "Thick glass wool insulation (5 sides)",
+    "Construction (Inner)": "Stainless steel 304",
+    "Construction (Outer)": "Powder coated MS (Optional SS 304)",
+    "Power Supply": "220 Volts 50 Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/stirrer_water_bath.glb",
+  "image": "assets/instruments/stirrer_water_bath.webp",
+  "images": null
+}

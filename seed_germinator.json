@@ -1,0 +1,33 @@
+{
+  "name": "SEED GERMINATOR",
+  "desc": "150-Liter Microprocessor-Controlled Seed Germination Chamber engineered to optimize the sprouting and development workflows of diverse seed varieties. Features a robust SS304 internal chamber with integrated day/night fluorescent photoperiod simulation lighting.",
+  "features": [
+    "Full-Spectrum Fluorescent Grow Lights for day/night cycle simulation",
+    "Precise temperature regulation down to 10°C baseline (Range: 10°C to 50°C)",
+    "Controlled baseline humidity configuration stabilizing at 50% RH",
+    "4 Heavy-Duty Adjustable Shelves for varying seed tray sizes",
+    "Advanced Microprocessor-Based Digital Temperature & Humidity Controller"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Specialized Botanical Seed Germination & Plant Growth Chamber",
+    "Chamber Net Capacity": "150 Liters optimized internal growth volume",
+    "Internal Chamber Material": "High-Grade Corrosion-Free Stainless Steel (SS304 Grade)",
+    "Outer Enclosure Build": "Heavy-Gauge Cold Rolled Close Steel with durable powder-coated finish",
+    "Number of Shelves Included": "4 Heavy-Duty Adjustable Shelves to accommodate varying seed tray sizes",
+    "Temperature Control Range": "Precise regulation down to 10°C baseline (Range: 10°C to 50°C)",
+    "Humidity Control Range": "Controlled baseline configuration stabilizing at 50% RH",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital Temperature & Humidity Controller",
+    "Illumination / Lighting Type": "Full-Spectrum Fluorescent Grow Lights for day/night cycle simulation",
+    "Chamber Door Design": "Single Door fitted with a transparent toughened glass viewing window",
+    "Air Circulation System": "Low-noise internal motorized fan system ensuring uniform climate layout",
+    "Safety Integration Features": "Over-temperature safety cutoff protect system and low humidity alarm",
+    "Power Supply Requirements": "Standard 230V AC, 50 Hz, Single Phase power link configuration",
+    "Target Field Applications": "Agricultural Research, Seed Sprouting, Horticulture, and Plant Tissue Culture",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete system",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/seed_germinator.glb",
+  "image": "assets/instruments/seed_germinator.webp",
+  "images": null
+}

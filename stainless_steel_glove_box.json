@@ -1,0 +1,26 @@
+{
+  "name": "STAINLESS STEEL GLOVE BOX",
+  "desc": "The INNOLAB INSTRUMENTS Stainless Steel Glove Box is a heavy-duty isolation chamber designed for rigorous physics, chemistry, nuclear, and battery research (Lithium-ion). Constructed from 3mm thick Stainless Steel 304 (optional SS316), it features a wide-angle 10mm tempered glass viewing window without dead spaces. Equipped with an antechamber and silicone-sealed side doors, this unit ensures absolute atmospheric isolation, making it perfect for stringent test requirements handling highly reactive compounds.",
+  "features": [
+    "Heavy-duty construction using 3mm thick Stainless Steel 304 (SS 316 optional)",
+    "Wide-angle 10mm tempered glass front panel for dead-space-free viewing",
+    "Includes a vacuum-capable antechamber (-0.1MPa) for safe material transfer",
+    "High-durability latex or butyl gloves with airtight silicone rubber sealing rings",
+    "KF flanges provided as standard for easy future upgrades and attachments",
+    "Optional oil-filled vacuum pump, movable stand, and automated controllers"
+  ],
+  "specifications": {
+    "Inner Dimensions (W*D*H)": "1120 * 740 * 900 mm (Various sizes available)",
+    "Antechamber Size (Dia.*L)": "385 * 400 mm (Vacuum capable up to -0.1MPa)",
+    "Side Door Size (L*W)": "350 * 300 mm with silicone seal and pull action clamp",
+    "Window Panel": "Removable 10 mm tempered glass window",
+    "Internal Fittings": "Main chamber gas purge valve, internal electric socket, White LED light",
+    "Pressure Monitoring": "Dial type pressure gauge installed for the antechamber",
+    "Exterior Finish": "Spray white paint or buffed stainless steel",
+    "Optional Integrations": "Main chamber vacuum, Dew point analyzer, Humidity controller",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/stainless_steel_glove_box.glb",
+  "image": "assets/instruments/stainless_steel_glove_box.webp",
+  "images": null
+}

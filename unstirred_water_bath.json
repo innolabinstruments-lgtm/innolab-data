@@ -1,0 +1,28 @@
+{
+  "name": "UNSTIRRED WATER BATH",
+  "desc": "The INNOLAB INSTRUMENTS Unstirred Water Bath is a fundamental general-purpose constant temperature instrument utilized in clinical, educational, and microbiological labs. It is perfect for safely warming reagents, melting agar, and incubating sample tubes. Designed with a robust double-walled structure, 5-sided glass wool insulation, and an advanced digital PID controller, it provides an incredibly stable, vibration-free heating environment with minimal maintenance.",
+  "features": [
+    "Designed for highly stable constant temperature control",
+    "Rugged double wall construction with corrosion resistant exterior",
+    "5 sides glass wool insulation ensures minimum heat loss",
+    "Thick gauge 304 stainless steel tank for easy maintenance",
+    "Advanced Microprocessor PID temperature controller with auto-tuning",
+    "Supplied with a stainless steel perforated tray to place slides and flasks"
+  ],
+  "specifications": {
+    "Volume Options": "12 Liters, 18 Liters, 25 Liters, 32 Liters (Customizable)",
+    "Temperature Range": "Ambient+10°C to 100°C",
+    "Temperature Accuracy": "±0.5°C",
+    "Temperature Controller": "PID controller with LED display of SV & PV",
+    "Temperature Sensor": "PT100 Sensor",
+    "Heater": "Immersion type stainless steel heating elements (ISI Marked)",
+    "Insulation": "Glass wool (5 sides)",
+    "Inner Chamber": "Stainless Steel 304",
+    "Exterior": "Powder coated MS",
+    "Power Supply": "220 Volts 50 Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/unstirred_water_bath.glb",
+  "image": "assets/instruments/unstirred_water_bath.webp",
+  "images": null
+}

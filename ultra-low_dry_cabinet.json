@@ -1,0 +1,38 @@
+{
+  "name": "ULTRA-LOW DRY CABINET",
+  "desc": "Premium Microprocessor-Controlled Ultra-Low Humidity Dry Storage Cabinet engineered for safe preservation of moisture-sensitive devices. Features an auto-regenerated electronic Zeolite desiccant dehumidifier maintaining an ultra-low humidity range from 1% to 50% RH.",
+  "features": [
+    "Wide precision moisture regulation spanning from 1% to 50% RH",
+    "Rapid 30-minute recovery time to below 5% RH level after door opening",
+    "Auto-Regenerated electronic desiccant system utilizing premium Zeolite",
+    "Heavy-gauge cold-rolled steel sheet with anti-static ESD-safe paint",
+    "Fully automated plug-and-play tracking adjusting RH upon system startup"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Fast-Dry Ultra-Low Humidity Storage Cabinet",
+    "Chamber Volumetric Capacity": "435 Liters spacious clean dry volume",
+    "Internal Dimensions (W x D x H)": "898 mm x 572 mm x 848 mm optimized internal space layout",
+    "Overall Dimensions (W x D x H)": "900 mm x 600 mm x 1010 mm compact structural footprint",
+    "Storage Infrastructure": "3 Pieces heavy-duty adjustable storage shelves included",
+    "Humidity Control Range": "Wide precision moisture regulation spanning from 1% to 50% RH",
+    "Primary Dehumidifier Type": "Auto-Regenerated electronic desiccant system utilizing premium Zeolite",
+    "Operational Automation": "Fully automated plug-and-play tracking adjusting RH upon system startup",
+    "Chamber Micro-Climate Recovery": "Rapid 30-minute recovery time to below 5% RH level after a 30-second door opening",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital Humidity-cum-Temperature Controller",
+    "Display Tracking Precision": "High-accuracy instrumentation index at ±3.0% RH and ±1.0°C margins",
+    "Chassis Structural Build": "1 mm thick heavy-gauge cold-rolled steel sheet with anti-static paint finish",
+    "Door Assembly Architecture": "Independent door handles fitted with secure individual Lock and Key sets",
+    "Chamber Sealing Integrity": "Heavy-duty airtight magnetic rubber gasket continuous door seal",
+    "Process Inspection Panel": "Multi-pane clear toughened transparent glass viewing windows",
+    "Equipment Mobility Support": "Base-mounted heavy-duty Caster Wheels integrated with structural safety brakes",
+    "Power Supply Requirements": "Standard 220 Volts, 50 Hz, Single Phase stable Indian plug configuration",
+    "Supported System Upgrades": "Provision for N2 flow meter, Data logger with USB port, and Door open alarms",
+    "Optional Structural Add-ons": "Supports overall Stainless Steel 304 construction and ESD wrist strap bands",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on full electronic desiccant block",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/ultra_low_dry_cabinet.glb",
+  "image": "assets/instruments/ultra_low_dry_cabinet.webp",
+  "images": null
+}

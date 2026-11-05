@@ -1,0 +1,27 @@
+{
+  "name": "VDRL SHAKER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-VDRL-16 VDRL Shaker is a specialized orbital rotator used extensively in clinical diagnostic laboratories, hematology departments, and blood banks. It is primarily utilized for mixing and auto-agglutination tests on slides, including VDRL and syphilis screening. This compact unit delivers smooth, continuous circular motions ensuring highly reproducible diagnostic reactions.",
+  "features": [
+    "13 x 13 inches platform equipped with specialized spring holders",
+    "Rotational speed strictly adjustable from 150 to 200 RPM",
+    "Integrated Digital LED RPM display for accurate speed tracking",
+    "In-built Digital Timer programmable up to 60 minutes",
+    "Durable powder-coated MS sheet housing for long laboratory life"
+  ],
+  "specifications": {
+    "Equipment Configuration": "VDRL Orbital Rotator / Shaker",
+    "Platform Size": "300 x 300 mm with spring holder",
+    "RPM Range": "150 to 200 rpm",
+    "RPM Display": "Digital LED RPM Display",
+    "Timer": "Digital Timer 0-60 minutes (or mechanical)",
+    "Housing Material": "Powder coated MS sheet",
+    "Control Mechanism": "Speed regulator",
+    "Power Supply": "220 Volts 50 Hz",
+    "Target Applications": "Auto-agglutination tests, VDRL tests, Syphilis testing in Pathology/Blood Banks",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vdrl_shaker.glb",
+  "image": "assets/instruments/vdrl_shaker.webp",
+  "images": null
+}

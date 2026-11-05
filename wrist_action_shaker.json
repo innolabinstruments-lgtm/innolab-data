@@ -1,0 +1,27 @@
+{
+  "name": "WRIST ACTION SHAKER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-WASK-810 Wrist Action Shaker is a robust laboratory shaking machine meticulously designed to imitate the back-and-forth shaking action of a human wrist. This heavy-duty instrument is highly utilized in chemistry, agricultural, and extraction laboratories for vigorously blending solvents and dissolving stubborn solids inside Erlenmeyer flasks.",
+  "features": [
+    "High-torque heavy duty motor mechanism for robust shaking",
+    "Accommodates 4 or 8 flasks with capacities from 100ml to 500ml",
+    "Rotary speed regulator to precisely control wrist action agitation",
+    "Steel rod shaft fitted with clamps and rubber sleeves for a secure flask grip",
+    "0 – 99 minutes digital or mechanical timer options for continuous runs"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Wrist Action Laboratory Shaker",
+    "No. of Clamps Options": "2 + 2 (4-flask) or 4 + 4 (8-flask)",
+    "Flasks Capacities": "100ml to 500ml",
+    "Speed Control": "Rotary Speed Regulator",
+    "Timer Options": "0 – 99 Minutes mechanical or digital timer (Optional)",
+    "Clamp Mechanism": "Steel rods with rubber sleeves for easy grip",
+    "Housing Material": "Powder coated MS",
+    "Power Supply": "220 Volts 50 Hz",
+    "Target Applications": "Solvent Blending, Solid Dissolution, Chemical Extraction procedures",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/wrist_action_shaker.glb",
+  "image": "assets/instruments/wrist_action_shaker.webp",
+  "images": null
+}

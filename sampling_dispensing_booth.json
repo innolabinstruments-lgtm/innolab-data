@@ -1,0 +1,41 @@
+{
+  "name": "SAMPLING DISPENSING BOOTH",
+  "desc": "Reverse Laminar Air Flow (RALF) Sampling and Dispensing Booth engineered for superior operator protection and containment of powder aerosols. Features an ISO Class 5 cleanroom environment powered by an advanced three-stage filtration setup achieving 99.999% containment down to sub-micron particles.",
+  "features": [
+    "Certified ISO Class 5 (Class 100) containment envelope",
+    "Advanced Heavy-Duty Three Stage multi-barrier filtration core",
+    "EU14 grade HEPA Filter tracking at 99.999% down efficiency",
+    "Dual 02 Nos. highly accurate analog Differential Pressure Gauges",
+    "High-intensity shadowless Fluorescent Lights fitted with Milky White Diffuser"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Reverse Laminar Air Flow (RALF) Sampling and Dispensing Booth Unit",
+    "Air Cleanliness Classification": "Certified ISO Class 5 (Class 100 / M 3.5 Area) containment envelope",
+    "Airflow Directional Pattern": "Uniform Vertical laminar downflow air distribution pattern",
+    "Chamber Air Velocity Scale": "Controlled flow tracking at 0.45 ± 0.05 mps (90 ± 20 FPM)",
+    "Primary Safety Function": "Zero risk of operator powder inhalation with absolute micro-particle containment",
+    "Filtration System Assembly": "Advanced Heavy-Duty Three Stage multi-barrier filtration core",
+    "Stage 1 Pre-Filter Performance": "EU4 grade pre-filtration tracking at 90 percent down efficiency",
+    "Stage 2 Intermediate Filter": "EU7 grade secondary filtration tracking at 95 percent down efficiency",
+    "Stage 3 HEPA Filter Array": "EU14 grade primary supply and exhaust absolute filtration at 99.999 percent down",
+    "Air Circulation Blower Engine": "Statically and dynamically balanced heavy-duty Motor-Blower assembly",
+    "Acoustic Noise Index Profile": "Low-noise quiet operations stabilizing under a 65 dB performance threshold",
+    "Vibration Mitigation Matrix": "Integrated mechanical anti-vibration rubber isolator system links",
+    "Pressure Monitoring Toolkit": "Dual 02 Nos. highly accurate analog Differential Pressure Gauges",
+    "Pressure Gauge Targets": "Dedicated real-time monitoring for Intermediate Filter and main HEPA Filter rows",
+    "Chassis Framework Options": "High-Grade Stainless Steel (SS-304/SS-316) or heavy GI Powder Coated steel",
+    "Internal Chamber Architecture": "Seamless flat side panels integrated with all three sides inner radius coving",
+    "Workplace Illumination Deck": "High-intensity shadowless Fluorescent Lights fitted with Milky White Diffuser",
+    "Operator Control System": "Industrial rocker ON/OFF switches managing Blower, Fluorescent, and UV loops",
+    "Auxiliary Power Provisions": "Integrated 5/15 Amp splash-proof Auxiliary Powder Socket for weighing scales",
+    "Validation Aerosol Interface": "Built-in upstream concentration testing Dispersed Oil Particulate (DOP) Port",
+    "Regulatory Audit Paperwork": "Complete comprehensive DQ, IQ, OQ, and PQ validation documentation package",
+    "Electrical Power Inputs": "Standard 230 V AC, 50 Hz, Single Phase stable electrical line connection",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on blower and filter blocks",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/sampling_dispensing_booth.glb",
+  "image": "assets/instruments/sampling_dispensing_booth.webp",
+  "images": null
+}

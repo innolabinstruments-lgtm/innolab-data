@@ -1,0 +1,34 @@
+{
+  "name": "VERTICAL AUTOCLAVE WING NUT",
+  "desc": "The INNOLAB INSTRUMENTS INNO-WX-AU-360 Vertical Autoclave is an ergonomically designed, fully automatic laboratory sterilizer distinguished by its highly reliable wing nut lid locking mechanism. This sturdy, manual locking system ensures exceptional operator safety and prevents accidental opening during high-pressure cycles.",
+  "features": [
+    "Highly reliable Wing Nut Locking Mechanism for maximum operator safety",
+    "Fully Stainless Steel 304 construction sealed with a self-inflating silicone rubber seal",
+    "Microprocessor Soft Key Pad Controller with LED Display",
+    "Automatic Steam Discharge and Shut-Off with Beep Alert post-cycle",
+    "2 Nos. Stainless Steel Sterilizing Baskets included"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Vertical Autoclave with Wing Nut Lock",
+    "Operating Temperature Range": "105°C to 134°C",
+    "Working Pressure": "0.22 Mpa",
+    "Construction Material": "Fully Stainless Steel 304",
+    "Door Locking Mechanism": "Wing Nut Locking Mechanism",
+    "Door Seal": "Self-Inflating Silicone Rubber Seal",
+    "Controller": "Microprocessor Soft Key Pad Controller",
+    "Display System": "LED Display (Temperature, Pressure & Time)",
+    "Operation Mode": "Fully Automatic Operation",
+    "Timer Range": "0 - 99 Minutes",
+    "Post-Cycle Operation": "Automatic Steam Discharge and Shut-Off with Beep Alert",
+    "Baskets Supplied": "2 Nos. Stainless Steel Sterilizing Baskets",
+    "Standard Safety Features": "Low Water Level Protection, Over Temperature Protection, Over Pressure Protection",
+    "Mounting System": "Caster Wheels",
+    "Electrical Power Supply": "220 Volts, 50Hz",
+    "Target Applications": "Microbiology Labs, Hospital Sterilization, Pharmaceutical Decontamination",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vertical_autoclave_wing_nut.glb",
+  "image": "assets/instruments/vertical_autoclave_wing_nut.webp",
+  "images": null
+}

@@ -1,0 +1,35 @@
+{
+  "name": "SEROLOGICAL WATER BATH",
+  "desc": "Premium Microprocessor-Controlled Rectangular Serological Water Bath engineered for accurate constant temperature incubation and clinical serological assays. Features a 12-liter processing capacity tank designed to accommodate up to 2 sample holding racks simultaneously.",
+  "features": [
+    "12 Litre high-capacity internal thermal reservoir tank",
+    "Specialized layout accommodating up to 2 holding racks concurrently",
+    "Advanced Automatic Thermostatic internal heat management",
+    "Controlled baseline heating starting from ambient plus 5°C onwards",
+    "Double-walled layout design ensuring maximum core temperature stability"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Automated Digital Benchtop Serological Water Bath Assembly",
+    "Chassis Structural Shape": "Rigid Rectangular space-optimized space-saving layout",
+    "Fluid Containment Volume": "12 Litre high-capacity internal thermal reservoir tank",
+    "Sample Holding Capacity": "Specialized layout accommodating up to 2 holding racks concurrently",
+    "Primary Testing Assays": "Serological testing, enzyme reactions, and sensitive incubation protocols",
+    "Primary Regulation Type": "Advanced Automatic Thermostatic internal heat management",
+    "Thermal Operating Base": "Controlled baseline heating starting from ambient plus 5 degrees C onwards",
+    "Display Dashboard Type": "High-visibility integrated bright Digital Display panel",
+    "Chassis Fabrication Material": "Heavy-duty industrial-grade Mild Steel (MS) structural casing",
+    "Surface Protective Treatment": "High-durability chemical-resistant powder coated exterior layer",
+    "Insulated Assembly Build": "Double-walled layout design ensuring maximum core temperature stability",
+    "Thermal Process Medium": "Pure distilled water base application compatibility layout",
+    "Operator Safety Interface": "User-friendly tactile control nodes for quick temperature setting",
+    "Electrical Power Inputs": "Standard 220-230 V AC, 50 Hz, Single Phase stable power connection",
+    "Minimum Procurement Unit": "Bulk order shipping standard packaged from 5 Units minimum lot size",
+    "Target Field Applications": "Blood Banks, Clinical Serology, Diagnostics, and Biochemistry Labs",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on total system electronics",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/serological_water_bath.glb",
+  "image": "assets/instruments/serological_water_bath.webp",
+  "images": null
+}

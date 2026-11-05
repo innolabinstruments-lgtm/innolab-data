@@ -1,0 +1,26 @@
+{
+  "name": "TISSUE CULTURE RACK",
+  "desc": "The INNOLAB INSTRUMENTS Tissue Culture Rack is a highly specialized environmental storage system engineered for the optimized growth and propagation of plant tissue and cell cultures in botanical laboratories, agriculture research facilities, and biotechnology industries. It provides uniformly distributed luminescence, optimal ventilation, and customizable shelving options to replicate the precise lighting spectrum required for robust photosynthesis and in-vitro development.",
+  "features": [
+    "Sturdy framework constructed from premium Mild Steel (Powder Coated) or Stainless Steel",
+    "Configurable racking system available in four, five, or six shelf options",
+    "Independent switching arrangement for lighting in every single shelf",
+    "Equipped with energy-saving 4 x 40 watt fluorescent lights for uniform growth",
+    "Supplementary 4 x 25 watt incandescent lamps per shelf to increase lux intensity and spectrum radiation",
+    "Mounted on heavy-duty castor wheels for effortless mobility across the laboratory"
+  ],
+  "specifications": {
+    "Structure Material": "Available in Mild Steel (Powder Coated) or Stainless Steel",
+    "Shelf Dimensions": "48″ x 18″ per shelf",
+    "Number of Racks": "Options available: Four, Five, or Six racks",
+    "Primary Lighting": "4 x 40 Watt fluorescent tubes per shelf",
+    "Secondary Lighting": "4 x 25 Watt incandescent lamps per shelf for spectrum enhancement",
+    "Lighting Control": "Individual switching arrangements installed on each shelf",
+    "Mobility": "Fitted with smooth-rolling castor wheels",
+    "Power Supply": "Works on 230 ± 10 V / 50 Hz power supply",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/tissue_culture_rack.glb",
+  "image": "assets/instruments/tissue_culture_rack.webp",
+  "images": null
+}

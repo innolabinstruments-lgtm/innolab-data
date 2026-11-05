@@ -1,0 +1,33 @@
+{
+  "name": "WATER BATH SHAKER",
+  "desc": "Digital Reciprocating Laboratory Water Bath Shaker engineered for simultaneous constant-temperature incubation and precise mechanical agitation. Features a large 30-liter volumetric capacity inner chamber fabricated from corrosion-proof SS304 with an insulated flat lid assembly.",
+  "features": [
+    "30 Litre spacious high-capacity internal reservoir tank layout",
+    "High-stability smooth Reciprocating shaking motion pathways",
+    "Ambient Room Temperature up to 60°C controlled matrix",
+    "Fixed baseline running performance tracked at 20 RPM velocity",
+    "Insulated heavy-gauge Flat Lid configuration for thermal defense"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Benchtop Digital Laboratory Water Bath Shaker",
+    "Mechanical Agitation Type": "High-stability smooth Reciprocating shaking motion pathways",
+    "Fluid Containment Volume": "30 Litre spacious high-capacity internal reservoir tank layout",
+    "Inner Chamber Material": "Premium Corrosion-Resistant High-Grade Stainless Steel (SS304 Grade)",
+    "Thermal Operating Range": "Ambient Room Temperature up to 60 degrees C controlled matrix",
+    "Temperature Control Type": "Microprocessor-Based digital electronic heating controller system",
+    "Shaking Velocity Speed": "Fixed baseline running performance tracked at 20 RPM velocity",
+    "Enclosure Lid Architecture": "Insulated heavy-gauge Flat Lid configuration for thermal defense",
+    "Primary Process Functions": "Dual synchronized operation of constant heating with gentle agitation",
+    "Target Assay Applications": "Cell Culture incubation, Enzyme Reactions, and Sample Preparations",
+    "Drive Motor Assembly": "Continuous-duty low-noise mechanical drive engine with stabilizer",
+    "Display Panel Interface": "High-visibility bold digital screen tracking temperature parameters",
+    "Electrical Power Inputs": "Standard 230 V AC, 50 Hz, Single Phase stable Indian plug setup",
+    "Chassis Structural Build": "Rugged, impact-resistant industrial laboratory-grade outer cabinet",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on core heating and drive",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/water_bath_shaker.glb",
+  "image": "assets/instruments/water_bath_shaker.webp",
+  "images": null
+}

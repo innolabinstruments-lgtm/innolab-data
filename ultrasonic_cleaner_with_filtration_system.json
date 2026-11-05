@@ -1,0 +1,23 @@
+{
+  "name": "ULTRASONIC CLEANER WITH FILTRATION SYSTEM",
+  "desc": "The INNOLAB INSTRUMENTS Ultrasonic Cleaner with Filtration System incorporates an active circulation circuit that continuously filters out particulate contaminants. This design extends cleaning agent life and guarantees zero re-deposit of particles onto sensitive industrial components.",
+  "features": [
+    "Integrated circulation system with filter tank, motor, and filter",
+    "Filters out metal chips, fines, and burned carbons during operation",
+    "Extends life of cleaning fluids and ensures zero contaminant re-deposit",
+    "Digital temperature (35°C to 95°C) and timer controls (0 to 99 hours)",
+    "Adjustable ultrasonic power with an external generator"
+  ],
+  "specifications": {
+    "Ultrasonic Frequency": "40 KHz",
+    "Temperature Range": "35°C to 95°C",
+    "Filtration System": "Includes filter tank, motor and filter",
+    "Timer Range": "0 to 99 hours",
+    "Construction": "Stainless steel 304",
+    "Power Supply": "220 Volts or 415 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/ultrasonic_cleaner_filtration.glb",
+  "image": "assets/instruments/ultrasonic_cleaner_filtration.webp",
+  "images": null
+}

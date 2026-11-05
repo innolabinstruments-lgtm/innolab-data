@@ -1,0 +1,35 @@
+{
+  "name": "VACUUM OVEN",
+  "desc": "Premium Compact Laboratory Vacuum Oven engineered for precise and oxidation-free thermal processing. Features a 20-liter robust round inner chamber built with premium steel, a 3-shelves configuration, and a deep vacuum performance level down to 1 mbar.",
+  "features": [
+    "Continuous deep vacuum pressure down to 1 mbar",
+    "Maximum Temperature Range up to 150°C highly stable thermal footprint",
+    "Wrap-around heating elements surrounding the round chamber wall",
+    "Advanced Microprocessor-Based Digital PID Temperature Controller",
+    "High-temperature resistant, airtight silicone door gasket system"
+  ],
+  "specifications": {
+    "Equipment Function": "Oxidation-free drying, curing, moisture analysis, and vacuum baking",
+    "Chamber Shape Configuration": "Heavy-Duty Cylindrical / Round Chamber Design",
+    "Chamber Net Capacity": "20 Liters optimized processing volume",
+    "Number of Shelves Included": "3 Shelves heavy-duty storage layouts",
+    "Maximum Temperature Range": "Ambient up to 150°C highly stable thermal footprint",
+    "Vacuum Performance Level": "Continuous deep vacuum pressure down to 1 mbar",
+    "Internal Chamber Material": "High-Grade Mild Steel with heat and vacuum resistant treatment",
+    "Outer Enclosure Build": "Heavy-Gauge Cold Rolled Close Steel with industrial powder coating",
+    "Oven Door Configuration": "Single Door fitted with a thick toughened glass viewing window",
+    "Sealing Gasket Integrity": "High-temperature resistant, airtight silicone door gasket system",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital PID Temperature Controller",
+    "Pressure Monitoring": "Analogue / Digital Vacuum Gauge integrated on the front panel",
+    "Power Supply Requirements": "230 V AC, 50 Hz, Single Phase standard Indian plug configuration",
+    "Heating Mechanism Type": "Wrap-around heating elements surrounding the round chamber wall",
+    "Safety Integration Features": "Over-temperature safety protection cutoff and vacuum relief valve",
+    "Target Lab Applications": "Chemical Desiccation, Electronics Component Baking, and Pharma Analysis",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vacuum_oven.glb",
+  "image": "assets/instruments/vacuum_oven.webp",
+  "images": null
+}

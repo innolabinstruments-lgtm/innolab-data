@@ -1,0 +1,32 @@
+{
+  "name": "VIBRATORY SIEVE SHAKER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-VRSS-250 Vibratory Sieve Shaker is a rugged, high-frequency grading machine engineered for civil engineering, agriculture, and construction material testing labs. It is fitted with an enhanced vertical vibration motor that creates powerful inclined three-dimensional vibrations, allowing it to efficiently sort coarse aggregates, soils, and grains down to 10 microns.",
+  "features": [
+    "Enhanced vertical vibration motor creating 3D inclined shaking",
+    "100% corrosion resistant heavy-duty Stainless Steel housing",
+    "Holds 1 to 5 standard test sieves (200mm/8-inch diameter)",
+    "High Vibrating frequency of 1400 r/min with 1-4 mm amplitude",
+    "Supplied complete with clamping device, SS lid & pan, and a programmable timer"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Frequency Tabletop Vibratory Sieve Shaker",
+    "Housing Material": "Stainless steel",
+    "Sieve Diameter Supported": "200 mm (8 inch)",
+    "Quantity of Sieves": "1 to 5 Nos.",
+    "Vibrating Frequency": "1400 r/min",
+    "Vibrating Amplitude": "1-4 mm",
+    "Exciting Force": "3 KN",
+    "Timer": "Programmable up to 999 minutes",
+    "Motor": "Vertical vibration motor",
+    "Motor Power": "120 W",
+    "Overall Dimensions": "360 x 300 x 360 mm",
+    "Accessories Supplied": "Supporting clamps & Rods, SS Lid & Pan",
+    "Power Supply": "220 Volts 50Hz",
+    "Target Applications": "Grading of coarse aggregates, heavy soils, grains, industrial raw materials",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vibratory_sieve_shaker.glb",
+  "image": "assets/instruments/vibratory_sieve_shaker.webp",
+  "images": null
+}

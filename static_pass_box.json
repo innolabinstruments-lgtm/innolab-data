@@ -1,0 +1,33 @@
+{
+  "name": "STATIC PASS BOX",
+  "desc": "Premium Stainless Steel Static Pass Box engineered for the controlled, contamination-free transfer of materials between different cleanroom zones. Features a spacious 2x2x2 ft rectangular working enclosure equipped with a state-of-the-art electronic interlocking mechanism.",
+  "features": [
+    "Advanced Electronic / Electromagnetic interlocking mechanism",
+    "Spacious 600 mm x 600 mm x 600 mm working volume",
+    "Premium High-Grade Corrosion-Proof Stainless Steel (SS Grade 304)",
+    "Double Door configuration for seamless pass-through alignment",
+    "Cleanroom Window Mounted layout for seamless flush wall installation"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Cleanroom Static Pass Box System",
+    "Primary Process Purpose": "Materials transfer point minimizing personnel movement and contamination risks",
+    "Working Chamber Size (LxWxH)": "600 mm x 600 mm x 600 mm spacious volume (2 × 2 × 2 feet configuration)",
+    "Outer Size Dimensions": "450 mm x 450 mm x 450 mm compact structural footprint framework",
+    "Chamber Geometry Shape": "Heavy-Duty Rectangular space-optimized construction",
+    "Material of Construction": "Premium High-Grade Corrosion-Proof Stainless Steel (SS Grade 304)",
+    "Surface Finishing Treatment": "Protective industrial-grade powder coating finish layout",
+    "Door Assembly Architecture": "Double Door configuration for seamless pass-through alignment",
+    "Interlocking Safety System": "Advanced Electronic / Electromagnetic interlocking mechanism",
+    "Mounting Configuration": "Cleanroom Window Mounted layout for seamless flush wall installation",
+    "Corrosion Resistance Index": "Full chemical and rust-resistant material structural integrity",
+    "Power Drive Source": "High-reliability Electric powered system",
+    "Electrical Power Input": "Standard 240 V AC, 50 Hz, Single Phase stable power connection",
+    "Target Application Areas": "Laboratory, Electronics, Hospital, Food Industry, Biotech, and Pharma Cleanrooms",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on electromagnetic locking network",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/static_pass_box.glb",
+  "image": "assets/instruments/static_pass_box.webp",
+  "images": null
+}

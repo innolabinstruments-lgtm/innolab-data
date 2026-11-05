@@ -1,0 +1,32 @@
+{
+  "name": "SOXHLET EXTRACTION UNIT",
+  "desc": "Premium 3-Place Laboratory Soxhlet Extraction Unit engineered for the highly efficient extraction of soluble compounds from solid matrices. Features 3 independent heating mantles tailored for 50 ml boiling flasks with precise B24 joint sizes.",
+  "features": [
+    "3 Places / 3 Positions independent testing framework",
+    "High-Efficiency Allihn Glass Condenser for optimal reflux performance",
+    "Independent Energy Regulators for separate position control",
+    "Integrated Knitted Fiber Heating Mantle design for even heating up to 250°C",
+    "Standard B24 interchangeable ground glass joint size"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Multi-Place Laboratory Soxhlet Extraction Apparatus Assembly",
+    "Simultaneous Testing Capacity": "3 Places / 3 Positions independent testing framework",
+    "Flask Net Capacity": "50 ml volume capacity per position",
+    "Glassware Condenser Type": "High-Efficiency Allihn Glass Condenser for optimal reflux performance",
+    "Glass Flask Joint Specification": "Standard B24 interchangeable ground glass joint size",
+    "Primary Heating Mechanism": "Integrated Knitted Fiber Heating Mantle design for even heating",
+    "Temperature Operational Range": "Ambient up to 250°C wide processing temperature scale",
+    "Controller Architecture": "Independent Energy Regulators for separate position control",
+    "Enclosure Outer Body Build": "Heavy-Gauge Mild Steel (MS) housing with industrial powder coating",
+    "Support Stand Configuration": "Heavy-Duty Mild Steel stable stand with vertical mounting rods",
+    "Target Field Application": "Efficient solvent extraction of soluble compounds from solid materials",
+    "Power Supply Requirements": "Standard 230 V AC, 50 Hz, Single Phase stable power link",
+    "Safety Integration Features": "Overcurrent electrical safety layout with heat insulated design",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete system",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/soxhlet_extraction_unit.glb",
+  "image": "assets/instruments/soxhlet_extraction_unit.webp",
+  "images": null
+}

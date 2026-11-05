@@ -1,0 +1,22 @@
+{
+  "name": "SLIDE WARMING TABLE",
+  "desc": "The INNOLAB INSTRUMENTS Slide Warming Table provides controlled, even heat to dry and warm microscope slides for histology and cytology. It features a digital PID temperature controller and a PT100 sensor for precise temperature management, ensuring samples dry without artifacts.",
+  "features": [
+    "Plain, even, and good finish SS304 hot surface",
+    "Ambient+10°C to 70°C overall temperature range with ±0.5°C accuracy",
+    "Fitted with microprocessor based digital PID temperature controller",
+    "Uniform heat distribution across the dimension via sealed heating elements",
+    "Lightweight design with small footprints"
+  ],
+  "specifications": {
+    "Temperature Range": "Ambient+10°C to 70°C",
+    "Temperature Accuracy": "±0.5°C",
+    "Hot Surface Material": "Stainless steel 304",
+    "Controller": "PID temperature controller with LED display and auto-tuning",
+    "Temperature Sensor": "PT100",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/slide_warming_table.glb",
+  "image": "assets/instruments/slide_warming_table.webp",
+  "images": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "VACCINE STORAGE REFRIGERATOR",
+  "desc": "The INNOLAB INSTRUMENTS Vaccine Storage Refrigerator is designed for highly safe storage of vaccines, medicines, and insulin between 2°C to 8°C. It features a smart undercounter design, full-length double layered toughened glass door with frost-free feature, anti-condensation, and an in-built tamper-proof data recording facility.",
+  "features": [
+    "Complaint to DIN 58345 standards",
+    "Small undercounter size that occupies low space",
+    "Factory default 2°C to 8°C temperature settings",
+    "Tamper-proof data recording & storage via USB",
+    "Visual and audible low/high temperature & power failure alarms",
+    "Fully length frost free toughened glass door with lock & key"
+  ],
+  "specifications": {
+    "Volume Options": "55 Liters, 75 Liters, 130 Liters",
+    "Temperature Range": "2°C to 8°C",
+    "Controller": "Microprocessor based temperature controller",
+    "Cooling Method": "Air cooled with R600a Refrigerant",
+    "Data Recording": "Tamper-proof temperature & event recording with USB port",
+    "Alarms": "Temperature low & high, sensor failure, power failure, door open, low battery",
+    "Power Supply": "220 Volts 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vaccine_refrigerator.glb",
+  "image": "assets/instruments/vaccine_refrigerator.webp",
+  "images": null
+}

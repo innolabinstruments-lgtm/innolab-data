@@ -1,0 +1,29 @@
+{
+  "name": "TWISTER MILL",
+  "desc": "The INNOLAB INSTRUMENTS INNO-TWM-100X Twister Mill (Cyclone Mill) is highly utilized in the food, feed, and pharmaceutical industries. It is specifically used for ultra-fast, uniform grinding of dry, brittle samples like grains, seeds, and tobacco prior to NIR analysis. The integrated cyclone mechanism automatically separates the ground sample, drastically increasing throughput.",
+  "features": [
+    "Maximum 16000 rpm speed setting with rotor peripheral speed of 82 m/s",
+    "Cyclone separator collects samples quickly and reduces cleaning time",
+    "High speed powerful motor ensures high grinding efficiency",
+    "Soft touch control panel design for easy operation",
+    "Supplied with 0.3mm & 0.8mm sieves and 250ml sample bottles"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Cyclone Twister Mill",
+    "Maximum Feeding Size": "< 10 mm",
+    "Final Fineness": "< 250μm",
+    "Speed Setting": "10000 to 16000 rpm",
+    "Rotor Peripheral Speed": "82 m/s",
+    "Batch Feeding Volume": "< 250ml",
+    "Rotor Diameter": "98 mm",
+    "Sieve Section": "0.3mm, 0.5mm, 0.8mm, 1.0mm",
+    "Rated Power": "1.1 KW",
+    "Power Supply": "220V 50Hz",
+    "Target Applications": "Grains, Seeds, Feed, and Tobacco Grinding for NIR Analysis",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/twister_mill.glb",
+  "image": "assets/instruments/twister_mill.webp",
+  "images": null
+}

@@ -1,0 +1,30 @@
+{
+  "name": "SEDIMENTATION SHAKER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-SDS-8 Sedimentation Shaker (Pipette Shaker) is utilized in environmental, soil testing, and pharmaceutical laboratories to guarantee uniform suspension of particles during sedimentation analysis, such as the Andreasen pipette method. It provides a slow, controlled rotation to prevent particle agglomeration without creating turbulent mixing.",
+  "features": [
+    "Smooth 30° fixed tilt angle movement preventing turbulent mixing",
+    "Accommodates 5 or 6 samples in 50ml or 100ml cylinders",
+    "Consistent 40 Oscillations per Minute controlled by a speed regulator",
+    "Robust DC motor providing long years of trouble-free working",
+    "Lightweight, cost-effective painted/coated MS cabinet design"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Sedimentation / Pipette Shaker",
+    "Number of Samples": "5 or 6 Cylinders",
+    "Cylinder Capacity": "50 ml / 100 ml",
+    "Sample Holder": "Wooden Carrier / Acrylic",
+    "Tilt Angle": "30° Fixed",
+    "Oscillations": "40 Oscillations / Min",
+    "Oscillation Controller": "Speed regulator",
+    "Motor Type": "DC motor",
+    "Cabinet Material": "Painted / coated MS",
+    "Power Supply": "220 Volts 50Hz",
+    "Optional Add-ons": "Digital Timer 999 min, END cycle buzzer alarm",
+    "Target Applications": "Soil Sedimentation analysis (Andreasen pipette method), Environmental testing",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/sedimentation_shaker.glb",
+  "image": "assets/instruments/sedimentation_shaker.webp",
+  "images": null
+}

@@ -1,0 +1,28 @@
+{
+  "name": "VERTICAL TUBE FURNACE",
+  "desc": "Premium Vertical Tube Furnace engineered for high-temperature heating, sintering, and annealing of samples in an inert atmosphere. As a trusted manufacturer, Innolab Instruments designs these furnaces with premium heating elements and an advanced 30-segment programmable digital controller.",
+  "features": [
+    "30 segments programmable PID auto control",
+    "Over-temperature protection function with automatic power-off",
+    "Configuration molecular pump achieving Vacuum 7x10-4Pa",
+    "Two stainless steel vacuum sealing flanges with gauge and valves",
+    "Foam ceramic blocks with alumina coating to protect O-rings"
+  ],
+  "specifications": {
+    "Max Temperature": "1200°C (HRE Fe-Cr-Al-Mo wire) / 1400°C / 1600°C options",
+    "Temperature Controller": "30 segments programmable and auto control",
+    "Heating Rate": "0-20°C/min",
+    "Temperature Accuracy": "±1°C",
+    "Max Vacuum": "-0.1MPa (Molecular pump: 7x10-4Pa)",
+    "Tube Size": "OD: 25 mm (Matched with model), 1000mm length quartz tube",
+    "Heating Element": "Alloy resistance wire",
+    "Heating Zone Length": "400mm (Constant Temperature Zone: 200mm)",
+    "Power Supply": "Single Phase AC 220V, 50/60 Hz",
+    "Warranty": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vertical_tube_furnace.glb",
+  "image": "assets/instruments/vertical_tube_furnace.webp",
+  "images": null
+}

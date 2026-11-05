@@ -1,0 +1,33 @@
+{
+  "name": "VERTICAL AUTOCLAVE STERILIZER",
+  "desc": "Vertical Laboratory Autoclave Sterilizer engineered for high-performance steam sterilization of medical instruments, culture media, and glassware. Features a robust 75-liter vertical chamber fabricated entirely from high-grade Stainless Steel 304.",
+  "features": [
+    "75 Liters optimized sterilization volume",
+    "Heavy-Duty Radial Lock type lid assembly for absolute safety",
+    "Up to 126°C highly regulated stable thermal footprint",
+    "Advanced Microprocessor-Based Digital PID Temperature Controller",
+    "Spring-loaded safety valve and dead-weight release valve integrated"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Pressure Vertical Steam Autoclave Sterilizer Layout",
+    "Chamber Net Capacity": "75 Liters optimized sterilization volume",
+    "Chamber Shape & Orientation": "Vertical Mount Type space-saving design",
+    "Internal Chamber Material": "Premium High-Grade Corrosion-Free Stainless Steel (SS304 Grade)",
+    "Lid Locking Mechanism": "Heavy-Duty Radial Lock type lid assembly for absolute safety under pressure",
+    "Maximum Operational Temp": "Up to 126°C highly regulated stable thermal footprint",
+    "Primary Heating Source": "High-Efficiency Industrial Electric Heating Elements",
+    "Automation Control Grade": "Semi-Automatic operations with precise digital process tracking",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital PID Temperature Controller",
+    "Pressure Monitoring System": "High-accuracy analogue pressure gauge integrated on the top lid",
+    "Safety Integration Features": "Spring-loaded safety valve, dead-weight release valve, and high-pressure sealing",
+    "Sealing Gasket Integrity": "High-temperature resistant thick silicone rubber gasket system",
+    "Power Supply Requirements": "Standard 230 V AC, 50 Hz, Single Phase power link",
+    "Target Field Applications": "Sterilization of surgical instruments, culture media, glassware, and lab waste",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/vertical_autoclave_sterilizer.glb",
+  "image": "assets/instruments/vertical_autoclave_sterilizer.webp",
+  "images": null
+}

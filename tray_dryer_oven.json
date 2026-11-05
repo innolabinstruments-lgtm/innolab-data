@@ -1,0 +1,32 @@
+{
+  "name": "TRAY DRYER OVEN",
+  "desc": "Industrial Drying Oven Tray Dryer engineered for highly efficient and uniform thermal drying of bulk materials. Built with a high-grade SS304 internal and external enclosure accommodating 12 heavy-duty trays, integrating a powerful forced-air circulation system.",
+  "features": [
+    "12 Heavy-Duty Processing Trays configuration",
+    "Cross-tray uniform forced air draft to eliminate cold/hot spots",
+    "Up to 100°C highly regulated stable thermal footprint",
+    "Semi-Automatic Digital Temperature Controller cum Indicator",
+    "Premium Corrosion-Resistant Stainless Steel (SS304 Grade Body)"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Industrial Multi-Tray Chamber Drying Oven / Tray Dryer",
+    "Number of Trays Included": "12 Heavy-Duty Processing Trays configuration",
+    "Tray Size Dimensions": "Large-Scale 800 mm x 400 mm workspace area per tray",
+    "Material of Construction": "Premium Corrosion-Resistant Stainless Steel (SS304 Grade Body)",
+    "Maximum Operational Temp": "Up to 100°C highly regulated stable thermal footprint",
+    "Primary Heating Source": "High-Efficiency Industrial Electric Heating Elements",
+    "Air Distribution Method": "Forced-Air Circulation via dynamically balanced blower fan",
+    "Automation Control Grade": "Semi-Automatic Digital Temperature Controller cum Indicator",
+    "Cabinet Enclosure Build": "Double-walled heavily insulated structure minimizing thermal loss",
+    "Door Configuration": "Single Insulated Door fitted with heavy-duty secure locking hinges",
+    "Thermal Uniformity": "Cross-tray uniform forced air draft to eliminate cold/hot spots",
+    "Power Supply Requirements": "Standard 230V AC Single Phase or 440V Three Phase Industrial Link",
+    "Target Field Applications": "Bulk Material Drying, Food Dehydration, and Pharma Component Baking",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/tray_dryer_oven.glb",
+  "image": "assets/instruments/tray_dryer_oven.webp",
+  "images": null
+}
