@@ -1,0 +1,40 @@
+{
+  "name": "DEEP FREEZER (-20°C)",
+  "desc": "Premium Vertical Laboratory Deep Freezer designed for long-term storage of critical biological products, enzymes, and vaccines. Features a 240-liter high-grade Stainless Steel internal cabinet with 3 insulated inner compartments and a fully programmable microprocessor controller.",
+  "features": [
+    "Operating Temperature Range from -10°C down to -25°C",
+    "3 Independent inner storage compartments fitted with insulated doors",
+    "High-efficiency Direct Cooling system layout with CFC-free refrigerants",
+    "Fully programmable microprocessor control with membrane keypad",
+    "Audible and visible alarm system for unwanted temp rise and power failure"
+  ],
+  "specifications": {
+    "Equipment Function": "Long-term secure storage of biological products, ATCC cultures, enzymes, and vaccines",
+    "Cabinet Configuration": "Vertical / Upright Type",
+    "Storage Capacity": "240 Liters",
+    "Internal Cabinet Material": "High-Grade Corrosion-Free Stainless Steel (SS Internal)",
+    "External Enclosure Build": "Heavy-Duty Galvanized Steel Body with tough, scratch-resistant powder coated finish",
+    "Inner Compartments Design": "3 Independent inner storage compartments fitted with insulated doors",
+    "Shelving & Racks System": "4 Heavy-Duty Corrosion-Resistant Racks included for sample separation",
+    "Mobility & Positioning": "Heavy-duty lockable castors with a standard 100 mm ground clearance",
+    "Outer Door Security": "Lockable outer door and lid assembly with robust key system",
+    "Cooling Mechanism Type": "High-efficiency Direct Cooling system layout",
+    "Refrigeration System Eco-Type": "Energy-efficient system using CFC-free & HCFC-free non-flammable refrigerants",
+    "Operating Temperature Range": "Adjustable from -10°C down to -25°C",
+    "Temperature Tuning Step": "Micro-increment variation setting of 1°C steps",
+    "Pull Down Performance": "High-capacity thermal response pulling down to max low in 5.2 Hours",
+    "Controller Architecture": "Fully programmable microprocessor control with membrane keypad and eye-level panel",
+    "Display Interface": "High-visibility digital temperature display screen",
+    "Integrated Safety Alarms": "Audible and visible alarm system for unwanted temp rise, power failure, and low battery",
+    "Acoustic Noise Level": "Silent laboratory operations (Maximum Noise Level ≤ 60 dB)",
+    "Energy Consumption Rate": "High efficiency eco-design rating at 4 KWh/day",
+    "Voltage Stabilization Support": "Compatible with external stabilizers running anywhere between 190V to 270V",
+    "Quality & Safety Standards": "CE Certified & IEC 61010-1 / IEC 61010-2-40 Safety Compliant",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty from the date of installation",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/deep_freezer_20c.glb",
+  "image": "assets/instruments/deep_freezer_20c.webp",
+  "images": null
+}
