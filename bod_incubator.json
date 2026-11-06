@@ -1,0 +1,31 @@
+{
+  "name": "BOD INCUBATOR",
+  "desc": "Premium BOD Incubator engineered to maintain a highly stable and precise temperature environment (typically 20°C) for microorganism growth and biological oxygen demand testing. Built with a high-density PUF-insulated double-wall structure and a microprocessor-based PID digital controller.",
+  "features": [
+    "High-density PUF-insulated double-wall structure",
+    "High precision PID temperature control with PT-100 Sensor",
+    "Motorized forced draft fan for uniform air circulation",
+    "Microprocessor based dual digital LED/LCD display",
+    "Over-temperature alarm & MCB safety protection"
+  ],
+  "specifications": {
+    "Exterior Body Material": "Heavy-Duty Mild Steel (M.S.) with Corrosion-Resistant Powder Coating",
+    "Inner Chamber Material": "High-Grade Mirror-Finish Stainless Steel (SS)",
+    "Insulation": "Thick Polyurethane Foam (PUF) insulation between double walls",
+    "Temperature Range": "5°C to 60°C",
+    "Temperature Accuracy": "± 0.5°C",
+    "Display Type": "Microprocessor Based Dual Digital LED/LCD Display",
+    "Heating System": "High-Grade Nichrome Wire Heating Elements",
+    "Air Circulation": "Motorized Forced Draft Fan for Uniformity",
+    "Power Supply": "220-240V AC, 50Hz, Single Phase",
+    "Safety Protection": "Over-temperature alarm & Miniature Circuit Breaker (MCB)",
+    "Controller": "PID Temperature Controller with PT-100 Sensor",
+    "Quality Certification": "ISO 9001:2015, ISO 13485:2016, CE, WHO-GMP",
+    "Warranty": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/bod_incubator.glb",
+  "image": "assets/instruments/bod_incubator.webp",
+  "images": null
+}
