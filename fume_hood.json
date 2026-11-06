@@ -1,0 +1,38 @@
+{
+  "name": "FUME HOOD",
+  "desc": "Premium 1500mm Industrial Fume Hood with integrated Wet Scrubber System. Engineered for safe extraction and neutralization of toxic chemical vapors, featuring a 20mm chemical-resistant Polypropylene worktop and a high-speed exhaust assembly generating ≥1000 cfm suction.",
+  "features": [
+    "Fume Hood / Exhaust System integrated with Wet Scrubber Unit",
+    "High displacement rate tracking ≥ 1000 cfm suction",
+    "Cylindrical type Spray Tower Scrubber (1200mm dia x 2800mm height)",
+    "1.5 Horsepower High-Torque Exhaust Motor (2800 RPM)",
+    "Built-in water washing and internal cleaning mechanism"
+  ],
+  "specifications": {
+    "System Configuration": "Fume Hood / Exhaust System integrated with Wet Scrubber Unit",
+    "Fume Hood Dimensions (W x D x H)": "1500 mm x 750 mm x 1600 mm robust operational structure",
+    "Base Storage Cabinet Size": "1500 mm x 700 mm x 800 mm with Adjustable Shelf integrated",
+    "Material of Construction": "High-Grade Heavy Gauge Mild Steel with epoxy powder coated casing",
+    "Fume Hood Worktop (Bed)": "20 mm thick chemical-resistant Polypropylene with 3-side skirting",
+    "Sash Control Mechanism": "Single Vertical sliding 5mm toughened glass door with counterweights",
+    "Exhaust Motor Assembly Power": "1.5 Horsepower High-Torque Motor (Three Phase, 220V/440V compatible)",
+    "Exhaust Motor Fan Speed": "2800 RPM high-velocity extraction system",
+    "Suction Rate Capacity": "High displacement rate tracking ≥ 1000 cfm",
+    "Internal Washing & Cleaning": "Built-in water washing and internal cleaning mechanism integrated",
+    "Chamber Lighting": "20 Watt LED lights enclosed in high acid-fume resistant casing",
+    "Wet Scrubber Design Type": "Cylindrical type Spray Tower Scrubber (1200mm diameter x 2800mm height)",
+    "Scrubber Material Structure": "Dual-Layer build: 2 mm thick PP inner layer + 3 mm thick FRP outer layer",
+    "Scrubber Extraction Flow Rate": "Heavy displacement scrubber flow rate rating up to 3550 cfm",
+    "Internal Packing System": "50 mm High-Surface Area PP Pall Rings packing with PP Mist Eliminator",
+    "Water Recirculation Pump": "1 HP Single-Phase Centrifugal Pump with robust PP Impeller and casing",
+    "Recirculation Water Tank": "High-Capacity 200 Liter integrated bottom water storage reservoir",
+    "Monitoring & Drainage": "View Glass Water Level Indicator with 20 mm PP ball valve drain outlet",
+    "Exhaust Ducting Layout": "350 mm diameter corrosion-free FRP ducting (Up to 30 meters run)",
+    "Warranty Cover": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India (MII Compliant)",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/fume_hood.glb",
+  "image": "assets/instruments/fume_hood.webp",
+  "images": null
+}
