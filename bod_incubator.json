@@ -1,6 +1,17 @@
 {
   "name": "BOD INCUBATOR",
   "desc": "Premium BOD Incubator engineered to maintain a highly stable and precise temperature environment (typically 20°C) for microorganism growth and biological oxygen demand testing. Built with a high-density PUF-insulated double-wall structure and a microprocessor-based PID digital controller.",
+  
+  "principle": "This machine works on the principle of a controlled forced-air refrigeration and heating cycle. It maintains a highly stable and precise temperature environment (usually 20°C) which is essential for Biochemical Oxygen Demand (BOD) testing, plant growth, and the controlled incubation of microorganisms.",
+  
+  "sop": [
+    "Switch on the machine from the main power socket and turn on the MCB switch located on the panel.",
+    "Process to set temperature for your work: Press the 'SET' button once on the digital PID controller.",
+    "Now, use the 'UP' arrow button to increase the temperature or the 'DOWN' arrow button to reduce it.",
+    "Once your desired temperature is on the screen, press the 'SET' button again to lock the temperature.",
+    "Wait for 15-20 minutes for the chamber temperature to stabilize before placing your biological samples or BOD bottles inside."
+  ],
+
   "features": [
     "High-density PUF-insulated double-wall structure",
     "High precision PID temperature control with PT-100 Sensor",
