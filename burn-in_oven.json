@@ -1,0 +1,42 @@
+{
+  "name": "BURN-IN OVEN",
+  "desc": "High-Performance Burn-In Oven engineered for electronic laboratory testing to stress test components for reliability and failures under high heat. Innolab Instruments constructs this 350-liter forced-air oven with industrial quality components to ensure your circuits work flawlessly.",
+  "principle": "The INNOLAB INSTRUMENTS BURN-IN OVEN is a high-performance forced-air thermal chamber engineered for accelerated life testing and reliability screening of electronic components, semiconductor devices, and printed circuit assemblies. Operating on the principle of controlled horizontal forced-air convection, the oven maintains a uniform temperature field of ±2°C across its 350-liter chamber, enabling precise thermal stress application from 40°C to 250°C. This thermal stress accelerates failure mechanisms such as electromigration, dielectric breakdown, solder joint fatigue, and intermetallic growth, allowing engineers and researchers to identify infant mortality and latent defects in compliance with industry standards like MIL-STD-883, JEDEC JESD22-A108, and IEC 60068-2-2. The microprocessor-based semi-automatic PID controller ensures stable setpoint tracking, while the 10-tray configuration supports high-throughput batch testing of components including capacitors, resistors, ICs, and power modules. B.Sc and M.Sc students utilize this oven for materials science experiments on thermal degradation of polymers and solder alloys, while PhD researchers employ it for long-term aging studies of wide-bandgap semiconductors and high-temperature electronics. Chemists may use it for controlled thermal decomposition of volatile organic compounds (VOCs) or curing of thermosetting resins, though primary application remains electronic reliability testing.",
+  "sop": [
+    "Ensure the oven is placed on a stable, level surface with at least 30 cm clearance from walls and flammable materials, and verify the power cord is connected to a properly grounded single-phase outlet.",
+    "Open the single door and load the electronic components or test samples onto the 10 trays, ensuring even spacing and no contact between samples to allow uniform horizontal airflow.",
+    "Close the door securely and switch ON the main power supply to the oven.",
+    "Press the 'SET' button once on the microprocessor PID controller; the display will show the current setpoint value.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 125°C for standard burn-in or up to 250°C for high-temperature stress).",
+    "Press 'SET' again to lock the value; the controller will now display the actual chamber temperature and begin heating.",
+    "Allow the oven to stabilize at the setpoint for at least 30 minutes before starting the test timer, monitoring the temperature display to confirm uniformity within ±2°C.",
+    "Record the start time and periodically check the oven during the burn-in cycle, ensuring no abnormal odors, smoke, or unusual noises occur.",
+    "After the required burn-in duration (e.g., 168 hours for MIL-STD-883), switch OFF the heater and allow the chamber to cool naturally to below 50°C before opening the door.",
+    "Wear heat-resistant gloves and safety goggles when unloading samples, as residual heat may cause burns; never open the door during high-temperature operation to avoid thermal shock to components and risk of injury."
+  ],
+  "features": [
+    "Horizontal Forced Air Flow for superior temperature distribution",
+    "Microprocessor semi-automatic control architecture",
+    "Temperature Uniformity maintained strictly at ±2°C",
+    "10 Trays high-capacity sample holding infrastructure",
+    "Robust Mild Steel single door chassis"
+  ],
+  "specifications": {
+    "Chamber Volume": "350 Liters (Matched with model)",
+    "Temperature Range": "40°C – 250°C",
+    "Temperature Uniformity": "± 2°C",
+    "Air-Flow Direction": "Horizontal Air Flow (Forced Air)",
+    "Control Type": "Microprocessor",
+    "Number Of Trays": "10 Trays",
+    "Material": "Mild Steel",
+    "Door Type": "Single Door",
+    "Automation Grade": "Semi Automatic",
+    "Phase": "Single Phase",
+    "Warranty": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/burn_in_oven.glb",
+  "image": "assets/instruments/burn_in_oven.webp",
+  "images": null
+}

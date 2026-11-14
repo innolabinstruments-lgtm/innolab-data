@@ -1,6 +1,23 @@
 {
   "name": "PULSE VACUUM VERTICAL AUTOCLAVE",
   "desc": "The INNOLAB INSTRUMENTS INNO-V-PVAU-220 Pulse Vacuum Vertical Autoclave is a highly advanced, fully automatic steam sterilizer designed to deliver exceptional sterilization performance. This system utilizes a sophisticated imported water-ring vacuum pump to execute pre-vacuum cycles for immediate and efficient air removal, ensuring deep steam penetration.",
+  "principle": "The INNOLAB INSTRUMENTS INNO-V-PVAU-220 Pulse Vacuum Vertical Autoclave operates on the principle of pre-vacuum steam sterilization, where an imported water-ring vacuum pump evacuates air from the stainless steel 304 chamber before steam injection, eliminating cold spots and ensuring rapid, uniform penetration of saturated steam at 121°C or 134°C under 0.22 MPa pressure. This dynamic air removal method is critical for sterilizing porous loads, wrapped surgical instruments, laboratory glassware contaminated with strong acids or volatile organic compounds (VOCs), culture media for microbiology assays, and biohazardous waste from B.Sc/M.Sc students, PhD researchers, and hospital clinicians. The post-vacuum drying phase, combined with a 0.2µ bacterial air filter, prevents recontamination during chamber venting, while the internal steam collector tank ensures zero open steam discharge, aligning with ISO 17665 and ASTM E1766 standards for effective moist heat sterilization in hospital and epidemic disinfection applications.",
+  "sop": [
+    "Ensure the autoclave is connected to a 220V, 50Hz power supply and the water-ring vacuum pump reservoir is filled to the recommended level with clean water.",
+    "Load the items to be sterilized into the two supplied wire mesh baskets, ensuring wrapped instruments, glassware, or liquid containers are arranged to allow steam circulation and do not exceed chamber capacity.",
+    "Close the chamber door and secure it firmly using the hand wheel type locking mechanism until the jointless silicone rubber gasket forms a tight seal.",
+    "Switch ON the main power supply to activate the LCD smart controller.",
+    "Press the 'SET' button once to enter program selection mode.",
+    "Use the 'UP' and 'DOWN' arrows to scroll through the four preselected programs: Glassware, Instrument, Liquid, or Dressing, based on the load type.",
+    "Press 'SET' again to confirm the selected program and lock the cycle parameters.",
+    "If manual adjustment is required, press the 'SET' button once more to access temperature or timer settings, then use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 121°C for 15 minutes or 134°C for 3 minutes), and press 'SET' again to lock the value.",
+    "Press the 'START' button to initiate the fully automatic cycle; the water-ring vacuum pump will perform pre-vacuum pulses to remove air, followed by steam injection, sterilization hold, and post-vacuum drying.",
+    "Monitor the LCD display for cycle progress, ensuring the working pressure does not exceed 0.22 MPa and the temperature remains within 0 to 134°C.",
+    "Upon cycle completion, wait for the chamber pressure to return to atmospheric level and the display to indicate 'Cycle Complete' or 'Safe to Open'.",
+    "Wear heat-resistant gloves and slowly open the hand wheel door, standing to the side to avoid residual steam, then carefully remove the sterilized baskets using appropriate handling tools.",
+    "Switch OFF the main power supply and leave the chamber door slightly ajar to allow the chamber to cool and dry, preventing moisture buildup and corrosion.",
+    "SAFETY WARNING: Never attempt to open the chamber door while the pressure gauge reads above 0 MPa or the LCD indicates active pressure, as sudden release of superheated steam can cause severe burns; always verify the internal steam collector tank is not overfilled and the bacterial air filter is intact before each cycle."
+  ],
   "features": [
     "Imported Water Ring Vacuum Pump for Pre and Post Pulse Vacuum Cycles",
     "LCD Smart Controller with 4 Preselected Programs (Glassware, Instrument, Liquid, Dressing)",

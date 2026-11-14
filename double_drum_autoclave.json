@@ -1,0 +1,52 @@
+{
+  "name": "DOUBLE DRUM AUTOCLAVE",
+  "desc": "The INNOLAB INSTRUMENTS INNO-AU-DD-280 Double Drum Autoclave is a specialized, high-pressure steam sterilizer essential for hospitals, nursing homes, and surgical clinics. Specifically engineered to accommodate two standard dressing drums simultaneously, this autoclave efficiently sterilizes surgical instruments, dressings, and medical textiles.",
+  "principle": "The INNOLAB INSTRUMENTS DOUBLE DRUM AUTOCLAVE is a high-pressure steam sterilizer engineered to achieve rapid and reliable sterilization of surgical instruments, dressings, and medical textiles through the application of saturated steam under pressure. Operating at 121°C to 125°C and 15 to 20 psi, the autoclave leverages the principle of moist heat sterilization, where the latent heat of steam denatures microbial proteins, nucleic acids, and cellular structures, effectively eliminating vegetative bacteria, viruses, fungi, and highly resistant bacterial endospores. This double drum configuration allows simultaneous sterilization of two standard dressing drums, making it indispensable in hospital central sterile supply departments (CSSD), nursing homes, and surgical clinics. In academic and research settings, B.Sc. and M.Sc. students, PhD researchers, and chemists utilize this autoclave to sterilize culture media, glassware, and biohazardous waste, ensuring aseptic conditions for microbiological assays, cell culture, and chemical syntheses involving heat-stable reagents. The system complies with international standards such as ISO 17665 for moist heat sterilization and EN 285 for large steam sterilizers, guaranteeing validated performance for critical medical and laboratory applications.",
+  "sop": [
+    "Ensure the autoclave is placed on a level surface and connected to a 220V, 50Hz power supply. Check that the water level indicator shows sufficient distilled or deionized water in the chamber.",
+    "Load the two dressing drums containing surgical instruments or dressings into the sterilization chamber, ensuring they are not overpacked and that steam can circulate freely.",
+    "Close the lid securely using the radial locking mechanism and engage the pedal lifting device to ensure a tight seal with the high-temperature silicone gasket.",
+    "Press the 'SET' button once on the digital PID controller to enter the temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the required target temperature to 121°C (or 125°C for faster cycles).",
+    "Press 'SET' again to lock the temperature value and return to the main display.",
+    "Set the mechanical timer to the desired sterilization hold time (typically 15-20 minutes for wrapped instruments, 30 minutes for liquids) by rotating the timer knob.",
+    "Turn the mains ON/OFF switch to the ON position to energize the immersion heater. The pressure will begin to rise as steam is generated.",
+    "Monitor the dial pressure gauge until it reaches 15-20 psi, at which point the automatic control switch will maintain the pressure within the set range.",
+    "Once the timer expires, the autoclave will automatically cut off the heater. Allow the pressure to drop naturally to 0 psi before opening the manual release valve to vent any residual steam.",
+    "After the pressure gauge reads 0 psi, carefully open the lid using the pedal lifting device, keeping face and hands away from the opening to avoid steam burns.",
+    "Using heat-resistant gloves, remove the sterilized drums and place them on a clean, dry surface to cool before storage or use.",
+    "Safety Warning: Never attempt to open the autoclave while the pressure gauge indicates any positive pressure, as sudden release of superheated steam can cause severe scalding and explosive ejection of contents; always verify that the pressure has fully equalized to atmospheric pressure and the temperature has dropped below 80°C before opening."
+  ],
+  "features": [
+    "Accommodates 2 Nos. standard dressing drums (11x9 or 15x12 inches)",
+    "Radial Locking Mechanism with Pedal Lifting Device for secure sealing",
+    "Operating Temperature Range of 121°C to 125°C at 15 to 20 psi",
+    "ISI Mark Immersion Heater (2 KW or 4 KW) with Spring Loaded Safety Valve",
+    "Dial Pressure Gauge and Mechanical Timer (Adjustable up to 60 Minutes)"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Double Drum Surgical Autoclave",
+    "Operating Temperature Range": "121°C to 125°C",
+    "Operating Pressure": "15 to 20 psi (Automatic Control Switch)",
+    "Sterilization Chamber Material": "Stainless Steel 304",
+    "Exterior Construction": "Painted MS (Economy) / SS 304 (Deluxe)",
+    "Lid Construction": "Painted MS with SS Inner Line (Economy) / SS 304 (Deluxe)",
+    "Stand and Ring": "Chrome Plated MS",
+    "Door Locking Mechanism": "Radial Locking Mechanism with Pedal Lifting Device",
+    "Door Gasket": "High Temperature Jointless Silicone Rubber Gasket",
+    "Heating Element": "ISI Mark Immersion Heater (2 KW or 4 KW)",
+    "Timer": "Mechanical Timer (Adjustable up to 60 Minutes)",
+    "Pressure Display": "Dial Pressure Gauge",
+    "Pressure Release": "Manual Release Valve",
+    "Standard Safety Features": "Spring Loaded Safety Valve on Lid",
+    "Testing": "Hydraulic Tested at 2.5 times of Working Pressure",
+    "Standard Fittings": "Mains ON/OFF Switch, SS Stand for Drums, Water Level Indicator, Water Drain Valve",
+    "Electrical Power Supply": "220 Volts, 50Hz",
+    "Target Applications": "Hospital Dressing Sterilization, Surgical Instrument Decontamination",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/double_drum_autoclave.glb",
+  "image": "assets/instruments/double_drum_autoclave.webp",
+  "images": null
+}

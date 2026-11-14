@@ -1,0 +1,37 @@
+{
+  "name": "CRYOGENIC FREEZER",
+  "desc": "The INNOLAB INSTRUMENTS Cryogenic Freezer is an ultra-low preservation unit for long-term storage of cells and tissues down to -152°C and -164°C. It features a microprocessor-based controller, an integrated mini printer, 155mm VIP vacuum thermal insulation, and a 72-hour battery backup system.",
+  "principle": "The INNOLAB INSTRUMENTS Cryogenic Freezer operates on a cascade/mixed-gas refrigeration cycle to achieve ultra-low temperatures down to -164°C, preserving biological and chemical integrity by drastically reducing molecular motion and enzymatic activity. Its 155mm VIP vacuum thermal insulation minimizes heat ingress, while a microprocessor-based PID controller maintains setpoint stability. Doctors use it for long-term cryopreservation of stem cells, cord blood, bone marrow, and reproductive tissues in cryoprotectant media containing dimethyl sulfoxide (DMSO) and fetal bovine serum (FBS). B.Sc/M.Sc students store bacterial glycerol stocks, yeast cultures, and mammalian cell lines for microbiology and cell biology practicals. PhD researchers archive RNA, DNA, protein lysates, and tissue biopsies for genomics, proteomics, and histology assays. Chemists preserve temperature-sensitive reagents, volatile organic standards, and polymerization initiators that require storage below -130°C to prevent degradation. The system aligns with ISO 20387 biobanking and ASTM E1564 low-temperature storage guidelines, ensuring reproducible sample integrity.",
+  "sop": [
+    "Ensure the freezer is connected to a dedicated 220V/50Hz power outlet and the main power switch is ON.",
+    "Press the 'SET' button once to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., -150°C for long-term cell storage).",
+    "Press 'SET' again to lock the value and allow the microprocessor controller to initiate cooling.",
+    "Allow the chamber to reach the set temperature and stabilize for at least 30 minutes before loading samples.",
+    "Wear cryogenic gloves and face shield; open the outer door briefly and place cryovials, cryoboxes, or aluminum canes containing samples into the stainless steel chamber.",
+    "Close the door securely and verify the door seal is intact to maintain VIP vacuum insulation efficiency.",
+    "Record the temperature reading from the digital display or integrated mini printer at the start and end of each shift.",
+    "Check alarm indicators for high/low temperature, power failure, or sensor failure; respond according to laboratory protocol.",
+    "Safety Warning: Never handle samples or touch inner surfaces with bare hands; ultra-low temperatures can cause severe cryogenic burns, and always ensure adequate ventilation to avoid oxygen depletion if refrigerant leaks."
+  ],
+  "features": [
+    "Ultra-low temperature range from -110°C up to -164°C",
+    "155mm VIP vacuum thermal insulation for maximum temperature retention",
+    "Imported single-stage oil lube compressor with direct cooling",
+    "Microprocessor controller with password protection and micro printer",
+    "72 hours battery backup for controller & printer during power failure"
+  ],
+  "specifications": {
+    "Volume Options": "128 Liters, 258 Liters",
+    "Temperature Range": "-110°C to -164°C (depending on model)",
+    "Inner Chamber": "Stainless steel 304",
+    "Insulation": "155mm VIP vacuum thermal insulation",
+    "Refrigerant": "Mix gas",
+    "Alarms": "High/low temp, high/low voltage, sensor failure, low battery",
+    "Power Supply": "220 Volts / 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/cryogenic_freezer.glb",
+  "image": "assets/instruments/cryogenic_freezer.webp",
+  "images": null
+}

@@ -1,6 +1,19 @@
 {
   "name": "HYBRIDIZATION OVEN",
   "desc": "Premium Hybridization Oven designed for molecular biology laboratories specializing in nucleic acid hybridization and blot analysis. We at Innolab Instruments manufacture this unit with a 560-liter capacity, precise microprocessor PID digital controller, and an integrated bottle rotator.",
+  "principle": "The INNOLAB INSTRUMENTS Hybridization Oven is a precision microprocessor PID-controlled thermal rotation system engineered for reproducible nucleic acid hybridization and blot processing in molecular biology, genomics, and diagnostic laboratories. Its 560-liter double-walled SS 304 chamber with natural air circulation and transparent viewing window maintains uniform temperature from 50°C to 200°C (typical hybridization range ambient to 90°C) with an accuracy of ±0.5°C and display resolution of 0.1°C, while an integrated bottle rotator turns up to six 30 mm × 200 mm hybridization bottles at 10–30 rpm. This continuous gentle agitation ensures efficient and uniform probe diffusion over membranes without localized overheating or excessive shear. Doctors and clinical molecular pathologists rely on the system for Southern, Northern, and Western blot hybridization, in situ hybridization, and probe-based diagnostic assays involving DNA/RNA targets. B.Sc and M.Sc students use it for fundamental nucleic acid hybridization practicals, understanding stringency washes, and probe annealing kinetics. PhD researchers and biochemists employ it for high-stringency hybridization using formamide, SSC (saline-sodium citrate) buffers, Denhardt's solution, salmon sperm DNA, SDS, and digoxigenin- or radioisotope-labeled probes. The PID controller's auto-tuning action minimizes overshoot and drift, ensuring compliance with GLP and ISO 9001 laboratory quality practices for controlled-temperature incubation of sealed reaction vessels, thereby delivering lot-to-lot reproducible membrane hybridization and low background signal.",
+  "sop": [
+    "Place the hybridization oven on a stable bench, connect to 230V AC single-phase 50 Hz grounded supply, and ensure the chamber is clean and dry.",
+    "Open the glass door and load the six hybridization bottles (30 mm dia × 200 mm) containing membranes and prehybridization/hybridization buffer into the rotator carrier, ensuring all caps are tight and bottles are balanced.",
+    "Close the door and switch ON the main power.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., set 65°C for standard SSC/formamide hybridization).",
+    "Press 'SET' again to lock the value.",
+    "Set the rotator speed knob to a value between 10 and 30 rpm as required for uniform agitation.",
+    "Allow the oven to reach and stabilize at setpoint, verifying the digital display reads within ±0.5°C of target before starting the timed hybridization run.",
+    "After completion, switch off the heater and rotator, allow the chamber to cool below 50°C before opening the door.",
+    "Safety Precaution: Always wear thermally insulated gloves and safety goggles when handling hybridization bottles and reagents such as formamide, SSC, or radiolabeled probes; never open the door during rotor movement or when the chamber temperature is above 50°C to avoid burns and hazardous vapor exposure."
+  ],
   "features": [
     "Microprocessor PID digital controller with 0.1°C display resolution",
     "Supplied with a carrier to hold 6 bottles (30mm dia x 200mm depth)",

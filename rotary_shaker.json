@@ -1,6 +1,21 @@
 {
   "name": "ROTARY SHAKER",
   "desc": "Benchtop Microprocessor-Controlled Rotary Shaker engineered for uniform mixing and culture development. Equipped with a maintenance-free Brushless DC motor, stepless frequency speed control ranging from 15 to 525 RPM, and a compact counterbalance drive mechanism for vibration-free stability.",
+  "principle": "The INNOLAB INSTRUMENTS ROTARY SHAKER is a high-precision benchtop orbital mixing system engineered for uniform agitation and culture development in microbiology, biochemistry, and pharmaceutical laboratories. It employs a maintenance-free brushless DC motor with stepless frequency control to deliver vibration-free rotary motion from 15 to 525 RPM, ensuring optimal aeration and nutrient distribution for microbial growth. This instrument is indispensable for cultivating Escherichia coli, Saccharomyces cerevisiae, and mammalian cell lines in Erlenmeyer flasks up to 1000 mL, as well as for mixing aggressive solvents, strong acids (e.g., HCl, H2SO4) in sealed containers, volatile organic compounds (VOCs), and viscous reagents. It supports standardized protocols such as ISO 6887 for sample preparation, ASTM E2870 for mixing evaluation, and GLP-compliant workflows, making it ideal for B.Sc/M.Sc students, PhD researchers, and quality control chemists performing solubility studies, extraction procedures, and enzyme assays.",
+  "sop": [
+    "Place the rotary shaker on a stable, level bench and connect it to a 220V, 50Hz single-phase power supply.",
+    "Install the required stainless steel clamps (50 mL to 1000 mL) onto the universal platform according to the flask sizes to be used.",
+    "Securely load the flasks containing samples (e.g., culture media, chemical solutions) into the clamps, ensuring a balanced distribution across the platform to prevent imbalance.",
+    "Switch on the main power switch; the digital LED display will illuminate, indicating the unit is ready.",
+    "Press the 'SET' button once to enter the speed setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target speed (e.g., 200 RPM) as shown on the display.",
+    "Press 'SET' again to lock the speed value.",
+    "If a timed operation is required, press the timer button (or navigate to timer setting) and use the same 'SET', 'UP', and 'DOWN' sequence to set the desired duration up to 999 minutes.",
+    "Press the start/run button to begin shaking; the platform will accelerate smoothly to the set speed without jerking.",
+    "Monitor the operation via the LED display; if the motor is overloaded, the LED will flash and the unit will automatically stop for safety.",
+    "After the run is complete, press the stop button, switch off the main power, and carefully remove the flasks from the clamps.",
+    "SAFETY WARNING: Always ensure all flasks are tightly capped or covered to prevent spillage of hazardous chemicals or infectious cultures; never open the lid or attempt to adjust clamps while the shaker is in motion, and disconnect the power cord before cleaning or performing any maintenance."
+  ],
   "features": [
     "15 RPM to 525 RPM highly adjustable scale",
     "Heavy-Duty Brushless DC Motor (Maintenance-free, long-life)",

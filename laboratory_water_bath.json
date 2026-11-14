@@ -1,6 +1,20 @@
 {
   "name": "LABORATORY WATER BATH",
   "desc": "Double-Walled Rectangular Digital Laboratory Circulating Water Bath engineered for multi-sample constant temperature incubation. Features a 10-liter reservoir volume equipped with a 6-hole concentric ring lid configuration allowing simultaneous heating of multiple flasks.",
+  "principle": "The INNOLAB INSTRUMENTS LABORATORY WATER BATH operates on the principle of precise thermal regulation through a microprocessor-based PID controller, which maintains a stable, uniform temperature within a 10-liter distilled water reservoir. The double-walled insulated chamber minimizes thermal loss, while active continuous circulation ensures homogeneity, eliminating temperature gradients. This enables reproducible incubation of biological samples, enzymatic assays, reagent warming, and extraction procedures. Doctors and clinical technicians use it for serum inactivation, coagulation tests, and warming culture media; B.Sc/M.Sc students employ it for microbiology culturing, enzyme kinetics, and chemical solubility studies; PhD researchers and chemists rely on it for controlled hydrolysis, polymer synthesis, and ASTM/ISO standardized tests such as ASTM D445 for viscosity or ISO 3104. The 6-hole concentric ring lid supports simultaneous heating of multiple flasks or test tubes, preventing cross-contamination and ensuring consistent thermal exposure for volatile organic compounds (VOCs), strong acids like hydrochloric or sulfuric acid in sealed vessels, and sensitive biological assays.",
+  "sop": [
+    "Ensure the water bath is placed on a stable, level benchtop surface and connected to a 220 V AC, 50 Hz single-phase power supply.",
+    "Fill the reservoir with pure distilled water to the recommended level, ensuring all heating elements are fully submerged and the liquid level is below the 6-hole lid platform.",
+    "Place the samples (test tubes, flasks, or reagent bottles) securely into the concentric ring holes, ensuring they are upright and not overfilled.",
+    "Switch ON the main power supply using the instrument's power switch.",
+    "Press the 'SET' button once on the digital PID controller; the display will flash the current setpoint value.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 37°C for biological assays, 60°C for chemical extractions, or up to boiling for specific protocols).",
+    "Press 'SET' again to lock the value; the controller will now regulate the heater to reach and maintain the setpoint.",
+    "Allow the water bath to equilibrate for at least 15–20 minutes or until the display stabilizes at the target temperature, confirming uniform thermal distribution via the internal circulation pump.",
+    "Monitor the digital display periodically during the incubation period; do not leave the instrument unattended for extended durations.",
+    "After completion, switch OFF the heater and main power, carefully remove samples using heat-resistant gloves or tongs, and allow the water to cool before draining.",
+    "SAFETY WARNING: Never operate the water bath with insufficient water or without distilled water, as dry heating can cause severe damage to the heating elements and pose a fire hazard. Always use heat-resistant gloves when handling hot lids or samples, and avoid placing volatile, flammable solvents directly in open containers to prevent vapor ignition."
+  ],
   "features": [
     "10 Litre high-capacity internal thermal reservoir tank",
     "6 holes design template with removable concentric ring lid sets",

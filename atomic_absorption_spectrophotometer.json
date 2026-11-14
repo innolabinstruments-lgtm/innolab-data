@@ -1,0 +1,50 @@
+{
+  "name": "ATOMIC ABSORPTION SPECTROPHOTOMETER",
+  "desc": "Premium Benchtop Single-Beam Atomic Absorption Spectrophotometer (AAS) engineered for high-sensitivity trace metal detection. Features a high-performance optical design with a broad wavelength capability up to 900 nm and a precise 2 nm fixed spectral bandwidth.",
+  "principle": "The INNOLAB INSTRUMENTS ATOMIC ABSORPTION SPECTROPHOTOMETER operates on the principle of atomic absorption spectroscopy, where free ground-state atoms generated in a flame or graphite furnace absorb characteristic narrow-line radiation emitted by a hollow cathode lamp. The instrument's single-beam optical path, high-dispersion diffraction grating monochromator, and 2 nm fixed spectral bandwidth isolate the analytical line up to 900 nm, while the photomultiplier tube detector quantifies the transmitted intensity. Under Beer-Lambert law, absorbance is directly proportional to the concentration of the target element. This benchtop AAS is routinely used by doctors and clinical toxicologists for blood lead, serum zinc, and copper assays; by B.Sc/M.Sc students and PhD researchers for trace metal quantification in environmental water, soil digests, food, and metallurgical samples; and by chemists for compliance with ISO 11885, EPA 7000 series, ASTM D1688, and APHA methods. Typical analytes include Pb, Cd, As, Hg, Fe, Zn, Cu, Cr, Ni, Mn, and Co after acid digestion with HNO3, HCl, or HF, with flame atomization using air-acetylene or nitrous oxide-acetylene.",
+  "sop": [
+    "Switch on the main power supply and allow the instrument to warm up for at least 15–20 minutes to stabilize the hollow cathode lamp and detector.",
+    "Install the required hollow cathode lamp (e.g., Pb, Cd, Cu, Fe) into the lamp turret and connect the lamp cable securely.",
+    "Press the 'SET' button once to enter the lamp current/wavelength setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 217.0 nm for lead or 324.7 nm for copper).",
+    "Press 'SET' again to lock the value and allow the monochromator to drive to the selected wavelength.",
+    "Optimize the burner height, impact bead, and nebulizer uptake rate for maximum absorbance signal using a standard solution.",
+    "Ignite the air-acetylene flame only after confirming gas pressures and leak checks; for refractory elements use nitrous oxide-acetylene.",
+    "Aspirate a blank (deionized water or acid-matched matrix) and auto-zero the instrument.",
+    "Aspirate freshly prepared calibration standards (e.g., 0.5, 1.0, 2.0, 5.0 mg/L) and record absorbance to construct a linear calibration curve.",
+    "Aspirate the digested or diluted sample and record the absorbance; the software converts it to concentration using the calibration curve.",
+    "After analysis, aspirate 1% HNO3 for 2–3 minutes, then deionized water to rinse the burner and nebulizer.",
+    "Turn off the flame, close the fuel gas cylinder valve, and purge the gas lines; switch off the instrument and computer.",
+    "Safety Warning: Never leave the flame unattended, never aspirate perchloric acid or high-solids samples without an approved fume extraction system, and always confirm the acetylene cylinder is fully closed and the burner head is cool before leaving the laboratory."
+  ],
+  "features": [
+    "Advanced Single Beam optical pathway topology",
+    "Broad analytical scale reaching up to 900 nm spectrum",
+    "Extreme precision tracking calibrated at ±0.2 nm",
+    "Ultra-stable transmission measurement verified at ±0.3% T",
+    "Integrated high-speed RS232 / USB 2.0 interface for external computer links"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Benchtop Atomic Absorption Spectrophotometer (AAS)",
+    "Optical System Design": "Advanced Single Beam optical pathway topology",
+    "Mobility & Installation Layout": "Rigid Benchtop stable laboratory workstation configuration",
+    "Wavelength Span Capacity": "Broad analytical scale reaching up to 900 nm spectrum",
+    "Spectral Bandwidth Index": "Fixed high-resolution performance at exactly 2 nm",
+    "Wavelength Repeatability Index": "Extreme precision tracking calibrated at ±0.2 nm",
+    "Photometric Accuracy Scale": "Ultra-stable transmission measurement verified at ±0.3% T",
+    "Light Source Management": "Supports standard Hollow Cathode Lamps (HCL) integration",
+    "Monochromator System": "High-dispersion diffraction grating layout for superior separation",
+    "Detector Integration Type": "High-sensitivity Photomultiplier Tube (PMT) or advanced solid-state sensor",
+    "Data Communication Ports": "Integrated high-speed RS232 / USB 2.0 interface for external computer links",
+    "Chassis Material Protection": "Chemical-resistant, heavy-duty industrial finished outer enclosure",
+    "Software Compatibility": "Supports comprehensive quantitative calibration and data record logging",
+    "Power Supply Requirements": "Standard 220-240 V AC, 50 Hz, Single Phase stable Indian plug connection",
+    "Target Field Applications": "Soil Testing, Environmental Analysis, Food Quality, Water Safety, & Metallurgy",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/atomic_absorption_spectrophotometer.glb",
+  "image": "assets/instruments/atomic_absorption_spectrophotometer.webp",
+  "images": null
+}

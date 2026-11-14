@@ -1,6 +1,19 @@
 {
   "name": "PCB BAKING OVEN",
   "desc": "Industrial PCB Baking and Curing Oven designed for precise thermal curing and moisture removal from printed circuit boards. Innolab Instruments supplies these heavy-duty 220-liter ovens with uniform heat distribution and PID closed-loop control to ensure flawless soldering and processing.",
+  "principle": "The INNOLAB INSTRUMENTS PCB BAKING OVEN is a high-precision thermal processing system engineered for moisture removal, curing, and stress relief of printed circuit boards and advanced electronic assemblies. It employs PID closed-loop control with solid-state relay (SSR) drive to maintain uniform temperature distribution within ±1°C across the 220-liter chamber, ensuring repeatable thermal profiles. In electronics manufacturing and research laboratories, engineers and PhD researchers use this oven to bake moisture-sensitive FR-4, polyimide, and PTFE substrates prior to reflow soldering, preventing delamination, voiding, and popcorn cracking as specified in IPC/J-STD-033 and IPC-TM-650. It is also used for curing epoxy-based solder masks, conformal coatings, potting compounds, and silver-filled conductive adhesives, driving off volatile organic compounds (VOCs) from fluxes, cleaning solvents, and outgassing low-molecular-weight species to meet ASTM D618 and MIL-STD-883 requirements. B.Sc/M.Sc students and material scientists rely on it for thermal aging studies, glass transition temperature conditioning, and adhesion testing of PCB laminates, while chemists use it for controlled evaporation of residual solvents and moisture from coated substrates. The oven's forced convection and adjustable guide rails ensure uniform heat transfer across up to 70 PCBs, making it indispensable for failure analysis, reliability testing, and prototype development.",
+  "sop": [
+    "Ensure the oven is connected to a 220 V supply and the exhaust ventilation is active before starting.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 125°C for moisture removal or 150°C for curing).",
+    "Press 'SET' again to lock the value.",
+    "Allow the oven to preheat until the temperature stabilizes and the heating indicator cycles on/off.",
+    "Load PCBs onto the racks with 25.4 mm spacing, ensuring boards do not touch chamber walls or block airflow.",
+    "Close the door securely and start the process timer if the model includes one.",
+    "Monitor the temperature display and process status; do not open the door during the heating cycle.",
+    "After the cycle, allow the oven to cool below 60°C before opening the door to unload PCBs.",
+    "Safety Warning: Never bake PCBs contaminated with flammable solvents, strong acids, or excessive flux residues; ensure adequate ventilation to prevent accumulation of VOCs, which can cause fire, explosion, or toxic exposure."
+  ],
   "features": [
     "PID closed-loop control paired with high-efficiency SSR drive",
     "Conveyor height optimized at 900±20mm",

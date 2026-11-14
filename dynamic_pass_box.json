@@ -1,0 +1,43 @@
+{
+  "name": "DYNAMIC PASS BOX",
+  "desc": "The INNOLAB INSTRUMENTS Dynamic Pass Box (DPB) is a critical cleanroom transfer system installed between classified and non-classified areas. It utilizes an internal motor-blower and a high-efficiency HEPA filtration system to bathe transferred materials in vertically filtered, ultra-clean air, preventing airborne cross-contamination. Featuring a robust electromagnetic interlocking mechanism, it ensures that doors on both sides cannot be opened simultaneously, safeguarding the integrity of pharmaceutical, microbiology, and food processing environments.",
+  "principle": "The INNOLAB INSTRUMENTS DYNAMIC PASS BOX is a barrier-isolation transfer system that maintains ISO 14644-1 Class 5 (Class 100) cleanliness by forcing air through a 95% efficient 5-micron pre-filter and a 99.97% efficient HEPA filter, producing a vertical unidirectional stream of ultra-clean air. This continuous HEPA-filtered air sweeps over transferred materials such as sterile culture media, antibiotic assay discs, membrane filters, sporicidal disinfectant-soaked wipes, sterile vials, sealed containers of strong acids or volatile solvents, active pharmaceutical ingredients, and clinical microbiological specimens. The electromagnetic interlock prevents simultaneous opening of the two doors, preserving pressure cascade and preventing ingress of viable and non-viable particulates. Integrated UV-C radiation offers surface decontamination against bacterial endospores, fungi, and bacteriophages. This equipment supports aseptic processing in pharmaceutical manufacturing, food microbiology testing, cell and tissue culture work, and hospital pharmacy compounding under EU GMP Annex 1, USP <797>, ISO 14644-1, and ASTM E2352 cleanroom protocols.",
+  "sop": [
+    "Verify that the dynamic pass box is connected to a 220 V / 50 Hz power supply and that the surrounding area is clean and dry.",
+    "Wipe the interior chamber, stainless steel grills, and door viewing windows with a validated disinfectant such as 70% isopropanol or 6% hydrogen peroxide using a low-lint cleanroom wipe.",
+    "Switch ON the main power isolator and turn ON the blower using the 'Blower On/Off' switch; confirm that the LED tube light and blower indicator illuminate.",
+    "For units fitted with a PID airflow or velocity controller, press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, such as an air velocity setpoint of 0.45 m/s ± 20% or the recommended differential pressure setpoint.",
+    "Press 'SET' again to lock the value.",
+    "Close both doors and allow the HEPA-filtered vertical airflow to stabilize for at least 5 minutes before transferring materials.",
+    "Place materials to be transferred on the intermediate stainless steel platform, ensuring that the air supply and return grills are not blocked.",
+    "If surface decontamination is required, close the upstream door and switch ON the UV light for the recommended cycle, typically 15 to 30 minutes.",
+    "Before opening any door, switch OFF the UV light and confirm the door indicator status; open only the downstream door because the electromagnetic interlock prevents simultaneous opening.",
+    "Transfer the materials to the receiving cleanroom side, close the door immediately, and verify that the door indicator lights show both doors closed.",
+    "Record the pressure differential, UV usage hours, and any alarm condition in the cleanroom logbook.",
+    "Safety Precaution: Never bypass or disable the electromagnetic interlocking system, and never attempt to open both doors simultaneously; UV radiation is harmful to eyes and skin, so always switch OFF the UV light and confirm the door indicator state before opening any door."
+  ],
+  "features": [
+    "Class 100 cleanroom compliance ensuring maximum particulate filtration",
+    "Constructed entirely from premium Stainless Steel 304 (SS 316/316L available on request)",
+    "Advanced Motor-blower system forcing air through a 99.97% efficient HEPA filter",
+    "Fail-safe electromagnetic interlocking door system to prevent simultaneous opening",
+    "Integrated UV light for surface sterilization of passed materials",
+    "Low-noise operation with durable SS handles, hinges, and clear glass viewing windows"
+  ],
+  "specifications": {
+    "Cleanliness Level": "Class 100 compliant environment",
+    "Internal Dimensions": "2 x 2 x 2 Ft. (60 x 60 x 60 cm) - Custom sizes available",
+    "Material of Construction": "Stainless Steel 304 (SS 316 optional)",
+    "Air System": "Integrated Motor-blower with suspension arrangement",
+    "Filtration System": "Pre-filter (95% down to 5 micron) + HEPA filter (99.97%) protected by SS grills",
+    "Door Mechanism": "Two side doors with glass windows, SS hinges, and Electromagnetic Interlock",
+    "Standard Fittings": "UV light, LED tube light, Door indicator lights, Blower On/Off switch",
+    "Optional Upgrades": "Differential Pressure Gauge, DOP Test Port, Door buzzer, UV hour meter",
+    "Power Supply": "220 Volts / 50 Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/dynamic_pass_box.glb",
+  "image": "assets/instruments/dynamic_pass_box.webp",
+  "images": null
+}

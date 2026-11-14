@@ -1,6 +1,27 @@
 {
   "name": "SOXHLET EXTRACTION UNIT",
   "desc": "Premium 3-Place Laboratory Soxhlet Extraction Unit engineered for the highly efficient extraction of soluble compounds from solid matrices. Features 3 independent heating mantles tailored for 50 ml boiling flasks with precise B24 joint sizes.",
+  "principle": "The INNOLAB INSTRUMENTS SOXHLET EXTRACTION UNIT operates on the classical Soxhlet extraction principle, enabling continuous, automated solvent reflux for the exhaustive extraction of soluble analytes from solid matrices. In this 3-place configuration, each 50 ml boiling flask is heated by an independent knitted fiber mantle up to 250°C, vaporizing solvents such as hexane, dichloromethane, methanol, or petroleum ether. The vapor rises through a bypass side arm into the high-efficiency Allihn condenser, where it condenses and drips into the cellulose or glass fiber thimble containing the solid sample. Once the solvent level reaches the siphon arm, the solvent enriched with extracted compounds automatically siphons back into the boiling flask, and the cycle repeats. This continuous reflux ensures high extraction efficiency for lipophilic compounds, natural products, environmental pollutants, and polymer additives. Doctors and clinical researchers use this unit for lipid profiling in biological tissues, B.Sc/M.Sc students perform gravimetric fat determination in food samples per AOAC methods, PhD researchers isolate bioactive phytochemicals from plant materials, and chemists quantify extractable organic matter in soils and sediments following ISO 11046 or ASTM D5369 standards. The B24 ground glass joints ensure leak-free assembly, while independent energy regulators allow precise control of boiling rate for each position, preventing thermal degradation of thermolabile analytes and ensuring reproducible extraction kinetics.",
+  "sop": [
+    "Ensure the unit is placed on a stable, level bench inside a fume hood with adequate ventilation for solvent vapors.",
+    "Verify that all glass components (boiling flask, Soxhlet extractor body, Allihn condenser) are clean, dry, and free from cracks or chips.",
+    "Weigh the solid sample accurately and place it into a pre-extracted cellulose or glass fiber thimble, then insert the thimble into the Soxhlet extractor body.",
+    "Assemble the apparatus: attach the 50 ml boiling flask to the bottom B24 joint, the Soxhlet extractor to the flask, and the Allihn condenser to the top joint, ensuring all joints are properly seated.",
+    "Add the required volume of extraction solvent (e.g., 30–40 ml of hexane or dichloromethane) into the boiling flask through the top of the Soxhlet extractor before attaching the condenser.",
+    "Connect the condenser to a cooling water supply and ensure a steady flow of cold water through the condenser jacket.",
+    "Place the assembled flask into the heating mantle and secure the glassware with the support stand clamps.",
+    "Switch ON the main power supply to the unit.",
+    "For each position, turn the independent energy regulator to the minimum setting to begin gentle heating.",
+    "Press the 'SET' button once on the PID controller for the desired position.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, typically 60–80°C for hexane or 40–50°C for dichloromethane, depending on solvent boiling point.",
+    "Press 'SET' again to lock the value and initiate controlled heating.",
+    "Gradually increase the energy regulator until the solvent begins to boil steadily and the condenser shows a reflux rate of 2–4 drops per second.",
+    "Allow the extraction to proceed for the required number of cycles (typically 4–6 hours or 20–30 siphon cycles) as specified by the analytical method.",
+    "After extraction is complete, turn the energy regulator to zero and switch OFF the main power supply.",
+    "Allow the apparatus to cool to near room temperature before disassembling to avoid solvent vapor release.",
+    "Carefully remove the boiling flask containing the extracted solution and proceed with solvent evaporation or further analysis.",
+    "Safety Warning: Never operate the Soxhlet extraction unit without a functioning fume hood and cooling water flow, as flammable solvent vapors can accumulate and cause fire or explosion; always wear chemical-resistant gloves, safety goggles, and a lab coat, and never open the apparatus while hot or under pressure."
+  ],
   "features": [
     "3 Places / 3 Positions independent testing framework",
     "High-Efficiency Allihn Glass Condenser for optimal reflux performance",

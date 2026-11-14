@@ -1,6 +1,25 @@
 {
   "name": "SALT SPRAY CHAMBER",
   "desc": "Digital Laboratory Salt Spray Corrosion Test Chamber engineered for accelerated corrosion resistance analysis in strict compliance with ASTM B-117. Completely constructed from heavy-duty, anti-corrosive high impact PVC material.",
+  "principle": "The INNOLAB INSTRUMENTS SALT SPRAY CHAMBER is a heavy-duty PVC-constructed accelerated corrosion testing platform compliant with ASTM B-117 and supporting neutral salt spray (NSS), acetic acid salt spray (ASS), and copper-accelerated acetic acid salt spray (CASS). It atomizes freshly prepared electrolyte—typically 5% w/v sodium chloride (NaCl) in deionized water at pH 6.5–7.2 for NSS, acidified acetic acid solution for ASS, or acetic acid plus copper(II) chloride dihydrate at pH 3.1–3.3 for CASS—into a thermally stabilized chamber maintained at 35 ± 0.5 °C (50 ± 0.5 °C for CASS) with ≥85% relative humidity. The resulting dense salt fog deposits at 0.5–2.0 mL per 80 cm² per hour onto test specimens such as electroplated steel, anodized aluminium, phosphated automotive fasteners, galvanized iron, painted and coated panels, and marine hardware, initiating electrochemical corrosion mechanisms including pitting, blistering, scribe creep, and mass loss. B.Sc/M.Sc students, PhD researchers, chemists, metallurgists, and quality control engineers in automotive, aerospace, marine, and electronics laboratories use the chamber for material selection, failure analysis, coating qualification, and ASTM B-117/ISO 9227 compliance testing. Biomedical engineers and clinical device testing laboratories may also use it to evaluate corrosion resistance of surgical stainless steel instruments and implantable metal surface finishes under saline exposure.",
+  "sop": [
+    "Inspect the chamber interior, pneumatic air line, atomizer nozzle, and drain valves for cleanliness and blockages before starting.",
+    "Fill the air saturator and humidification reservoir with distilled or deionized water up to the marked level.",
+    "Prepare the required test electrolyte: for NSS dissolve 5 parts by mass of NaCl in 95 parts distilled water and adjust pH to 6.5–7.2; for CASS add acetic acid and copper(II) chloride dihydrate and adjust pH to 3.1–3.3 as per ASTM B-117.",
+    "Load cleaned, dry test specimens into the chamber on inert supports at 15° to 30° from vertical, ensuring specimens do not contact each other and salt fog can reach all exposed surfaces.",
+    "Close and seal the chamber door/lid securely, then switch ON the main power supply and turn on the instrument MCB/isolation switch.",
+    "Press the 'SET' button once on the microprocessor-based digital PID controller to enter the temperature or timer setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter such as chamber temperature 35.0 °C, CASS temperature 50.0 °C, or process timer duration up to 999 hours.",
+    "Press 'SET' again to lock the value into the controller memory and exit setpoint mode.",
+    "Configure the spraying mode as continuous or cyclic as required, and set the digital timer to the desired test duration (commonly 24, 48, 96 or 240 hours).",
+    "Verify the salt spray deposition rate by placing graduated collection funnels inside the empty chamber or at representative positions and confirm the collection falls within 0.5–2.0 mL per 80 cm² per hour.",
+    "Start the atomizer and heating system, then record the initial chamber temperature, humidity, air pressure, pH of collected fallback solution, and actual start time in the laboratory log.",
+    "During the test, do not open the chamber door; monitor water level in the saturator, air pressure, and displayed temperature at regular intervals.",
+    "At the end of the cycle, switch OFF the atomizer and heater, activate the built-in pneumatic defog function to safely purge corrosive mist, and wait until the chamber interior is clear before opening.",
+    "Remove specimens with clean forceps, rinse carefully with distilled water, dry using compressed air or warm air, and evaluate per ASTM B-117/ISO 9227 for pitting, blistering, scribe creep, and mass loss.",
+    "Clean the chamber, drain the collection sump, flush the atomizer nozzle and tubing with distilled water, and leave the door open to dry.",
+    "Safety Warning: Always wear chemical-resistant gloves, apron, safety goggles, and if possible a mist respirator when handling CASS/ASS solutions or removed specimens, because copper chloride, acetic acid, and residual salt fog are corrosive and can irritate the skin, eyes, and respiratory tract; ensure the chamber is connected to an operational laboratory exhaust or fume extraction system before every run."
+  ],
   "features": [
     "Certified full compliance parameters matching international ASTM B-117 protocols",
     "100% Heavy-Duty Anti-Corrosive High-Impact Industrial PVC sheets construction",

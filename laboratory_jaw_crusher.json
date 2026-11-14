@@ -1,6 +1,22 @@
 {
   "name": "LABORATORY JAW CRUSHER",
   "desc": "The INNOLAB INSTRUMENTS INNO-JC-J200E Laboratory Jaw Crusher is an indispensable primary crushing unit used in geology, mining, and metallurgy laboratories. It is engineered to forcefully and quickly break down hard, brittle rocks, ores, ceramics, cement, and glass into smaller, manageable pieces for further analytical preparation.",
+  "principle": "The INNOLAB INSTRUMENTS LABORATORY JAW CRUSHER operates on the principle of compressive crushing between a fixed and a moving jaw plate, generating high mechanical force to fracture hard, brittle materials such as rocks, ores, ceramics, cement clinker, and glass. This primary crushing unit is essential in geology, mining, metallurgy, and coal analysis laboratories, where B.Sc/M.Sc students, PhD researchers, and chemists prepare samples for subsequent analytical procedures like XRF, ICP, or wet chemistry. The crusher accommodates feed sizes up to 90mm and achieves final fineness below 2mm or 0.5mm depending on model, with adjustable gap settings from 0-30mm or 0-11mm via zero point adjustment. Jaw plates are available in manganese steel for general use, stainless steel for contamination-sensitive samples, tungsten carbide for extreme hardness, and zirconium oxide for ultra-low trace metal analysis, ensuring compliance with ISO 11464 and ASTM D2013 sample preparation standards. The powerful industrial drive with overload protection and speeds of 690 rpm or 500-1000 rpm ensures rapid, reproducible size reduction for mineralogical, cementitious, and coal samples, including those containing silica, sulfides, or other abrasive compounds.",
+  "sop": [
+    "Ensure the crusher is placed on a stable, level surface and connected to the correct power supply (220V or 415V as per model).",
+    "Inspect the jaw plates for wear or contamination; select the appropriate material (manganese steel, stainless steel, tungsten carbide, or zirconium oxide) based on sample requirements.",
+    "Check that the anti-splash feed hopper is securely attached and the collector bin (3L or 5L) is empty and in place.",
+    "To set the crushing gap, press the 'SET' button once on the digital controller.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target gap width (e.g., 2mm for fine crushing or 10mm for coarse crushing).",
+    "Press 'SET' again to lock the gap value; verify the display shows the correct setting.",
+    "Pre-crush a small amount of sample to confirm the gap produces the desired particle size; adjust if necessary using the same SET procedure.",
+    "Load the sample material into the feed hopper, ensuring feed size does not exceed the maximum specified (<90mm or <40mm depending on model).",
+    "Start the crusher using the main power switch; feed material gradually to avoid overloading the drive.",
+    "Collect the crushed material from the collector bin; if further size reduction is needed, repeat the process with a smaller gap setting.",
+    "After crushing, switch off the machine and disconnect power before cleaning.",
+    "Clean the jaw plates, hopper, and collector thoroughly with a brush or compressed air, avoiding water if using tungsten carbide or zirconium oxide plates to prevent corrosion.",
+    "Safety Warning: Always wear safety goggles, gloves, and hearing protection; never place hands or tools near the jaw opening while the crusher is running, and ensure the machine is completely stopped and locked out before any maintenance or cleaning to prevent severe crushing injuries."
+  ],
   "features": [
     "Zero point adjustment feature for precise gap setting",
     "Models available with final fineness < 2mm and < 0.5mm",

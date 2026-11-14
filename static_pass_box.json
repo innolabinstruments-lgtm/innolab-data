@@ -1,6 +1,19 @@
 {
   "name": "STATIC PASS BOX",
   "desc": "Premium Stainless Steel Static Pass Box engineered for the controlled, contamination-free transfer of materials between different cleanroom zones. Features a spacious 2x2x2 ft rectangular working enclosure equipped with a state-of-the-art electronic interlocking mechanism.",
+  "principle": "The INNOLAB INSTRUMENTS Static Pass Box is a precision-engineered cleanroom transfer system that operates on the principle of segregated pressure-boundary material exchange, utilizing an advanced electromagnetic interlocking mechanism to prevent simultaneous opening of its two doors. Constructed from corrosion-proof SS 304, it provides a chemically inert, easy-to-decontaminate chamber for the aseptic passage of materials between ISO-classified and unclassified areas, thereby minimizing particulate and microbial ingress. Doctors, B.Sc/M.Sc students, PhD researchers, and chemists rely on this pass box to transfer sterile glassware, ready-to-use culture media, agar plates, sealed containers of strong acids and volatile organic compounds (VOCs), active pharmaceutical ingredients, and biohazardous microbial cultures without compromising cleanroom differential pressures. The system supports compliance with ISO 14644-1, ISO 14644-3, and EU GMP Annex 1 cleanroom standards by reducing personnel traffic and maintaining the integrity of critical zones during material handover.",
+  "sop": [
+    "Ensure the pass box is powered ON and both doors are fully closed; verify the electronic interlock indicator shows 'READY'.",
+    "Wipe the interior and exterior surfaces with a lint-free wipe soaked in 70% isopropanol or a validated disinfectant, following facility SOP for cleanroom sanitation.",
+    "Press the 'SET' button once on the PID controller to access the interlock delay/cycle parameter.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., door interlock delay time in seconds as per cleanroom protocol).",
+    "Press 'SET' again to lock the value and return to the normal display.",
+    "From the lower-classified side, press the door release button or open the first door; place materials to be transferred onto the center of the stainless steel chamber.",
+    "Close the first door completely and wait for the electromagnetic interlock to engage; confirm the opposite door indicator turns from red to green.",
+    "From the higher-classified side, open the second door only after the interlock releases, retrieve the materials, and immediately close the door.",
+    "If transferring hazardous chemicals (e.g., sealed containers of strong acids, volatile organic compounds) or biohazardous cultures, ensure they are double-bagged and wiped before introduction to prevent vapor or particulate release.",
+    "Safety Warning: Never attempt to force open both doors simultaneously; the electromagnetic interlocking system is designed to maintain pressure differentials and biocontamination control, and bypassing it can compromise cleanroom integrity and cause exposure to hazardous substances."
+  ],
   "features": [
     "Advanced Electronic / Electromagnetic interlocking mechanism",
     "Spacious 600 mm x 600 mm x 600 mm working volume",

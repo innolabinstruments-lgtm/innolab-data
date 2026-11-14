@@ -1,6 +1,20 @@
 {
   "name": "HOT AIR OVEN",
   "desc": "Standard Hot Air Oven designed for dry heating, baking, and sterilizing in laboratories. Features precise temperature control, forced air circulation for uniformity, and high-grade insulation for energy efficiency. Compliant with strict GeM specifications.",
+  "principle": "The INNOLAB INSTRUMENTS Hot Air Oven operates on the principle of forced convection dry heat sterilization and thermal processing, utilizing a motorized air draft fan to circulate heated air uniformly throughout a stainless steel chamber. A digital PID controller with LED display precisely regulates the temperature from 50°C to 250°C with an accuracy of ±0.5°C, ensuring stable thermal conditions for applications such as sterilizing glassware, metal instruments, and heat-stable powders in clinical and research laboratories. Doctors and microbiologists rely on it for dry heat sterilization of surgical tools and culture media containers, while B.Sc/M.Sc students and PhD researchers use it for moisture determination, aging tests, and thermal stability studies of chemicals like strong acids, volatile organic compounds (VOCs), and polymer samples. The oven complies with ISO 9001 and CE standards, and its high-density glass wool insulation minimizes heat loss, making it suitable for ASTM and ISO testing protocols requiring precise dry heat exposure.",
+  "sop": [
+    "Ensure the oven is placed on a stable, level surface away from flammable materials and with at least 6 inches of clearance on all sides for ventilation.",
+    "Open the door and load the stainless steel shelves with items to be heated or sterilized, ensuring adequate spacing between items for uniform air circulation.",
+    "Close the door securely and verify the door lock is engaged.",
+    "Switch on the main power supply to the oven using the power switch.",
+    "Press the 'SET' button once on the digital PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 160°C for sterilization or 105°C for moisture determination).",
+    "Press 'SET' again to lock the value and allow the controller to begin heating.",
+    "Monitor the LED display until the actual temperature reaches the setpoint; the oven will automatically maintain the temperature via PID control.",
+    "Start a timer for the required exposure duration (e.g., 60 minutes for dry heat sterilization at 160°C).",
+    "After the cycle is complete, switch off the oven and allow the temperature to cool below 50°C before opening the door.",
+    "Safety Warning: Never open the oven door while the temperature is above 50°C, as sudden exposure to hot air can cause severe burns or thermal shock to glassware; always wear heat-resistant gloves and safety goggles when handling hot items."
+  ],
   "features": [
     "Premium build quality",
     "High precision control",

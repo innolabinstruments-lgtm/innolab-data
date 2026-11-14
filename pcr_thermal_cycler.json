@@ -1,6 +1,21 @@
 {
   "name": "PCR THERMAL CYCLER",
   "desc": "Premium Gradient PCR Thermal Cycler engineered for high-throughput DNA amplification and precise molecular diagnostics. Features a 96 x 0.2 ml block capacity driven by a long-service-life Peltier system with an adjustable pressure hot lid and a 5-inch large color touchscreen display.",
+  "principle": "The INNOLAB INSTRUMENTS PCR THERMAL CYCLER employs Peltier-driven thermoelectric heating and cooling with precise PID feedback control to execute high-throughput polymerase chain reaction (PCR) for DNA amplification. The system rapidly cycles a 96-well block through user-defined denaturation (~95°C), annealing (55–65°C), and extension (72°C) temperatures, enabling exponential amplification of target nucleic acid sequences by Taq polymerase in the presence of dNTPs, MgCl₂, and sequence-specific primers. Its adjustable-pressure hot lid (up to 105°C) prevents condensation and sample evaporation, while the wide 30°C–99°C gradient function allows simultaneous annealing-temperature optimisation for primer sets. This instrument is used by doctors and clinical laboratories for molecular diagnostics of pathogens such as SARS-CoV-2, Mycobacterium tuberculosis, HIV, and hepatitis viruses; by B.Sc/M.Sc students studying genetics, microbiology, and molecular biology; and by PhD researchers and chemists quantifying gene expression via SYBR Green or TaqMan probe-based qPCR, performing genotyping, site-directed mutagenesis, and forensic STR analysis. It supports compliance with ISO 15189 medical laboratory quality requirements, ASTM E1873-04 for nucleic acid detection, and CLSI MM03 molecular diagnostic guidelines.",
+  "sop": [
+    "Power on the INNOLAB INSTRUMENTS PCR Thermal Cycler using the rear power switch and allow the Android touchscreen interface to initialize.",
+    "Open the heated lid and place the sealed 96-well PCR plate or 0.2 ml tube strips containing template DNA, primers, dNTPs, MgCl₂, and Taq polymerase into the block.",
+    "Close the lid and set the heated lid temperature to 105°C to prevent sample evaporation and condensation.",
+    "Press the 'SET' button once to access the block temperature setpoint on the PID controller.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 95°C for initial denaturation).",
+    "Press 'SET' again to lock the value and store the selected parameter.",
+    "Program the thermal cycling protocol: initial denaturation 95°C for 3 min, then 30–35 cycles of 95°C for 30 s, 55–65°C annealing for 30 s, and 72°C extension for 30–60 s, final extension 72°C for 5 min.",
+    "Set the gradient range if optimisation across 30°C–99°C is required, using the touchscreen gradient editor.",
+    "Press 'RUN' to start the amplification; monitor real-time temperature and ramping rate (max 5°C/s) on the display.",
+    "After completion, allow the block to cool to near ambient before opening the lid. Remove the PCR plate and discard used consumables as biohazard waste.",
+    "Clean the block and lid with 70% ethanol or 10% bleach solution after use; do not autoclave the block.",
+    "SAFETY WARNING: Never open the heated lid while the block is above 50°C; the hot lid and block can cause severe burns, and sudden pressure release may cause sample boiling or contamination. Always wear thermal-resistant gloves and eye protection when handling hot plates."
+  ],
   "features": [
     "96 Wells x 0.2 ml amplification block layout",
     "Wide gradient tuning capabilities ranging from 30°C to 99°C",

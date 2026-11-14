@@ -1,6 +1,21 @@
 {
   "name": "MULTI TANK ULTRASONIC CLEANER",
   "desc": "The INNOLAB INSTRUMENTS Multi Tank Ultrasonic Cleaner combines three separate tanks for comprehensive cleaning, rinsing, and hot air drying in one workstation. Widely used for electronics, optics, and medical implants, featuring a split-type generator and bottom-shock ultrasonic direction.",
+  "principle": "The INNOLAB INSTRUMENTS Multi Tank Ultrasonic Cleaner operates on the principle of high-frequency ultrasonic cavitation to remove contaminants from delicate and complex surfaces. The system integrates three sequential tanks: an ultrasonic cleaning tank, an ultrasonic rinsing tank, and a hot air drying tank, enabling a complete decontamination workflow. Ultrasonic transducers bonded to the tank bottom generate acoustic waves at 28/40 kHz, creating microscopic cavitation bubbles that implode with high energy, dislodging particulates, oils, and biological residues from substrates. This technology is essential for cleaning surgical instruments, dental implants, microelectronic components, and optical lenses. In clinical and research laboratories, it is used to remove proteinaceous debris, blood residues, and microbial biofilms from reusable medical devices, ensuring compliance with ISO 15883 and ASTM G131 standards. The integrated filtration system in the first tank continuously removes suspended contaminants, while the rinsing tank uses fresh deionized water or solvents to eliminate residual cleaning agents. The hot air drying tank prevents recontamination and corrosion, making it ideal for preparing samples for sterilization or analytical procedures. B.Sc/M.Sc students and PhD researchers utilize this cleaner for degassing HPLC mobile phases, cleaning glassware contaminated with strong acids (e.g., HCl, HNO3) or volatile organic compounds (VOCs), and preparing substrates for cell culture or surface analysis.",
+  "sop": [
+    "Ensure the unit is placed on a stable, level surface and connected to a properly grounded power supply.",
+    "Fill the ultrasonic cleaning tank with an appropriate cleaning solution (e.g., enzymatic detergent or mild alkaline solution) to the indicated level, ensuring the liquid covers the items but does not exceed the maximum fill line.",
+    "Fill the rinsing tank with deionized water or a suitable rinsing solvent, and ensure the drying tank is empty and the air filter is clean.",
+    "Place the items to be cleaned into the stainless steel mesh basket and lower them gently into the cleaning tank, avoiding contact with the tank bottom to prevent transducer damage.",
+    "Press the 'SET' button once on the temperature controller for the cleaning tank.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 60°C for enzymatic cleaning, up to 95°C for degreasing).",
+    "Press 'SET' again to lock the temperature value.",
+    "Repeat the same SET/UP/DOWN/SET sequence for the timer controller to set the ultrasonic cleaning duration (typically 5-15 minutes).",
+    "Press the ultrasonic generator power switch to start the cleaning cycle; the bottom-shock transducers will begin cavitation.",
+    "After the cleaning cycle completes, transfer the basket to the rinsing tank and set the rinsing timer using the same PID controller method (SET, adjust, SET) for 3-5 minutes.",
+    "Finally, transfer the items to the hot air drying tank and set the drying temperature and timer using the PID controllers (e.g., 70°C for 10 minutes).",
+    "Safety Warning: Always wear chemical-resistant gloves and safety goggles when handling cleaning solutions, and never operate the ultrasonic cleaner with an empty tank or with flammable solvents, as cavitation can generate heat and vapors that may cause fire or explosion."
+  ],
   "features": [
     "3-Tank system: Ultrasonic Cleaning, Ultrasonic Rinsing, and Hot Air Drying",
     "Thick gauge stainless steel 304 construction (SS 316 available on request)",

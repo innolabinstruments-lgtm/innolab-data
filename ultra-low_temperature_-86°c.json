@@ -1,6 +1,20 @@
 {
   "name": "ULTRA-LOW TEMPERATURE -86°C",
   "desc": "Premium Vertical Ultra-Low Temperature (ULT) Laboratory Deep Freezer engineered for long-term preservation of critical bio-samples at temperatures down to -86°C. Features a massive 1000-liter SS internal cabinet, heavy-duty cascade refrigeration system, and integrated CO₂ backup system.",
+  "principle": "The INNOLAB INSTRUMENTS ULTRA-LOW TEMPERATURE -86°C Deep Freezer is a premium vertical ultra-low temperature preservation system engineered for long-term storage of critical biological specimens, certified ATCC microbial cultures, vaccines, plasma derivatives, DNA/RNA libraries, enzymes, monoclonal antibodies, and temperature-sensitive pharmaceuticals at adjustable setpoints down to -86°C. Leveraging a heavy-duty cascade refrigeration architecture with dual compressors and eco-friendly CFC-free/HCFC-free refrigerants, the unit maintains micro-increment 1°C PID stability, while the integrated CO₂ backup system and chart recorder ensure continuous cold-chain integrity during power or compressor failure. Doctors rely on this freezer for storing mRNA vaccines, tissue biopsies, and blood components; B.Sc/M.Sc students use it to preserve microbial glycerol stocks (e.g., Escherichia coli, Staphylococcus aureus, Saccharomyces cerevisiae) and mammalian cell lines (e.g., HeLa, CHO, HEK293) in cryoprotectant media containing DMSO; PhD researchers and chemists store heat-labile reagents, RT-PCR master mixes, TRIzol-lysed RNA samples, sealed volatile organic solvents (e.g., isopropanol, ethanol) in secondary containment, and reference standards in compliance with ISO 20387 biobanking, CDC vaccine storage guidelines, and ASTM E1564 low-temperature storage practices, thereby safeguarding sample viability and experimental reproducibility.",
+  "sop": [
+    "Ensure the deep freezer is connected to a dedicated 5KVA servo stabilizer and the power indicator is on; allow the unit to stabilize at the previously set temperature for at least 30 minutes before opening.",
+    "Visually inspect the outer door gasket, vacuum release port, and CO₂ backup cylinder pressure gauge; confirm the chart recorder paper/ink is sufficient for audit logging.",
+    "Unlock the outer door using the ergonomic handle and wait 5–10 seconds for the vacuum release port to equalize pressure before fully opening.",
+    "Press the 'SET' button once on the microprocessor PID controller; the setpoint value will flash on the high-visibility digital display.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., -80°C); each press changes the value in 1°C steps.",
+    "Press 'SET' again to lock the value; the controller will display the current internal chamber temperature and begin cooling/heating to the new setpoint.",
+    "Open only the specific insulated sub-door for the compartment you need, minimizing heat ingress; place pre-chilled sample racks or cryoboxes inside quickly and close the sub-door firmly.",
+    "Record the sample details (name, date, rack position, operator initials) in the logbook, and verify the temperature display returns to the setpoint within the specified recovery time.",
+    "Before closing the outer door, confirm no obstruction at the gasket, close the door, and engage the lock; activate the password security lock if configured.",
+    "Periodically test the audible/visible alarms by simulating a high-temperature condition or pressing the alarm test button, and confirm the CO₂ backup system activates.",
+    "Safety Warning: Always wear cryogenic gloves and face shield when handling ultra-low-temperature contents; never store non-sealed strong acids, explosive peroxides, or live cultures without proper secondary containment, and immediately vent the chamber after opening to avoid oxygen deficiency or CO₂ accumulation from the backup system."
+  ],
   "features": [
     "Operating Temperature Range from -10°C down to -86°C",
     "Heavy-duty Cascade Refrigeration System (Dual Compressors)",

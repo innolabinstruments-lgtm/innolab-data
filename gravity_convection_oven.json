@@ -1,6 +1,23 @@
 {
   "name": "GRAVITY CONVECTION OVEN",
   "desc": "Digital Gravity Convection Oven providing gentle airflow, ideal for sterilization and drying without cross-contamination. Manufactured by Innolab Instruments, this unit features a 250-liter capacity with 16 trays and a high-precision PLC touch screen control system.",
+  "principle": "The INNOLAB INSTRUMENTS GRAVITY CONVECTION OVEN operates on natural gravity convection, where heated air expands, becomes less dense, and rises through the chamber while cooler air descends, creating a gentle, unforced circulation pattern. This design minimizes turbulent airflow and cross-contamination, making it ideal for drying, baking, dry-heat sterilization, and thermal stability testing. The 250-liter 304/316L stainless steel chamber with 16 trays and adjustable ventilation provides uniform temperature distribution with high accuracy of ±1°C at 100°C and a maximum of 500°C, controlled by an advanced PLC touch screen system. Doctors and clinical laboratories use the oven for dry-heat sterilization of glassware, metal instruments, and powders at 160–180°C, inactivating microbial contaminants and endotoxins in accordance with ISO 20857. B.Sc and M.Sc students routinely employ it for moisture content determination in soil, food, and biomass samples following ASTM D2216, ISO 18134, and AOAC methods, as well as for drying glassware after washing. PhD researchers and chemists use the oven for thermal aging of polymers, catalyst drying, gravimetric analysis, and removal of residual moisture from non-flammable aqueous samples, ensuring reproducible results in material science and analytical chemistry. The adjustable ventilation allows controlled release of water vapor and low levels of non-hazardous volatiles, while the recorder/printer output supports GLP/GMP documentation and traceability.",
+  "sop": [
+    "Ensure the oven is placed on a stable, level surface with at least 15 cm clearance on all sides and connected to a properly grounded 230 Vac power supply.",
+    "Before use, inspect the chamber, trays, and door gasket for cleanliness and remove any residual samples or debris; wipe with a dry or slightly damp cloth if necessary.",
+    "Load samples or glassware evenly onto the 16 stainless steel trays, leaving adequate space between items to allow natural convection airflow; do not overload or block ventilation ports.",
+    "Close the oven door securely and ensure the adjustable ventilation damper is set to the desired position for moisture removal or vapor retention.",
+    "On the PLC touch screen controller, press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 105°C for moisture analysis or 180°C for dry-heat sterilization).",
+    "Press 'SET' again to lock the value.",
+    "If a timed run is required, set the timer on the touch screen according to the protocol (e.g., 2 hours for sterilization, 24 hours for drying); otherwise, set to continuous mode.",
+    "Press the 'START' or 'RUN' button to initiate heating; monitor the display until the chamber reaches the set temperature and stabilizes within ±1°C.",
+    "During operation, avoid opening the door frequently as this disrupts the gravity convection pattern and causes temperature drop; use the observation window if available.",
+    "After the cycle is complete, switch off the heater and allow the oven to cool to below 60°C before opening the door.",
+    "Wearing heat-resistant gloves, carefully remove the trays and place hot items on a heat-proof surface; record the temperature, time, and any observations in the logbook or via the printer/recorder output.",
+    "Clean the chamber and trays after cooling, close the door, and disconnect the power if the oven will not be used for an extended period.",
+    "SAFETY WARNING: Never place flammable solvents, volatile organic compounds, strong acids, or sealed containers in the oven, as they can generate explosive vapors or rupture at high temperatures; always use appropriate PPE and ensure the ventilation damper is open when drying moisture-laden samples."
+  ],
   "features": [
     "Gentle airflow - ideal for sterilization and drying",
     "Adjustable ventilation to provide control of inner air & vapour circulation",

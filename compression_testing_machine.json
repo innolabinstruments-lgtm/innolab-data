@@ -1,0 +1,48 @@
+{
+  "name": "COMPRESSION TESTING MACHINE",
+  "desc": "Semi-Automatic Digital Concrete Compression Testing Machine engineered for heavy-duty strength evaluation of concrete cubes and cylinders. Features a 1000 kN capacity robust channel-type frame equipped with a Class 1 accuracy high-precision digital indicator for reliable load tracking.",
+  "principle": "The INNOLAB INSTRUMENTS COMPRESSION TESTING MACHINE is a semi-automatic, 1000 kN capacity hydraulic compression frame engineered for high-precision compressive strength evaluation of concrete cubes, cylinders, cement mortar, masonry blocks, and bricks. Its rigid channel-type steel frame houses a high-pressure hydraulic ram and hardened, ground compression platens that apply uniform axial load to specimens up to 150 mm. A Class 1 accuracy digital indicator with micro-stabilized load cell continuously tracks applied force, enabling real-time load-versus-time or load-versus-deformation analysis. The system is widely used by civil engineering B.Sc/M.Sc students, PhD researchers, construction material chemists, and quality control engineers to verify compliance with IS 516, ASTM C39, BS EN 12390-3, and related standards. It evaluates compressive strength, ultimate failure load, and structural integrity of cementitious materials, helping to detect under-cured concrete, poor aggregate bonding, excessive porosity, or alkali-silica reaction degradation. The hydraulic loading mechanism with smooth hand-wheel release allows controlled stress application, while the digital indicator captures peak load and fracture behavior, supporting research on high-performance concrete, fiber-reinforced cement composites, and supplementary cementitious materials like fly ash, slag, and silica fume blends.",
+  "sop": [
+    "Ensure the machine is placed on a rigid, level floor and connected to a stable single-phase power supply; check hydraulic oil level and cleanliness of compression platens.",
+    "Switch ON the main power isolator and allow the digital indicator to stabilize for 5 minutes.",
+    "Prepare the concrete cube or cylinder specimen as per IS 516 / ASTM C39, ensuring surfaces are plane, parallel, and free from loose particles or moisture.",
+    "Center the specimen on the lower hardened compression platen, aligning its axis with the loading ram.",
+    "Close the hydraulic release valve fully and use the hand-wheel to slowly pump hydraulic pressure until the upper platen just contacts the specimen.",
+    "Press the 'SET' button once on the digital indicator to enter target load/peak-hold configuration mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., expected maximum load or test speed limit).",
+    "Press 'SET' again to lock the value and return to live load display.",
+    "Apply load continuously and uniformly by operating the hydraulic hand-wheel at the specified stress rate (e.g., 14 N/mm²/min for cubes) while monitoring the digital indicator.",
+    "Record the peak load at first crack/failure; do not continue loading after a sharp drop in load.",
+    "Slowly open the hydraulic release valve to retract the ram, remove the failed specimen, and clean platens with a dry brush or lint-free cloth.",
+    "Switch OFF the machine and isolate power after daily use; never exceed 1000 kN capacity and always wear safety goggles, gloves, and protective footwear during testing."
+  ],
+  "features": [
+    "1000 kN heavy-duty testing load spectrum framework",
+    "Certified Class 1 high-precision measurement calibration index",
+    "Semi-Automatic manual hydraulic loading with automated tracking",
+    "High-grade heavy structural steel Channel Type frame body build",
+    "Handles up to 150 mm maximum concrete testing cube dimensions"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Semi-Automatic Civil Concrete Compression Testing Machine Workstation",
+    "Maximum Structural Capacity": "1000 kN heavy-duty testing load spectrum framework",
+    "Automation & Control Type": "Semi-Automatic manual hydraulic loading with automated tracking",
+    "Load Measurement Display": "High-precision micro-stabilized Digital Indicator for real-time readings",
+    "Rigid Frame Architecture": "High-grade heavy structural steel Channel Type frame body build",
+    "Maximum Specimen Sizing": "Handles up to 150 mm maximum concrete testing cube dimensions",
+    "Metrology Accuracy Class": "Certified Class 1 high-precision measurement calibration index",
+    "Load Distribution System": "Hardened and ground compression platens ensuring uniform pressure",
+    "Primary Testing Application": "Compressive strength and load failure evaluation of civil construction materials",
+    "Target Sample Assays": "Optimized for concrete cubes, cylinders, cement, masonry blocks, and bricks",
+    "Hydraulic Load System": "High-pressure hydraulic cylinder ram mechanism with smooth hand-wheel release",
+    "Electrical Power Input": "Standard single phase stable electrical link connection",
+    "Chassis Housing Finish": "High-durability industrial protective anti-corrosion powder coated layer",
+    "Target Field Applications": "PWD Labs, Construction Sites, Civil Engineering Academia, and Concrete Plants",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on frame and digital cell",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/compression_testing_machine.glb",
+  "image": "assets/instruments/compression_testing_machine.webp",
+  "images": null
+}

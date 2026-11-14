@@ -1,17 +1,19 @@
 {
   "name": "BOD INCUBATOR",
-  "desc": "Premium BOD Incubator engineered to maintain a highly stable and precise temperature environment (typically 20°C) for microorganism growth and biological oxygen demand testing. Built with a high-density PUF-insulated double-wall structure and a microprocessor-based PID digital controller.",
-  
-  "principle": "This machine works on the principle of a controlled forced-air refrigeration and heating cycle. It maintains a highly stable and precise temperature environment (usually 20°C) which is essential for Biochemical Oxygen Demand (BOD) testing, plant growth, and the controlled incubation of microorganisms.",
-  
+  "desc": "Premium BOD Incubator engineered to maintain a highly stable and precise temperature environment (typically 0°C) for microorganism growth and biological oxygen demand testing. Built with a high-density PUF-insulated double-wall structure and a microprocessor-based PID digital controller.",
+  "principle": "The INNOLAB INSTRUMENTS BOD Incubator is a precision-engineered environmental chamber designed to sustain a highly stable and uniform temperature, typically 0°C, essential for Biological Oxygen Demand (BOD) testing and the cultivation of microorganisms. It employs a microprocessor-based PID controller with a PT-100 sensor to maintain temperature accuracy within ±0.5°C, while a motorized forced draft fan ensures homogeneous air distribution throughout the high-grade stainless steel inner chamber. This instrument is indispensable for doctors, B.Sc/M.Sc students, PhD researchers, and chemists who perform wastewater analysis, microbial assays, and biochemical oxygen demand measurements in accordance with ISO 5815, APHA Standard Methods, and ASTM D888. The double-wall construction with thick PUF insulation minimizes thermal loss, enabling reliable incubation of bacteria, fungi, yeast, and activated sludge cultures, as well as the safe handling of volatile organic compounds (VOCs) and dilute acidic or alkaline samples within sealed BOD bottles.",
   "sop": [
-    "Switch on the machine from the main power socket and turn on the MCB switch located on the panel.",
-    "Process to set temperature for your work: Press the 'SET' button once on the digital PID controller.",
-    "Now, use the 'UP' arrow button to increase the temperature or the 'DOWN' arrow button to reduce it.",
-    "Once your desired temperature is on the screen, press the 'SET' button again to lock the temperature.",
-    "Wait for 15-20 minutes for the chamber temperature to stabilize before placing your biological samples or BOD bottles inside."
+    "Ensure the incubator is placed on a level, stable surface with at least 10 cm clearance on all sides for proper ventilation.",
+    "Connect the power cord to a 220-240V AC, 50Hz single-phase supply and switch ON the main power switch and MCB.",
+    "Press the 'SET' button once on the PID controller; the display will flash the current setpoint.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 0°C for standard BOD testing).",
+    "Press 'SET' again to lock the value; the controller will now regulate the chamber to the new setpoint.",
+    "Allow the incubator to stabilize for at least 30 minutes or until the display shows a steady temperature without fluctuation.",
+    "Open the outer door gently and place prepared BOD bottles, petri dishes, or culture flasks on the stainless steel shelves, ensuring adequate spacing for air circulation.",
+    "Close the door securely and avoid frequent opening to maintain temperature uniformity and prevent condensation.",
+    "Monitor the digital display periodically; if the over-temperature alarm sounds, immediately check the setpoint and sample integrity.",
+    "Safety Warning: Always wear appropriate personal protective equipment (gloves, lab coat, safety goggles) when handling biological samples or chemicals, and never operate the incubator with wet hands or near flammable solvents to prevent electrical shock or fire hazards."
   ],
-
   "features": [
     "High-density PUF-insulated double-wall structure",
     "High precision PID temperature control with PT-100 Sensor",

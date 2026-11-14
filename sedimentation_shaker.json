@@ -1,6 +1,21 @@
 {
   "name": "SEDIMENTATION SHAKER",
   "desc": "The INNOLAB INSTRUMENTS INNO-SDS-8 Sedimentation Shaker (Pipette Shaker) is utilized in environmental, soil testing, and pharmaceutical laboratories to guarantee uniform suspension of particles during sedimentation analysis, such as the Andreasen pipette method. It provides a slow, controlled rotation to prevent particle agglomeration without creating turbulent mixing.",
+  "principle": "The INNOLAB INSTRUMENTS SEDIMENTATION SHAKER (model INNO-SDS-8) is engineered for precise Andreasen pipette sedimentation analysis, uniformly re-suspending soil, sediment, and pharmaceutical powder dispersions without turbulent mixing. By maintaining a fixed 30° tilt and 40 oscillations per minute, the system keeps particles in a homogeneous state so that settling velocities obey Stokes' law, enabling accurate particle size distribution from coarse silt to clay fractions. Environmental engineers, geotechnical laboratories, B.Sc/M.Sc students, PhD researchers, and chemists use the unit to evaluate soil texture per ISO 11277, ASTM D422, and IS 2720 Part 4, typically dispersing samples in sodium hexametaphosphate or sodium carbonate solutions; pharmaceutical scientists also apply it to assess suspension sedimentation behavior and physical stability of dispersed formulations.",
+  "sop": [
+    "Place the INNO-SDS-8 on a clean, level bench and confirm the power switch is OFF before connecting to a 220 V 50 Hz supply.",
+    "Load five or six 50 ml or 100 ml stoppered graduated cylinders into the wooden/acrylic carrier and clamp them securely.",
+    "Prepare the sedimentation suspension, e.g., soil dispersed in sodium hexametaphosphate solution, and fill each cylinder exactly to the mark; stopper tightly.",
+    "Connect the power cord and switch ON the main power.",
+    "For models with a digital timer/PID controller, press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, such as shaking time up to 999 minutes.",
+    "Press 'SET' again to lock the value.",
+    "Set the speed regulator to achieve 40 oscillations per minute and confirm the platform maintains a smooth 30° tilting motion.",
+    "Allow the shaker to run for the prescribed duration to keep particles uniformly suspended before pipette sample withdrawal.",
+    "After the run or timer END buzzer alarm, switch OFF the power and disconnect the plug.",
+    "Remove the cylinders carefully, wipe any spilled liquid, and clean the sample holder with a mild detergent.",
+    "WARNING: Never touch or reach into the moving cylinder carrier during operation; ensure all cylinders are tightly stoppered to prevent release of hazardous chemical or silica-containing suspensions, and disconnect power before cleaning or maintenance."
+  ],
   "features": [
     "Smooth 30° fixed tilt angle movement preventing turbulent mixing",
     "Accommodates 5 or 6 samples in 50ml or 100ml cylinders",

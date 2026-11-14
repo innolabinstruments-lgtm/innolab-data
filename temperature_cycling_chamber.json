@@ -1,6 +1,21 @@
 {
   "name": "TEMPERATURE CYCLING CHAMBER",
   "desc": "Smart Programmable Hot and Cold Temperature Cycling Chamber engineered for rapid thermal ramp testing and environmental stress screening of electronics. Features a 216-liter SS304 workspace delivering temperatures from -70°C up to 180°C with dynamic cycling ramp rates.",
+  "principle": "The INNOLAB INSTRUMENTS TEMPERATURE CYCLING CHAMBER is a high-performance environmental testing system engineered for rapid thermal cycling and stress screening of electronic components, materials, and assemblies. It provides a controlled environment with temperatures ranging from -70°C to 180°C, enabling precise simulation of extreme thermal conditions. This chamber is indispensable for doctors and biomedical engineers validating the thermal resilience of medical devices and implants; for B.Sc and M.Sc students conducting experiments in materials science, physics, and chemistry to study phase transitions, thermal expansion, and degradation kinetics; for PhD researchers performing accelerated life testing and reliability analysis of semiconductors, PCBs, and battery systems; and for chemists evaluating the thermal stability of polymers, adhesives, coatings, and volatile organic compounds (VOCs) under cyclic stress. The system adheres to international testing standards such as IEC 60068-2-14, MIL-STD-810G, and ASTM D4169, ensuring repeatable and traceable results. Its PLC-based control with PID logic and PT100 RTD sensor delivers precise temperature regulation, while the forced air convection loop guarantees uniform thermal distribution across the 216-liter SS304 workspace.",
+  "sop": [
+    "Ensure the chamber is placed on a level surface and connected to the appropriate power supply (220V single phase or 440V three phase).",
+    "Turn on the main power switch and allow the PLC controller to initialize; the touchscreen HMI will display the home screen.",
+    "Open the insulated door using the clamp latch and load the test samples onto the stainless steel wire mesh trays, ensuring adequate spacing for airflow.",
+    "Close the door securely, ensuring the silicone gasket seals properly to prevent thermal leakage.",
+    "On the HMI touchscreen, navigate to the temperature setting menu. Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., set the high temperature limit, low temperature limit, and cycle count as per test protocol).",
+    "Press 'SET' again to lock the value and confirm the setpoint.",
+    "Configure the cycling program: set the ramp rate (10-15°C/min), dwell times, and number of cycles using the PLC interface.",
+    "Press the 'START' button to initiate the temperature cycling process. Monitor the Set Value (SV) and Process Value (PV) on the display.",
+    "During operation, observe the trend graph and data logging; do not open the door unless the cycle is paused and the chamber has returned to ambient temperature.",
+    "After the test is complete, allow the chamber to return to room temperature before opening the door and removing samples.",
+    "Safety Warning: Never open the chamber door during extreme temperature operation (below -20°C or above 60°C) as this may cause thermal shock, frostbite, or burns; always wear appropriate thermal protective gloves and eye protection when handling samples."
+  ],
   "features": [
     "Extended deep-freeze and high-heat ranges from minus 70 to 180°C",
     "High-efficiency rapid thermal transition tracking from 10 to 15°C per minute",

@@ -1,6 +1,18 @@
 {
   "name": "LABORATORY OVERHEAD STIRRER",
   "desc": "Premium Digital Laboratory Overhead Stirrer engineered for universal mixing and precise fluid agitation. Features a robust, slimline drive unit with an advanced constant power-drive system and dual mechanical speed ranges from 60 to 2,000 RPM.",
+  "principle": "The INNOLAB INSTRUMENTS LABORATORY OVERHEAD STIRRER operates on a constant power-drive mechanism that maintains consistent torque across dual mechanical speed ranges (60–2000 RPM), ensuring uniform agitation of viscous fluids, suspensions, and chemical reagents. This instrument is essential for B.Sc/M.Sc students, PhD researchers, and chemists performing dissolution testing, polymer synthesis, titration mixing, and cell culture media preparation. It is routinely used to stir strong acids (e.g., HCl, H2SO4), volatile organic solvents (e.g., acetone, toluene), high-viscosity polymers, and biological buffers under ISO 8655 and ASTM E691 standards for reproducibility. The push-through agitator shaft design allows safe shaft exchange while stationary, minimizing contamination risk in aseptic workflows.",
+  "sop": [
+    "Ensure the overhead stirrer is securely mounted on a stable stand with the agitator shaft properly inserted and locked.",
+    "Connect the power cord to a 230 V AC, 50-60 Hz single-phase supply and switch on the main power.",
+    "Press the 'SET' button once on the digital LED display to enter speed setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target stirring speed (e.g., 500 RPM for aqueous solutions).",
+    "Press 'SET' again to lock the speed value and return to run mode.",
+    "Lower the stirrer shaft into the sample vessel, ensuring the impeller is fully submerged but not touching the vessel bottom or walls.",
+    "Press the 'START' button to initiate stirring; monitor the display for actual speed and adjust if necessary using the same SET/UP/DOWN sequence.",
+    "After completion, press 'STOP', allow the shaft to come to a complete halt, then raise the drive unit and remove the vessel.",
+    "Safety Warning: Never change the agitator shaft or touch the impeller while the motor is running or the shaft is still rotating; always disconnect power before maintenance to prevent severe entanglement or chemical splash injuries."
+  ],
   "features": [
     "Dual mechanical speed ranges from 60 to 2000 RPM universal use",
     "Advanced Constant Power-Drive for consistent torque under load",

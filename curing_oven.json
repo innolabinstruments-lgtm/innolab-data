@@ -1,0 +1,45 @@
+{
+  "name": "CURING OVEN",
+  "desc": "The INNOLAB INSTRUMENTS INNO-CUO-220 Curing Oven is a highly robust, industrial-grade thermal processing chamber explicitly designed to facilitate the chemical cross-linking and hardening of materials under controlled elevated temperatures. Essential for improving the durability of polyurethane (PU), polymers, carbon fiber, and rubber components.",
+  "principle": "The INNOLAB INSTRUMENTS Curing Oven operates on the principle of controlled thermal convection to accelerate the cross-linking and polymerization of thermosetting materials such as polyurethane (PU), epoxy resins, carbon fiber composites, and rubber compounds. By maintaining a uniform elevated temperature up to 300°C via an imported PID controller and heavy-duty motor-driven blower assembly, the oven ensures consistent horizontal and vertical airflow, eliminating thermal gradients that could cause uneven curing or internal stresses. The tubular air heating elements rapidly transfer heat to the chamber, while ceramic mineral wool insulation and a high-temperature silicone rubber gasket minimize heat loss and protect operators. This environment is critical for doctors, B.Sc/M.Sc students, PhD researchers, and chemists who cure PU coatings for medical device components, vulcanize rubber for gaskets and seals, post-cure carbon fiber laminates for aerospace or automotive testing, and anneal thermoplastics to relieve residual stresses. The oven supports compliance with standards such as ASTM D638 (tensile properties of plastics), ISO 604 (compressive properties), and ASTM D412 (rubber vulcanization), ensuring reproducible material characterization and quality control.",
+  "sop": [
+    "Ensure the curing oven is placed on a stable, level surface with at least 30 cm clearance from walls and flammable materials.",
+    "Connect the power supply (220V or 415V as specified) and switch on the main circuit breaker.",
+    "Press the 'SET' button once on the PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 150°C for PU curing).",
+    "Press 'SET' again to lock the value and allow the controller to begin heating.",
+    "Open the insulated solid door using the spring door latch and place the samples or molds on the internal shelves, ensuring even spacing for uniform airflow.",
+    "Close the door firmly to engage the silicone rubber gasket and latch securely.",
+    "Monitor the actual temperature on the PID display; wait until the oven reaches the setpoint and stabilizes for at least 15 minutes before starting the curing timer.",
+    "After the required curing duration (e.g., 2 hours for PU), switch off the heater by setting the temperature to 0°C or pressing the 'SET' button and adjusting down, then allow the oven to cool naturally with the door closed to avoid thermal shock.",
+    "Once the temperature drops below 50°C, open the door carefully, remove samples using heat-resistant gloves, and switch off the main power.",
+    "Safety Warning: Never open the oven door during high-temperature operation or immediately after switching off, as sudden exposure to hot air and volatile organic compounds (VOCs) released from curing polymers can cause severe burns or inhalation hazards; always wear appropriate PPE and ensure proper ventilation."
+  ],
+  "features": [
+    "Maximum Operating Temperature Up to 300°C managed by imported PID controller",
+    "Heavy Duty Motor Driven Blower Assembly for Horizontal & Vertical Air Flow",
+    "Tubular Air Heating Elements ensuring rapid and uniform thermal distribution",
+    "Ceramic Mineral Wool Insulation preventing high-temperature leakage",
+    "Insulated Solid Door secured with Spring Door Latch and Silicone Rubber Gasket"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Industrial Polyurethane (PU) Curing Oven",
+    "Maximum Operating Temperature": "Up to 300°C",
+    "Controller": "Imported PID Temperature Controller",
+    "Heating Element": "Tubular Air Heating Element",
+    "Air Circulation": "Heavy Duty Motor Driven Blower Assembly",
+    "Air Flow Direction": "Horizontal & Vertical",
+    "Construction Material": "Aluminum Painted Steel OR Stainless Steel 304",
+    "Insulation Material": "Ceramic Mineral Wool Insulation",
+    "Door Construction": "Insulated Solid Door with Spring Door Latch",
+    "Door Gasket": "High Temperature Silicone Rubber Gasket",
+    "Standard Safety Features": "Overload Protection, Over Temperature Protection, Current Leakage Protection",
+    "Electrical Power Supply": "220 Volts 50Hz OR 415 Volts 50Hz",
+    "Target Applications": "PU Curing, Carbon Fiber, Thermoplastics, Rubber Vulcanization",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/curing_oven.glb",
+  "image": "assets/instruments/curing_oven.webp",
+  "images": null
+}

@@ -1,6 +1,21 @@
 {
   "name": "TABLET DISINTEGRATION TESTER",
   "desc": "Pharmacopoeia-Compliant Double-Basket Digital Tablet Disintegration Test Apparatus engineered for automated disintegration time evaluation. Features a dual basket configuration driven by a stable 30 RPM mechanical drive and a PID temperature controller utilizing dual stainless steel PT-100 sensors.",
+  "principle": "The INNOLAB INSTRUMENTS Tablet Disintegration Tester operates on the pharmacopoeial principle of mechanical disintegration under simulated physiological conditions. The dual basket rack, holding 12 transparent tubes with 10-mesh screens at the bottom, is immersed in a thermostatically controlled water bath filled with specific immersion media such as 0.1 N hydrochloric acid (pH 1.2), phosphate buffer (pH 6.8), or distilled water maintained at 37.0 ± 0.2 °C by a microprocessor-based PID controller with dual SS PT-100 RTD sensors. The drive mechanism moves the basket assembly vertically at a constant 30 strokes per minute with 50–55 mm displacement, mimicking gastric and intestinal peristaltic agitation. Solid oral dosage forms are considered disintegrated when no palpable residue remains on the screen, enabling QA/QC analysts, B.Sc/M.Sc pharmacy students, PhD researchers, and formulation scientists to assess compliance with IP, USP, and BP monographs for immediate-release, enteric-coated, effervescent, and orally disintegrating tablets.",
+  "sop": [
+    "Ensure the instrument is placed on a stable, level bench and the acrylic water bath is clean; fill the 1000 ml glass beaker with the prescribed immersion medium (e.g., distilled water, 0.1 N HCl, or phosphate buffer pH 6.8) and place it inside the bath.",
+    "Switch ON the mains supply and allow the PID controller to initialise; verify the red LED display shows current water bath temperature and timer status.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., set temperature to 37.0°C and timer as per monograph).",
+    "Press 'SET' again to lock the value.",
+    "Allow the water bath to equilibrate to 37.0 ± 0.2°C; confirm stability using the dual stainless steel PT-100 sensors.",
+    "Place one tablet or capsule in each of the six tubes of both baskets; if specified for a monograph, add the plastic discs on top of the dosage forms.",
+    "Lower the basket assembly into the immersion medium and start the 30 strokes per minute reciprocating drive with 50–55 mm displacement; simultaneously start the countdown timer.",
+    "Observe the test continuously or at prescribed intervals; record the disintegration time when no tablet residue remains on the 10-mesh screen of any tube, or the time specified for enteric-coated products in acid and buffer stages.",
+    "After the timer reaches zero or endpoint is confirmed, the auto lift-up mechanism parks both baskets at the top position; stop the drive and switch OFF the instrument.",
+    "Carefully drain the immersion medium, remove and clean the baskets, tubes, and beaker with distilled water, and disinfect if biological fluids were used.",
+    "CAUTION: Never operate the heating element without sufficient liquid in the water bath; the immersion heater and bath surface reach 45–100°C, so allow cooling before cleaning and always wear thermal gloves and chemical splash goggles when handling hot or corrosive media."
+  ],
   "features": [
     "Full structural compliance with IP, USP, and BP pharmacopoeia protocols",
     "2 Station assembly managing Double Basket setup (2 × 6 test tubes matrix)",

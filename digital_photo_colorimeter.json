@@ -1,0 +1,46 @@
+{
+  "name": "DIGITAL PHOTO COLORIMETER",
+  "desc": "Mains-Operated Laboratory Digital Photo Colorimeter engineered for high-precision photometric analysis, quantitative concentration measurements, and routine clinical biochemistry assays. Equipped with a high-sensitivity Silicon Photodiode detector and an integrated wheel housing 8 standard optical glass filters.",
+  "principle": "The INNOLAB INSTRUMENTS Digital Photo Colorimeter operates on the principle of selective absorption of monochromatic light by colored solutions, governed by the Beer-Lambert Law. A highly regulated 6V, 300mA tungsten lamp emits visible light, which passes through one of eight integrated standard glass filters to isolate a narrow wavelength band matched to the analyte's absorption maximum. The transmitted light is detected by a high-sensitivity silicon photodiode, converting optical intensity into an electrical signal proportional to transmittance (%T) and optical density (OD). This instrument is widely used by doctors and pathologists for blood analysis (e.g., hemoglobin, glucose, bilirubin, total protein, cholesterol), by B.Sc/M.Sc students for quantitative estimation of transition metal ions (e.g., Fe³⁺ with thiocyanate, Cu²⁺ with ammonia), by PhD researchers for kinetic assays of enzymes like alkaline phosphatase or peroxidase, and by chemists for water quality testing of nitrates, phosphates, and residual chlorine. It supports compliance with standard methods such as APHA for water analysis, ISO 8466 for calibration, and ASTM E169 for quantitative UV-Vis practice, enabling precise concentration determination of analytes like strong acids (via pH indicators), VOCs (after derivatization), and biological chromophores in clinical biochemistry.",
+  "sop": [
+    "Ensure the instrument is placed on a stable, vibration-free bench and connected to a 220-230 V AC, 50 Hz single-phase supply. Switch ON the mains and allow 10–15 minutes warm-up for lamp stabilization.",
+    "Select the appropriate standard glass filter for your analyte by rotating the integrated filter wheel to the required wavelength (e.g., 540 nm for hemoglobin, 470 nm for glucose).",
+    "Fill a clean, matched test tube with blank solution (distilled water or reagent blank) up to the 1 ml minimum mark, wipe the outer surface with lint-free tissue, and insert it into the sample holder. Close the lid.",
+    "Press the 'SET' button once. The display will flash, indicating calibration mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the reading to 100% transmittance (or 0.000 absorbance) for the blank.",
+    "Press 'SET' again to lock the 100%T calibration value. The display should now show a stable 100.0 reading.",
+    "Remove the blank tube, fill a second matched test tube with your sample solution (minimum 1 ml), wipe it clean, and insert it into the sample holder. Close the lid.",
+    "Read the displayed value directly as % Transmittance or Optical Density, depending on the selected mode. Record the reading for concentration calculation using a pre-established calibration curve.",
+    "Repeat steps 7–8 for each sample, re-calibrating with the blank every 10 samples or whenever the filter is changed.",
+    "After use, remove the sample tube, switch OFF the mains, and cover the instrument with a dust cover.",
+    "SAFETY WARNING: Never operate the colorimeter with the sample compartment lid open, as stray light will cause erroneous readings and may damage the photodiode. Always handle strong acids, VOCs, and biological fluids inside a fume hood or biosafety cabinet before transferring sealed tubes to the instrument. Do not spill liquids into the filter wheel or detector housing; if a spill occurs, immediately power off and contact service personnel."
+  ],
+  "features": [
+    "Integrated 8 Standard Glass Filters setup",
+    "1 ml micro-volume requirement for reagent optimization",
+    "High-Visibility 2½ Digit LED Display for instant readings",
+    "High-Sensitivity, stable Silicon Photodiode detector array",
+    "Supplied complete with a matching test tube set of 5"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Precision Benchtop Digital Photo Colorimeter Unit",
+    "Optical Filter Configuration": "Integrated 8 Standard Glass Filters setup (5 Filters configuration option available)",
+    "Minimum Sample Processing Volume": "1 ml micro-volume requirement for reagent optimization",
+    "Display Interface Panel": "High-Visibility 2½ Digit LED Display for instant readings",
+    "Detection Mechanism System": "High-Sensitivity, stable Silicon Photodiode detector array",
+    "Primary Light Source": "Highly regulated stable Visible Lamp rated at 6V, 300mA",
+    "Operational Power Mode": "Continuous Mains Operated direct electrical performance layout",
+    "Standard Testing Accessories": "Matched Test Tube set of 5 pieces specifically calibrated for colorimeter",
+    "Optics Accessories Package": "Full comprehensive set of Standard Glass Filters for each distinct color",
+    "Enclosure Chassis Build": "Compact, rugged laboratory-grade shockproof outer body structure",
+    "Measurement Parameters": "High-linearity Optical Density (OD) and Percentage Transmission (%T)",
+    "Power Supply Requirements": "Standard 220-230 V AC, 50 Hz, Single Phase stable Indian plug link",
+    "Target Field Applications": "Blood Analysis, Pathology Diagnostics, Water Quality Testing, & Academia",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete optical system",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/digital_photo_colorimeter.glb",
+  "image": "assets/instruments/digital_photo_colorimeter.webp",
+  "images": null
+}

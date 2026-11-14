@@ -1,0 +1,45 @@
+{
+  "name": "FILTERED STORAGE CABINET",
+  "desc": "The INNOLAB INSTRUMENTS INNO-FSC-200 Filtered Storage Cabinet is an advanced, ductless chemical storage solution engineered to protect laboratory personnel and the environment from hazardous chemical exposures. Utilizing state-of-the-art molecular filtration technology, this ventilated cabinet actively adsorbs toxic and odorous vapors emitted from stored bottles and flasks, continuously recirculating purified, pollutant-free air back into the laboratory.",
+  "principle": "The INNOLAB INSTRUMENTS INNO-FSC-200 Filtered Storage Cabinet operates on the principle of continuous ductless molecular filtration and adsorption of chemical vapours. Ambient laboratory air is drawn into the cabinet, where a highly effective activated carbon bed adsorbs volatile organic compounds (VOCs), acid fumes, and odours, and a HEPA filter captures 99.95% of airborne particulate matter down to 0.3 micrometres. The purified air is actively recirculated back into the laboratory, providing 24-hour non-stop protection without external ducting. A polypropylene (PP) leakage sump at the bottom safely contains accidental spills of aggressive liquids such as hydrochloric acid (HCl), nitric acid (HNO3), sulfuric acid (H2SO4), ammonia (NH3), and organic solvents like methanol, dichloromethane (DCM), acetone, and toluene. An integrated imported VOC sensor continuously monitors total volatile organic compound concentrations and triggers safety alarms. This engineering design is suited for chemical and reagent storage in hospital laboratories, pharmacy departments, academic B.Sc./M.Sc. teaching labs, and PhD research settings, where it safeguards both personnel and the environment from toxic fumes and supports compliance with occupational exposure limits and safe storage guidelines (e.g., OSHA 1910.1450, ASTM D6670 for indoor air quality related to VOC sorption by carbon).",
+  "sop": [
+    "Wear appropriate personal protective equipment (lab coat, safety goggles, nitrile gloves) and ensure the cabinet is placed on a level, vibration-free surface away from direct sunlight and heat sources.",
+    "Inspect the transparent acrylic doors, shelves, polypropylene sump, and power cord for any cracks, chemical residues, or damage before switching on.",
+    "Connect the cabinet to a 220V, 50Hz earthed power supply and switch on the main power isolator; wait for the color touch screen controller to initialise and perform its self-diagnostic checks.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "Check the filter saturation indicator and VOC sensor reading on the color touch screen; if the carbon or HEPA filter alarm is active, do not load chemicals until filters are replaced or reset by authorised technical staff.",
+    "Open the lockable acrylic door, place tightly sealed chemical bottles (e.g., acids, bases, volatile organic solvents, reagents) on the perforated steel shelves, ensuring incompatible substances are segregated and no containers protrude over shelf edges.",
+    "Close and lock the transparent door to maintain the internal recirculation barrier, and verify that the cabinet is operating quietly with clean air being returned through the front grille; record the VOC reading and time in the lab logbook.",
+    "Safety Warning: Never store perchloric acid, highly concentrated oxidising agents, explosive or peroxide-forming chemicals, or unsealed containers of strong mineral acids in this filtered cabinet unless the activated carbon medium is certified compatible; always keep the door locked and do not disable alarms, because filter breakthrough can release toxic VOCs back into the laboratory."
+  ],
+  "features": [
+    "24 Hours Non-Stop Protection with ductless inner recirculation",
+    "Highly Effective Carbon and HEPA Filters capturing 99.95% of fumes",
+    "Epoxy Resin Powder Coated Steel Sheet construction with Acrylic Transparent Doors",
+    "Polypropylene (PP) Leakage Storage Sump built into the bottom",
+    "Intuitive Color Touch Screen Controller with integrated imported VOC sensor"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Ductless Filtered Chemical Storage Cabinet",
+    "Construction Material": "Epoxy Resin Powder Coated Steel Sheet",
+    "Door Construction": "Acrylic Transparent Doors with Lock & Key",
+    "Shelf Construction": "Epoxy Coated Perforated Steel Shelves",
+    "Sump Material": "Polypropylene (PP) Leakage Storage Sump",
+    "Filtration Efficiency": "Filters 99.95% of Fumes",
+    "Filter Type": "Highly Effective Carbon and HEPA Filters",
+    "Controller": "Color Touch Screen Controller",
+    "Sensor": "Imported VOC Sensor",
+    "Standard Safety Features": "Various Safety Alarms",
+    "Operation": "24 Hours Non-Stop Protection",
+    "Exhaust Requirement": "Ductless (Inner Recirculation)",
+    "Electrical Power Supply": "220 Volts, 50Hz",
+    "Target Applications": "Chemical & Reagent Storage, Fume Adsorption, Laboratory Safety",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/filtered_storage_cabinet.glb",
+  "image": "assets/instruments/filtered_storage_cabinet.webp",
+  "images": null
+}

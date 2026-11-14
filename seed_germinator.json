@@ -1,6 +1,22 @@
 {
   "name": "SEED GERMINATOR",
   "desc": "150-Liter Microprocessor-Controlled Seed Germination Chamber engineered to optimize the sprouting and development workflows of diverse seed varieties. Features a robust SS304 internal chamber with integrated day/night fluorescent photoperiod simulation lighting.",
+  "principle": "The INNOLAB INSTRUMENTS SEED GERMINATOR is a state-of-the-art 150-liter microprocessor-controlled chamber engineered to provide precise and reproducible environmental conditions for seed germination, seedling growth, and plant tissue culture studies. It is extensively utilized by agricultural researchers, botanists, horticulturists, and B.Sc/M.Sc/PhD students to evaluate seed viability, dormancy breaking, and germination rates under controlled temperature, humidity, and photoperiod regimes. The chamber's SS304 interior resists corrosion from mild acidic or alkaline treatments used in seed sterilization (e.g., sodium hypochlorite, hydrogen peroxide) and supports cultivation of seed-borne microorganisms for pathology assays. The integrated full-spectrum fluorescent lighting simulates day/night cycles, enabling photoperiod-sensitive species studies, while the PID-based digital controller maintains temperature from 10°C to 50°C and baseline humidity at 50% RH, adhering to ISTA and ASTM germination testing standards. This system is ideal for accelerated aging tests, priming experiments, and screening of seed treatments against fungal pathogens like Fusarium and Aspergillus.",
+  "sop": [
+    "Ensure the chamber is placed on a level surface and connected to a 230V AC, 50 Hz power supply.",
+    "Open the glass viewing door and load seed trays or Petri dishes onto the four adjustable shelves, ensuring adequate spacing for air circulation.",
+    "Close the door securely to maintain internal climate integrity.",
+    "Switch ON the main power supply and turn on the chamber using the power switch.",
+    "Press the 'SET' button once on the digital temperature controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 25°C for most species).",
+    "Press 'SET' again to lock the temperature value.",
+    "If humidity control is required, press the 'SET' button on the humidity controller (if separate) and adjust similarly to 50% RH baseline.",
+    "Set the photoperiod timer for day/night lighting cycles according to experimental protocol (e.g., 16 hours light, 8 hours dark).",
+    "Allow the chamber to stabilize for at least 30 minutes before placing seeds, monitoring the digital display for temperature and humidity readings.",
+    "During operation, avoid frequent door openings to prevent fluctuations; use the transparent window for observations.",
+    "After the experiment, switch off the lighting and controllers, then unplug the unit and clean the interior with a mild disinfectant.",
+    "Safety Warning: Never operate the germinator with wet hands or near water sources; do not place flammable or volatile chemicals inside the chamber, and always disconnect power before cleaning or maintenance to prevent electric shock."
+  ],
   "features": [
     "Full-Spectrum Fluorescent Grow Lights for day/night cycle simulation",
     "Precise temperature regulation down to 10°C baseline (Range: 10°C to 50°C)",

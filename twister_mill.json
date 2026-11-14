@@ -1,6 +1,22 @@
 {
   "name": "TWISTER MILL",
   "desc": "The INNOLAB INSTRUMENTS INNO-TWM-100X Twister Mill (Cyclone Mill) is highly utilized in the food, feed, and pharmaceutical industries. It is specifically used for ultra-fast, uniform grinding of dry, brittle samples like grains, seeds, and tobacco prior to NIR analysis. The integrated cyclone mechanism automatically separates the ground sample, drastically increasing throughput.",
+  "principle": "The INNOLAB INSTRUMENTS TWISTER MILL is a high-speed cyclone impact mill engineered for ultra-fine, uniform pulverization of dry, brittle matrices such as cereals, oilseeds, pulses, feed pellets, and tobacco. The mill operates by accelerating particles in a 1.1 kW rotor at up to 16,000 rpm with a peripheral speed of 82 m/s; impact and shear against a selected 0.3–1.0 mm sieve ring reduce sample size, while the integrated cyclone separator removes the ground fraction, minimizing heat and cross-contamination. This standardized grinding is critical for reproducible NIR/FT-NIR and reference wet-chemistry analyses of moisture, crude protein, crude fat, starch, ash, crude fiber, and mycotoxins such as aflatoxins and ochratoxin A in food, feed, and pharmaceutical QC laboratories. It supports ISO 12099, AOAC, and AACC methods and is suitable for B.Sc/M.Sc students, PhD researchers, food chemists, agronomists, and quality-control analysts preparing grains, seeds, feed, and tobacco samples.",
+  "sop": [
+    "Ensure the mill is placed on a stable, vibration-free bench and connected to a 220V 50Hz earthed power supply.",
+    "Wear appropriate PPE: safety goggles, dust mask, ear protection, and lab coat.",
+    "Select and install the required sieve (0.3 mm, 0.5 mm, 0.8 mm, or 1.0 mm) and attach a clean 250 ml cyclone collection bottle.",
+    "Switch on the main power switch and allow the control panel to initialize.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "Ensure the feeding hopper is empty and the sample particles are dry and below 10 mm in size; fill the batch volume to no more than 250 ml.",
+    "Start the mill and feed the sample slowly and uniformly into the hopper to avoid overloading or clogging.",
+    "Allow the cyclone to separate and collect the ground sample; wait until no residual material is observed in the discharge path.",
+    "Switch off the motor, collect the labeled ground sample from the bottle, and close tightly for subsequent NIR or reference analysis.",
+    "Clean the mill, sieve, and cyclone components with a soft brush or laboratory vacuum between runs to prevent cross-contamination.",
+    "SAFETY WARNING: Never open the grinding chamber or place hands near the rotor while the motor is running or coasting; switch off and unplug the mill and wait for complete rotor stop before cleaning or changing sieves, and never process flammable, explosive, high-moisture, or sticky samples."
+  ],
   "features": [
     "Maximum 16000 rpm speed setting with rotor peripheral speed of 82 m/s",
     "Cyclone separator collects samples quickly and reduces cleaning time",

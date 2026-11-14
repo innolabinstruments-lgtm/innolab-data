@@ -1,6 +1,20 @@
 {
   "name": "MOISTURE ANALYZER BALANCE",
   "desc": "Microprocessor-Controlled High-Precision Digital Moisture Analyzer Balance engineered for rapid and reliable moisture determination. Features a maximum weighing capacity of 200g with an analytical readability of 0.001g, powered by a high-resolution EMFC Monotech sensor.",
+  "principle": "The INNOLAB INSTRUMENTS MOISTURE ANALYZER BALANCE is a microprocessor-controlled halogen-loss-on-drying (LOD) system built around a high-resolution Electromagnetic Force Compensation (EMFC) weighing cell, delivering 0.001 g mass readability and 0.001% moisture resolution across a 200 g continuous analytical load spectrum. The integrated Smart Radiation Attachment (SRA) halogen reflector applies homogeneous thermal energy from 30°C to 175°C (optionally up to 250°C) under user-defined Standard, Gentle, Rapid, Steps, or High Temperature drying profiles, while real-time EMFC mass tracking quantifies volatilized water and volatile components via thermogravimetric loss-on-drying. In pharmaceutical QC and R&D, doctors, pharmacists, and PhD researchers use the analyzer to validate moisture content in active pharmaceutical ingredients, excipients, granules, and lyophilized powders against USP <731> Loss on Drying and GMP/GLP data-integrity requirements; food and agricultural chemists determine moisture in cereals, dairy powders, spices, and animal feed per AOAC or ISO 287; polymer and materials scientists test resin pellets, masterbatches, biomass, and soil samples under ASTM D6980 to assure batch-to-batch dry solids consistency. B.Sc/M.Sc students and laboratory technicians rely on the instrument for comparative moisture sorption studies, drying-curve generation, and routine quality checks without transferring hot samples to external balances.",
+  "sop": [
+    "Place the analyzer on a stable, vibration-free bench away from drafts and connect it to a 230 V AC / 50 Hz supply; power ON and allow the EMFC weighing cell and halogen lamp to stabilize for at least 30 minutes.",
+    "Ensure the Ø 95 mm sample pan and reflector are clean and dry, then press the 'TARE' button to zero the empty pan.",
+    "Press the 'MENU' key to enter method selection, press the 'SET' button once, use the 'UP' and 'DOWN' arrows to choose the required method ID (1-40) for the sample, then press 'SET' again to lock the method.",
+    "Press the 'SET' button once to enter drying temperature setup; use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 105 °C for general moisture or 130 °C for plastics); press 'SET' again to lock the value.",
+    "Select the drying profile (Standard, Gentle, Rapid, Steps, or High Temperature) and the auto switch-off criterion (e.g., weight-loss per time or %/time) using the SET and arrow keys.",
+    "Place a clean aluminum sample pan on the internal weighing fork, close the lid, and press 'TARE' to zero the pan weight.",
+    "Spread 3–5 g of homogeneous sample uniformly across the pan as a thin layer to ensure even halogen exposure; avoid clumping and sample stacking.",
+    "Close the heating chamber lid and press the 'START' button; monitor the real-time moisture curve on the graphical LCD without opening the lid during drying.",
+    "When the selected auto switch-off criterion is reached, the analyzer will stop heating; allow the chamber to cool briefly, then record the displayed moisture content, dry solids mass, time, and user ID.",
+    "Remove the pan, discard or retrieve the dried residue, clean the pan and reflector with a soft brush or lint-free cloth, and transfer data via RS232/USB/PS2 if GLP/GMP log retention is required.",
+    "CAUTION: The halogen heating chamber and sample pan may reach 175 °C (or up to 250 °C with thermal upgrades); never open the lid during or immediately after heating, and do not test flammable, explosive, highly volatile, or strong-acid samples that can ignite or release corrosive fumes."
+  ],
   "features": [
     "200 g continuous analytical load spectrum layout",
     "Ultra-precise 0.001 g measurement resolution index",

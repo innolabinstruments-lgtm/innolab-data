@@ -1,0 +1,51 @@
+{
+  "name": "BACTERIOLOGICAL INCUBATOR",
+  "desc": "Double-Walled Bacteriological Incubator featuring an advanced bottom-heated design, engineered for precise temperature-controlled laboratory procedures such as tissue cultures and fermentation studies. Built with a 250-liter SS-304 inner chamber and managed by a microprocessor-based PID controller.",
+  "principle": "The INNOLAB INSTRUMENTS BACTERIOLOGICAL INCUBATOR is a double-walled, bottom-heated microbiological cultivation system designed for high-precision thermal regulation in clinical, academic, and industrial laboratories. Its 250-liter SS-304 inner chamber, insulated with high-density polyurethane foam (PUF), is paired with a microprocessor-based PID controller and PT100 sensor to maintain a stable thermal environment from 5°C above ambient to 70°C with ±0.5°C accuracy. This uniform bottom-heated design supports doctors who incubate clinical specimen cultures such as Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, and Candida albicans on nutrient agar, blood agar, MacConkey agar, and Sabouraud dextrose agar for pathogen identification and antimicrobial susceptibility testing. B.Sc and M.Sc students use the chamber for routine microbiology, biotechnology, and biochemistry practicals, cultivating Bacillus subtilis, Saccharomyces cerevisiae, Aspergillus niger, and Lactobacillus species for enzyme assays, fermentation studies, and biochemical characterization. PhD researchers depend on the system for recombinant protein expression cultures, plant tissue culture, callus induction, seed germination, and long-term stability studies under controlled conditions, while chemists and quality control analysts perform microbial limit tests, sterility checks, and biological assays aligned with pharmacopoeial methods such as USP <61>, USP <62>, and ISO 4833. The heavy insulated door with double glass window minimizes thermal loss, and the over-temperature protection, auto power break-off, and safety alarm system ensure reproducible cultivation without compromising operator safety or sample integrity.",
+  "sop": [
+    "Verify that the incubator is clean, dry, and placed on a stable, level surface away from direct sunlight, heat sources, and corrosive vapours.",
+    "Plug the unit into a properly grounded electrical outlet and switch ON the main power supply; ensure the digital LED display illuminates.",
+    "Before loading samples, confirm the inner chamber is at room temperature and that the shelves are evenly positioned for adequate airflow.",
+    "Place culture plates, test tubes, flasks, or tissue culture vessels inside the chamber, leaving at least 2–3 cm between items to promote uniform heat distribution.",
+    "Close the heavily insulated door firmly and ensure the double glass window is clean for non-intrusive observation.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "Allow the bottom-heated PID system to stabilize for at least 30–60 minutes and verify the displayed temperature remains at the target value before starting timed experiments.",
+    "Record the set temperature, actual temperature, time, and sample details in the equipment logbook at regular intervals (e.g., every 4–6 hours) during the incubation period.",
+    "After the incubation is complete, switch OFF the incubator, open the door carefully, remove samples using heat-resistant gloves, and clean the SS-304 inner chamber with a mild disinfectant such as 70% ethanol or quaternary ammonium solution before the next run.",
+    "Safety Precaution: Never operate this incubator with strong acids, volatile organic solvents, or flammable materials; always disconnect the power supply before cleaning, and if overheating, unusual odours, or electrical faults occur, stop the unit immediately and contact a qualified service engineer."
+  ],
+  "features": [
+    "Advanced bottom-heated configuration for temperature uniformity",
+    "Microprocessor-Based PID Control System with Digital LED Display",
+    "Temperature Control Range from 5°C above ambient up to 70°C",
+    "High-Density PUF insulation barrier for thermal efficiency",
+    "Heavy Insulated Door with a Double Glass Window"
+  ],
+  "specifications": {
+    "Type of Incubator": "Incubator Bottom Heated Configuration",
+    "Chamber Capacity": "250 Liters",
+    "Material of Inner Chamber": "High-Grade Stainless Steel (SS 304 Grade)",
+    "Material of Outer Chamber": "Heavy-Gauge Mild Steel Exterior with Epoxy Powder Coating",
+    "Thermal Insulation": "High-Density Polyurethane Foam (PUF) insulation barrier",
+    "Temperature Control Range": "5°C above ambient temperature up to 70°C",
+    "Temperature Control Accuracy": "Precise ± 0.5°C",
+    "Temperature Uniformity": "Exceptionally stable across the 5°C above ambient to 70°C span",
+    "Controller Architecture": "Microprocessor-Based PID Control System",
+    "Display Interface Type": "High-Visibility Digital LED Display",
+    "Temperature Sensor Type": "Precision PT100 Sensor integrated",
+    "Chamber Door Design": "Heavy Insulated Door with heavy hinges and a Double Glass Window",
+    "Shelves Configuration": "2 Removable Shelves fabricated from premium SS Wire Mesh",
+    "Physical Chamber Size": "Compact standard footprint: 605 mm x 905 mm x 605 mm (L x W x H)",
+    "Equipment Net Weight": "Approximately 70 Kgs robust structure",
+    "Safety Integration Features": "Over-Temperature Protection, Auto Power Break-Off, & Safety Alarm System",
+    "Target Field Procedures": "Designed for Tissue Cultures, Plant Incubation, and Fermentation Studies",
+    "Warranty Cover": "1 Year Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/bacteriological_incubator.glb",
+  "image": "assets/instruments/bacteriological_incubator.webp",
+  "images": null
+}

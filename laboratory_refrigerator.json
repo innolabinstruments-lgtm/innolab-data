@@ -1,6 +1,20 @@
 {
   "name": "LABORATORY REFRIGERATOR",
   "desc": "Double-Door Laboratory Refrigerator designed for high-capacity, precise climate-controlled storage of biological products within a strict 2°C to 8°C range. Features a massive 1000-liter SS 304 internal chamber with 8 perforated trays and an advanced microprocessor touch display controller.",
+  "principle": "The INNOLAB INSTRUMENTS LABORATORY REFRIGERATOR is a high-precision, double-door refrigerated storage system engineered for the safe preservation of temperature-sensitive biological materials within a strict 2°C to 8°C range. It employs a microprocessor-based PID controller with a motorized forced air cooling system to maintain ±0.5°C uniformity across its 1000-liter SS 304 chamber. This unit is indispensable for clinical laboratories, biobanks, and research facilities storing vaccines (e.g., mRNA COVID-19 vaccines, live attenuated influenza vaccines), blood derivatives, sera, plasma, microbiological cultures (e.g., Escherichia coli, Staphylococcus aureus, Lactobacillus), cell culture media (DMEM, RPMI-1640), enzymes, antibodies, and PCR reagents. It complies with WHO vaccine storage guidelines, ISO 13485 quality management, and ASTM E1292 temperature mapping standards, ensuring integrity of biological assays and pharmaceutical stability testing.",
+  "sop": [
+    "Ensure the refrigerator is placed on a level surface with at least 10 cm clearance on all sides for ventilation, and lock the castor wheels.",
+    "Connect the power cord to a grounded electrical outlet and switch on the main power supply.",
+    "Press the 'SET' button once on the digital touch display controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 4°C for general storage).",
+    "Press 'SET' again to lock the value; the controller will now display the actual chamber temperature and begin cooling.",
+    "Allow the unit to stabilize for at least 30 minutes before loading any samples, verifying that the display reads within 2°C to 8°C.",
+    "Open the glass doors only when necessary, and load pre-chilled or room-temperature samples onto the perforated SS 304 trays, ensuring adequate spacing for air circulation.",
+    "Close the doors firmly and engage the key lock to prevent unauthorized access.",
+    "Monitor the temperature display regularly; if an alarm sounds (e.g., temperature deviation, door ajar), address the issue immediately.",
+    "For data logging, connect via USB, WiFi, Ethernet, RS232, or RS485 as per laboratory protocol to record temperature trends.",
+    "Safety Warning: Never store flammable or explosive chemicals (e.g., ether, acetone) in this refrigerator, as the electrical components may ignite vapors; only store compatible biological and chemical reagents as specified by the manufacturer."
+  ],
   "features": [
     "Stable micro-climate control from 2°C to 8°C with ±0.5°C stability",
     "1000 Liters large-scale laboratory storage capacity",

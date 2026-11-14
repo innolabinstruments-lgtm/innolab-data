@@ -1,0 +1,52 @@
+{
+  "name": "FRIABILITY TEST APPARATUS",
+  "desc": "Microcontroller-Based Digital Friability Test Apparatus engineered for automated tablet abrasion and durability analysis in strict compliance with USP pharmacopoeia standards. Features a high-stability dual-drum configuration driven by a precision digital drive with a programmable speed range.",
+  "principle": "The INNOLAB INSTRUMENTS Friability Test Apparatus operates on the principle of controlled mechanical abrasion to quantify the physical durability of uncoated and coated pharmaceutical tablets under standardized stress conditions. The instrument rotates a precision-engineered drum at a user-defined speed (20–60 RPM) for a fixed number of revolutions, causing tablets to undergo repeated tumbling, sliding, and impact against the drum wall and an internal curved baffle. This simulates the mechanical shocks and frictional forces encountered during handling, coating, packaging, and transportation. Weight loss after testing, expressed as percentage friability, is calculated gravimetrically. The apparatus strictly complies with USP <1216> Tablet Friability and harmonized pharmacopoeial protocols, ensuring that tablets withstand abrasion without capping, lamination, or excessive powdering. It is widely used by pharmaceutical QA/QC analysts, formulation scientists, and B.Sc/M.Pharm students to evaluate binders, disintegrants, and coating integrity, as well as by researchers testing novel excipients, moisture-sensitive formulations, or effervescent tablets. The dual-drum configuration allows parallel testing of different batches or placebo vs. active formulations, while the microcontroller-based PID control maintains constant rotational speed even under varying load, ensuring reproducible stress profiles. The integrated digital display and audio alarm provide real-time monitoring and unattended operation, making it essential for stability studies, batch release testing, and regulatory submissions in drug manufacturing and contract research laboratories.",
+  "sop": [
+    "Ensure the instrument is placed on a stable, vibration-free bench and connected to a 220–230 V AC, 50–60 Hz single-phase supply with proper earthing.",
+    "Inspect both drums for cleanliness, residual powder, or damaged baffles; wipe with a dry, lint-free cloth if necessary.",
+    "Weigh an initial sample of tablets (typically 6.5 g or as specified in USP <1216>) using a calibrated analytical balance and record the initial weight (W1).",
+    "Load the tablets gently into one or both drums, ensuring no tablet is trapped between the drum wall and baffle.",
+    "Close and secure the drum lid firmly to prevent sample loss during rotation.",
+    "Press the 'SET' button once on the digital controller to enter speed setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the rotational speed to the required target value (commonly 25 RPM for USP testing).",
+    "Press 'SET' again to lock the speed value and move to the revolution count setting.",
+    "Use the 'UP' and 'DOWN' arrows to set the total number of revolutions (typically 100 revolutions for standard USP friability testing).",
+    "Press 'SET' once more to confirm and store all parameters; the display will show the set speed and revolution count.",
+    "Press the 'START' button to initiate the test; the drum will begin rotating and the digital counter will track elapsed revolutions.",
+    "Allow the test to run uninterrupted until the preset revolution count is reached; the built-in audio alarm will sound automatically upon completion.",
+    "Press 'STOP' if emergency termination is required, otherwise wait for automatic stop after the alarm.",
+    "Carefully open the drum lid, collect all tablets, and remove any loose dust or broken fragments using a soft brush.",
+    "Reweigh the intact tablets on the same analytical balance and record the final weight (W2).",
+    "Calculate percentage friability using the formula: Friability (%) = [(W1 – W2) / W1] × 100. A value ≤ 1.0% is generally acceptable per USP unless otherwise specified.",
+    "Clean both drums thoroughly with a dry cloth or mild solvent (e.g., isopropyl alcohol) after each test to prevent cross-contamination between batches.",
+    "Safety Warning: Never open the drum lid while the drum is rotating; always wait for complete stop and disconnect power before cleaning or maintenance. Avoid testing tablets containing volatile solvents or explosive dusts without adequate ventilation, as mechanical friction may generate static or heat."
+  ],
+  "features": [
+    "Certified compliance with USP (United States Pharmacopeia) protocols",
+    "2 Drums configuration for multi-batch sample testing",
+    "User-adjustable tracking spanning from 20 to 60 RPM",
+    "High-visibility integrated 2-line digital LCD display screen",
+    "Built-in smart Audio alarm indicator signaling successful test completion"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Microcontroller-Based Dual Drum Friability Test Apparatus",
+    "Regulatory Test Standards": "Certified compliance with USP (United States Pharmacopeia) protocols",
+    "Drum Infrastructure": "2 Drums configuration for multi-batch sample testing",
+    "Operational Driving Mode": "High-precision automated Digital control pattern",
+    "Rotational Speed Range": "User-adjustable tracking spanning from 20 to 60 RPM",
+    "Drum Dimension Matrix": "Precision engineered diameter adjusted as per pharmacopoeia requirements",
+    "Controller Architecture": "Advanced high-stability Micro-controller framework core",
+    "Display Panel Interface": "High-visibility integrated 2-line digital LCD display screen",
+    "Process Status Signals": "Built-in smart Audio alarm indicator signaling successful test completion",
+    "Power Consumption Scale": "Highly economical energy footprint rated at less than 25 VA",
+    "Electrical Line Demands": "Standard 220-230 V AC, 50-60 Hz, Single Phase stable Indian plug setup",
+    "Target Field Applications": "Pharmaceutical QA/QC Laboratories, Drug Formulation Plants, and Research Labs",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/friability_test_apparatus.glb",
+  "image": "assets/instruments/friability_test_apparatus.webp",
+  "images": null
+}

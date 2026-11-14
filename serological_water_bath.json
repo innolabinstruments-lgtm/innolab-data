@@ -1,6 +1,19 @@
 {
   "name": "SEROLOGICAL WATER BATH",
   "desc": "Premium Microprocessor-Controlled Rectangular Serological Water Bath engineered for accurate constant temperature incubation and clinical serological assays. Features a 12-liter processing capacity tank designed to accommodate up to 2 sample holding racks simultaneously.",
+  "principle": "The INNOLAB INSTRUMENTS SEROLOGICAL WATER BATH is a precision-engineered, microprocessor-controlled thermal incubation system designed for critical serological, biochemical, and clinical diagnostic applications. Utilizing a 12-liter high-capacity reservoir with double-walled insulation and automatic thermostatic regulation, it maintains uniform temperature stability from ambient +5°C to 99°C, essential for reproducible enzyme-linked immunosorbent assays (ELISA), complement fixation tests, bacterial agglutination, and blood bank cross-matching. Doctors, B.Sc/M.Sc students, PhD researchers, and clinical chemists rely on this unit for inactivating serum complement at 56°C, cultivating thermophilic microorganisms, and conducting enzyme kinetics studies under ISO 15189 and CLSI M22-A3 standards. The system's PID-controlled heating ensures minimal thermal drift, safeguarding sensitive biological reagents such as serum, plasma, and enzyme conjugates from denaturation, while the chemical-resistant powder-coated MS exterior withstands exposure to common laboratory disinfectants and mild acids.",
+  "sop": [
+    "Place the serological water bath on a level, stable laboratory bench away from flammable solvents and direct airflow.",
+    "Fill the 12-liter tank with pure distilled water up to the indicated level mark, ensuring the sample racks are fully submerged but not overflowing.",
+    "Connect the power cord to a 220-230 V AC, 50 Hz single-phase grounded outlet and switch ON the main power.",
+    "Press the 'SET' button once on the digital PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 37°C for serological incubation or 56°C for complement inactivation).",
+    "Press 'SET' again to lock the value; the controller will now display the actual water temperature and begin heating.",
+    "Allow the water bath to equilibrate for at least 15–20 minutes until the displayed temperature stabilizes at the setpoint, indicated by a steady reading without fluctuation.",
+    "Carefully place the sample holding racks containing test tubes, microtiter plates, or serum vials into the water bath, ensuring secure positioning and no splashing.",
+    "Monitor the digital display periodically during the incubation period; do not leave the unit unattended for extended periods.",
+    "After completion, switch OFF the main power, unplug the unit, and allow the water to cool before draining. Never operate the water bath with insufficient water level, as dry heating can cause severe damage to the heating element and pose a fire hazard; always use distilled water to prevent mineral scale buildup and electrical short circuits."
+  ],
   "features": [
     "12 Litre high-capacity internal thermal reservoir tank",
     "Specialized layout accommodating up to 2 holding racks concurrently",

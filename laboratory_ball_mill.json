@@ -1,6 +1,26 @@
 {
   "name": "LABORATORY BALL MILL",
   "desc": "Desktop-Type Laboratory Ball Mill engineered for uniform mixing, particle size reduction, and ultra-fine grinding of diverse chemical powders. Outfitted with an interchangeable SS304 grinding jar supporting a capacity up to 2 kg, driven by a Fractional Horsepower (FHP) motor.",
+  "principle": "The INNOLAB INSTRUMENTS LABORATORY BALL MILL is a high-precision benchtop grinding system engineered for uniform mixing, particle size reduction, and ultra-fine milling of diverse chemical powders, pharmaceutical excipients, metal oxides, and mineral samples. Operating on the principle of high-energy impact and attrition, the mill rotates a heavy-duty SS304 grinding jar containing stainless steel balls of multiple sizes, which cascade and collide with the sample to achieve sub-micron particle refinement. This instrument is indispensable for B.Sc and M.Sc students conducting material synthesis experiments, PhD researchers developing novel catalysts or battery electrode materials, and chemists in R&D laboratories preparing homogeneous blends for spectroscopic analysis (e.g., XRF, XRD) or wet chemistry assays. It is particularly suited for processing hard, brittle, or fibrous substances such as alumina, silica, calcium carbonate, and pharmaceutical granules, while the corrosion-resistant SS304 chamber allows safe milling of mildly acidic or hygroscopic powders. The integrated PID-based RPM controller and programmable 0–60 minute timer ensure reproducible grinding cycles compliant with ASTM E11 and ISO 3310-1 particle size distribution standards, making it a critical tool for metallurgy, pharmacy formulation, and advanced materials research.",
+  "sop": [
+    "Ensure the main power switch is OFF and the instrument is placed on a stable, vibration-absorbing surface away from flammable materials.",
+    "Remove the SS304 grinding jar from the mill by loosening the quick-release clamps, and verify that the jar and grinding balls are clean, dry, and free from residual sample.",
+    "Weigh the sample to be ground (not exceeding 2 kg total including balls) and load it into the jar, then add the appropriate size and quantity of stainless steel grinding balls (typically 30–50% of jar volume).",
+    "Securely fasten the jar lid and re-mount the jar onto the mill, ensuring the locking mechanism is fully engaged to prevent dislodging during rotation.",
+    "Connect the power cord to a 220V AC, 50 Hz single-phase outlet and switch ON the main power button.",
+    "Press the 'SET' button once on the PID controller to enter the RPM setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target rotational speed (e.g., 200–400 RPM depending on sample hardness and desired fineness).",
+    "Press 'SET' again to lock the RPM value into the controller memory.",
+    "Press the 'SET' button a second time (or navigate to the timer parameter) to enter the timer setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to set the grinding duration between 0 and 60 minutes as required for the specific material.",
+    "Press 'SET' once more to confirm and lock the timer value.",
+    "Press the 'START' button to initiate the milling cycle; the jar will begin rotating and the timer will count down automatically.",
+    "Monitor the first 30 seconds of operation for any abnormal vibration or noise, and press 'STOP' immediately if the jar appears unbalanced or loose.",
+    "After the timer reaches zero, the mill will stop automatically; switch OFF the main power and wait for the jar to come to a complete standstill.",
+    "Carefully remove the jar, open the lid away from your face to avoid inhaling fine dust, and transfer the ground powder to a labeled container using a spatula.",
+    "Clean the jar and balls thoroughly with a suitable solvent (e.g., isopropanol or distilled water) and dry completely before storing to prevent cross-contamination.",
+    "SAFETY WARNING: Never operate the ball mill with the jar lid open or improperly sealed, as high-speed rotation can eject grinding media and sample powder, causing severe injury; always wear safety goggles, a dust mask, and hearing protection, and ensure the emergency stop button is accessible at all times."
+  ],
   "features": [
     "Heavy-duty interchangeable structural jar holding up to 2 Kg sample volumes",
     "Supplied complete with multi-sized high-grade Stainless Steel grinding balls",

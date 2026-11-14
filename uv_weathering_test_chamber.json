@@ -1,6 +1,23 @@
 {
   "name": "UV WEATHERING TEST CHAMBER",
   "desc": "Smart Programmable Tower-Type UV Accelerated Weathering Test Chamber engineered for simulation of long-term outdoor degradation effects. Features an SS304 tower configuration, 8 high-performance UV lamps, and a 7-inch color touchscreen controller for automated testing cycles.",
+  "principle": "The INNOLAB INSTRUMENTS UV Weathering Test Chamber accelerates the photodegradation of materials by exposing specimens to controlled cycles of ultraviolet radiation (UV-A 315–400 nm or UV-B 280–315 nm), elevated temperature up to 70°C, and moisture via condensation or water spray. This simulates months or years of outdoor weathering in days or weeks, enabling doctors, B.Sc/M.Sc students, PhD researchers, and chemists to evaluate polymer coatings, automotive paints, aerospace composites, cable insulation, pigments, and pharmaceutical packaging for color fastness, gloss loss, chalking, cracking, and mechanical property degradation. The chamber complies with ASTM G154, ASTM G53, ASTM D4329, ASTM D4587, and SAE J2020 standards, using eight 40 W UV lamps and a PT100 RTD sensor to maintain thermal uniformity within ±1°C, while irradiance is adjustable from 0 to 1.0 W/cm² and relative humidity is maintained at ≥90% RH for condensation cycles.",
+  "sop": [
+    "Ensure the chamber is connected to a 220 V, 50 Hz, single-phase power supply and the water storage tank is filled with filtered water above the low-level sensor.",
+    "Open the chamber door and load test specimens vertically onto the round clamps of the sample holders, ensuring each specimen is 75 × 290 mm and does not obstruct lamp or spray nozzle paths.",
+    "Close and secure the chamber door, then switch ON the main power isolator and the chamber circuit breaker.",
+    "On the 7-inch color touchscreen controller, select either 'Fixed Mode' for continuous exposure or 'Programmable Mode' for automated cycles of illumination, condensation, and water spray.",
+    "Press the 'SET' button once on the PID controller to enter temperature setpoint adjustment.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the required target temperature (ambient +10°C to 70°C) based on the test standard.",
+    "Press 'SET' again to lock the temperature value and return to the main display.",
+    "If programming a cycle, set the UV irradiance level (0 to 1.0 W/cm²), condensation duration, and spray intervals using the touchscreen, then set the total test timer from 0 to 999 hours.",
+    "Verify that the UV lamp type (UV-A or UV-B) matches the required standard and that all eight lamps are illuminated during the initial lamp check.",
+    "Initiate the test cycle by pressing the 'RUN' or 'START' button on the touchscreen; monitor the PT100 temperature display and humidity indicator for stable conditions.",
+    "During operation, do not open the chamber door unless the cycle is paused and lamps are off, to prevent UV exposure to eyes and skin.",
+    "At the end of the test, allow the chamber to cool to ambient temperature, switch OFF the controller and main power, then remove specimens using UV-blocking gloves and safety goggles.",
+    "Drain and clean the water tank weekly, inspect spray nozzles for clogging, and replace UV lamps after 1300 hours of use or when irradiance drops below calibration limits.",
+    "SAFETY WARNING: Never look directly at energized UV lamps without certified UV-blocking eyewear, and always disconnect power before servicing lamps or internal components to avoid severe eye damage, skin burns, or electrical shock."
+  ],
   "features": [
     "Tower Type design with samples loaded onto vertical fixtures via round clamps",
     "Fully programmable automated loops for illumination, condensation, and water spray",

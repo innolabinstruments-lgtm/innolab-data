@@ -1,6 +1,21 @@
 {
   "name": "VACUUM OVEN",
   "desc": "Premium Compact Laboratory Vacuum Oven engineered for precise and oxidation-free thermal processing. Features a 20-liter robust round inner chamber built with premium steel, a 3-shelves configuration, and a deep vacuum performance level down to 1 mbar.",
+  "principle": "The INNOLAB INSTRUMENTS Vacuum Oven is a precision thermal processing system that combines deep vacuum capability down to 1 mbar with uniform wrap-around heating up to 150°C to achieve oxidation-free drying, curing, solvent removal, and moisture analysis. Its cylindrical chamber and airtight silicone gasket create a controlled low-pressure environment that lowers the boiling point of volatile compounds, allowing physicians, B.Sc/M.Sc students, PhD researchers, and chemists to safely remove residual moisture, ethanol, methanol, acetone, toluene, and other VOCs from heat-sensitive materials without thermal decomposition. Pharmaceutical scientists use the oven for loss-on-drying assays and desiccation of active pharmaceutical ingredients (APIs) under USP <731> and ISO 18134 protocols; electronics engineers bake moisture-saturated PCBs and semiconductor assemblies to prevent delamination and corrosion; material chemists dry samples previously digested in strong acids such as nitric acid or hydrochloric acid and recover residual solvents from polymer matrices under ASTM D2974 conditions. Microbiologists and biomedical researchers utilize the low-temperature vacuum environment to dehydrate microbial cultures, biological tissues, and enzyme preparations while preserving structural integrity for downstream assays. A microprocessor-based PID controller maintains the set temperature with minimal overshoot, while over-temperature cutoff and vacuum relief valve protect both operator and chamber from hazardous pressure or thermal excursions.",
+  "sop": [
+    "Ensure the work area is clean, the power plug is disconnected, and the vacuum pump, vacuum tubing, and exhaust vent are correctly connected.",
+    "Inspect the door gasket and chamber; wipe the interior with a dry lint-free cloth and verify the vacuum relief valve is closed.",
+    "Place samples evenly on the three heavy-duty shelves, leaving space between items for uniform heat and vapor transfer, and close the door firmly to ensure an airtight seal.",
+    "Switch on the main power supply and allow the digital PID controller to self-initialize.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "If required, set any additional timer or alarm parameter according to the experiment protocol.",
+    "Switch on the vacuum pump and slowly open the vacuum valve while observing the analogue/digital vacuum gauge until the target vacuum level (e.g., 1 mbar) is reached.",
+    "Allow the chamber to heat to the set temperature and stabilize for at least 15–30 minutes; monitor temperature and vacuum throughout the run.",
+    "After completion, switch off the heater, close the vacuum valve, switch off the pump, and slowly open the vacuum relief valve to vent the chamber to atmospheric pressure.",
+    "WARNING: Never open the door while the chamber is under vacuum or at elevated temperature; always allow the chamber to cool below 50°C and ensure no flammable solvent vapors remain to prevent implosion, thermal burns, or fire."
+  ],
   "features": [
     "Continuous deep vacuum pressure down to 1 mbar",
     "Maximum Temperature Range up to 150°C highly stable thermal footprint",

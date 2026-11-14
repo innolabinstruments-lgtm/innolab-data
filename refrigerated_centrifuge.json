@@ -1,6 +1,24 @@
 {
   "name": "REFRIGERATED CENTRIFUGE",
   "desc": "Standard Benchtop Microprocessor-Controlled Refrigerated Centrifuge designed for diverse testing and research laboratories. Equipped with a high-performance brushless motor, dual manual and electronic lid locks, LCD display for real-time parameter tracking, and an advanced CFC-free compressor cooling system operating down to -20°C.",
+  "principle": "The INNOLAB INSTRUMENTS REFRIGERATED CENTRIFUGE is a high-performance benchtop separation system engineered for precise, temperature-controlled centrifugation in clinical diagnostics, microbiology, biochemistry, and molecular biology laboratories. It employs a high-torque brushless motor to generate centrifugal forces up to 14,000 × g, enabling rapid sedimentation of particles, cells, and macromolecules based on density differences. The integrated CFC-free compressor cooling system maintains chamber temperatures from +40°C down to -20°C with ±2°C accuracy, preserving the integrity of heat-labile samples such as enzymes, proteins, nucleic acids, and live cell suspensions. Doctors and clinical technicians routinely use this centrifuge to separate whole blood into plasma, serum, and buffy coat for hematology and serology assays, including coagulation tests and blood typing. B.Sc. and M.Sc. students employ it for basic microbiology protocols like harvesting bacterial cultures (e.g., Escherichia coli, Bacillus subtilis) and yeast cells, as well as for precipitating DNA, RNA, and proteins using reagents such as phenol-chloroform, ethanol, and ammonium sulfate. PhD researchers and chemists rely on it for isolating subcellular organelles, purifying plasmids, and clarifying cell lysates containing strong acids (e.g., trichloroacetic acid), organic solvents, or volatile organic compounds (VOCs) under controlled low temperatures to prevent degradation. The instrument complies with international testing standards such as ISO 13485 for medical device quality management and ASTM E1874 for centrifuge performance, ensuring reproducible results in GLP and GMP environments. Its microprocessor-based PID digital temperature controller, intelligent rotor imbalance diagnostics with automatic stop, and dual manual/electronic lid locks guarantee safe, reliable operation for high-throughput sample processing.",
+  "sop": [
+    "Ensure the centrifuge is placed on a stable, level bench and the power cord is connected to a 220 V, 50 Hz AC supply with proper earthing.",
+    "Open the lid using the electronic release button, then visually inspect the stainless steel chamber and autoclavable angle rotor for any residue, cracks, or corrosion.",
+    "Load samples into the 6 × 50 mL rotor tubes, ensuring all tubes are filled to equal volumes and placed symmetrically opposite each other to maintain balance.",
+    "Securely tighten all tube caps and confirm that no liquid has spilled on the rotor or chamber; wipe dry if necessary.",
+    "Close the lid firmly until both the manual latch and electronic lock engage, and verify the lid lock indicator on the LCD display is active.",
+    "Press the 'SET' button once on the PID temperature controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 4°C for protein work or -20°C for RNA isolation).",
+    "Press 'SET' again to lock the value, then wait for the chamber to reach the set temperature before starting the run.",
+    "Set the centrifugation speed (RPM) and run time using the dedicated speed and timer buttons on the control panel; for example, press the speed set key, adjust with arrows to 13,000 RPM, and press set to confirm.",
+    "Similarly, set the timer from 1 minute to 9 hours 59 minutes as required for your protocol (e.g., 15 minutes for bacterial pelleting).",
+    "Press the 'START' button to initiate centrifugation; monitor the LCD display for real-time RPM, RCF, set time, run time, and any imbalance warnings.",
+    "If the intelligent rotor imbalance diagnostic triggers an automatic stop, do not force restart; open the lid, rebalance the tubes, and start again.",
+    "After the run completes and the rotor comes to a complete stop, press the 'STOP' button if needed, then open the lid only after the electronic lock releases.",
+    "Carefully remove the tubes using appropriate gloves, place them on ice if temperature-sensitive, and then clean the rotor and chamber with a mild detergent or 70% ethanol solution.",
+    "SAFETY WARNING: Never attempt to open the lid while the rotor is spinning, and always ensure the centrifuge is properly balanced and the lid is fully locked before starting; failure to do so may cause catastrophic rotor failure, sample loss, or serious injury from flying debris."
+  ],
   "features": [
     "High-Torque Brushless Motor (maintenance-free)",
     "Advanced CFC-free compressor cooling system (down to -20°C)",

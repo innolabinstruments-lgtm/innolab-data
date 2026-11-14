@@ -1,6 +1,20 @@
 {
   "name": "REFRIGERATED INCUBATOR SHAKER",
   "desc": "Benchtop Microprocessor-Controlled Refrigerated Incubator Shaker engineered for high-performance mixing and precise thermal incubation. Features a heavy-duty 3-shelves layout accommodating up to 9 flasks, driven by a maintenance-free Brushless DC motor.",
+  "principle": "The INNOLAB INSTRUMENTS Refrigerated Incubator Shaker integrates a microprocessor-based digital PID thermal controller, CFC-free refrigeration circuit, and brushless DC orbital drive to maintain ±0.5°C temperature uniformity and 20–200 RPM shaking for reproducible cultivation of temperature-sensitive biological and chemical systems. In clinical and diagnostic laboratories, doctors and lab technicians use it for BOD5 analysis of wastewater per Standard Methods 5210B / ISO 5815, antibiotic susceptibility broth cultures, blood culture enrichment, and quality-control growth of fastidious microorganisms such as Escherichia coli, Pseudomonas aeruginosa, Staphylococcus aureus, Candida albicans, and Saccharomyces cerevisiae. B.Sc. and M.Sc. students perform bacterial growth curves, yeast fermentation, enzyme induction, plasmid propagation, and bioprocess teaching experiments, while PhD researchers and chemists employ it for recombinant protein expression in E. coli BL21(DE3), insect and mammalian cell suspension adaptation, solubility and dissolution testing of pharmaceutical actives in aqueous buffers such as phosphate-buffered saline or simulated gastric fluid, accelerated stability studies, and controlled evaporation of volatile solvents or aggressive vapours such as acetonitrile, methanol, and dilute acetic acid inside sealed vessels. The orbital motion provides oxygen transfer and mixing for aerobic cultures, and the stainless-steel SS 304 chamber prevents corrosion from saline media, weak acids, and humidity, aligning with ASTM E1292 and ISO 15189 quality-control expectations.",
+  "sop": [
+    "Ensure the unit is placed on a level benchtop with at least 10 cm rear clearance for ventilation, connected to a properly earthed 230V AC, 50Hz supply.",
+    "Open the double-glazed insulated glass door, load up to nine conical flasks evenly across the three heavy-duty removable shelves, and close the door firmly.",
+    "Switch ON the main power and verify that the microprocessor-based digital PID controller illuminates and displays current chamber temperature and shaking speed.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, for example 25.0°C for BOD testing or 37.0°C for microbial growth.",
+    "Press 'SET' again to lock the value.",
+    "Press the 'SET' button once again to enter shaking speed setpoint mode, use the 'UP' and 'DOWN' arrows to set the desired orbital speed, typically 100–150 RPM, and press 'SET' again to lock the speed value.",
+    "Allow the chamber to equilibrate to the set temperature and confirm stability within ±0.5°C before inoculating or starting critical assays.",
+    "Use the double-glazed glass observation door to monitor cultures, and avoid opening the door during active shaking to prevent thermal disturbance and aerosol release.",
+    "After the run is complete, set the shaking speed to 0 RPM, reduce or switch off the temperature setpoint, wait for the platform to come to a complete stop, then open the door and unload samples using heat-resistant gloves.",
+    "Safety Warning: Never operate the unit with a damaged or open door, do not exceed the rated flask loading capacity, and never place unsealed volatile or flammable solvents such as methanol, acetonitrile, or acetone directly inside the chamber; always use sealed vessels and secondary containment to prevent explosion, fire, or toxic vapor exposure."
+  ],
   "features": [
     "Integrated Refrigerated Cooling System (Eco-Friendly CFC-Free)",
     "Smooth and Uniform Orbital Shaking Motion up to 200 RPM",

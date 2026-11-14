@@ -1,6 +1,21 @@
 {
   "name": "DEEP FREEZER (-20°C)",
   "desc": "Premium Vertical Laboratory Deep Freezer designed for long-term storage of critical biological products, enzymes, and vaccines. Features a 240-liter high-grade Stainless Steel internal cabinet with 3 insulated inner compartments and a fully programmable microprocessor controller.",
+  "principle": "The INNOLAB INSTRUMENTS DEEP FREEZER (-20°C) operates on a high-efficiency direct cooling vapor-compression refrigeration cycle using CFC-free and HCFC-free non-flammable refrigerants to maintain a stable ultra-low thermal environment between -10°C and -25°C. The fully programmable microprocessor controller with PID logic continuously monitors a precision thermistor sensor and modulates compressor duty to achieve micro-increment temperature stability in 1°C steps, ensuring uniform thermal distribution across the 240-liter stainless steel cabinet. This instrument is engineered for long-term preservation of temperature-sensitive biologicals such as ATCC microbial cultures, restriction enzymes, DNA polymerases, monoclonal antibodies, serum aliquots, and viral vaccine stocks. B.Sc and M.Sc students use it for storing bacterial glycerol stocks, phage lysates, and enzyme assay reagents; PhD researchers rely on it for archiving plasmid libraries, protein crystallization screens, and tissue homogenates; clinical and pharmaceutical chemists store reference standards, volatile organic compound (VOC) calibration mixtures, and light-sensitive biochemicals that degrade at ambient temperatures. The three independent insulated compartments minimize thermal shock during door openings, while the audible and visible alarm system safeguards against excursions that could compromise sample integrity, aligning with ISO 15189 and IEC 61010-2-40 safety requirements for laboratory refrigeration equipment.",
+  "sop": [
+    "Ensure the deep freezer is placed on a level surface with at least 100 mm clearance at the rear for ventilation and that the power cord is connected to a stabilized supply between 190V and 270V.",
+    "Switch ON the mains power supply and then turn ON the freezer using the main power switch located on the control panel.",
+    "Allow the empty freezer to stabilize for at least 5.2 hours to reach the target low temperature before loading any samples.",
+    "Press the 'SET' button once on the microprocessor controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the required target temperature within the range of -10°C to -25°C, in 1°C increments.",
+    "Press 'SET' again to lock the selected temperature value; the digital display will revert to showing the current internal cabinet temperature.",
+    "Open the outer lockable door and then the specific insulated inner compartment door where samples are to be stored, minimizing open time to prevent thermal rise.",
+    "Place pre-frozen or pre-chilled samples on the corrosion-resistant racks, ensuring adequate spacing between items for uniform air circulation and labeling each rack position clearly.",
+    "Close the inner compartment door securely, then close and lock the outer door using the key system to prevent unauthorized access.",
+    "Record the initial temperature reading and sample inventory in the laboratory logbook, noting date, time, and operator initials.",
+    "Regularly monitor the digital display and respond immediately to any audible or visible alarm indicating temperature rise, power failure, or low battery.",
+    "Safety Precaution: Never store flammable solvents, strong acids, or volatile organic compounds in unsealed containers inside the freezer, as vapor accumulation can create explosion or corrosion hazards; always use vapor-tight, cryogenic-compatible secondary containment and wear insulated cryogenic gloves when handling metal racks or samples to prevent cold burns."
+  ],
   "features": [
     "Operating Temperature Range from -10°C down to -25°C",
     "3 Independent inner storage compartments fitted with insulated doors",

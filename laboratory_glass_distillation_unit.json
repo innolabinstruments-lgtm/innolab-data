@@ -1,6 +1,20 @@
 {
   "name": "LABORATORY GLASS DISTILLATION UNIT",
   "desc": "The INNOLAB INSTRUMENTS Laboratory Glass Distillation Unit is essential for academic research, medical labs, and pharmaceutical facilities requiring high-purity, pyrogen-free distilled water. Fabricated with premium heat-resistant quartz glass and branded spiral heaters, it ensures safe, superior, and continuous water purification. The demountable boiler design makes cleaning and maintenance incredibly easy.",
+  "principle": "The INNOLAB INSTRUMENTS Laboratory Glass Distillation Unit operates on the principle of thermal vaporization followed by condensation to separate ultrapure water from dissolved salts, organic contaminants, pyrogens, and particulate matter. Raw feed water is heated by the branded quartz spiral heaters inside the heat-resistant quartz glass boiler until it boils. The resultant steam rises through quartz columns, leaving behind non-volatile residues, heavy metal ions, colloidal silica, and bacterial endotoxins. The vapor then passes through a quartz condenser where it is cooled and converted back into liquid distillate, yielding water with low conductivity (1.5–2.0 μS/cm) and near-neutral pH (5.5–6.0). This distillation unit is widely used by doctors and clinical pathologists for preparing reagent-grade water for haematology analysers, biochemistry assays, and microbiological culture media, by B.Sc/M.Sc students for analytical chemistry and microbiology practicals, and by PhD researchers, chemists, and pharmaceutical scientists for buffer preparation, blank determinations, glassware rinsing after exposure to strong acids such as hydrochloric and nitric acid, alkalis like sodium hydroxide, and volatile organic compounds (VOCs). The water quality conforms to ISO 3696 Grade 3 and selected ASTM D1193 Type II requirements, making it suitable for autoclaves, water baths, media preparation, and general wet chemistry applications.",
+  "sop": [
+    "Place the distillation unit on a stable, level, powder-coated MS stand near a 220 V / 50 Hz power supply, with adequate ventilation and a clean feed water line connected to the boiler inlet.",
+    "Fill the quartz boiler with clean tap water or pre-treated water up to the recommended level; never operate the unit with an empty boiler.",
+    "Switch ON the main power isolator and check that the optional low water cut-off device is not indicating a fault.",
+    "Press the 'SET' button once to enter the temperature/heater controller configuration mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, typically the heater cut-off temperature or distillate production set point recommended for the glass distillation unit.",
+    "Press 'SET' again to lock the value and store the setting in the controller memory.",
+    "Open the cooling water inlet to the quartz condenser and confirm a steady, continuous flow through the condenser outlet.",
+    "Switch ON the heater and allow the feed water to boil; discard the first 100–200 mL of distillate as it may contain volatile organic impurities from the tubing and glass surfaces.",
+    "Collect the subsequent high-purity, pyrogen-free distilled water in a clean, dry, sterile borosilicate container, and if required, measure output conductivity and pH to confirm compliance with laboratory limits.",
+    "After completing the daily distillation run, switch OFF the heater and main power, close the cooling water inlet, allow the unit to cool, drain the boiler, and clean the quartz components with dilute citric acid or vinegar if mineral scaling is observed.",
+    "Safety Precaution: Never touch the quartz glass boiler, spiral heaters, or condenser tubes during or immediately after operation because these surfaces remain extremely hot and can cause severe thermal burns; always allow the unit to cool completely and disconnect the power supply before cleaning, maintenance, or refilling."
+  ],
   "features": [
     "Produces highly pure, pyrogen-free distilled water",
     "Available in Single, Double, and Triple stage configurations",

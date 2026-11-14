@@ -1,6 +1,25 @@
 {
   "name": "PORTABLE VERTICAL AUTOCLAVE",
   "desc": "Microprocessor-Controlled Double-Walled Portable Vertical Autoclave engineered for reliable steam sterilization in medical laboratories and clinical centers. Features a 22-liter sterilization chamber entirely constructed from high-grade Stainless Steel 304 (SS304) for both inner and outer walls.",
+  "principle": "The INNOLAB INSTRUMENTS PORTABLE VERTICAL AUTOCLAVE operates on the principle of high-pressure saturated steam sterilization, utilizing a microprocessor-controlled double-walled SS304 chamber to achieve thermal destruction of microorganisms. By generating steam at regulated pressures of 15–20 psi, the autoclave elevates the boiling point of water to maintain precise sterilization temperatures between 121°C and 125°C. This moist heat denatures microbial proteins, nucleic acids, and cellular enzymes, ensuring complete elimination of bacteria, fungi, viruses, and heat-resistant spores. The dual-chambered double-walled insulation minimizes heat loss and ensures uniform temperature distribution, while the high-durability silicon gasket and heavy lid locking system maintain hermetic sealing under pressure. The instrument is essential for sterilizing surgical instruments, glassware, culture media, and biohazardous waste in medical pathology, clinical diagnostics, university B.Sc/M.Sc laboratories, and biotech research. It is particularly effective for inactivating Geobacillus stearothermophilus spores used as biological indicators per ISO 11138 and for sterilizing media containing agar, peptone, and other heat-stable nutrients. The autoclave also safely processes materials contaminated with strong acids or volatile organic compounds (VOCs) after appropriate neutralization, ensuring compliance with ASTM E1766 and CDC biosafety guidelines for steam sterilization efficacy.",
+  "sop": [
+    "Ensure the autoclave is placed on a stable, level surface and connected to a 230 V AC, 50 Hz single-phase power supply with proper earthing.",
+    "Open the lid by releasing the heavy lid locking system and inspect the chamber, silicon gasket, and immersion heating element for any residue, cracks, or mineral deposits.",
+    "Fill the chamber with distilled or demineralized water up to the recommended level mark, ensuring the immersion heater is fully submerged to prevent dry heating.",
+    "Load the items to be sterilized into the SS304 chamber, leaving adequate space between packages or containers to allow free circulation of steam.",
+    "Close the lid securely and engage the heavy lid locking system, ensuring the high-durability silicon gasket forms a complete seal.",
+    "Press the 'SET' button once on the microprocessor-based digital controller panel to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the required target sterilization temperature, typically 121°C for standard loads or up to 125°C for heat-resistant materials.",
+    "Press 'SET' again to lock the temperature value and confirm the sterilization cycle parameters.",
+    "Switch on the main power and activate the heating cycle; monitor the front-mounted analog pressure gauge until it reaches the required 15–20 psi operating pressure.",
+    "Allow the sterilization cycle to run for the validated holding time (commonly 15–20 minutes at 121°C) as per the load type and institutional protocol.",
+    "After the cycle completes, switch off the heating and allow the pressure to drop naturally to zero psi before attempting to open the steam release valve.",
+    "Slowly open the heavy-duty multi-turn manual steam release valve to vent residual steam, keeping hands and face away from the escaping vapor.",
+    "Once the pressure gauge reads zero and no steam escapes, carefully unlock the lid and open it away from your body to avoid residual heat burns.",
+    "Using heat-resistant gloves, remove sterilized items and place them on a clean, dry surface to cool; do not touch hot glassware or metal with bare hands.",
+    "After the chamber cools, drain any remaining water through the built-in water drain valve and wipe the interior with a soft cloth to prevent scale buildup.",
+    "SAFETY WARNING: Never attempt to open the lid or loosen the locking system while the pressure gauge indicates any positive pressure; sudden release of superheated steam can cause severe scalding, explosive ejection of contents, and catastrophic failure of the vessel."
+  ],
   "features": [
     "22 Litre high-efficiency internal processing capacity",
     "High-Grade Stainless Steel (SS304) for both inner and outer chambers",

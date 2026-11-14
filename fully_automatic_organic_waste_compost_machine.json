@@ -1,0 +1,53 @@
+{
+  "name": "FULLY AUTOMATIC ORGANIC WASTE COMPOST MACHINE",
+  "desc": "Premium Fully Automatic PLC-Based Aerobic Organic Waste Composting Machine designed for continuous 24x7 reprocessing of domestic food and horticulture waste. Features a 150 kg/day capacity with a heavy-duty 975L SS-304 vessel and an integrated twin-shaft waste shredder.",
+  "principle": "The INNOLAB INSTRUMENTS FULLY AUTOMATIC ORGANIC WASTE COMPOST MACHINE operates on a fully automated PLC-based aerobic microbial digestion principle, designed for continuous 24×7 conversion of domestic food and horticulture waste into nutrient-rich compost. The system integrates a heavy-duty twin-shaft shredder that reduces organic waste to ≤0.5 mm particles, maximizing surface area for microbial colonization. Inside the 975L SS-304 vessel, a proprietary thermophilic aerobic culture (typically comprising Bacillus, Actinomycetes, and ligninolytic fungi) rapidly decomposes organic matter under controlled conditions. Ceramic-type heating elements maintain the digester at 60°C ± 10°C, a temperature range that accelerates enzymatic hydrolysis of cellulose, hemicellulose, and proteins while eliminating pathogenic bacteria, weed seeds, and foul odors. The PLC controller precisely regulates temperature, aeration via a 300 CFM air blower with damper control, and mixing cycles to sustain optimal dissolved oxygen levels (>5 mg/L) for aerobic respiration. This machine is widely used by environmental engineers, microbiologists, agricultural researchers, and municipal waste management authorities to study composting kinetics, microbial community dynamics, and to produce compost compliant with Fertilizer Control Order (FCO) standards. B.Sc/M.Sc students and PhD researchers utilize it for experiments on organic waste valorization, carbon-to-nitrogen ratio optimization, and volatile organic compound (VOC) emission profiling during aerobic degradation. The output is a dry, stabilized compost with 20–25% mass reduction, rich in humic substances and plant-available nutrients (N-P-K), suitable for soil amendment and sustainable agriculture.",
+  "sop": [
+    "Ensure the machine is connected to a stable 440 V, 3-phase industrial power supply and that the emergency stop switch is in the released (pulled out) position.",
+    "Open the shredder hopper lid and load the organic waste (food scraps, horticulture trimmings) into the twin-shaft shredder, ensuring no non-biodegradable materials like plastics, metals, or glass are introduced.",
+    "Close the hopper lid securely; the safety interlock will automatically stop the shredder blades if the door is opened during operation.",
+    "Press the 'SET' button once on the PLC control panel to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target digester temperature to 60°C (or as required for your specific microbial culture, within the range 50–70°C).",
+    "Press 'SET' again to lock the temperature value; the display will revert to showing the current actual temperature.",
+    "Press the 'START' button on the control panel to initiate the automatic cycle: the shredder will run first, then the main gear motor will begin mixing, and the ceramic heaters and air blower will activate according to the PLC program.",
+    "Monitor the process via the panel indicators: check for any overload alarms, ensure the air blower damper is set to provide adequate aeration (typically 50–75% open), and verify that the temperature stabilizes at the setpoint within 30–60 minutes.",
+    "Allow the machine to run continuously for the designated composting period (typically 24–72 hours depending on waste composition and desired maturity). Do not open the main vessel door during active heating and mixing cycles.",
+    "After the cycle completes, press the 'STOP' button and wait for all moving parts to come to a complete halt. Open the discharge port and collect the finished compost into a clean container.",
+    "Clean the shredder blades, hopper, and vessel interior with a dry brush or compressed air after each batch to prevent cross-contamination between different waste types.",
+    "SAFETY WARNING: Never attempt to open the main digester vessel or shredder hopper while the machine is running or while the internal temperature is above 40°C, as hot steam, rotating blades, and active microbial aerosols can cause severe burns, lacerations, or respiratory irritation. Always wear heat-resistant gloves, safety goggles, and an N95 mask when handling compost or cleaning the unit, and ensure the emergency stop button is pressed and the main power isolator is switched off before any maintenance."
+  ],
+  "features": [
+    "150 Kgs per day continuous 24×7 operational capacity",
+    "Fully Automatic (PLC Based) Aerobic Microbial Culture System",
+    "Energy-Efficient Ceramic Type Heating (Maintains 60°C ± 10°C)",
+    "Heavy-Duty Twin Shaft Shredder (Shreds up to 25mm, output 0.5mm)",
+    "High efficiency yielding minimum 20-25% of total input waste quantity"
+  ],
+  "specifications": {
+    "Type of Plant / Machine": "Fully Automatic (PLC Based) Aerobic Microbial Culture System",
+    "Reprocessing Capacity": "150 Kgs per day continuous 24×7 operational capacity",
+    "Chamber Volume": "975 Liters high-capacity internal volume",
+    "Target Waste Types": "Domestic Food Waste and Horticulture Waste processing",
+    "Vessel & Shaft Material": "High-Grade Stainless Steel 304 (SS-304) of suitable thickness",
+    "External Body Cover": "High-Strength Fibre / MS as per IS2062 Grade A with Epoxy Coating",
+    "Main Gear Motor": "Direct Drive Planetary Gear System (BEE 3-Star Rated)",
+    "Digester Heating System": "Energy-Efficient Ceramic Type Heating (Maintains 60°C ± 10°C)",
+    "Power Requirements": "440 V, 3-Phase Stable Industrial Power Connection",
+    "Integrated Waste Shredder": "Heavy-Duty Twin Shaft Shredder (Shreds up to 25mm, output 0.5mm)",
+    "Shredder Blade & Hopper": "5mm EN-08 Steel Blades with 2mm SS-304 Material Hopper Sheet",
+    "Shredder Motor Rating": "2 Horsepower Electric Motor confirming to latest IS:325 standards",
+    "Control Panel Protection": "Stand-Alone Panel with IP-53 Protection Level & Powder Coated MS Canopy",
+    "Safety Switch Functions": "Emergency switch, overload indicators, and auto-stop blades on door open",
+    "Air Ventilation System": "Standard ISI Marked Air Blower with manual Damper Control",
+    "Air Blower Specifications": "300 Cubic Feet capacity driven by 1 HP Motor with current overload protection",
+    "Compost Output Quality": "Enriched and dry compost fully compliant with Fertilizer Control Order Standards",
+    "Compost Production Rate": "High efficiency yielding minimum 20-25% of total input waste quantity",
+    "Acoustic Noise Level": "Ultra-Silent Plant Operation (Maximum Noise Level ≤ 30 dB)",
+    "Comprehensive Plant Warranty": "5 Years Comprehensive Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/fully_automatic_organic_waste_compost_machine.glb",
+  "image": "assets/instruments/fully_automatic_organic_waste_compost_machine.webp",
+  "images": null
+}

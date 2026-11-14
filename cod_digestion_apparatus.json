@@ -1,0 +1,47 @@
+{
+  "name": "COD DIGESTION APPARATUS",
+  "desc": "Standard 6-Sample Microprocessor-Controlled COD Digestion Test Apparatus engineered for precise Chemical Oxygen Demand determination. Features a solid aluminum heating block accommodating 6 standard 15 ml digestion tubes up to 200°C.",
+  "principle": "The INNOLAB INSTRUMENTS COD Digestion Apparatus is a microprocessor-controlled thermal digestion system designed for precise and reproducible oxidative digestion of aqueous samples in closed 15 ml tubes up to 200°C. Its solid aluminium heating block provides uniform, low-gradient heat transfer, while the PID controller holds the block at the selected oxidation temperature required for the chemical oxygen demand reaction. During standard COD analysis, organic and inorganic oxidizable substances in wastewater, drinking water, industrial effluents, and environmental samples are digested in a mixture of concentrated sulfuric acid, potassium dichromate, silver sulfate catalyst, and mercuric sulfate chloride masking agent, converting organic carbon to carbon dioxide and water. Environmental chemists, water-quality analysts, B.Sc./M.Sc. students, PhD researchers, and pollution control laboratories routinely use this apparatus for compliance testing under ISO 6060, ASTM D1252, and USEPA 410.4 methods. The apparatus is especially relevant for monitoring biodegradable and refractory organic loads, volatile organic compounds, and oxygen-demanding pollutants in municipal sewage, pharmaceutical wastewater, textile discharges, and chemical plant effluents.",
+  "sop": [
+    "Place the COD digestion apparatus inside a certified chemical fume hood on a heat-resistant, level surface and connect it to a 230 V AC, 50 Hz single-phase supply.",
+    "Ensure the aluminium block and tube wells are clean and dry; prepare the COD sample tubes with sample, digestion reagent, catalyst, and acid as per the test kit or standard method.",
+    "Switch ON the mains supply and allow the controller to initialize.",
+    "Press the 'SET' button once to enter the temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, such as 150°C or 200°C as specified by the COD method.",
+    "Press 'SET' again to lock the value and allow the aluminium block to heat and stabilize at the target temperature.",
+    "For timed methods, set the digital countdown timer to the method-specific duration up to 100 minutes.",
+    "Carefully load the prepared 15 ml digestion tubes into the six preheated wells using heat-resistant tongs and close the protective shield if available.",
+    "Start the countdown timer immediately after loading all tubes.",
+    "After the digestion period is complete, switch OFF the heater and allow the tubes to cool naturally inside the block until they are safe to handle.",
+    "Remove the cooled tubes, transfer them to a tube rack, and proceed with COD measurement by titrimetric or colorimetric method.",
+    "Switch OFF the mains, and after the block has returned to ambient temperature, wipe the heating block and outer surfaces with a dry or slightly damp acid-resistant cloth.",
+    "CRITICAL SAFETY WARNING: Always perform the entire digestion inside a fume hood and wear chemical-splash goggles, acid-resistant gloves, and a laboratory coat; the tubes contain boiling concentrated sulfuric acid and potassium dichromate and can release toxic acid aerosols or rupture if over-pressurized, cooled too rapidly, or opened while hot."
+  ],
+  "features": [
+    "6 Samples batch digestion capability simultaneously",
+    "High-Grade Solid Aluminium Block for superior thermal conductivity",
+    "Maximum Temperature Range up to 200°C highly stable thermal footprint",
+    "Digital countdown timer programmable up to 100 Minutes",
+    "Even block heating preventing thermal shocks during acid digestion"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Chemical Oxygen Demand (COD) Digestion Test Apparatus",
+    "Sample Processing Capacity": "6 Samples batch digestion capability simultaneously",
+    "Digestion Tube Capacity": "Accommodates 15 ml standard volume glass digestion tubes",
+    "Heating Block Material": "High-Grade Solid Aluminium Block for superior thermal conductivity",
+    "Internal Body Construction": "Premium Corrosion-Resistant Stainless Steel (SS304 Grade)",
+    "Maximum Temperature Range": "Ambient up to 200 Degree Celsius highly stable thermal footprint",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital Temperature Controller",
+    "Integrated Timer Range": "Digital countdown timer programmable up to 100 Minutes",
+    "Power Supply Requirements": "Standard 230 V AC, 50 Hz, Single Phase stable Indian plug link",
+    "Oxidation Process Safety": "Even block heating preventing thermal shocks during acid digestion",
+    "Enclosure Outer Coating": "Heavy-duty sheet structure with acid-resistant industrial coating",
+    "Target Field Applications": "Environmental Monitoring, Wastewater Testing, and Water Quality Assessment",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete system",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/cod_digestion_apparatus.glb",
+  "image": "assets/instruments/cod_digestion_apparatus.webp",
+  "images": null
+}

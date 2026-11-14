@@ -1,0 +1,50 @@
+{
+  "name": "CO2 INCUBATOR",
+  "desc": "The INNOLAB INSTRUMENTS INNO-CO2-160 CO2 Incubator is an indispensable piece of equipment for advanced biotechnology, oncology, and neuroscience laboratories, providing an artificial, sterile in-vitro environment for mammalian tissue and cell culture growth. This Air Jacketed system utilizes highly accurate IR sensors to control CO2 concentrations and features built-in sterilization routines.",
+  "principle": "The INNOLAB INSTRUMENTS INNO-CO2-160 CO2 Incubator is a microprocessor-controlled, air-jacketed cell culture system engineered to replicate the physiological in-vitro microenvironment required for mammalian cell, tissue and embryo viability. It maintains thermal uniformity (ambient+10°C to 60°C) via glass-wool insulation and an axial fan, controls 2–20% CO2 tension using a high-precision IR sensor, and sustains up to 95% relative humidity by evaporation from a bottom water reservoir. The dissolved CO2 equilibrates with sodium bicarbonate (NaHCO3) in buffered media such as DMEM, RPMI-1640, MEM or Ham’s F-12—commonly supplemented with L-glutamine, HEPES, phenol red and fetal bovine serum—to maintain an extracellular pH of 7.2–7.4. Doctors and embryologists rely on this chamber for IVF embryo culture, while B.Sc/M.Sc students, PhD researchers and chemists use it to cultivate primary fibroblasts, cancer cell lines (HeLa, HEK293, SH-SY5Y, MCF-7), induced pluripotent stem cells, tumor spheroids, neural progenitor cells and tissue explants under ISO/ASTM-aligned protocols. A 0.3 µm HEPA inlet filter and seamless stainless steel 304 chamber with rounded corners minimize airborne particulates and biofilm formation, while selectable 90°C moist heat or 254 nm UV sterilization routines inactivate mycoplasma, bacteria, fungi and spores before and after critical assays.",
+  "sop": [
+    "Verify that the incubator is connected to a 220 V 50 Hz supply and the chamber, shelves and door gaskets are clean and dry.",
+    "Fill the bottom humidity pan with sterile distilled or deionized water to the marked level, then close the outer door securely.",
+    "Switch ON the mains and allow the controller to complete its self-diagnostic display check.",
+    "Press the 'SET' button once to enter the temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 37.0°C for mammalian cell culture).",
+    "Press 'SET' again to lock the value.",
+    "Press 'SET' repeatedly until the CO2 setpoint appears, then use the 'UP' and 'DOWN' arrows to set the required CO2 concentration (typically 2% to 20%, most commonly 5.0%).",
+    "Press 'SET' again to lock the value, then wait at least 30–60 minutes for temperature, CO2 and humidity readings to stabilize before loading cultures.",
+    "Before opening the inner glass door, disinfect gloved hands and all external surfaces with 70% ethanol or isopropanol; transfer flasks, plates or dishes quickly and close the door promptly.",
+    "Safety Precaution: Do not use volatile organic solvents, strong acids or flammable sterilants inside the chamber; if the 90°C moist heat sterilization cycle is selected, remove all heat-labile media, cultures and electronic sensors, and ensure the chamber is dry and the door is sealed before initiating the cycle."
+  ],
+  "features": [
+    "Air jacketed construction with seamless Stainless Steel 304 chamber",
+    "Precise CO2 control using Thermal Conductivity / IR Sensor",
+    "90°C moist heat or UV sterilization (254nm) integration",
+    "0.3µ HEPA CO2 inlet filter shielding against contaminants",
+    "Microprocessor based PID controller with independent over-heat protection"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Laboratory CO2 Cell Culture Incubator",
+    "Volume Options": "50L / 100L / 150L / 172L",
+    "Temperature Range": "Ambient+10°C to 60°C",
+    "CO2 Range": "2% to 20%",
+    "CO2 Sensor": "IR Sensor",
+    "Humidity System": "Water filled at bottom tank (Air humidity up to 95%)",
+    "Sterilization": "UV lamp or 90°C moist heat sterilization",
+    "Inner Chamber": "Stainless steel 304 with rounded corners",
+    "Outer Cabinet": "Powder coated GI Sheet",
+    "Insulation": "Glass wool",
+    "Doors": "Solid Outer w/ clamp handle & Toughened inner glass observation door",
+    "Door Gasket": "Silicone rubber gasket",
+    "Tray": "Perforated or wire mesh trays (Removable)",
+    "Illumination": "LED light",
+    "Air Circulation": "Axial fan",
+    "Temperature Control": "Digital PID Controller (CO2, Temp, Humidity SV & PV display)",
+    "Alarms": "CO2 variation, Temperature variation, Humidity variation, Door ajar",
+    "Power Supply": "220 Volts 50Hz",
+    "Target Applications": "Tissue Cell Culture, IVF, Cancer Research, Neuroscience",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/co2_incubator.glb",
+  "image": "assets/instruments/co2_incubator_160.webp",
+  "images": null
+}

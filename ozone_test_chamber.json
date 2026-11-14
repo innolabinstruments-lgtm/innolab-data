@@ -1,6 +1,21 @@
 {
   "name": "OZONE TEST CHAMBER",
   "desc": "PLC-Controlled Environmental Ozone Test Chamber engineered for accelerated rubber degradation testing and polymer aging evaluation. Features a spacious 500-liter internal working volume fabricated from corrosion-resistant SS304 and a controlled temperature range up to 80°C.",
+  "principle": "The INNOLAB INSTRUMENTS OZONE TEST CHAMBER is a PLC-controlled environmental simulation system engineered for accelerated aging and degradation testing of elastomers, rubber compounds, and polymer coatings. It generates a controlled ozone atmosphere (0–500 pphm) within a corrosion-resistant SS304 chamber, with precise thermal regulation up to 80°C, to replicate real-world oxidative stress. This chamber is essential for B.Sc/M.Sc students, PhD researchers, and industrial chemists evaluating ozone-induced cracking, tensile strength loss, and surface deterioration in materials used for automotive seals, pharmaceutical stoppers, and industrial hoses. The system complies with international standards such as ISO 1431-1, ASTM D1149, and ASTM D1171, enabling reproducible quantification of ozone resistance. The integrated PLC with PID control maintains stable ozone concentration and temperature, while the reciprocating specimen movement ensures uniform exposure, making it ideal for quality control, R&D, and failure analysis in polymer science.",
+  "sop": [
+    "Ensure the chamber is clean and the specimen rack is empty; verify that the ozone generator and compressor are connected to a stable 220 V AC, 50 Hz single-phase supply.",
+    "Switch ON the main power isolator and then the PLC controller; allow the system to initialize and perform self-diagnostics for 5 minutes.",
+    "Open the chamber door and load the prepared test specimens (e.g., rubber strips, polymer films) onto the specimen holders, ensuring they are not overlapping and are secured for reciprocating movement.",
+    "Close and lock the chamber door securely to prevent ozone leakage.",
+    "On the PLC touchscreen, navigate to the temperature setting screen. Press the 'SET' button once. Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 40°C). Press 'SET' again to lock the value.",
+    "Navigate to the ozone concentration setting screen. Press the 'SET' button once. Use the 'UP' and 'DOWN' arrows to adjust to the required ozone concentration in pphm (e.g., 50 pphm). Press 'SET' again to lock the value.",
+    "Set the test duration and specimen movement cycle (if applicable) using the PLC timer and reciprocating stroke controls.",
+    "Press the 'START' button on the PLC to begin the test. The chamber will automatically regulate temperature and ozone concentration to the setpoints.",
+    "Monitor the real-time display for any deviations; the PLC will log data and alarm if parameters exceed safety limits.",
+    "After the test duration is complete, press the 'STOP' button, then switch OFF the ozone generator and allow the chamber to purge with fresh air for at least 15 minutes before opening the door.",
+    "Open the door, remove specimens using appropriate gloves, and record observations. Clean the chamber interior with a dry cloth if needed.",
+    "Safety Warning: Never open the chamber door while ozone is being generated or before the purge cycle is complete, as ozone is a toxic and corrosive gas; always wear appropriate PPE including ozone-resistant gloves and eye protection, and ensure the laboratory has adequate ventilation."
+  ],
   "features": [
     "500 Litre spacious high-capacity test chamber containment",
     "Dynamic ozone control indexing from 0 to 500 pphm",

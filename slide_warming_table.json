@@ -1,6 +1,19 @@
 {
   "name": "SLIDE WARMING TABLE",
   "desc": "The INNOLAB INSTRUMENTS Slide Warming Table provides controlled, even heat to dry and warm microscope slides for histology and cytology. It features a digital PID temperature controller and a PT100 sensor for precise temperature management, ensuring samples dry without artifacts.",
+  "principle": "The INNOLAB INSTRUMENTS Slide Warming Table is engineered for precise, uniform thermal treatment of microscope slides in histopathology, cytology, and microbiology laboratories. It employs a microprocessor-based PID controller with a PT100 RTD sensor and sealed SS304 heating elements to maintain a stable surface temperature from ambient+10°C to 70°C with ±0.5°C accuracy. This controlled, even heat accelerates drying of tissue sections, cytological smears, and cell monolayers after fixation and staining, preventing thermal artifact formation, tissue lifting, and uneven paraffin adhesion. Pathologists and histotechnologists rely on the warming table for drying formalin-fixed paraffin-embedded (FFPE) sections after sectioning, for flattening and de-wrinkling tissue ribbons on a water bath before mounting, and for drying H&E, PAS, Gram, Ziehl-Neelsen, and immunohistochemistry (IHC) stained slides. In clinical microbiology, it supports heat fixation of bacterial smears and safe drying of slides after staining with reagents such as crystal violet, safranin, iodine, and acid-alcohol decolorizers. B.Sc. and M.Sc. students use it during histology practicals to dry blood smears, buccal smears, and onion root tip squashes, while PhD researchers use it for in situ hybridization (ISH), fluorescence microscopy sample preparation, and enzyme histochemistry. The system's PID auto-tuning, PT100 feedback, and uniform sealed heating elements allow compliance with Good Laboratory Practice (GLP) and ISO 15189 quality requirements in diagnostic histology laboratories.",
+  "sop": [
+    "Place the slide warming table on a clean, level, non-flammable bench surface away from direct airflow and solvent vapours.",
+    "Connect the power cord to a grounded electrical outlet and switch ON the mains supply.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, typically 45–50°C for routine slide drying or 60–70°C for rapid drying, never exceeding 70°C.",
+    "Press 'SET' again to lock the value.",
+    "Allow 15–20 minutes for the SS304 surface to stabilize at the set temperature; verify with a calibrated digital thermometer if required.",
+    "Place clean, dry microscope slides flat onto the heated surface using forceps, ensuring full contact for even heat transfer.",
+    "Warm or dry slides for the protocol-defined duration, avoiding over-drying or charring of biological specimens.",
+    "After use, switch OFF the mains, allow the table to cool completely, then clean the surface with mild detergent or 70% ethanol using a lint-free cloth.",
+    "Safety Warning: Always treat the surface as hot; never touch it with bare hands and never place flammable solvents such as xylene, ethanol, or acetone near or on the hot surface. Unplug the unit before cleaning and prevent any moisture from entering electrical components."
+  ],
   "features": [
     "Plain, even, and good finish SS304 hot surface",
     "Ambient+10°C to 70°C overall temperature range with ±0.5°C accuracy",

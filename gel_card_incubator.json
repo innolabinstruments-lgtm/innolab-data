@@ -1,0 +1,44 @@
+{
+  "name": "GEL CARD INCUBATOR",
+  "desc": "The INNOLAB INSTRUMENTS INNO-GCI34-26 Gel Card Incubator is a specialized clinical instrument utilized extensively in blood banks, hematology departments, and pathology laboratories. It provides critical, controlled thermal incubation for ID-cards during blood typing, cross-matching, and Coombs testing protocols. To guarantee the safe and reliable activation of agglutination reactions—essential for patient safety—we engineer this incubator to operate at a strict, pre-set 37°C.",
+  "principle": "The INNOLAB INSTRUMENTS GEL CARD INCUBATOR is a precision thermal chamber engineered for the controlled incubation of gel cards used in immunohematological assays. It maintains a strict preset temperature of 37°C, which is optimal for antigen-antibody agglutination reactions in blood typing, cross-matching, and direct/indirect Coombs tests. The microprocessor-based PID controller ensures temperature stability within ±0.5°C, preventing false-negative or false-positive results due to thermal drift. The transparent acrylic lid allows visual monitoring without heat loss, while the integrated digital timer (0–99 minutes) standardizes incubation periods per AABB and ISO 15189 guidelines. This instrument is indispensable for blood banks, hematology departments, and pathology laboratories where reliable detection of red blood cell antibodies (e.g., anti-A, anti-B, anti-D, anti-Kell) and complement-mediated hemolysis is critical for transfusion safety.",
+  "sop": [
+    "Place the incubator on a stable, level bench away from direct sunlight and vibration sources; connect to a grounded AC 220V, 50Hz supply.",
+    "Switch on the main power switch; the LED display will illuminate showing the current chamber temperature and timer status.",
+    "Allow the incubator to preheat for at least 15 minutes until the temperature display stabilizes at 37°C (preset and locked).",
+    "Open the transparent blue acrylic lid and carefully load up to 24 gel cards into the two rows of slots, ensuring each card is upright and fully seated.",
+    "Close the lid firmly to maintain thermal uniformity and prevent ambient air ingress.",
+    "To set the incubation timer, press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 15 minutes for standard gel card incubation).",
+    "Press 'SET' again to lock the value; the timer will begin counting down automatically.",
+    "Monitor the LED display; the incubator will maintain 37°C throughout the timed cycle without user intervention.",
+    "When the timer reaches zero, an acoustic beep alarm will sound; open the lid and promptly remove the gel cards for immediate reading and interpretation.",
+    "After all cards are removed, switch off the power and wipe the interior and lid with a dry, lint-free cloth; do not use solvents or abrasive cleaners.",
+    "Safety Warning: Always wear powder-free gloves when handling gel cards to avoid contamination; never open the lid during active incubation as temperature fluctuations can invalidate agglutination results; keep the incubator away from strong acids, volatile organic compounds (VOCs), and flammable solvents to prevent damage to the acrylic lid and electrical components."
+  ],
+  "features": [
+    "Accommodates up to 24 Gel Cards concurrently across 2 rows",
+    "Preset working temperature strictly calibrated at 37°C",
+    "Microprocessor-based control system with bright LED display",
+    "In-built programmable digital timer (0 to 99 minutes)",
+    "Automated acoustic beep alarm notification upon timer completion"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Digital Laboratory Gel Card Incubator",
+    "Max Capacity": "24 Gel Cards (2 rows of 12 cards)",
+    "Temperature": "37°C (Preset & Controlled)",
+    "Timer": "0 to 99 minutes",
+    "Display": "LED display of Temperature & Timer",
+    "Alarm": "Beep alarm after timer stops",
+    "Lid": "Transparent blue acrylic lids for easy viewing",
+    "Dimension": "380 x 220 x 115 mm",
+    "Net Weight": "6 kg",
+    "Power Supply": "AC 220V, 50HZ",
+    "Target Applications": "Blood Typing, Cross-Matching, Coombs Testing in Blood Banks",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/gel_card_incubator.glb",
+  "image": "assets/instruments/gel_card_incubator.webp",
+  "images": null
+}

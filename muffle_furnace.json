@@ -1,6 +1,22 @@
 {
   "name": "MUFFLE FURNACE",
   "desc": "Premium Heavy-Duty Laboratory Muffle Furnace designed for high-temperature thermal processing, ashing, and material testing up to 1200°C. Features a 13-liter internal capacity, built with high-grade Kanthal A1 heating elements and a highly responsive R-Type thermocouple.",
+  "principle": "The INNOLAB INSTRUMENTS MUFFLE FURNACE is engineered for precise high-temperature thermal processing up to 1200°C, employing Kanthal A1 heating elements and an R-type thermocouple governed by a microprocessor PID controller. It enables gravimetric ashing, loss on ignition, calcination, and heat treatment of ceramics, metals, polymers, coal, food, pharmaceutical, and environmental samples. Doctors, B.Sc/M.Sc students, PhD researchers, and chemists rely on it for sulfate ash and residue on ignition per USP/Ph. Eur., coal ash per ISO 1171, plastic ash per ISO 3451, and loss on ignition per ASTM D7348; it is also used to remove volatile organic compounds (VOCs), incinerate biological tissues, and sinter ceramic powders. Its double-walled ceramic-fiber insulation and triple-phase power ensure stable zone temperatures and low outer surface temperatures for reproducible high-temperature assays.",
+  "sop": [
+    "Verify triple-phase 440V power connection and place the furnace on a heat-resistant bench away from flammables; inspect door insulation and chamber cleanliness.",
+    "Switch ON the main power supply; the PID digital LED display will light up.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 550°C for loss-on-ignition or ash determination).",
+    "Press 'SET' again to lock the value.",
+    "Allow the PID controller to stabilize and ramp the furnace; do not open the door during ramping to avoid thermal shock.",
+    "Pre-heat the empty chamber to the target temperature for 15–30 minutes to achieve a uniform thermal profile.",
+    "Wearing heat-resistant gloves and using long tongs, place prepared sample crucibles or boats onto the ceramic hearth; distribute them evenly without touching the walls or heating elements.",
+    "Close the door securely and monitor the LED display to confirm that the process value reaches and maintains the setpoint.",
+    "After the ashing, calcination, or ignition dwell is completed, press 'SET', adjust the setpoint to a lower value if using step-down cooling, or switch OFF the heating; allow the chamber to cool below 200°C before opening the door.",
+    "Remove samples using tongs and transfer them into a desiccator to cool before gravimetric weighing or further analysis.",
+    "Once the furnace is completely cool, clean any ash residue from the chamber with a soft brush; close the door and record the process temperature and time in the laboratory logbook.",
+    "WARNING: Never open the furnace door above 200°C or when samples may release flammable VOCs; ensure organic solvents and moisture are fully evaporated or pre-carbonized before loading, and always wear heat-resistant gloves and face protection to prevent severe burns and toxic fume exposure."
+  ],
   "features": [
     "100°C to 1200°C high-temperature capability",
     "Premium Grade Kanthal A1 High-Temperature Resistance Wires",

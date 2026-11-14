@@ -1,6 +1,21 @@
 {
   "name": "STAINLESS STEEL GLOVE BOX",
   "desc": "The INNOLAB INSTRUMENTS Stainless Steel Glove Box is a heavy-duty isolation chamber designed for rigorous physics, chemistry, nuclear, and battery research (Lithium-ion). Constructed from 3mm thick Stainless Steel 304 (optional SS316), it features a wide-angle 10mm tempered glass viewing window without dead spaces. Equipped with an antechamber and silicone-sealed side doors, this unit ensures absolute atmospheric isolation, making it perfect for stringent test requirements handling highly reactive compounds.",
+  "principle": "The INNOLAB INSTRUMENTS Stainless Steel Glove Box is a hermetically sealed, heavy-gauge stainless steel (SS304/SS316) isolation enclosure engineered to provide a physically isolated, inert atmosphere for handling air- and moisture-sensitive materials. Its principle of operation combines a gas-tight main chamber, a vacuum-capable antechamber, and high-durability gloves to maintain an environment with controlled oxygen and moisture levels (typically <1 ppm O2 and <1 ppm H2O) under continuous positive pressure of high-purity argon or nitrogen. The integrated dial gauge, purge valve, and optional PID-driven humidity/dew point controller allow users to regulate and monitor internal conditions. This equipment supports B.Sc and M.Sc students in learning air-free synthesis techniques, enables PhD researchers and chemists to manipulate pyrophoric reagents such as n-butyllithium, lithium metal, Grignard reagents, and strong acids (e.g., triflic acid), and facilitates lithium-ion battery research involving electrolytes like LiPF6 in ethylene carbonate/dimethyl carbonate (EC/DMC) and volatile organic compounds (VOCs). Doctors and biomedical researchers may use it for cultivating obligate anaerobes or handling oxygen-sensitive therapeutic formulations under inert conditions. The glove box conforms to ISO 10648-2 containment enclosure and ASTM E235 glovebox testing standards.",
+  "sop": [
+    "Inspect the glove box exterior, tempered glass window, and glove ports for cracks, punctures, or seal degradation before use.",
+    "Ensure the main chamber side doors and antechamber doors are closed and the silicone seals are clean and properly seated.",
+    "Connect a high-purity inert gas supply (argon or nitrogen) to the main chamber purging valve and set the regulator to the recommended inlet pressure (typically 0.05–0.1 MPa).",
+    "Press the 'SET' button once on the PID controller for humidity/dew point or pressure control.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, such as dew point ≤ -40°C or relative humidity ≤ 1% RH.",
+    "Press 'SET' again to lock the value and allow the controller to regulate the internal atmosphere.",
+    "Purge the main chamber by opening the gas purge valve and allowing at least three volume exchanges of inert gas before use.",
+    "For material transfer, place items into the antechamber, seal the outer door, evacuate to -0.1 MPa if vacuum is available, then backfill with inert gas and repeat at least twice.",
+    "Open the inner antechamber door only after the cycle is complete and transfer materials into the main chamber, keeping all reactive chemicals sealed until inside.",
+    "During work, manipulate materials through the butyl/latex gloves; avoid sharp objects that could puncture the gloves and compromise atmospheric isolation.",
+    "After use, remove materials via the antechamber using the same evacuation/backfill cycle, then shut off the gas supply and close all valves.",
+    "Crucial Safety Warning: Never open the main chamber directly to ambient air while reactive chemicals or lithium battery materials are inside; always verify oxygen and moisture levels are within safe limits and keep a fire extinguisher rated for Class D metal fires nearby when handling pyrophoric or alkali metal reagents."
+  ],
   "features": [
     "Heavy-duty construction using 3mm thick Stainless Steel 304 (SS 316 optional)",
     "Wide-angle 10mm tempered glass front panel for dead-space-free viewing",

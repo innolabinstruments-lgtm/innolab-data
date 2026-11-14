@@ -1,0 +1,53 @@
+{
+  "name": "GARMENT STORAGE CABINET",
+  "desc": "Class 100 Vertical Laminar Flow Cleanroom Garment Storage Cabinet engineered to maintain sterile conditions in high-compliance cleanrooms. Features a dual-compartment internal layout fabricated from high-grade SS304 or 316, driven by a two-stage filtration network.",
+  "principle": "The INNOLAB INSTRUMENTS GARMENT STORAGE CABINET is a Class 100 / ISO Class 5 vertical laminar flow cleanroom garment storage system engineered to preserve the sterility and particulate integrity of cleanroom apparel. It employs a two-stage filtration matrix: a washable primary pre-filter captures macroscopic dust, while a micro-glass fiber HEPA filter removes 99.997% of airborne particles down to 0.3 microns, delivering a uniform vertical downflow at 0.45 ± 0.05 m/s that continuously scrubs the internal storage space. An automated UV germicidal disinfection lamp, interlocked with door-open switches, provides surface decontamination of stored gowns, coveralls, hoods, boots, and gloves. Doctors, B.Sc/M.Sc students, PhD researchers, and chemists rely on this cabinet to maintain aseptic conditions before handling strong acids (e.g., HCl, HNO3), volatile organic compounds (e.g., toluene, xylene), microbial cultures, cell lines, and performing critical assays such as sterility testing, endotoxin (LAL) testing, and PCR. It supports compliance with ISO 14644-1 Class 5, EU GMP Annex 1 Grade A/B, USP <797>, and ASTM F838 standards for cleanroom garment management.",
+  "sop": [
+    "Ensure the cabinet is connected to a 220 V, 50 Hz single-phase supply and switch ON the main power isolator.",
+    "Check the differential pressure gauge (if fitted) to confirm the HEPA filter pressure drop is within the manufacturer's specified range.",
+    "Press the \"SET\" button once to access the controller setpoint mode.",
+    "Use the \"UP\" and \"DOWN\" arrows to adjust to the required target parameter (e.g., UV disinfection cycle duration or airflow velocity setpoint).",
+    "Press \"SET\" again to lock the value and return to the normal operating display.",
+    "Before loading, ensure the UV lamp is OFF and the glass doors are fully closed for at least 5 minutes to allow any residual ozone to dissipate.",
+    "Sanitize the interior surfaces and shelves with 70% isopropyl alcohol or a validated sporicidal disinfectant using a lint-free wipe.",
+    "Load cleanroom garments: hang coveralls and frocks on the dedicated rods, place folded hoods, boots, and gloves on the removable shelves without overcrowding.",
+    "Close the stainless steel framed glass doors and verify the self-closing hinges seal completely.",
+    "Activate the UV germicidal disinfection cycle as per the laboratory schedule, ensuring no personnel are exposed to UV radiation.",
+    "Record the airflow velocity, UV cycle time, and any deviations in the equipment logbook.",
+    "Safety Warning: Never open the glass doors while the UV lamp is active; UV-C radiation can cause severe skin burns and eye damage. Always verify the lamp is off and allow adequate ventilation before accessing the cabinet, and never store chemical containers, biological samples, or flammable materials inside."
+  ],
+  "features": [
+    "Certified Class 100 / ISO Class 5 cleanroom environmental compliance",
+    "Precision uniform velocity at 0.45 ± 0.05 mps (90 ± 20 FPM)",
+    "Continuous vertical downflow pattern scrubbing internal storage space",
+    "Comprehensive Two Stage high-efficiency air filtration matrix with HEPA filter",
+    "Automated UV Germicidal Disinfection Lamp linked to smart door open switches"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Microprocessor Vertical Laminar Airflow Garment Storage Cabinet",
+    "Air Cleanliness Classification": "Certified Class 100 / ISO Class 5 cleanroom environmental compliance",
+    "Air Flow Velocity Index": "Precision uniform velocity at 0.45 plus or minus 0.05 mps (90 plus or minus 20 FPM)",
+    "Laminar Airflow Direction": "Continuous vertical downflow pattern scrubbing internal storage space",
+    "Blower Assembly Module": "Statically and dynamically balanced heavy-duty noiseless motor blower assembly",
+    "Filtration Engineering Core": "Comprehensive Two Stage high-efficiency air filtration matrix",
+    "Stage 1 Primary Pre-Filter": "High-retention washables pre-filter trapping raw macroscopic dust dust particulates",
+    "Stage 2 Secondary HEPA Filter": "Micro-glass fiber HEPA filter ensuring 99.997 percent efficiency down to 0.3 microns",
+    "Internal Storage Layout": "Intelligent dual compartments with dedicated hanging rods and removable shelves",
+    "Shelving Adaptability": "Flexible multi-position adjustable or fully removable steel shelving trays",
+    "Sterilization Disinfection Loop": "Automated UV Germicidal Disinfection Lamp linked to smart door open switches",
+    "Enclosure Door Engineering": "High-durability Stainless Steel framed Glass doors fitted with self-closing hinges",
+    "Primary Cabinet Construction": "Heavy-gauge high-grade Stainless Steel (SS304 or optional SS316 variant lines)",
+    "Chassis Surface Protection": "Mirror-polished seamless finish (Powder Coated GI Sheet available for economy budgets)",
+    "System Testing Interface": "Integrated Upstream concentration aerosol testing Dispersed Oil Particulate (DOP) Port",
+    "Electrical Power Inputs": "Standard 220 Volts, 50 Hz, Single Phase stable Indian plug mains connection",
+    "Optional Advanced Add-ons": "Magnehelic differential pressure gauge, Internal electric socket, and mirror door layout",
+    "Mobility Infrastructure Deck": "High-load non-marking anti-skid Caster Wheels integrated with instant foot brakes",
+    "Target Field Applications": "Pharmaceutical Cleanrooms, Biotech Labs, Semiconductor Plants, and Sterile Packing",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on blower core and filters",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/garment_storage_cabinet.glb",
+  "image": "assets/instruments/garment_storage_cabinet.webp",
+  "images": null
+}

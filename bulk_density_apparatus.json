@@ -1,0 +1,48 @@
+{
+  "name": "BULK DENSITY APPARATUS",
+  "desc": "Premium Microprocessor-Based Digital Bulk Density Apparatus engineered for high-precision density evaluation of powders, granules, and solid flakes. Features a rugged heavy-duty metal chassis equipped with an advanced 4-digit programmable preset counter.",
+  "principle": "The INNOLAB INSTRUMENTS Bulk Density Apparatus is a precision microprocessor-controlled instrument designed for the accurate determination of bulk density and tapped density of powders, granules, and solid flakes. It operates on the principle of standardized mechanical tapping: a graduated glass cylinder containing a known mass of sample is subjected to a fixed vertical drop of exactly 50 mm at a constant rate of 30 strokes per minute, causing the powder to settle and consolidate. The 4-digit programmable preset counter automatically stops the tapping after a user-defined number of strokes, eliminating human error. Bulk density is then calculated as the ratio of sample mass to the final tapped volume, including interparticle voids and pores. This apparatus is essential for pharmaceutical formulation scientists evaluating active pharmaceutical ingredients (APIs) and excipients per USP <616> and ASTM D7481 standards, for metallurgical analysts characterizing metal powders, and for chemists assessing flow properties and packing behavior of fine chemicals, catalysts, and pigments. B.Sc/M.Sc students and PhD researchers rely on it to study powder compressibility, Hausner ratio, and Carr’s index, which are critical for tablet manufacturing, powder metallurgy, and bulk solids handling.",
+  "sop": [
+    "Place the Bulk Density Apparatus on a stable, vibration-free laboratory bench and connect it to a 240 V AC, 50 Hz single-phase power supply.",
+    "Ensure the graduated glass cylinder (50 ml capacity) is clean, dry, and free from cracks or residues.",
+    "Weigh the empty cylinder using an analytical balance and record its mass (M1).",
+    "Carefully pour the test powder into the cylinder up to the 50 ml graduation mark without tapping or compacting, then weigh again to obtain the total mass (M2). Calculate sample mass M = M2 - M1.",
+    "Mount the filled cylinder securely onto the cylinder holder of the apparatus.",
+    "Set the desired number of taps on the digital preset counter: Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 500 taps for tapped density per USP method).",
+    "Press 'SET' again to lock the value into the microprocessor memory.",
+    "Press the 'START' button to initiate the tapping mechanism; the apparatus will automatically perform 30 strokes per minute with a 50 mm drop height.",
+    "Wait for the automatic cutoff when the preset count is reached; the machine will stop tapping without manual intervention.",
+    "Read the final settled volume (Vf) directly from the graduated cylinder at eye level, ensuring the meniscus is read correctly.",
+    "Calculate bulk density (ρ_bulk) = M / Vf, and if needed, tapped density using the final volume after the preset taps.",
+    "Record all data and clean the cylinder thoroughly after use.",
+    "SAFETY WARNING: Always disconnect the apparatus from the power supply before cleaning or maintenance; never operate with wet hands or near flammable solvents; avoid inhaling fine powder dust by using a fume hood or dust mask, and do not exceed the cylinder’s maximum volume to prevent spillage and mechanical damage."
+  ],
+  "features": [
+    "Accurate ratio evaluation of mass to total volume",
+    "4-Digit high-visibility programmable preset electronic digital counter",
+    "Fixed performance at 30 strokes per minute velocity tracking",
+    "Exactly 50 mm uniform vertical drop trajectory",
+    "Complete automated cutoff eliminating human variations in powder tapping"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Microprocessor-Based Digital Bulk Density Apparatus Station",
+    "Primary Testing Application": "Accurate ratio evaluation of mass to total volume (including pores and voids)",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital Control Network",
+    "Preset Counter Engine": "4-Digit high-visibility programmable preset electronic digital counter",
+    "Tapping Mechanism Speed": "Fixed performance at 30 strokes per minute velocity tracking",
+    "Stroke Drop Height Scale": "Exactly 50 mm uniform vertical drop trajectory",
+    "Cylinder Mount Capacity": "Standard 50 ml volume graduated glass cylinder containment index",
+    "Operation Operational Mode": "Continuous structural mechanical drive with auto-stop function",
+    "Chassis Structural Material": "Heavy-duty, anti-vibration rigid Metal sheet body enclosure frame",
+    "Repeatability Index Factor": "Complete automated cutoff eliminating human variations in powder tapping",
+    "Electrical Power Inputs": "Standard 240 V AC, 50 Hz, Single Phase stable electrical connection",
+    "Target Field Applications": "Pharmaceutical Formulation, Metallurgical Analysis, and Powder Chemicals",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/bulk_density_apparatus.glb",
+  "image": "assets/instruments/bulk_density_apparatus.webp",
+  "images": null
+}

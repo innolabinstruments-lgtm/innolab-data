@@ -1,6 +1,22 @@
 {
   "name": "MALT MASHING BATH",
   "desc": "The INNOLAB INSTRUMENTS Malt Mashing Bath is specifically tailored for the brewing industry, food technology, and quality control laboratories. It is used to evaluate the extract yield of malt and barley by simulating Congress and Hartong procedures. Featuring motorized multi-jar agitators and precise PID temperature controls, it ensures brewmasters get highly accurate and repeatable enzymatic conversions for their quality checks.",
+  "principle": "The INNOLAB INSTRUMENTS Malt Mashing Bath is engineered to precisely simulate the Congress and Hartong mashing procedures as defined by EBC and ASBC standards, enabling the quantitative evaluation of malt extract yield and enzymatic activity. The instrument maintains a thermostatically controlled water bath with a PT100 sensor and PID controller to achieve temperature accuracy of ±0.5°C up to 95°C, while motorized stainless steel agitators provide uniform stirring at 15–150 rpm. During mashing, endogenous malt enzymes—primarily α-amylase, β-amylase, limit dextrinase, and proteases—catalyze the hydrolysis of starch into fermentable sugars (maltose, maltotriose, glucose) and dextrins, and degrade proteins into amino acids and peptides. This process is critical for brewers, food technologists, and quality control chemists to assess malt modification, diastatic power, extract potential, and overall brewing performance. The bath is used by B.Sc/M.Sc students, PhD researchers, and industry professionals to test barley and malt samples, monitor enzymatic conversion kinetics, and validate compliance with ISO, EBC, and ASBC methods. The low water level safety cut-off and audio/visual alarms ensure safe operation when handling hot water and biological samples.",
+  "sop": [
+    "Ensure the Malt Mashing Bath is placed on a stable, level surface and connected to a 220V 50Hz power supply with proper grounding.",
+    "Fill the outer water bath with distilled or deionized water up to the indicated level mark, ensuring the heating elements are fully submerged.",
+    "Place the required number of stainless steel mashing jars (4, 6, 8, 10, or 12) into the designated holders inside the bath.",
+    "Add the precisely weighed malt grist and the specified volume of pre-warmed distilled water (according to Congress or Hartong protocol) into each jar.",
+    "Lower the stainless steel agitator shafts into the jars, ensuring they are properly aligned and not touching the jar walls.",
+    "Press the 'SET' button once on the PID temperature controller to enter setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target temperature to the required mashing step (e.g., 45°C for protein rest, 62°C for maltose rest, 72°C for saccharification rest, 78°C for mash-off).",
+    "Press 'SET' again to lock the target temperature value and allow the controller to begin heating.",
+    "Set the stirrer speed using the rotary variable speed controller to the desired rpm (typically 80–120 rpm for Congress mash) and confirm the digital LED display shows the correct speed.",
+    "Monitor the temperature and stirring continuously; if using Ramp & Soak functions, program the sequence of temperature holds and ramps according to the specific mashing profile.",
+    "At the end of the mashing program, stop the agitators, carefully lift the jars out using heat-resistant gloves, and proceed with filtration, cooling, and specific gravity or extract measurement as per standard methods.",
+    "After use, switch off the main power, drain the water bath completely, and clean all jars, agitator shafts, and the bath interior with mild detergent and distilled water to prevent mineral buildup or cross-contamination.",
+    "SAFETY WARNING: Never operate the Malt Mashing Bath without sufficient water in the outer bath, as the low water level cut-off may fail if the sensor is fouled; always wear heat-resistant gloves and eye protection when handling hot jars or water above 60°C, and ensure the area is well-ventilated to avoid steam burns or inhalation of volatile compounds released during mashing."
+  ],
   "features": [
     "Designed to work on Congress and Hartong mashing procedures",
     "Available with 4, 6, 8, 10, or 12 stainless steel jars/agitators",

@@ -1,0 +1,49 @@
+{
+  "name": "ENVIRONMENTAL CHAMBER",
+  "desc": "200-Liter Environmental Chamber engineered for precise temperature and humidity control in material testing. Features a heavy-duty internal chamber fabricated from electropolished SS 304 and dual Pt100 DIN Class A sensors for climate control from +10°C to +95°C.",
+  "principle": "The INNOLAB INSTRUMENTS ENVIRONMENTAL CHAMBER operates as a 200-liter precision climate workstation that maintains tightly controlled temperature from +10 °C to +95 °C and relative humidity using a PID-regulated heating, cooling, and humidification system. The internal workspace is fabricated from 1.1 mm electropolished SS 304 and monitored by dual Pt100 DIN Class A sensors in a 4-wire circuit for mutual verification, ensuring thermal uniformity within ±0.5 to 2 K. A dynamically balanced circulation fan with automatic or 10–100% manual speed adaptation distributes conditioned air uniformly over the electropolished stainless-steel grids. This chamber is used by doctors, B.Sc/M.Sc students, PhD researchers, and chemists for pharmaceutical stability testing under ICH Q1A conditions, accelerated aging of polymers and composites per ASTM D638 / ISO 527, formaldehyde and VOC emission testing from building materials per ISO 16000 / ASTM D6007, BOD and microbial culture incubation of organisms such as Escherichia coli, Saccharomyces cerevisiae, and Aspergillus niger, plant cell and tissue culture, shelf-life studies of cosmetics and food, and controlled storage of hygroscopic chemicals and saturated salt solutions used for humidity calibration. Strong acids, bases, organic solvents, or flammable VOCs must only be introduced when the chamber is explicitly configured with safe ventilation and chemical compatibility.",
+  "sop": [
+    "Verify the chamber is connected to a 220–230 V AC, 50 Hz, single-phase supply and fill the 2-liter reservoir with distilled or deionized water up to the marked level.",
+    "Switch ON the main power and confirm the power indicator, digital display, and system alerts illuminate normally.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "For humidity-controlled runs, repeat the same SET/UP/DOWN/SET sequence for the humidity setpoint if available on the controller.",
+    "Set the circulation fan to automatic mode or manually adjust from 10% to 100% speed based on the uniformity required for the load.",
+    "Load samples onto the electropolished SS 304 grids with adequate spacing for air circulation, then close and latch the fully insulated SS 304 door.",
+    "Allow the chamber to stabilize at the target temperature/humidity and confirm the digital display and dual Pt100 sensors read within the specified ±0.5 to 2 K uniformity before starting timed testing or incubation.",
+    "At the end of the run, switch OFF the chamber, remove samples using thermal-protective gloves, drain and clean the water reservoir, and wipe the interior with a non-corrosive disinfectant.",
+    "WARNING: Never open the door while the chamber is at elevated temperature or high humidity; allow it to cool below 40 °C and disconnect power before maintenance or cleaning. Do not place flammable solvents, strong acids, or strongly oxidizing chemicals inside unless the chamber is explicitly rated, sealed, and ventilated for such use, as this may cause corrosion, toxic fumes, fire, or explosion."
+  ],
+  "features": [
+    "Stable configuration from +10°C up to +95°C with humidity",
+    "Dual Pt100 sensors DIN Class A in 4-wire-circuit for mutual monitoring",
+    "Dynamically balanced circulation fan with automatic/manual speed adaptation",
+    "2 Liters volume capacity integrated water reservoir",
+    "1.1 mm thick high-grade Electropolished Stainless Steel (SS 304) grid setup"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Controlled Climate Environmental Chamber Workstation",
+    "Chamber Net Capacity": "200 Liters high-capacity internal test volume",
+    "Inbuilt Water Tank Capacity": "2 Liters volume capacity integrated water reservoir",
+    "Operating Climate Range": "Stable configuration from +10°C up to +95°C with humidity",
+    "Thermal Distribution Profile": "High uniformity tracking within ± 0.5 to 2 K across workspace",
+    "Temperature Sensor Assembly": "2 Pt100 sensors DIN Class A in 4-wire-circuit for dual mutual monitoring",
+    "Internal Chamber Build": "1.1 mm thick high-grade Electropolished Stainless Steel (SS 304) grid setup",
+    "Outer Enclosure Material": "1.2 mm thick heavy Pre-Painted Zinc Coated Sheet structure",
+    "Thermal Insulation Core": "75 mm thick heavy-duty insulation barrier layer",
+    "Main Door Structure": "Single Door configuration made of fully insulated Stainless Steel 304",
+    "Air Circulation System": "Dynamically balanced circulation fan with automatic/manual speed adaptation",
+    "Fan Control Parameters": "Automatic speed adaptation or manual adjustments from 10 to 100 percent speed",
+    "Calibration Features": "Three freely selectable temperature values calibration control",
+    "Display Interface Panel": "Digital Display tracking real-time Temperature and Humidity parameters",
+    "Safety System Configurations": "Integrated Power ON/OFF status indicators with automated system alerts",
+    "Power Supply Requirements": "Standard 220-230 V AC, 50 Hz, Single Phase stable plug link",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on complete unit",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/environmental_chamber.glb",
+  "image": "assets/instruments/environmental_chamber.webp",
+  "images": null
+}

@@ -1,6 +1,24 @@
 {
   "name": "ROLLING THIN FILM OVEN",
   "desc": "Automatic Rolling Thin Film Oven (RTFOT) engineered to simulate the short-term aging (STA) of bituminous binders under continuous rotation in strict compliance with AASHTO T240 standards. Features an 8-bottle testing capacity layout operating at a precision-controlled rotation speed of 20 RPM.",
+  "principle": "The INNOLAB INSTRUMENTS ROLLING THIN FILM OVEN is a precision thermal-aging simulator designed to replicate the short-term oxidative aging and volatile loss experienced by bituminous binders during hot-mix asphalt production, transportation, and paving. It operates by continuously rotating eight glass sample bottles containing 35 g of binder at 20 RPM inside a PID-controlled chamber maintained at 163°C (or up to 180°C) with vertical downward airflow, exposing a thin, renewed film of binder to hot air for 85 minutes in accordance with AASHTO T240 and ASTM D2872. This controlled thermal oxidation drives the evolution of asphaltenes, resins, and maltenes, causing mass loss and viscosity changes that civil engineers, asphalt chemists, B.Sc/M.Sc students, and PhD researchers quantify to predict long-term pavement performance, rutting resistance, and binder durability. The system is widely used in highway construction testing, asphalt refineries, and pavement quality engineering to validate binder compliance with performance-grade specifications and to study the emission of volatile organic compounds (VOCs) and polycyclic aromatic hydrocarbons (PAHs) during aging.",
+  "sop": [
+    "Ensure the oven is placed on a stable, level bench, connected to a 220-240 V AC, 50 Hz single-phase supply, and that the chamber, glass inspection door, and carousel are clean and dry.",
+    "Switch ON the main power isolator and allow the digital PID controller to initialize.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (typically 163°C for AASHTO T240, or up to 180°C for special binders).",
+    "Press 'SET' again to lock the value.",
+    "Allow the chamber to preheat and stabilize at the set temperature for at least 30 minutes; verify the actual temperature on the PID display matches the setpoint.",
+    "Prepare eight clean glass sample bottles; weigh 35 ± 0.5 g of bituminous binder into each bottle and record the initial mass to 0.001 g.",
+    "Open the insulated door, load the bottles symmetrically into the 8-bottle carousel carrier, close and latch the door securely.",
+    "Confirm the carousel rotation speed is set to exactly 20 RPM and start the vertical downward airflow circulation system.",
+    "Start the test timer for 85 minutes (AASHTO T240) and monitor the process through the inspection glass without opening the door.",
+    "At the end of the aging period, stop rotation and airflow, switch OFF the heater, and allow the chamber to cool to below 100°C before opening the door.",
+    "Wearing heat-resistant gloves and a face shield, open the door, remove the bottles using tongs, and place them on a heat-resistant tray to cool to room temperature in a desiccator.",
+    "Reweigh each bottle to determine mass loss due to volatilization and oxidation, then perform subsequent rheological tests (penetration, softening point, viscosity, DSR) as required.",
+    "Clean the glass bottles with a suitable solvent such as toluene or trichloroethylene in a fume hood, wipe the chamber interior with a lint-free cloth, and leave the door slightly ajar when not in use.",
+    "Safety Warning: Never open the oven door during high-temperature operation without full PPE; hot bitumen, glass bottles, and emitted volatile organic compounds (VOCs) and polycyclic aromatic hydrocarbons (PAHs) can cause severe thermal burns and respiratory injury, so always operate the RTFOT inside a certified fume hood or well-ventilated area and ensure the chamber has cooled below 50°C before any cleaning or maintenance."
+  ],
   "features": [
     "Full operational compliance with international AASHTO T240 protocols",
     "8 Bottles carousel carrier containment wheel setup",

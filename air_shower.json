@@ -1,0 +1,46 @@
+{
+  "name": "AIR SHOWER",
+  "desc": "Single-Person Floor-Mounted Automatic Cleanroom Air Shower engineered for high-efficiency surface particle decontamination prior to cleanroom entry. Features a heavy-duty prefabricated enclosure compliant with Class 100 air cleanliness standards and high-velocity SS304 adjustable nozzles.",
+  "principle": "The INNOLAB INSTRUMENTS AIR SHOWER is a high-performance cleanroom entry system engineered to remove particulate contamination from personnel garments before they enter controlled environments. It operates by generating ultra-high velocity air streams (up to 25 m/s) through adjustable SS304 jet nozzles, driven by a heavy-duty dynamically balanced centrifugal blower. This high-velocity, low-pressure sweeping action dislodges and lifts particles such as skin flakes, dust, fibers, and microbial spores from clothing surfaces. The air is supplied through HEPA filters to maintain Class 100 (ISO 5) cleanliness, ensuring that the showering air itself does not introduce new contaminants. Dislodged particles are carried away by the airflow and exhausted or captured, preventing their entry into the cleanroom. An advanced electromagnetic interlocking system ensures that only one door can be opened at a time, maintaining pressure differentials and preventing cross-contamination between the gowning area and the cleanroom. This equipment is essential in pharmaceutical manufacturing (e.g., sterile injectables, aseptic processing), biotechnology laboratories (cell culture, PCR setup), semiconductor fabrication (wafer handling), aerospace component assembly, and sterile hospital zones (operating theaters, isolation units). It complies with ISO 14644-1 Class 5, EU GMP Grade A/B, and ASTM E2352 standards for cleanroom operations, ensuring that personnel do not compromise product sterility, experimental integrity, or device performance.",
+  "sop": [
+    "Ensure the air shower is connected to a 415 V AC, 50 Hz, three-phase power supply and that the main power switch is turned ON.",
+    "Check that both doors are closed and the electromagnetic interlock indicator shows a ready state (usually a green light).",
+    "Press the 'SET' button once on the control panel to enter the timer setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the shower duration to the required target parameter (typically 10–15 seconds for standard decontamination).",
+    "Press 'SET' again to lock the value and exit the setting mode.",
+    "Open the entry door (the interlock will automatically lock the exit door) and step inside the shower chamber.",
+    "Stand in the center of the chamber with arms raised slightly away from the body to expose all garment surfaces to the air jets.",
+    "The sensor will automatically detect your presence and start the countdown showering cycle; remain still during the entire cycle.",
+    "When the cycle completes, the exit door will unlock automatically; open it and proceed into the cleanroom, ensuring the entry door closes behind you.",
+    "Safety Warning: Never force open the interlocked doors during operation or attempt to bypass the electromagnetic interlock, as this can cause contamination breach, pressure loss, and potential injury from high-velocity air streams."
+  ],
+  "features": [
+    "Ultra-high velocity tracking at 25 m/s",
+    "Fully Automatic sensor-activated countdown showering cycle",
+    "Advanced Electromagnetic interlocking assembly to prevent cross contamination",
+    "Heavy-duty industrial dynamically balanced Centrifugal Blower type",
+    "Adjustable directional jet nozzles fabricated from premium SS304"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Prefabricated Cleanroom Personnel Decontamination Air Shower Tunnel",
+    "User Capacity Profile": "Single Person entry-exit batch processing layout",
+    "Air Velocity Performance": "Ultra-high velocity tracking at 25 mps (meters per second)",
+    "Air Distribution Nozzles": "Adjustable directional jet nozzles fabricated from premium SS304",
+    "Blower System Mechanism": "Heavy-duty industrial dynamically balanced Centrifugal Blower type",
+    "Door Operation Mode": "Fully Automatic sensor-activated countdown showering cycle",
+    "Door Interlock Safety Type": "Advanced Electromagnetic interlocking assembly to prevent cross contamination",
+    "Mounting Configuration": "Rigid Floor Mounted stable permanent foundation layout",
+    "Chassis External Aesthetics": "Ergonomic, professionally styled layout to match cleanroom standards",
+    "System Pressure Design": "High-velocity, low-pressure sweeping framework for maximum particle lift",
+    "Flow Pattern Options": "Adaptable architecture supporting entry-exit, 1-way entry, or 2-way exit lines",
+    "Electrical Power Inputs": "Heavy-duty 415 V AC, 50 Hz, Three Phase industrial stable link",
+    "Target Field Applications": "Pharma, Biotechnology, Electronics, Aerospace, and Sterile Hospital Zones",
+    "Customization Flexibility": "Structural dimensional variations available based on site site-layout requests",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on full blower and lock assembly",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/air_shower.glb",
+  "image": "assets/instruments/air_shower.webp",
+  "images": null
+}

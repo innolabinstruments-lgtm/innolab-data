@@ -1,6 +1,20 @@
 {
   "name": "MAGNETIC STIRRER WATER BATH",
   "desc": "The INNOLAB INSTRUMENTS Magnetic Stirrer Water Bath is an advanced workstation used heavily in chemical synthesis and biology laboratories. It allows researchers to simultaneously heat and independently stir multiple flasks. Integrating magnetic drive points beneath the stainless steel water tank, it offers an elegant solution for synchronized, contamination-free mixing during precise incubation procedures.",
+  "principle": "The INNOLAB INSTRUMENTS Magnetic Stirrer Water Bath combines a thermostatically controlled stainless steel water bath with multi-position magnetic stirring, enabling uniform heat transfer and homogeneous mixing in a single platform. The system uses an immersion heating element and a DC motor-driven circulation pump to minimize thermal gradients, while rotating magnetic fields generated beneath the SS 304 tank drive Teflon-coated stir bars inside flasks. This design is widely applied by chemists, B.Sc/M.Sc students, PhD researchers, and clinicians for organic and inorganic synthesis, dissolution testing, hydrolysis reactions, saponification, enzymatic digestion, and preparation of biological media such as LB broth, RPMI-1640, and phosphate-buffered saline. It supports the cultivation and temperature-dependent processing of microorganisms including Escherichia coli, Bacillus subtilis, and Saccharomyces cerevisiae, as well as cell-free assays like Bradford protein estimation and enzyme-linked immunosorbent assays (ELISA). The unit is compatible with mild acids (e.g., dilute acetic acid, citric acid), alkaline buffers (e.g., carbonate-bicarbonate buffer), and aqueous reaction media, but it is not intended for concentrated strong acids such as HCl, HNO3, or H2SO4 or volatile organic solvents unless used with appropriate secondary containment and fume hood. Temperature control follows standard PID logic with digital setpoint locking, and operation can be aligned with good laboratory practice, ISO 8655 for liquid handling validation, and ASTM E2877 for contact thermometry where applicable.",
+  "sop": [
+    "Inspect the instrument and ensure the main power cord is disconnected before filling or cleaning.",
+    "Fill the stainless steel tank with distilled or deionized water to a level that covers the heating element and reaches approximately 50–70% of the flask height, never exceeding the maximum fill line.",
+    "Place the required number of conical flasks into the spring-loaded clamps and add a Teflon-coated magnetic stir bar to each flask.",
+    "Load samples, reagents, or culture media into each flask and secure the stainless steel lid to minimize evaporation and heat loss.",
+    "Connect the unit to a properly grounded 220V/50Hz power supply and switch on the main power switch.",
+    "Press the 'SET' button once on the temperature PID controller. Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature, then press 'SET' again to lock the value.",
+    "Set the stirrer speed using the speed regulator by pressing the 'SET' button once, using the 'UP' and 'DOWN' arrows to adjust to the required RPM, and pressing 'SET' again to lock the stirring speed.",
+    "Allow the water bath to reach the set temperature and verify thermal stability on the digital display before starting the magnetic stirring.",
+    "Monitor the flasks periodically to ensure stir bars remain centered and rotation is stable, and adjust the speed gradually to avoid splashing or vortex-induced spillage.",
+    "After use, switch off the stirrer and heater, unplug the unit, allow the water to cool to ambient temperature, and carefully drain the tank.",
+    "Safety Warning: Never operate the Magnetic Stirrer Water Bath with an empty or low water level, never immerse the outer body or controller in water, and always wear heat-resistant gloves and eye protection when handling hot flasks or water to prevent burns and contamination."
+  ],
   "features": [
     "Combination of water bath and magnetic stirrer in a single unit",
     "Available in single and multi-position models (1, 4, 8, or 12 stations)",

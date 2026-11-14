@@ -1,6 +1,19 @@
 {
   "name": "TRAY DRYER OVEN",
   "desc": "Industrial Drying Oven Tray Dryer engineered for highly efficient and uniform thermal drying of bulk materials. Built with a high-grade SS304 internal and external enclosure accommodating 12 heavy-duty trays, integrating a powerful forced-air circulation system.",
+  "principle": "The INNOLAB INSTRUMENTS Tray Dryer Oven operates on the principle of forced-convection thermal drying, where an electric heating element raises the chamber air temperature and a dynamically balanced blower fan circulates hot air across 12 SS304 trays to achieve uniform cross-tray heat transfer. This controlled thermal environment drives moisture evaporation from bulk solids, pharmaceutical granules, herbal powders, food slices, and chemical precipitates, reducing residual water or volatile content to specification. The double-walled insulated SS304 enclosure minimizes thermal loss, while the semi-automatic digital PID controller maintains a stable temperature up to 100°C with minimal deviation, supporting reproducible moisture analysis, loss-on-drying determinations, and batch drying workflows in pharmaceutical quality control, R&D laboratories, and academic B.Sc/M.Sc and PhD research. Applications include drying of heat-sensitive pharmaceutical excipients, botanical extracts, microbial culture media components, and chemical powders; removal of residual moisture to meet USP <731> Loss on Drying, ISO 648:2008 for laboratory glassware drying, and ASTM D2216 for moisture content in soils, while avoiding direct drying of volatile flammable solvents or strong acids unless exhausted safely.",
+  "sop": [
+    "Ensure the tray dryer is installed on a stable, level surface with adequate clearance from walls and connected to the correct 230V/440V supply as per electrical safety.",
+    "Open the insulated door and load the material evenly onto the 12 SS304 trays, leaving sufficient spacing between trays and avoiding overloading to permit uniform air circulation.",
+    "Close and lock the door securely using the heavy-duty hinges to prevent heat leakage.",
+    "Switch ON the main power isolator and then turn ON the blower fan to start forced-air circulation before heating.",
+    "Press the 'SET' button once on the semi-automatic digital temperature controller.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 60°C, 80°C, or maximum 100°C as per material's thermal tolerance).",
+    "Press 'SET' again to lock the value and initiate heating; allow the chamber to reach set temperature and stabilize for 15–30 minutes.",
+    "Monitor the process periodically through the controller indicator; do not open the door frequently as this disrupts thermal uniformity and extends drying time.",
+    "After the drying cycle, switch OFF the heater, allow the chamber to cool below 40°C while the blower continues to remove residual moisture-laden air, then switch OFF the main power.",
+    "Safety Warning: Never dry flammable solvents, volatile organic compounds (VOCs), strong acids, or explosive materials in this standard tray dryer unless the unit is explicitly rated explosion-proof and connected to a certified fume extraction system, as hot surfaces and electrical contacts may ignite vapours."
+  ],
   "features": [
     "12 Heavy-Duty Processing Trays configuration",
     "Cross-tray uniform forced air draft to eliminate cold/hot spots",

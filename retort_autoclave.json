@@ -1,6 +1,22 @@
 {
   "name": "RETORT AUTOCLAVE",
   "desc": "The INNOLAB INSTRUMENTS INNO-RXAU-110 Retort Autoclave is a heavy-duty, horizontal industrial sterilizer specifically engineered for the rigorous demands of the food processing and packaging industries. Designed to provide optimal food preservation by eliminating harmful bacteria, it effectively sterilizes retort pouches, cans, and liquid-filled containers.",
+  "principle": "The INNOLAB INSTRUMENTS Retort Autoclave is a precision-engineered horizontal sterilizer that utilizes saturated steam under elevated pressure to achieve complete microbial inactivation in sealed food containers, retort pouches, and liquid-filled products. Operating at a maximum working temperature of 121°C and pressure of 0.3 MPa (43.5 psi), it effectively destroys heat-resistant spores such as Clostridium botulinum and Bacillus stearothermophilus, ensuring commercial sterility for low-acid canned foods in compliance with FDA 21 CFR Part 113 and ISO 11134 standards. The microprocessor-based PID controller precisely regulates temperature and pressure cycles, enabling uniform heat distribution and reproducible sterilization profiles. This instrument is indispensable for food technologists, microbiologists, and quality control laboratories engaged in validating thermal processes, shelf-life studies, and mushroom substrate sterilization, where it eliminates competing molds and bacteria to promote pure culture growth.",
+  "sop": [
+    "Ensure the retort chamber is clean and free of debris; check that the silicone rubber door seal is intact and properly seated.",
+    "Load the retort pouches, cans, or containers into the chamber, leaving adequate space for steam circulation.",
+    "Close the door securely and engage the mechanical lock to ensure a hermetic seal.",
+    "Turn on the main power supply (415V / 50 Hz three-phase) and switch on the control panel.",
+    "Press the 'SET' button once on the microprocessor controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target temperature to 121°C (or as required for the specific product).",
+    "Press 'SET' again to lock the temperature value; then press 'SET' once more to enter pressure setpoint mode if applicable.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target pressure to 0.3 MPa (43.5 psi) and press 'SET' to lock.",
+    "Initiate the sterilization cycle by pressing the 'START' button; the controller will automatically regulate steam injection, temperature, and pressure according to the preset parameters.",
+    "Monitor the cycle progress on the digital display; ensure that the temperature and pressure remain stable throughout the holding time (typically 15-30 minutes depending on product).",
+    "After the cycle completes, allow the chamber to depressurize naturally or via the controlled venting system until pressure reaches 0 MPa and temperature drops below 80°C.",
+    "Carefully open the door using the mechanical lock release, wearing heat-resistant gloves, and remove the sterilized items using appropriate handling tools.",
+    "Safety Warning: Never attempt to open the door while the chamber is under pressure or above 80°C, as sudden release of steam can cause severe burns; always verify that the pressure gauge reads zero and the temperature indicator is below 80°C before unlocking."
+  ],
   "features": [
     "Horizontal Cylindrical design insulated with Aluminum Silicate",
     "Stainless Steel 304 / 316 OR Carbon Steel material construction",

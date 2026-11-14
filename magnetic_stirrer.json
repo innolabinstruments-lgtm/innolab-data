@@ -1,6 +1,21 @@
 {
   "name": "MAGNETIC STIRRER",
   "desc": "Magnetic Stirrer is an essential laboratory instrument used for uniformly mixing and blending liquid samples. Widely utilized in chemistry, microbiology, and pharmaceutical laboratories, this unit ensures stable and continuous stirring. We at Innolab Instruments manufacture premium magnetic stirrers that offer highly accurate speed control, ensuring optimum performance for long hours. Designed to be economical and durable, it perfectly fits the rigorous demands of modern research facilities.",
+  "principle": "The INNOLAB INSTRUMENTS Magnetic Stirrer operates on the principle of electromagnetic induction and rotational magnetic coupling. A variable-speed DC motor rotates a permanent magnet assembly beneath a chemically resistant ceramic or stainless steel platform, generating a rotating magnetic field. This field couples with a PTFE-coated magnetic stir bar immersed in the sample vessel, causing it to spin and create a vortex that ensures homogeneous mixing, dissolution, and heat transfer when used with a hotplate. The closed-loop PID speed controller maintains precise RPM stability even under changing viscosity or load, enabling reproducible stirring for applications such as dissolving strong acids (HCl, HNO3, H2SO4), blending volatile organic solvents (methanol, acetone, dichloromethane), preparing biological buffers (PBS, Tris-EDTA), homogenizing microbial culture media (LB broth, Mueller-Hinton agar), and conducting titrations or pH adjustments in pharmaceutical and clinical laboratories. This instrument supports compliance with ISO 8655 and ASTM E691 for analytical method validation and interlaboratory studies.",
+  "sop": [
+    "Place the magnetic stirrer on a stable, level, non-combustible bench away from flammable vapors and ensure the power switch is OFF before connecting to a grounded electrical outlet.",
+    "Select a chemically compatible vessel (borosilicate glass, PTFE, or stainless steel) and place a clean, appropriately sized PTFE-coated magnetic stir bar gently at the bottom center.",
+    "Pour the liquid sample or reagent mixture into the vessel, ensuring the liquid level does not exceed two-thirds of the vessel capacity to prevent spillage.",
+    "Place the vessel centrally on the stirrer platform, aligning it with the magnetic drive zone.",
+    "Switch ON the main power supply and turn the speed control knob to the minimum position before starting.",
+    "Press the 'SET' button once to enter the speed setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 300 RPM for gentle mixing or 1200 RPM for vigorous homogenization).",
+    "Press 'SET' again to lock the value and allow the PID controller to ramp the stir bar to the target speed smoothly.",
+    "Observe the vortex formation and adjust the stir bar size or vessel position if the bar decouples, rattles, or stalls.",
+    "After the mixing duration is complete, gradually reduce the speed to minimum using the 'UP' and 'DOWN' arrows or knob, then switch OFF the instrument.",
+    "Remove the vessel carefully, retrieve the stir bar with a magnetic retriever, and clean all wetted parts with appropriate solvents (e.g., deionized water, ethanol, or acetone) followed by drying.",
+    "Safety Warning: Never operate the magnetic stirrer near open flames or highly flammable solvents without adequate fume hood ventilation, and always use a secondary containment tray when stirring strong acids, bases, or volatile organic compounds to prevent corrosive or fire hazards from spills."
+  ],
   "features": [
     "Pending Update"
   ],

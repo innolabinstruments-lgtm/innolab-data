@@ -1,6 +1,20 @@
 {
   "name": "ROTARY VACUUM EVAPORATOR",
   "desc": "Industrial-Scale Rotary Vacuum Evaporator engineered for high-efficiency solvent recovery and vacuum drying. Features a massive 100-liter processing capacity built with premium Borosilicate Glass components and a high-efficiency vertical condenser.",
+  "principle": "The INNOLAB INSTRUMENTS Rotary Vacuum Evaporator is an industrial-scale pilot-plant system designed for high-efficiency solvent recovery, vacuum drying, and concentration of heat-sensitive samples. It operates on the principle of rotary thin-film evaporation under controlled vacuum: a motor-driven rotating flask partially immersed in a heated bath spreads the liquid sample into a thin film across a large surface area, while a vacuum pump lowers the boiling point of the solvent, enabling rapid evaporation at temperatures well below atmospheric boiling points. The heavy-duty vertical condenser then cools the vapor back into liquid for recovery. This makes it indispensable for chemists, B.Sc/M.Sc students, PhD researchers, and doctors in clinical and diagnostic laboratories who routinely concentrate plant extracts, recover volatile organic solvents such as methanol, ethanol, dichloromethane, acetonitrile, ethyl acetate, and hexane, dry wet solids, degas liquids, and prepare samples for HPLC, GC-MS, ELISA, PCR, or other biological assays. The system supports batch and continuous operations and is aligned with good laboratory practice and relevant ISO/ASTM solvent-handling and vacuum-distillation standards.",
+  "sop": [
+    "Before starting, inspect all glassware, seals, vacuum tubing, and the heating bath oil/water level; ensure the rotating flask and receiving flask are clean, dry, and properly clamped.",
+    "Connect the rotary evaporator to a suitable vacuum source and ensure the condenser cooling water or chiller is circulating at the recommended temperature.",
+    "Fill the heating bath with clean water or thermal oil to the recommended level, then switch on the main power supply.",
+    "At the temperature controller, press the 'SET' button once. Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 40–60 °C for ethanol or 60–80 °C for water). Press 'SET' again to lock the value.",
+    "Attach the sample flask containing the solution to be evaporated, secure it with a Keck clip or clamp, and ensure the flask is not overfilled (typically ≤50% of its capacity).",
+    "Start the rotary drive at a low speed (e.g., 20–50 rpm) and gradually increase to achieve a uniform thin film without splashing.",
+    "Slowly open the vacuum valve to reduce pressure; monitor for bumping or foaming and adjust vacuum and rotation speed accordingly.",
+    "Observe solvent vapor condensing in the vertical condenser and collecting in the receiving flask; record temperature, vacuum level, and rotation speed at regular intervals.",
+    "After evaporation is complete, stop the rotation, slowly release the vacuum, and allow the flask to return to atmospheric pressure before removing it.",
+    "Switch off the heating bath and vacuum pump, drain or clean the condenser and glassware, and log the operation in the instrument logbook.",
+    "Safety Warning: Never evaporate highly reactive or explosive compounds such as peroxides, strong oxidizers, or low-autoignition solvents without an inert atmosphere and proper blast shielding; always wear chemical splash goggles, face shield, and heat-resistant gloves, and inspect glassware for cracks or star cracks before applying vacuum."
+  ],
   "features": [
     "Massive 100 Liters multi-application storage layout (Pilot Plant Model)",
     "Premium High-Grade Heavy-Wall Borosilicate Glass components",

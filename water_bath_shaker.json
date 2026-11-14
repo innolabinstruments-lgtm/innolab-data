@@ -1,6 +1,23 @@
 {
   "name": "WATER BATH SHAKER",
   "desc": "Digital Reciprocating Laboratory Water Bath Shaker engineered for simultaneous constant-temperature incubation and precise mechanical agitation. Features a large 30-liter volumetric capacity inner chamber fabricated from corrosion-proof SS304 with an insulated flat lid assembly.",
+  "principle": "The INNOLAB INSTRUMENTS WATER BATH SHAKER is a precision benchtop system engineered for simultaneous constant-temperature incubation and mechanical agitation, essential for reproducible biological and chemical assays. Its 30-liter SS304 chamber provides a corrosion-resistant environment for cultivating cell cultures, conducting enzyme reactions, and preparing samples under controlled thermal conditions from ambient to 60°C. Doctors and clinical researchers utilize this shaker for diagnostic assays such as ELISA plate incubations and serological tests, while B.Sc/M.Sc students and PhD researchers employ it for microbiology culture growth, protein denaturation studies, and dissolution testing of pharmaceutical compounds. The reciprocating motion at 20 RPM ensures gentle mixing of sensitive biological fluids, preventing sedimentation without causing shear damage to cells or macromolecules. The system adheres to ISO 9001 quality management standards and supports ASTM E2877-12 guidelines for contact thermometry in laboratory water baths, making it suitable for applications involving volatile organic compounds (VOCs) in sealed containers and mild acidic or alkaline buffer solutions, provided they are contained in appropriate vessels.",
+  "sop": [
+    "Ensure the water bath shaker is placed on a stable, level bench and the power cord is connected to a 230V AC, 50Hz grounded outlet.",
+    "Fill the SS304 chamber with distilled or deionized water to the recommended level (typically 2/3 capacity) to cover the heating element and sample racks.",
+    "Place the insulated flat lid on the bath to minimize heat loss and prevent contamination.",
+    "Switch ON the main power supply; the digital display will illuminate showing the current water temperature.",
+    "Press the 'SET' button once; the display will flash, indicating temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 37°C for cell culture).",
+    "Press 'SET' again to lock the value; the controller will begin heating and the display will show actual temperature rising.",
+    "Wait for the water temperature to stabilize at the setpoint (indicator light may turn off or display steady).",
+    "Load samples into appropriate racks or flasks, ensuring they are securely placed and balanced to avoid splashing.",
+    "Activate the reciprocating shaking mechanism using the dedicated switch or button (if separate); the platform will begin moving at the fixed 20 RPM speed.",
+    "Monitor the process periodically; do not leave the unit unattended for extended periods.",
+    "After completion, switch off the shaking mechanism and then the main power; allow the water to cool before draining.",
+    "Drain the water bath completely, wipe the interior with a soft cloth, and leave the lid open to air dry to prevent microbial growth.",
+    "SAFETY WARNING: Never operate the water bath shaker without sufficient water, as this can cause irreversible damage to the heating element and pose a fire hazard. Always disconnect power before cleaning or maintenance."
+  ],
   "features": [
     "30 Litre spacious high-capacity internal reservoir tank layout",
     "High-stability smooth Reciprocating shaking motion pathways",

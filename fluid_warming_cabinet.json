@@ -1,0 +1,47 @@
+{
+  "name": "FLUID WARMING CABINET",
+  "desc": "The INNOLAB INSTRUMENTS INNO-BFW-1050 Fluid Warming Cabinet (Blanket Warmer) is a critical asset in surgical centers, hospital wards, and large clinical setups. It safely and precisely heats intravenous (IV) fluids, blood bags, irrigation solutions, and medical blankets to body temperature prior to patient contact. Built with a premium Stainless Steel 304 interior and forced-air circulation, it guarantees safe and uniform warming.",
+  "principle": "The INNOLAB INSTRUMENTS FLUID WARMING CABINET (INNO-BFW-1050) employs a microprocessor-based PID temperature controller with auto-tuning and a PT100 resistance temperature detector to maintain precise thermal uniformity within a double-walled, glass-wool-insulated Stainless Steel 304 chamber. A motor-driven axial fan forces air across SS finned air heaters, generating uniform forced-air convection that rapidly and evenly warms intravenous fluids (0.9% sodium chloride, lactated Ringer's, 5% dextrose), blood products (packed red blood cells, fresh frozen plasma, platelets), dialysis fluid, irrigation solutions, and medical blankets to a target setpoint between ambient+10°C and 60°C. This controlled warming prevents cold-induced hypothermia, reduces the risk of transfusion-associated cardiac arrhythmias, and avoids thermal hemolysis or protein denaturation by never exceeding safe physiological limits. The cabinet is designed for clinical, academic, and research environments—doctors rely on it in surgical and emergency settings, B.Sc/M.Sc students and PhD researchers use it for temperature-sensitive biological assays and fluid handling, and chemists may employ it for gentle warming of reagents—while complying with AABB blood warming guidelines, ISO 13485 quality management, and IEC 61010 safety standards.",
+  "sop": [
+    "Ensure the cabinet is placed on a level surface and connected to a 220V 50Hz mains supply; verify the mains on/off switch is in the OFF position before loading.",
+    "Open the insulated door and load removable wire mesh steel trays with IV fluid bags, blood bags, dialysis fluid, or medical blankets, ensuring adequate spacing between items for proper air circulation.",
+    "Close the insulated door securely using the spring latch or clamp to maintain thermal integrity.",
+    "Switch ON the mains power and confirm the load indicator illuminates.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 37°C for blood and IV fluids, up to 60°C for blankets).",
+    "Press 'SET' again to lock the value.",
+    "Allow the cabinet to reach the setpoint; monitor the SV/PV display and verify temperature accuracy of ±0.5°C via the PT100 sensor.",
+    "Before removing items, confirm the temperature has stabilized; use clean gloves and aseptic technique to prevent contamination.",
+    "After use, switch OFF the mains, remove all items, clean the interior with an approved disinfectant, and leave the door ajar to prevent microbial growth.",
+    "Safety Warning: Never exceed 60°C for blood products or IV fluids to avoid hemolysis, protein denaturation, or thermal injury; always follow institutional blood warming guidelines and do not warm blood for more than 4 hours."
+  ],
+  "features": [
+    "High precision PID temperature control from Ambient+10°C to 60°C",
+    "Motor-driven blower providing uniform forced air circulation",
+    "Double-walled construction insulated with energy-efficient glass wool",
+    "Removable wire mesh steel trays for easy loading and unloading",
+    "Very quiet operation ideal for sensitive hospital environments"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Medical Fluid & Blanket Warming Cabinet",
+    "Temperature Range": "Ambient+10°C to 60°C (Optional up to 90°C)",
+    "Temperature Accuracy": "±0.5°C",
+    "Temperature Controller": "PID temperature controller with Auto tuning & SV/PV Display",
+    "Temperature Sensor": "PT100",
+    "Inner Chamber": "Stainless Steel 304",
+    "External Cabinet": "Powder coated GI sheet",
+    "Insulation": "Glass wool",
+    "Door": "Insulated door with Spring latch / clamp & Glass window",
+    "Heaters": "SS finned air heater",
+    "Shelves": "Wire mesh steel trays (removable)",
+    "Air Circulation": "Axial fan",
+    "Standard Fittings": "Mains on/off switch, Load Indicator",
+    "Power Supply": "220 Volts 50Hz",
+    "Target Applications": "Warming IV fluids, Blood Bags, Medical Blankets, Dialysis fluid",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/fluid_warming_cabinet.glb",
+  "image": "assets/instruments/fluid_warming_cabinet.webp",
+  "images": null
+}

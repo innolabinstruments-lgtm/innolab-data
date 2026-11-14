@@ -1,6 +1,20 @@
 {
   "name": "HORIZONTAL AUTOCLAVE",
   "desc": "Triple-Walled Cylindrical Horizontal Autoclave engineered for high-capacity sterilization and disinfection of medical instruments. Features a 150-liter inner chamber, radial locking door, inbuilt boiler with low-water cut-off, and an advanced PID microprocessor controller with USB logging.",
+  "principle": "The INNOLAB INSTRUMENTS HORIZONTAL AUTOCLAVE is a high-capacity, triple-walled cylindrical steam sterilizer engineered for the reliable inactivation of microorganisms, including bacterial spores, vegetative bacteria, fungi, and viruses, on medical instruments, laboratory glassware, culture media, and biohazardous waste. It operates on the principle of saturated steam under pressure, where the latent heat of vaporization rapidly penetrates loads, denaturing proteins and nucleic acids to achieve sterility. The triple-walled design with full argon welding ensures structural integrity and thermal efficiency, while the inbuilt boiler generates steam at controlled pressures of 15–32 PSI, corresponding to temperatures of 121°C to 135°C. The advanced microprocessor-based PID controller precisely regulates temperature and pressure, with automated pressure release via solenoid/pneumatic valves and manual overrides for safety. This autoclave is essential for B.Sc/M.Sc students preparing sterile media for microbiology, PhD researchers sterilizing bioreactor components and hazardous biological waste, and clinicians processing surgical instruments, all in compliance with standards such as ISO 17665, EN 285, and ASTM E1112. It is not intended for sterilization of volatile chemicals, strong acids, or flammable solvents, as these can corrode the chamber or pose explosion risks.",
+  "sop": [
+    "Ensure the autoclave is connected to a proper power supply (220V single phase or 440V three phase) and that the water level in the inbuilt boiler is above the minimum mark on the water level glass window.",
+    "Open the radial locking door by rotating the locking mechanism counterclockwise, then load the items to be sterilized into the 150-liter stainless steel chamber, ensuring adequate spacing for steam circulation.",
+    "Close the door securely and engage the radial locking device by rotating clockwise until it is fully locked and the safety interlock engages.",
+    "Press the 'SET' button once on the PID controller touchscreen to enter the temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows on the touchscreen to adjust the target temperature to the required value, typically 121°C for standard sterilization or 135°C for prion decontamination.",
+    "Press 'SET' again to lock the temperature value, then if necessary, repeat the process to set the sterilization time (e.g., 15–20 minutes at 121°C) and pressure setpoint (15–32 PSI).",
+    "Initiate the sterilization cycle by pressing the 'START' button on the controller; the inbuilt boiler will heat water to generate steam, and the PID controller will maintain the set parameters.",
+    "Monitor the cycle on the 5-inch display; the controller will automatically release pressure through solenoid/pneumatic valves at the end of the cycle, and the integrated multiport valve may activate vacuum drying if selected.",
+    "After the cycle completes and the pressure gauge reads 0 PSI, wait for the chamber to cool to below 80°C, then carefully open the radial locking door using heat-resistant gloves.",
+    "Remove the sterilized items using sterile forceps or tongs, and if data logging is required, connect a USB drive to the integrated port to download cycle records or use the built-in print facility.",
+    "SAFETY WARNING: Never attempt to open the door while the chamber is under pressure or at high temperature; always verify that the pressure gauge reads zero and the temperature is below 80°C, and never sterilize sealed containers of liquids without vented caps, as they may explode due to internal pressure buildup."
+  ],
   "features": [
     "121°C to 135°C highly regulated sterilization footprint at 15-32 PSI",
     "Triple-Walled Cylindrical Design with full Argon Welding",

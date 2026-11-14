@@ -1,0 +1,43 @@
+{
+  "name": "ACRYLIC GLOVE BOX",
+  "desc": "The INNOLAB INSTRUMENTS Acrylic Glove Box provides an economical, transparent, and hermetically sealed enclosure for handling moisture-sensitive or hazardous materials under inert atmospheres. Manufactured with thick 6mm or 10mm high-grade PMMA (Acrylic) sheets, these glove boxes offer excellent 360-degree visibility. Available with or without a vacuum-enabled antechamber, it is an essential tool for material science, chemical processing, and low-cost inert gas applications where metal constructions are not strictly required.",
+  "principle": "The INNOLAB INSTRUMENTS Acrylic Glove Box is a hermetically sealed, transparent PMMA enclosure engineered to maintain an inert, low-moisture, and low-oxygen environment for handling air-sensitive, hygroscopic, or hazardous substances. Its 6 mm or 10 mm acrylic panels provide 360-degree visibility while withstanding operating pressures of ±1000 Pa. The integrated glove ports with high-quality latex or butyl gloves allow manual manipulation without breaking containment. An optional vacuum-enabled antechamber (-0.1 MPa) permits safe transfer of materials through repeated evacuation and inert gas backfill cycles, minimizing contamination. Optional PID controllers continuously regulate humidity (1%–99%), oxygen (200 ppm–21%), and internal pressure, with a dew point analyzer for precise moisture monitoring. This system is widely used by chemists, PhD researchers, B.Sc/M.Sc students, and clinical researchers for synthesizing organometallic reagents (e.g., Grignard reagents, organolithium compounds), handling strong acids (HCl, HNO3, H2SO4) and volatile organic compounds (acetone, toluene, dichloromethane), preparing lithium battery electrodes, sterile compounding of hazardous drugs, and cultivating anaerobic microorganisms (Clostridium, Bacteroides) or conducting biological assays under controlled atmospheres. It supports compliance with ISO 10648-2 containment enclosures and ASTM E235 for gas-tight glovebox performance, ensuring reproducible, contamination-free experimental conditions.",
+  "sop": [
+    "Place the acrylic glove box on a stable, level surface and connect the inert gas supply (nitrogen or argon) and vacuum pump (if antechamber is fitted) according to the manufacturer's diagram.",
+    "Inspect the acrylic panels, glove ports, and door seals for cracks, clouding, or leaks; replace damaged gloves or gaskets before use.",
+    "Switch on the main power supply and any optional humidity, oxygen, or pressure controllers; allow sensors to stabilize for 10 minutes.",
+    "Purge the main chamber with inert gas at a flow rate of 5–10 L/min until the oxygen level falls below 200 ppm and humidity below 1% (or your protocol's setpoint).",
+    "To set the target parameter on the PID controller, press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., oxygen 200 ppm, humidity 1%, pressure 0 Pa).",
+    "Press 'SET' again to lock the value and return to the normal display mode.",
+    "For antechamber transfer: place items inside the antechamber, close the outer door, evacuate to -0.1 MPa using the vacuum pump, then backfill with inert gas; repeat this cycle at least three times.",
+    "Insert your hands into the gloves and transfer the items from the antechamber into the main chamber through the inner door, ensuring both doors are never open simultaneously.",
+    "Perform the required manipulations (weighing, mixing, culturing, or assembly) while maintaining a slight positive pressure of inert gas inside the chamber.",
+    "After completing work, transfer items out via the antechamber using the same evacuation/backfill cycle, then close all doors and set the chamber to a low positive pressure (50–100 Pa) to prevent air ingress.",
+    "Switch off the controllers and gas supply only after the chamber is sealed; clean the interior with a compatible solvent (e.g., isopropanol) if needed, avoiding abrasives that could scratch the acrylic.",
+    "Safety Warning: Never introduce strong oxidizers, open flames, or volatile solvents above their flash point into the acrylic glove box; do not exceed ±1000 Pa operating pressure, and always verify the inert atmosphere before handling pyrophoric or moisture-sensitive chemicals to prevent fire, explosion, or acrylic panel rupture."
+  ],
+  "features": [
+    "Made of highly transparent and durable 6mm or 10mm PMMA (Acrylic) sheets",
+    "Economical solution for maintaining an inert atmosphere or isolation",
+    "Available with main chamber only or integrated vacuum antechamber (-0.1MPa)",
+    "High-quality latex or butyl gloves securely fitted via airtight ports",
+    "Customizable with automatic humidity, oxygen, and pressure controllers",
+    "Optional dew point analyzer for highly precise moisture control (200PPM-21%)"
+  ],
+  "specifications": {
+    "Model Dimensions (W*D*H)": "1200 * 800 * 700 mm (Multiple sizes available)",
+    "Acrylic Thickness": "6 mm or 10 mm (Depending on model)",
+    "Side Door Size": "From 180*180 mm up to 450*450 mm",
+    "Operating Pressure": "±1000 Pa",
+    "Glove Ports": "2 Nos.",
+    "Antechamber (Optional)": "Vacuum enabled (-0.1MPa)",
+    "Optional Controllers": "Humidity (1%-99%), Oxygen (200PPM-21%), Automatic Pressure",
+    "Display Panels": "Optional Temperature and humidity display inside the box",
+    "Vacuum System": "Optional vacuum pump for generating vacuum in the ante-chamber",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/acrylic_glove_box.glb",
+  "image": "assets/instruments/acrylic_glove_box.webp",
+  "images": null
+}

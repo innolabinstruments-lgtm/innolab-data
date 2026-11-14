@@ -1,6 +1,19 @@
 {
   "name": "SINGLE TANK ULTRASONIC CLEANER",
   "desc": "The INNOLAB INSTRUMENTS Single Tank Ultrasonic Cleaner is an industrial-grade washing system crafted with CNC and laser-cut stainless steel 304. Designed for rugged applications, it features adjustable ultrasonic power, a 0-99 hours timer, and advanced temperature controls.",
+  "principle": "The INNOLAB INSTRUMENTS SINGLE TANK ULTRASONIC CLEANER operates on the principle of high-frequency acoustic cavitation. A piezoelectric transducer bonded to a stainless steel 304 tank generates ultrasonic waves at 40 kHz, creating alternating compression and rarefaction cycles in the cleaning liquid. During rarefaction, millions of microscopic vacuum bubbles nucleate and grow; during compression, they violently implode, releasing intense localized shockwaves and high-speed microjets that dislodge soils, biofilms, and contaminants from immersed surfaces. The integrated digital PID temperature controller maintains the bath between 35°C and 95°C, reducing liquid viscosity, accelerating chemical activity, and enhancing cavitation efficiency. Doctors and clinical laboratories use this machine to clean surgical instruments, endodontic files, and dental tools, removing blood residues, proteinaceous debris, and bacterial biofilms such as Staphylococcus aureus and Escherichia coli. B.Sc and M.Sc students routinely clean volumetric glassware, cuvettes, and microscope slides contaminated with strong acids, alkalis, or dye residues. PhD researchers employ it for degassing HPLC mobile phases, dispersing nanoparticles, and preparing substrates by removing polymer films and VOCs like acetone or isopropanol. Chemists rely on it to strip stubborn organic/inorganic residues from reactors and crucibles in compliance with ASTM G131 and ISO 15883 cleaning validation protocols.",
+  "sop": [
+    "Inspect the power cord, tank, and transducer for damage; ensure the drain valve is closed and the unit is placed on a level, earthed surface.",
+    "Fill the stainless steel tank with water or an approved cleaning solution to at least 2/3 capacity, ensuring all items to be cleaned will be fully submerged.",
+    "Place items into the provided stainless steel wire mesh basket; do not stack or overcrowd items.",
+    "Set the target temperature: Press the 'SET' button once. Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter. Press 'SET' again to lock the value.",
+    "Set the cleaning duration (0-99 hours) using the digital timer with the same SET and arrow procedure.",
+    "Adjust the ultrasonic power regulator to the minimum setting for delicate glassware or maximum for robust metal components.",
+    "Switch on the main power and then press the ultrasonic start button; confirm that cavitation is visible as fine ripples on the liquid surface.",
+    "After the cycle ends, allow the heated solution to cool, carefully remove the basket using heat-resistant gloves, and rinse cleaned items with deionized water.",
+    "Drain and clean the tank after use, then wipe dry.",
+    "Safety Warning: Never operate the unit with flammable or explosive solvents unless the cleaner is explicitly certified explosion-proof and placed in a well-ventilated fume hood; never place bare hands into the bath while ultrasonic power is active, as cavitation can cause tissue damage."
+  ],
   "features": [
     "Industrial grade construction with thick gauge SS 304 sheets",
     "Digital temperature controller (35°C to 95°C) and digital timer (0 to 99 hours)",

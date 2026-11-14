@@ -1,6 +1,24 @@
 {
   "name": "ULTRASONIC CLEANER",
   "desc": "The INNOLAB INSTRUMENTS Ultrasonic Cleaner (Bath Sonicator) uses 40 KHz ultrasonic sound waves to effortlessly remove biological particles from dental instruments and precision parts. Constructed with thick gauge SS 304, it includes a digital timer, digital temperature controller, and built-in generator.",
+  "principle": "The INNOLAB INSTRUMENTS Ultrasonic Cleaner employs high-frequency 40 kHz ultrasonic sound waves to generate cavitation bubbles within a liquid medium. These microscopic bubbles rapidly form and implode, producing intense localized shockwaves and micro-jets that dislodge contaminants from surfaces and crevices without mechanical abrasion. This process is ideal for removing biological residues such as blood, proteins, tissue fragments, and microbial biofilms from dental instruments, surgical tools, and laboratory glassware. Doctors, B.Sc/M.Sc students, PhD researchers, and chemists rely on this technology for precision cleaning of delicate components, degassing of solvents, and preparation of samples for analytical techniques. The unit's thick gauge SS 304 construction ensures chemical compatibility with common cleaning agents, including mild detergents, enzymatic solutions, and diluted acids, while the digital temperature controller (up to 80°C) enhances cleaning efficacy for heat-stable contaminants. Compliance with standards such as ISO 15883 for washer-disinfectors and ASTM G131 for ultrasonic cleaning validation is supported by the instrument's consistent frequency output and programmable parameters.",
+  "sop": [
+    "Ensure the ultrasonic cleaner is placed on a stable, level surface and connected to a properly grounded 220V, 50Hz power supply.",
+    "Fill the stainless steel tank with an appropriate cleaning solution (e.g., distilled water with a mild detergent or enzymatic cleaner) to at least two-thirds of the tank capacity, ensuring items will be fully submerged.",
+    "Place the items to be cleaned into the provided basket or directly into the tank, avoiding overcrowding and ensuring no item touches the tank bottom or walls.",
+    "Press the 'SET' button once on the digital temperature controller to enter temperature setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 40°C for enzymatic cleaning or up to 80°C for heat-stable residues).",
+    "Press 'SET' again to lock the temperature value; the display will show the current bath temperature and begin heating.",
+    "Press the 'SET' button on the digital timer to enter time setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the cleaning duration (typically 5 to 30 minutes depending on soil load).",
+    "Press 'SET' again to lock the timer value.",
+    "Close the lid (if equipped) to reduce noise and evaporation, then press the 'START' or 'ON' button to initiate ultrasonic cavitation.",
+    "Monitor the process; if using the Degas function, activate it for the first 5-10 minutes to remove dissolved gases from fresh solution.",
+    "After the timer expires, the unit will stop automatically. Turn off the main power switch and unplug the unit.",
+    "Carefully remove items using appropriate tongs or gloves, then rinse with distilled or deionized water and dry as required.",
+    "Drain the cleaning solution after each use, rinse the tank with clean water, and wipe dry to prevent residue buildup.",
+    "SAFETY WARNING: Never operate the ultrasonic cleaner without liquid in the tank, as this can damage the transducers and cause overheating. Do not use flammable or explosive solvents (e.g., acetone, ether) directly in the bath; if solvent cleaning is required, place items in a sealed glass beaker containing the solvent and suspend the beaker in the water-filled tank. Always disconnect power before draining or cleaning the unit."
+  ],
   "features": [
     "40 KHz ultrasonic frequency for deep, non-destructive cleaning",
     "Digital timer (1 to 99 minutes) and digital temperature controller (up to 80°C)",

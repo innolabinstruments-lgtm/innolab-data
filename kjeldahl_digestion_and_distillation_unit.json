@@ -1,6 +1,22 @@
 {
   "name": "KJELDAHL DIGESTION AND DISTILLATION UNIT",
   "desc": "The INNOLAB INSTRUMENTS Kjeldahl Digestion and Distillation Unit is heavily relied upon in food testing, agriculture, and environmental laboratories. It is used to safely break down complex organic structures using concentrated sulfuric acid to determine nitrogen, protein, and ammonia content. It combines digestion and distillation on a single sturdy frame with individual energy regulators for 3 or 6 tests.",
+  "principle": "The INNOLAB INSTRUMENTS KJELDAHL DIGESTION AND DISTILLATION UNIT is a robust analytical system engineered for the quantitative determination of nitrogen, protein, and ammonia in organic samples via the classical Kjeldahl method. It integrates high-temperature digestion with concentrated sulfuric acid and catalytic salts, followed by steam distillation of liberated ammonia into a boric acid receiving solution. This unit is indispensable in food testing laboratories for protein analysis in cereals, dairy, and meat products; in agricultural research for soil and fertilizer nitrogen assessment; and in environmental monitoring for ammonia in wastewater and sludge. It supports compliance with international standards such as ISO 1871, AOAC 2001.11, and ASTM D3179, enabling precise and reproducible results for B.Sc/M.Sc students, PhD researchers, and quality control chemists.",
+  "sop": [
+    "Ensure the unit is placed on a stable, level bench inside a fume hood and connected to a properly grounded 220V power supply.",
+    "Check that all glassware (digestion flasks, distillation apparatus, condenser) is clean, dry, and correctly assembled with secure clamps.",
+    "Weigh the sample (typically 0.5–2 g) into a 500 ml Kjeldahl digestion flask, add catalyst mixture (e.g., 7 g K2SO4 + 0.8 g CuSO4) and 12–15 ml concentrated H2SO4.",
+    "Place the flask onto the heating mantle and connect the fume extraction duct to the digestion unit.",
+    "Press the 'SET' button once on the PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 350°C for digestion).",
+    "Press 'SET' again to lock the value and initiate heating.",
+    "Allow digestion to proceed until the solution becomes clear and colorless (typically 60–90 minutes), then cool the flask to below 50°C.",
+    "Carefully dilute the digest with distilled water, transfer to the distillation unit, and add 40% NaOH solution to make it strongly alkaline.",
+    "Distill the liberated ammonia into a receiving flask containing 4% boric acid with mixed indicator, collecting about 150 ml of distillate.",
+    "Titrate the distillate with standardized 0.1 N HCl until the endpoint color change, and calculate nitrogen/protein content.",
+    "After use, switch off the unit, allow it to cool completely, and clean all glassware with dilute acid followed by distilled water.",
+    "SAFETY WARNING: Always wear heat-resistant gloves, safety goggles, and a lab coat; never open the digestion flask while hot, and ensure the fume hood is operational to avoid inhaling corrosive acid fumes or ammonia vapors."
+  ],
   "features": [
     "Combined digestion and distillation unit in a single metallic frame",
     "Available in 3-test and 6-test capacities (500 ml flasks)",

@@ -1,6 +1,23 @@
 {
   "name": "VERTICAL TUBE FURNACE",
   "desc": "Premium Vertical Tube Furnace engineered for high-temperature heating, sintering, and annealing of samples in an inert atmosphere. As a trusted manufacturer, Innolab Instruments designs these furnaces with premium heating elements and an advanced 30-segment programmable digital controller.",
+  "principle": "The INNOLAB INSTRUMENTS VERTICAL TUBE FURNACE is a high-precision thermal processing system engineered for advanced materials research and industrial quality control. It utilizes a vertical cylindrical heating chamber with Fe-Cr-Al-Mo alloy resistance wire elements, capable of reaching up to 1200°C (optional 1400°C or 1600°C) with a 30-segment programmable PID controller for precise ramp, dwell, and cooling profiles. The furnace operates under vacuum (down to 7x10-4 Pa with molecular pump) or controlled inert atmospheres (e.g., argon, nitrogen) via stainless steel sealing flanges, enabling oxidation-free sintering, annealing, calcination, and chemical vapor deposition. Doctors and clinical researchers use it for ashing biological samples to determine inorganic residue content per ASTM D5630 or ISO 1171, while B.Sc/M.Sc students and PhD researchers employ it for synthesizing ceramic oxides, sintering metal powders, growing carbon nanotubes, and studying phase transformations in alloys. Chemists utilize it for thermal decomposition of strong acids (e.g., sulfuric, nitric) and volatile organic compounds (VOCs) under fume extraction, ensuring safe off-gassing. The vertical orientation ensures uniform temperature distribution along the 200 mm constant zone, critical for reproducible results in thermogravimetric analysis, catalyst activation, and semiconductor doping. The furnace's over-temperature protection and foam ceramic blocks with alumina coating safeguard O-rings and quartz tube integrity, meeting ISO 9001 quality standards for laboratory equipment.",
+  "sop": [
+    "Ensure the furnace is placed on a stable, non-flammable surface with adequate clearance for ventilation and that the quartz tube, sealing flanges, and vacuum pump connections are clean and undamaged.",
+    "Load the sample into a suitable crucible or boat (alumina, quartz, or platinum) and carefully insert it into the center of the quartz tube using a long push rod, ensuring it sits within the constant temperature zone.",
+    "Seal both ends of the quartz tube with the stainless steel flanges, tightening evenly to avoid stress; connect the gas inlet/outlet and vacuum lines as required for your process.",
+    "If using inert gas, purge the tube with argon or nitrogen at a flow rate of 0.5-2 L/min for at least 10 minutes to remove oxygen; if using vacuum, start the mechanical pump and then the molecular pump to achieve desired vacuum level (monitor gauge).",
+    "Turn on the main power switch and allow the controller to initialize; verify the display shows current furnace temperature and setpoint.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., first segment temperature, e.g., 500°C).",
+    "Press 'SET' again to lock the value.",
+    "Repeat the SET/UP/DOWN/SET sequence for each of the 30 programmable segments, setting target temperatures, ramp rates (0-20°C/min), and dwell times as per your experimental protocol.",
+    "After programming all segments, press the 'RUN' or 'START' button (if applicable) to initiate the heating cycle; monitor the temperature display and ensure the heating rate does not exceed 20°C/min to prevent thermal shock to the quartz tube.",
+    "During operation, periodically check the gas flow, vacuum level, and any unusual odors or sounds; do not open the flanges while the furnace is above 200°C.",
+    "Once the program completes, allow the furnace to cool naturally to below 100°C before turning off the gas flow or vacuum pump; then switch off the main power.",
+    "After cooling to room temperature, carefully open the flanges and remove the sample using heat-resistant gloves and tongs; clean the quartz tube interior with a soft brush or solvent if residue is present.",
+    "Safety Warning: Never open the furnace or disconnect gas lines while the temperature is above 200°C or under vacuum, as sudden air ingress can cause oxidation, implosion of the quartz tube, or release of toxic fumes; always wear appropriate PPE (heat-resistant gloves, safety goggles, lab coat) and operate in a fume hood when processing hazardous chemicals."
+  ],
   "features": [
     "30 segments programmable PID auto control",
     "Over-temperature protection function with automatic power-off",

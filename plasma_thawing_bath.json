@@ -1,6 +1,22 @@
 {
   "name": "PLASMA THAWING BATH",
   "desc": "The INNOLAB INSTRUMENTS Plasma Thawing Bath is a highly critical clinical instrument used exclusively in blood banks and hospital trauma centers. It is designed to safely and rapidly thaw Fresh Frozen Plasma (FFP) and cryoprecipitate bags. Engineered to maintain a constant 37°C with an internal centrifugal water circulation pump, it preserves coagulation factors, ensuring immediate patient readiness with a rapid thaw time of 20-25 minutes.",
+  "principle": "The INNOLAB INSTRUMENTS Plasma Thawing Bath operates on the principle of precise thermal regulation and forced convective heat transfer to safely thaw cryopreserved blood products such as Fresh Frozen Plasma (FFP) and cryoprecipitate. A PID-controlled heating element maintains deionized or distilled water at a physiologically critical 37°C ±0.5°C, while an integrated centrifugal water circulation pump ensures uniform temperature distribution throughout the stainless steel 304 chamber, eliminating thermal stratification and cold spots. This controlled environment rapidly raises the temperature of plasma bags from frozen storage (−30°C or below) to transfusion-ready 37°C within 20–25 minutes, preserving labile coagulation factors (Factor V, Factor VIII, fibrinogen) and preventing denaturation of plasma proteins. The instrument is essential for blood banks, hospital trauma centers, and transfusion medicine laboratories, where clinicians, B.Sc/M.Sc students, and PhD researchers validate thawing protocols against ISO 3826 and AABB standards. It supports quality control assays for clotting factor activity, sterility testing, and cryoprecipitate preparation, while the removable stainless steel tray prevents bag rupture and cross-contamination from waterborne pathogens such as Pseudomonas aeruginosa or Legionella spp. The in-built programmable timer with END alert buzzer ensures reproducible thawing cycles, and the powder-coated GI exterior resists corrosion from disinfectants like sodium hypochlorite or quaternary ammonium compounds used in routine decontamination.",
+  "sop": [
+    "Ensure the Plasma Thawing Bath is placed on a stable, level surface and connected to a 220V 50Hz grounded power supply.",
+    "Fill the inner stainless steel tank with clean distilled or deionized water up to the marked level, ensuring the centrifugal circulation pump is fully submerged.",
+    "Switch ON the main power supply and turn ON the instrument using the power switch.",
+    "Press the 'SET' button once on the PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target temperature to 37.0°C for plasma thawing.",
+    "Press 'SET' again to lock the value and allow the controller to heat the water to the setpoint; wait until the display stabilizes at 37°C ±0.5°C.",
+    "Place the frozen plasma bags or cryoprecipitate units flat on the removable stainless steel tray, ensuring bags do not overlap and ports are above water level.",
+    "Submerge the loaded tray gently into the water bath, confirming the water level remains below the bag ports to prevent contamination.",
+    "Set the in-built programmable timer to 20–25 minutes by pressing the timer 'SET' button, adjusting with 'UP'/'DOWN' arrows, and pressing 'SET' again to start countdown.",
+    "Allow the centrifugal pump to circulate water continuously during thawing; do not open the lid frequently to avoid temperature drops.",
+    "When the timer reaches zero, the END alert buzzer will sound; carefully remove the tray using heat-resistant gloves and immediately use the thawed plasma for transfusion or testing.",
+    "After use, drain the water, clean the tank with a mild disinfectant (e.g., 0.5% sodium hypochlorite solution), rinse thoroughly with distilled water, and dry before storage.",
+    "SAFETY WARNING: Never operate the bath without water or with the pump exposed, as dry heating can damage the element and cause electrical fire; always verify the water temperature with a calibrated external thermometer before placing plasma bags to prevent thermal damage to coagulation factors."
+  ],
   "features": [
     "Maintains constant critical temperature at 37°C with ±0.5°C accuracy",
     "Rapid thaw time of approximately 20 to 25 minutes",

@@ -1,0 +1,53 @@
+{
+  "name": "DRY STORAGE CABINET",
+  "desc": "Premium Microprocessor-Controlled Dehumidify Dry Storage Cabinet engineered for precise climate preservation of moisture-sensitive devices. Features a 435-liter internal capacity and an auto-regenerated electronic Zeolite desiccant system.",
+  "principle": "The INNOLAB INSTRUMENTS DRY STORAGE CABINET is a precision-engineered, microprocessor-controlled dehumidification system designed to safeguard moisture-sensitive materials by maintaining a user-selectable relative humidity between 20% and 50% RH. Its core principle relies on an auto-regenerated electronic Zeolite desiccant engine: a high-efficiency zeolite molecular sieve adsorbs water vapor from the chamber air, while an integrated thermal regeneration cycle periodically drives off the trapped moisture, ensuring continuous, maintenance-free dry storage. A high-precision electronic humidity-cum-temperature sensor feeds real-time data to an advanced PID-based digital controller, which modulates the desiccant cycle to hold the setpoint within ±3.0% RH and ±1.0°C. This controlled microclimate is critical for doctors and clinical laboratories storing moisture-sensitive diagnostic kits, lyophilized reagents, PCR master mixes, and hygroscopic pharmaceutical powders; for B.Sc/M.Sc students and PhD researchers preserving anhydrous salts such as calcium chloride and magnesium sulfate, analytical reference standards, desiccated biological specimens, and moisture-sensitive ELISA reagents; and for chemists and electronics engineers protecting PCB assemblies, ICs, optical lenses, and other ESD-sensitive components from hydrolytic degradation, oxidation, and delamination. The cabinet supports compliance with moisture-sensitive device handling guidelines such as IPC/JEDEC J-STD-033 and general laboratory QA/QC practices under ISO 9001 and ASTM E104 humidity control references.",
+  "sop": [
+    "Ensure the cabinet is placed on a level floor, all caster wheels are locked, and the power cord is connected to a 220 V, 50 Hz, single-phase supply.",
+    "Before first use or after prolonged shutdown, open the door and allow the chamber to equilibrate to ambient conditions; wipe the interior with a dry, lint-free cloth.",
+    "Close the door firmly to engage the continuous airtight magnetic rubber gasket seal and secure the door lock if required.",
+    "Switch ON the main power supply and turn on the cabinet power switch.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 25% RH or 30% RH).",
+    "Press 'SET' again to lock the value.",
+    "Allow the microprocessor controller to run the auto-regeneration zeolite desiccant cycle until the display stabilizes at the setpoint within ±3.0% RH.",
+    "Before loading, ensure hands are clean and use an ESD wrist strap if storing static-sensitive devices; place items on shelves with adequate spacing for air circulation.",
+    "Close the door immediately after loading; avoid frequent or prolonged door openings to prevent moisture ingress.",
+    "Monitor the display periodically; if a door open alarm or high humidity alarm activates, close the door and allow the cabinet to recover to the setpoint.",
+    "Safety Warning: Do not store volatile flammable solvents, strong oxidizing acids, or unsealed corrosive chemicals inside the cabinet, as the desiccant and electronic components may be damaged and hazardous vapors can accumulate; always keep containers tightly sealed and consult the Safety Data Sheet (SDS) before storage."
+  ],
+  "features": [
+    "User-adjustable precision moisture control spanning from 20% to 50% RH",
+    "Auto-Regenerated electronic desiccant framework utilizing premium Zeolite",
+    "Specialized high-durability Anti-Static (ESD-Safe) industrial paint finish",
+    "Continuous high-integrity airtight magnetic rubber gasket door seal",
+    "435 Liters spacious clean dry volume layout"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Automated Dehumidify Dry Storage Cabinet",
+    "Chamber Volumetric Capacity": "435 Liters spacious clean dry volume layout",
+    "Internal Dimensions (W x D x H)": "898 mm x 572 mm x 848 mm optimized internal storage space",
+    "Overall Dimensions (W x D x H)": "900 mm x 600 mm x 1010 mm rugged structural footprint",
+    "Storage Infrastructure": "3 Pieces heavy-duty adjustable storage shelves included",
+    "Humidity Operational Range": "User-adjustable precision moisture control spanning from 20% to 50% RH",
+    "Primary Dehumidifier Type": "Auto-Regenerated electronic desiccant framework utilizing premium Zeolite",
+    "Sensor Instrumentation Architecture": "Integrated High-precision electronic moisture tracking sensor",
+    "Controller Architecture": "Advanced Microprocessor-Based Digital Humidity-cum-Temperature Controller",
+    "Display Tracking Precision": "Instrumental tracking index stable at ±3.0% RH and ±1.0°C margins",
+    "Chassis Structural Build": "1.2 mm thick heavy-gauge Galvanized Steel sheet rugged construction",
+    "Surface Safety Coating": "Specialized high-durability Anti-Static (ESD-Safe) industrial paint finish",
+    "Door Assembly Architecture": "Independent door handles fitted with secure individual Lock and Key sets",
+    "Chamber Sealing Integrity": "Continuous high-integrity airtight magnetic rubber gasket door seal",
+    "Process Inspection Panel": "Built-in transparent clear glass window for real-time sample observation",
+    "Equipment Mobility Support": "Base-mounted Caster Wheels with dual lockable front braking wheels",
+    "Power Supply Requirements": "Standard 220 Volts, 50 Hz, Single Phase stable Indian plug link",
+    "Supported Upgrades & Accessories": "Provision for Nitrogen system, external data recorder, and door open alarms",
+    "Optional Safety Add-ons": "Supports complete Stainless Steel 304 construction and ESD wrist straps",
+    "Warranty Cover Protection": "1 Year Comprehensive Manufacturer Warranty on the electronic desiccant engine",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/dry_storage_cabinet.glb",
+  "image": "assets/instruments/dry_storage_cabinet.webp",
+  "images": null
+}

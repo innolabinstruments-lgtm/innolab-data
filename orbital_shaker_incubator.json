@@ -1,6 +1,21 @@
 {
   "name": "ORBITAL SHAKER INCUBATOR",
   "desc": "Benchtop Microprocessor-Controlled Orbital Shaker Incubator engineered to provide a strictly controlled thermal and mixing environment for cell cultures. Features a 100-liter SS 304 internal chamber, large 400x400 mm platform, and digital PID control for temps from Ambient plus 5°C up to 70°C.",
+  "principle": "The INNOLAB INSTRUMENTS ORBITAL SHAKER INCUBATOR is a precision benchtop workstation that integrates microprocessor-controlled orbital agitation with uniform thermal incubation to support a wide range of life science and chemistry applications. It is engineered for the cultivation of bacterial cultures (e.g., Escherichia coli, Bacillus subtilis), yeast (Saccharomyces cerevisiae), and mammalian cell lines in media such as LB broth, Tryptic Soy Broth, DMEM, and RPMI-1640. Researchers and clinicians rely on it for protein expression studies using IPTG induction, plasmid amplification, enzyme kinetics assays, cell viability testing, and solubility screening of pharmaceutical compounds. The unit's PID controller maintains temperature stability within ±0.5°C and shaking speed accuracy within ±1 RPM, ensuring reproducible growth curves and consistent mixing of reagents like antibiotics, buffers, and serum-containing media. It complies with GLP guidelines and is suitable for ISO 9001-certified laboratories, making it indispensable for B.Sc/M.Sc practicals, PhD research, and diagnostic microbiology workflows.",
+  "sop": [
+    "Place the orbital shaker incubator on a stable, level bench away from direct sunlight and vibrations, and connect it to a 230 V AC, 50 Hz single-phase power supply.",
+    "Open the transparent toughened glass door and load the shaking platform with flasks, tubes, or microplates, ensuring even weight distribution and securing all glassware with the provided universal clamps.",
+    "Close the glass door firmly to maintain thermal insulation and prevent contamination.",
+    "Switch on the main power switch located on the control panel; the digital display will illuminate.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (temperature setpoint, e.g., 37°C).",
+    "Press 'SET' again to lock the value.",
+    "Press the 'SET' button once more to enter the shaking speed setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (shaking speed, e.g., 150 RPM).",
+    "Press 'SET' again to lock the value and exit the setting mode; the incubator will now begin heating and shaking to reach the setpoints.",
+    "Allow the chamber to equilibrate for at least 30 minutes before starting time-sensitive experiments, monitoring the actual temperature and speed on the display.",
+    "Safety Warning: Never open the glass door while the platform is in motion; always stop the shaker and allow the platform to come to a complete halt before accessing samples to avoid mechanical injury and sample spillage. Additionally, do not exceed the maximum load of 50 kg or operate with unbalanced loads, as this may damage the drive mechanism."
+  ],
   "features": [
     "Ambient plus 5°C to 70°C highly accurate incubation span",
     "20 to 250 RPM smooth digital velocity configuration",

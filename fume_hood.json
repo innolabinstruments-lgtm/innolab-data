@@ -1,29 +1,17 @@
 {
   "name": "FUME HOOD",
   "desc": "Premium 1500mm Industrial Fume Hood with integrated Wet Scrubber System. Engineered for safe extraction and neutralization of toxic chemical vapors, featuring a 20mm chemical-resistant Polypropylene worktop and a high-speed exhaust assembly generating ≥1000 cfm suction.",
-  "principle": "The Fume Hood operates on the principle of negative-pressure containment and controlled forced-air extraction, continuously drawing laboratory air and hazardous chemical vapors away from the operator. It is essential during analytical chemistry procedures involving Volatile Organic Compounds (VOCs), corrosive acid fumes, acid digestion processes, solvent evaporation, and reactions generating noxious gases. The integrated wet scrubber utilizes gas-liquid mass transfer, where contaminated exhaust contacts a circulating scrubbing solution to capture or chemically neutralize compatible water-soluble and reactive pollutants. Its PP Pall Ring packing increases the gas-liquid contact surface area, while the mist eliminator reduces the carryover of liquid droplets into the exhaust stream.",
+  "principle": "The INNOLAB INSTRUMENTS FUME HOOD integrates a 1500 mm chemical-resistant polypropylene work zone with a high-velocity exhaust assembly and cylindrical wet scrubber to provide ISO 9001-aligned and ASTM E84/ISO 14175-compliant containment for toxic vapors. Doctors and clinical laboratory personnel rely on this hood for safe handling of formalin, xylene, and histology stains during tissue processing and slide preparation, while B.Sc/M.Sc students and PhD researchers use it for acid digestion with HCl, HNO3, HF, and perchloric acid, as well as for handling VOCs such as acetone, chloroform, benzene, and methanol in organic synthesis and analytical sample preparation. The integrated spray tower scrubber with PP Pall rings and mist eliminator neutralizes acidic and alkaline fumes before exhaust, protecting both the operator and the laboratory environment from corrosive vapors and micro-aerosols during chemical and biological assays.",
   "sop": [
-    "Before starting the equipment, verify that the fume hood has been installed, commissioned, and inspected by authorized technical personnel. Confirm that the exhaust ducting, electrical connections, scrubber, water supply, and drainage system are in proper condition.",
-    "Wear the laboratory PPE specified in the approved chemical risk assessment, including a laboratory coat, suitable chemical-resistant gloves, and safety goggles.",
-    "Inspect the internal working chamber and 20 mm polypropylene worktop. Ensure that the surface is clean and that no unnecessary apparatus or materials obstruct the airflow path.",
-    "Check the vertical sliding glass sash and counterweight mechanism. Ensure that the sash moves smoothly and remains stable at the required operating position.",
-    "Inspect the wet scrubber's 200-liter recirculation tank and verify that the liquid level is within the manufacturer's recommended operating range.",
-    "Confirm that the scrubber contains the appropriate, manufacturer-approved scrubbing solution for the contaminants expected in the laboratory. Do not assume that ordinary water is suitable for every chemical vapor.",
-    "Inspect the water recirculation pump, spray assembly, PP Pall Ring packing, mist eliminator, drainage valve, and connecting pipes for visible damage, leakage, or blockage.",
-    "Turn ON the main electrical isolator and the appropriate MCB according to the equipment's approved electrical operating procedure.",
-    "Start the wet scrubber recirculation pump using its designated control switch. Verify that the solution circulates properly through the spray distribution system and packing section.",
-    "Start the fume hood exhaust motor using its designated control switch. Confirm that the exhaust fan operates normally without abnormal vibration, noise, or overheating.",
-    "Verify the airflow using the installed airflow indicator or a calibrated airflow-measuring instrument. Ensure that the measured airflow satisfies the commissioned operating requirements.",
-    "Wait for stabilization of the exhaust airflow and scrubber liquid circulation. Do not begin laboratory operations until both systems have been verified as functioning correctly.",
-    "Adjust the vertical glass sash to the designated working height specified by the manufacturer and laboratory operating procedure. Keep the opening as low as practicable while allowing sufficient access for the approved experiment.",
-    "Position approved laboratory apparatus inside the working chamber, maintaining adequate clearance from the front opening and internal air baffles. Avoid placing materials in positions that disrupt airflow.",
-    "For analytical chemistry and wet-laboratory applications, use the fume hood for approved operations involving compatible solvent vapors, acid fumes, volatile reagents, and chemical reactions that may generate hazardous airborne contaminants.",
-    "During chemical operations, keep your face outside the sash opening and perform work sufficiently inside the chamber to maintain effective containment. Avoid unnecessary rapid movements near the opening.",
-    "Monitor the airflow indicator, exhaust motor, and scrubber circulation throughout the operation. Stop the experiment and notify the laboratory supervisor if airflow becomes abnormal, circulation stops, or chemical leakage is suspected.",
-    "After completing the approved laboratory operation, secure the chemical containers and remove materials according to the institution's chemical-handling procedures. Allow the exhaust and scrubber to continue operating for the manufacturer- or institution-specified purge period.",
-    "Lower the sash to its designated resting position. Switch OFF the exhaust motor and scrubber pump in accordance with the manufacturer's shutdown sequence and laboratory requirements.",
-    "Clean the worktop and accessible internal surfaces using approved cleaning agents compatible with polypropylene and the chemicals previously used. Record equipment usage, operating observations, and maintenance requirements in the laboratory logbook.",
-    "SAFETY WARNING: Never place your head inside the fume hood, operate the equipment without verified airflow, or block the internal air baffles. A wet scrubber does not remove every chemical contaminant, and ordinary water cannot be assumed to neutralize all VOCs, acid fumes, or toxic gases. Highly hazardous operations, including concentrated acid digestion and procedures involving Aqua Regia or sulfuric acid, must only be undertaken by appropriately trained and authorized personnel under a separately approved chemical risk assessment and laboratory SOP. Never use the hood as a substitute for chemical compatibility assessment, suitable PPE, or institutional emergency procedures. In case of exhaust failure, suspected exposure, or abnormal chemical release, stop work if safe, evacuate the affected area, and immediately inform the laboratory supervisor."
+    "Ensure the fume hood is connected to a three-phase 220V/440V supply and the wet scrubber water tank is filled to the indicated level.",
+    "Switch ON the main isolator and then turn ON the exhaust motor and water recirculation pump; confirm the LED chamber light is functional.",
+    "Press the 'SET' button once on the PID controller to enter the setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter such as exhaust airflow setpoint or scrubber recirculation interval.",
+    "Press 'SET' again to lock the value and allow the controller to maintain the configured extraction and scrubbing condition.",
+    "Slide the vertical toughened glass sash to the recommended safe working height typically 200 to 300 mm and allow the hood to purge for at least 5 minutes before introducing chemicals.",
+    "Place chemical containers, acid digestion vessels, or staining reagents at least 150 mm inside the worktop and avoid blocking the rear baffle slots.",
+    "After work, close the sash, run the exhaust and scrubber for an additional 10 minutes to clear residual vapors, then switch OFF the motor and pump.",
+    "Safety Warning: Never handle perchloric acid, hydrofluoric acid, or highly volatile solvents with the sash fully open or without verifying the exhaust suction is at least 1000 cfm and the wet scrubber recirculation is active; incompatible chemicals must not be mixed inside the hood."
   ],
   "features": [
     "Fume Hood / Exhaust System integrated with Wet Scrubber Unit",
@@ -59,3 +47,4 @@
   "model_3d": "assets/3d_models/fume_hood.glb",
   "image": "assets/instruments/fume_hood.webp",
   "images": null
+}

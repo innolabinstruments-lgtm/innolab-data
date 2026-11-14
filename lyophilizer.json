@@ -1,6 +1,25 @@
 {
   "name": "LYOPHILIZER",
   "desc": "Premium Floor-Standing Laboratory Freeze Dryer (Lyophilizer) engineered for high-performance sublimation and sample preservation. Features a 6-liter ice-condensing capacity with an ultra-low condenser cooling threshold reaching down to -80°C and a 7-inch interactive color touchscreen display.",
+  "principle": "The INNOLAB INSTRUMENTS LYOPHILIZER is a floor-standing laboratory freeze dryer engineered for lyophilization via sublimation under high vacuum, with a -80°C condenser capable of trapping 6 liters of water vapor. It is designed for preservation of heat-labile biologicals and pharmaceuticals: doctors and pathologists use it to stabilize plasma, serum, tissue biopsies, and vaccine formulations; B.Sc/M.Sc students lyophilize bacterial, fungal, and bacteriophage cultures for long-term storage and taxonomic studies; PhD researchers and chemists dry proteins, enzymes, monoclonal antibodies, nucleic acids, liposomes, and HPLC fractions containing acetonitrile, methanol, or other volatile organic solvents (with appropriate cold traps and inert gas purging). The system supports lyoprotectant matrices such as trehalose, sucrose, mannitol, and phosphate-buffered saline, and complies with cGMP/ICH Q8 guidelines and ISO 13408 aseptic processing principles, ensuring reproducible drying cycles for molecular biology, vaccine production, pathology labs, and pharmaceutical R&D.",
+  "sop": [
+    "Ensure the lyophilizer is placed on a level surface, caster wheels locked, and connected to a 230 V AC, 50 Hz single-phase supply with proper earthing.",
+    "Inspect the condenser chamber, door gasket, and vacuum tubing for cleanliness, frost, or damage; clean with lint-free wipes and 70% isopropanol if required.",
+    "Pre-freeze samples in vials, flasks, or trays at -80°C (or below the sample's eutectic temperature) before loading.",
+    "Load pre-frozen samples onto the temperature-controlled shelves or flask manifolds, ensuring no liquid is spilled and vials are not overfilled.",
+    "Close and lock the heavy-duty single door compression latch to ensure a vacuum-tight seal.",
+    "Switch ON the main power and allow the control system to initialize; verify the touchscreen displays condenser temperature, sample temperature, and vacuum level.",
+    "On the PID controller, press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., condenser temperature setpoint -80°C or shelf temperature setpoint).",
+    "Press 'SET' again to lock the value.",
+    "Set the vacuum control setpoint (e.g., 0.1 mbar) using the same PID method if applicable, or via the touchscreen vacuum regulation menu.",
+    "Start the vacuum pump only after the condenser temperature reaches -40°C or lower (programmable pump start/stop link may automate this).",
+    "Monitor the real-time dynamic graphing array for condenser temperature, sample temperature, and vacuum level throughout the drying cycle; record data at regular intervals.",
+    "When the cycle is complete, stop the vacuum pump, slowly vent the chamber with dry nitrogen or filtered air, and remove dried samples promptly.",
+    "Activate the automated electric heating defrost system to melt collected ice; drain the condensate and wipe the chamber dry.",
+    "Switch OFF the system and leave the door slightly ajar to prevent gasket compression set.",
+    "Safety Warning: Never attempt to open the door while the chamber is under vacuum; always vent to atmospheric pressure first, and do not lyophilize strong acids, bases, or flammable solvents without dedicated acid-resistant traps and explosion-proof equipment."
+  ],
   "features": [
     "6 Litre volumetric vapor trapping collection capacity",
     "Ultra-low thermal cooling performance reaching down to -80°C",

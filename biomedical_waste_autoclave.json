@@ -1,0 +1,52 @@
+{
+  "name": "BIOMEDICAL WASTE AUTOCLAVE",
+  "desc": "The INNOLAB INSTRUMENTS INNO-BWA-220 Biomedical Waste Autoclave is an industrial-grade, high-capacity steam sterilization system engineered for the safe and complete decontamination of medical and bio-hazardous waste. The advanced fully automatic models feature a robust triple-walled construction comprising a Stainless Steel 304/316L sterilization chamber.",
+  "principle": "The INNOLAB INSTRUMENTS BIOMEDICAL WASTE AUTOCLAVE operates on the principle of saturated steam sterilization under elevated pressure, utilizing a triple-walled stainless steel chamber and jacket to achieve uniform temperatures of 121°C to 134°C at pressures of 15 to 30 psi. This thermal process irreversibly denatures microbial proteins, nucleic acids, and enzymes, ensuring complete inactivation of vegetative bacteria, viruses, fungi, and highly resistant bacterial endospores such as Bacillus stearothermophilus and Geobacillus stearothermophilus, which serve as biological indicators for sterilization efficacy. The system incorporates pre-vacuum and post-vacuum cycles via a water ring vacuum pump to remove air pockets and enhance steam penetration into porous loads, while a 0.2µ fresh air inlet filter prevents recontamination during cooling. Designed for biomedical waste decontamination, it is essential for hospitals, diagnostic laboratories, research institutes, and pharmaceutical facilities to safely treat infectious sharps, cultures, pathological waste, blood products, and other bio-hazardous materials in compliance with WHO guidelines, ISO 17665, and national biomedical waste management rules. The PLC-based HMI touch screen controller with data monitoring and recording enables validated cycles, Bowie-Dick and leak tests, and automatic water filling, ensuring reproducible sterilization for B.Sc/M.Sc students, PhD researchers, and clinical staff handling strong disinfectants, cytotoxic drugs, and genetically modified organisms.",
+  "sop": [
+    "Ensure the autoclave is connected to power, water supply, and compressed air (if applicable), and that the chamber is empty and clean.",
+    "Load the biomedical waste bags or containers into the sterilization chamber, ensuring not to overfill and allowing steam circulation.",
+    "Close and lock the radial locking door securely.",
+    "Press the 'SET' button once on the PID controller to enter parameter setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target sterilization temperature (e.g., 121°C or 134°C) as required for the waste type.",
+    "Press 'SET' again to lock the temperature value, then press 'SET' once more to set the sterilization hold time (e.g., 15-30 minutes) using the 'UP' and 'DOWN' arrows, and press 'SET' to confirm.",
+    "Select the appropriate cycle (pre-vacuum, gravity, or test cycle) on the HMI touch screen, and start the cycle.",
+    "Monitor the cycle progress on the display, ensuring pressure and temperature reach set points and remain stable during the holding phase.",
+    "After cycle completion, allow the chamber to cool and pressure to drop to atmospheric level before opening the door.",
+    "Carefully unload the sterilized waste using heat-resistant gloves, and transfer to designated disposal containers.",
+    "Perform daily maintenance: check water level, clean chamber, and run a Bowie-Dick test if required.",
+    "Safety Warning: Never open the door while the chamber is pressurized or hot; always verify that the pressure gauge reads zero and the temperature is below 80°C before unlocking, and wear appropriate PPE (heat-resistant gloves, face shield, lab coat) to prevent steam burns or exposure to residual biohazards."
+  ],
+  "features": [
+    "Triple Walled construction with Stainless Steel 304 / 316L chamber and boiler",
+    "PLC Based HMI Color Touch Screen Controller with Data Monitoring & Recording",
+    "Pre and Post Vacuum Cycles driven by a Water Ring Vacuum Pump",
+    "0.2µ Fresh Air Inlet Filter for safe air purification",
+    "Comprehensive safeties including Over Pressure Safety and Emergency Stop"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Biomedical Waste Autoclave",
+    "Construction Type": "Triple Walled with Jacket & Chamber",
+    "Working Temperature Range": "121°C - 134°C",
+    "Working Pressure Range": "15 to 30 psi",
+    "Sterilization Chamber Material": "Stainless Steel 304 / 316L",
+    "Jacket Material": "Stainless Steel 304",
+    "Boiler Material": "Stainless Steel 304",
+    "Lid / Door Material": "Stainless Steel 304 / 316L",
+    "Insulation Material": "Glass Wool",
+    "Door Locking Mechanism": "Radial Locking Mechanism",
+    "Vacuum System": "Pre and Post Vacuum Cycles (Water Ring Vacuum Pump)",
+    "Air Filtration": "0.2µ Fresh Air Inlet Filter",
+    "Control System": "PLC Based HMI Color Touch Screen Controller",
+    "Automation Features": "Bowie-Dick & Leak Test, Data Monitoring & Recording, Automatic Water Filling",
+    "Sensors": "Imported Pressure and Temperature Sensors",
+    "Pressure Release": "Pneumatically Operated Valve",
+    "Standard Safety Features": "Over Pressure Safety (Chamber & Boiler), Low Water Protection, Emergency Stop",
+    "Standard Fittings": "Moisture Trap Valve, Load Indicator, Electric Phase Indicators",
+    "Target Applications": "Medical Waste Sterilization, Bio-Hazardous Waste Decontamination",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/biomedical_waste_autoclave.glb",
+  "image": "assets/instruments/biomedical_waste_autoclave.webp",
+  "images": null
+}

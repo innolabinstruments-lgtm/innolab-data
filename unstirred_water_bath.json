@@ -1,6 +1,18 @@
 {
   "name": "UNSTIRRED WATER BATH",
   "desc": "The INNOLAB INSTRUMENTS Unstirred Water Bath is a fundamental general-purpose constant temperature instrument utilized in clinical, educational, and microbiological labs. It is perfect for safely warming reagents, melting agar, and incubating sample tubes. Designed with a robust double-walled structure, 5-sided glass wool insulation, and an advanced digital PID controller, it provides an incredibly stable, vibration-free heating environment with minimal maintenance.",
+  "principle": "The INNOLAB INSTRUMENTS Unstirred Water Bath operates as a high-precision still-water thermostatic vessel employing an immersion-type stainless steel heater regulated by an advanced microprocessor PID controller with auto-tuning and a PT100 RTD sensor. It maintains a uniform, vibration-free thermal environment from ambient +10°C to 100°C with ±0.5°C stability by minimizing convective turbulence and insulating all five sides with glass wool. In clinical, educational, and research laboratories, doctors and B.Sc/M.Sc students use it to warm blood bank reagents, thaw serum/plasma samples, digest sputum specimens, melt selective agars such as MacConkey agar and Sabouraud dextrose agar at 45–50°C, and incubate microbiological broths for coliform testing. PhD researchers and chemists rely on it for temperature-sensitive sample preparation such as dissolving ammonium persulfate, equilibrating SDS-PAGE sample buffers, digesting proteins in strong acids within sealed PTFE vessels, and controlled evaporation of non-corrosive solvents. It supports routine ISO/ASTM methodologies requiring stable water-bath incubation, including ISO 6888-1 for coagulase-positive staphylococci, ASTM D1293 for pH buffer equilibration, and general good laboratory practice for serological and enzymatic assays.",
+  "sop": [
+    "Ensure the water bath is placed on a level surface and filled with clean distilled or deionized water up to 50 mm below the rim; never operate dry.",
+    "Connect the power supply to 220 Volts 50 Hz and switch ON the mains; the LED displays will show the Process Value and Set Value.",
+    "Press the 'SET' button once. The Set Value display will flash.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 37°C for coliform incubation or 56°C for serum inactivation).",
+    "Press 'SET' again to lock the value. The PID controller will auto-tune and heat the water, maintaining the set temperature.",
+    "Wait for the Process Value to stabilize at the Set Value ±0.5°C before placing samples; use the perforated stainless steel tray to keep tubes and flasks upright and properly submerged.",
+    "Periodically check the water level; top up with warm distilled water if required to prevent exposure of the heating element.",
+    "After use, switch OFF the mains, unplug the unit, allow the water to cool completely, drain the tank, and wipe dry with a soft cloth to prevent corrosion or microbial growth.",
+    "Safety Warning: NEVER place volatile, toxic, or strong acid reagents directly into the water bath without sealed secondary containment; avoid touching hot surfaces and always use heat-resistant gloves, as escaping steam and boiling water can cause severe burns."
+  ],
   "features": [
     "Designed for highly stable constant temperature control",
     "Rugged double wall construction with corrosion resistant exterior",

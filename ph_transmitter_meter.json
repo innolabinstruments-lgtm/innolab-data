@@ -1,6 +1,20 @@
 {
   "name": "PH TRANSMITTER METER",
   "desc": "Premium Microprocessor-Based Digital Table-Top pH Transmitter Meter engineered for high-precision electrochemical analysis. Features a wide measuring range from -2.00 to 16.00 pH with Automatic Temperature Compensation (ATC) and an industrial analog current output loop.",
+  "principle": "The INNOLAB INSTRUMENTS PH TRANSMITTER METER is a premium microprocessor-based electrochemical analyzer engineered for high-precision potentiometric pH and mV measurements across a broad -2.00 to 16.00 pH range. It employs a high-impedance differential amplifier to measure the potential developed across a pH-sensitive glass electrode and a reference electrode, converting the Nernstian voltage (approximately 59.16 mV per pH unit at 25 °C) into direct pH readings. Automatic Temperature Compensation (ATC) corrects the Nernst slope using an integrated temperature sensor, ensuring accuracy of ±0.01 pH even in thermally fluctuating samples. The instrument supports multi-point calibration (up to 3 points) against NIST-traceable buffer standards, and its 0/4–20 mA analog current loop and RS232 interface enable seamless integration into industrial process control and data logging. In clinical and biomedical laboratories, doctors and researchers use this meter to verify the pH of biological fluids, cell culture media, and fermentation broths, where microbial growth and enzyme activity are highly pH-dependent. B.Sc and M.Sc students employ it for acid-base titrations, buffer preparation, and water quality testing, while PhD researchers and chemists rely on it for monitoring strong acids (e.g., HCl, H2SO4), alkalis (e.g., NaOH), and organic reaction media. The instrument supports compliance with ISO 10523, ASTM D1293, and USP <791> for pH measurement in water, wastewater, pharmaceuticals, and food processing, making it an essential tool for quality control, environmental monitoring, and educational laboratories.",
+  "sop": [
+    "Inspect the pH electrode and temperature probe for cracks, salt deposits, or dehydration; if the glass bulb appears dry, soak it in 3 M KCl storage solution for at least 2 hours before use.",
+    "Connect the pH electrode to the BNC input and the temperature sensor to the ATC socket, then switch on the mains power supply (220-230 V AC, 50 Hz).",
+    "Allow the instrument to warm up for 10–15 minutes to stabilize the internal electronics and electrode response.",
+    "Press the 'SET' button once to enter the temperature compensation setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 25 °C or the actual sample temperature).",
+    "Press 'SET' again to lock the value and return to measurement mode.",
+    "Perform a two- or three-point calibration using fresh pH 4.01, 7.00, and 10.01 buffer solutions; immerse the electrode in each buffer, allow the reading to stabilize, and confirm each calibration point as per the manual.",
+    "Rinse the electrode with distilled water and gently blot with lint-free tissue between buffers and before sample measurement to prevent cross-contamination.",
+    "Immerse the electrode and temperature probe into the test sample (e.g., water, biological media, acid/base solution) ensuring the glass bulb and junction are fully submerged.",
+    "Wait for the pH reading to stabilize on the digital display; record the pH and mV values, and if required, capture data via the RS232 interface or monitor the 0/4–20 mA output for process control.",
+    "After measurement, rinse the electrode thoroughly with distilled water and store it in 3 M KCl solution; never store the electrode in distilled water or allow the glass bulb to dry out, as this will permanently damage the pH-sensitive membrane and cause erroneous readings."
+  ],
   "features": [
     "Broad scale scanning from -2.00 to 16.00 pH lines",
     "Ultra-precise performance verified at ± 0.01 pH variance",

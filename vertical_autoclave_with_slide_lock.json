@@ -1,6 +1,25 @@
 {
   "name": "VERTICAL AUTOCLAVE WITH SLIDE LOCK",
   "desc": "The INNOLAB INSTRUMENTS INNO-LXAU-160 is a highly advanced, fully automatic vertical autoclave engineered to deliver precise sterilization for demanding laboratory environments. Distinguished by its electronic double inner slide locks and an eight-column evenly distributed interlocking device, it offers rapid and effortless loading.",
+  "principle": "The INNOLAB INSTRUMENTS VERTICAL AUTOCLAVE WITH SLIDE LOCK is a fully automatic, microprocessor-controlled steam sterilizer designed for the precise and repeatable sterilization of laboratory media, glassware, instruments, and biohazardous waste. It operates on the principle of saturated steam under pressure, achieving temperatures from 105°C to 138°C to effectively eliminate all forms of microbial life, including heat-resistant bacterial endospores (e.g., Geobacillus stearothermophilus), viruses, and fungi. The advanced 'Inspiration' Fast Speed Microcomputer Controller with 20 memory cycles ensures compliance with international standards such as ISO 17665 and EN 285, making it indispensable for clinical diagnostics, pharmaceutical quality control, and academic research. Doctors rely on it for sterilizing surgical tools and culture media; B.Sc/M.Sc students use it for preparing sterile agar plates and broth; PhD researchers and chemists employ it for decontaminating hazardous biological waste and sterilizing reagents that are compatible with moist heat, such as certain buffers and saline solutions. The electronic double inner slide locks and eight-column interlocking lid guarantee safe containment of high-pressure steam, while the automatic internal discharge system with dual steam collectors prevents pressure buildup and ensures uniform temperature distribution.",
+  "sop": [
+    "Ensure the autoclave is placed on a level surface and connected to a properly grounded 220V/50Hz power supply with a 32A circuit breaker.",
+    "Open the flip-top lid by releasing the eight-column interlock and electric double inner locks; check that the chamber is clean and free of debris.",
+    "Fill the chamber with distilled or deionized water up to the indicated level mark (do not use tap water to prevent scale buildup).",
+    "Load the stainless steel baskets with items to be sterilized, ensuring adequate spacing for steam penetration; do not overload.",
+    "Close the lid securely; the electronic double inner locks will engage automatically, and the lid closing check indicator will confirm proper sealing.",
+    "Press the 'SET' button once on the 'Inspiration' Fast Speed Microcomputer Controller to enter parameter setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., sterilization temperature 121°C for 15 minutes for standard liquids, or 134°C for 3 minutes for wrapped instruments).",
+    "Press 'SET' again to lock the value and proceed to set the sterilization time if needed, following the same button sequence.",
+    "Select the appropriate pre-programmed cycle (e.g., Liquid, Solid, Wrapped Instrument) or use the self-defined cycle; the controller will display the selected cycle.",
+    "If using the preset auto-start timer, set the desired delay (up to 6 days in advance) by pressing the timer button and adjusting with arrows.",
+    "Press the 'START' button to initiate the sterilization cycle; the autoclave will automatically heat, pressurize, sterilize, and exhaust according to the selected parameters.",
+    "Monitor the pressure gauge and temperature display; the maximum working pressure is 0.27 MPa, and the design pressure is 0.35 MPa.",
+    "Upon cycle completion, wait for the cooling lock safety to release (temperature drops below the set threshold, e.g., 80°C for liquid cycles) before attempting to open the lid.",
+    "Open the lid slowly, standing to the side to avoid steam burns; use heat-resistant gloves to remove the baskets.",
+    "After use, drain any remaining water from the chamber and wipe dry to prevent corrosion; leave the lid slightly ajar when not in use.",
+    "Safety Warning: Never attempt to open the lid while the chamber is pressurized or above the cooling lock temperature; always verify that the pressure gauge reads zero and the lid interlock is disengaged before opening to prevent severe steam burns or explosive release."
+  ],
   "features": [
     "'Inspiration' Fast Speed Microcomputer Controller with 20 memory cycles",
     "Flip Open Type lid with 8-Column Interlock and Electric Double Inner Locks",

@@ -1,6 +1,20 @@
 {
   "name": "REFRIGERATED WATER BATH (CHILLER)",
   "desc": "Laboratory Floor/Benchtop Refrigerated Circulating Water Bath engineered for high-precision constant temperature thermal management and sample cooling preservation. Features an expansive 28-liter capacity reservoir built with a double-walled insulated square structure.",
+  "principle": "The INNOLAB INSTRUMENTS REFRIGERATED WATER BATH (CHILLER) is a high-precision thermal management system engineered for sub-ambient temperature control and uniform sample cooling. It employs a hermetically sealed compressor-based refrigeration cycle integrated with a continuous magnetic drive circulation pump to maintain a stable, homogeneous low-temperature environment within a 28-liter double-walled insulated reservoir. This instrument is indispensable for preserving temperature-sensitive biological specimens such as DNA, RNA, enzymes, and proteins, as well as for conducting enzyme kinetics assays, molecular diagnostics, and chemical stability tests. It supports critical applications in research facilities, clinical laboratories, and industrial quality control, where precise cooling prevents degradation of reagents like restriction enzymes, polymerases, and volatile organic compounds (VOCs) in sealed vials. The system adheres to rigorous laboratory standards such as ISO 17025 for calibration and ASTM E2877 for digital contact thermometers, ensuring reproducibility in assays like PCR setup, ligation reactions, and long-term sample storage at 4°C or lower. Its microprocessor-based PID controller delivers accurate setpoint regulation, making it ideal for B.Sc/M.Sc students learning thermal equilibration, PhD researchers performing cold-sensitive crystallography, and chemists stabilizing reactive intermediates.",
+  "sop": [
+    "Place the refrigerated water bath on a stable, level bench and connect it to a grounded 220 V AC, 50 Hz single-phase power outlet.",
+    "Fill the reservoir with pure distilled water up to the indicated maximum level mark, ensuring the circulation pump inlet and outlet are fully submerged.",
+    "Switch on the main power supply using the rocker switch; the digital display will illuminate.",
+    "Press the 'SET' button once on the PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 4°C for DNA preservation or -10°C for enzyme storage).",
+    "Press 'SET' again to lock the value; the controller will store the setpoint and the display will revert to showing the actual bath temperature.",
+    "Allow the unit to reach the set temperature; the compressor and circulation pump will start automatically, and the display will stabilize at the target value.",
+    "Place sample containers (test tubes, flasks, or microplates) into the bath using a suitable rack or holder, ensuring they are securely positioned and not blocking the circulation flow.",
+    "Close the insulated lid to minimize thermal exchange and reduce evaporation; monitor the temperature display periodically without frequent lid opening.",
+    "After completing the experiment, switch off the main power, remove samples, and if the bath will not be used for an extended period, drain the water and wipe the reservoir dry.",
+    "Safety Precaution: Never operate the bath with insufficient water level, as this can cause the compressor to overheat and permanently damage the refrigeration system; always disconnect the power supply before cleaning, draining, or performing any maintenance."
+  ],
   "features": [
     "28 Litre volumetric industrial-scale internal reservoir tank",
     "High-precision sub-ambient cooling and stable low-temperature sample holding",

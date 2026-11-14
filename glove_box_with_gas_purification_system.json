@@ -1,0 +1,41 @@
+{
+  "name": "GLOVE BOX WITH GAS PURIFICATION SYSTEM",
+  "desc": "The INNOLAB INSTRUMENTS Glove Box With Gas Purification System represents the pinnacle of controlled atmosphere technology. Designed for highly sensitive battery manufacturing (Li-ion), OLED development, and nuclear research, this hermetically sealed unit integrates a closed-loop gas recirculation system with a BASF copper catalyst. Operated via an advanced SIEMENS color touch-screen PLC, it effectively maintains moisture and oxygen levels below 1 ppm, safeguarding the absolute integrity of your reactive experiments.",
+  "principle": "The INNOLAB INSTRUMENTS GLOVE BOX WITH GAS PURIFICATION SYSTEM is a hermetically sealed controlled-atmosphere workstation engineered for ultra-low moisture and oxygen environments (≤1 ppm) critical to air-sensitive research and manufacturing. Its closed-loop gas recirculation system forces the internal atmosphere through a purification column packed with BASF copper catalyst and UOP molecular sieves, which chemically scavenge oxygen and physically adsorb water vapor, while HEPA filters remove particulates >0.3 µm. This enables PhD researchers and chemists to safely handle pyrophoric organometallic reagents such as n-butyllithium, Grignard reagents, and transition-metal catalysts; assemble lithium-ion battery electrodes with lithium metal and LiPF6-based electrolytes in anhydrous carbonate solvents; and process OLED or perovskite precursor inks. B.Sc/M.Sc students use the system to learn air-free Schlenk techniques and anaerobic microbiology, while clinical researchers and quality-control laboratories rely on it for ISO 14644-1 particulate cleanliness and ISO 10648-2 containment performance when testing moisture-sensitive pharmaceuticals, volatile organic solvents, and oxygen-sensitive biological assays.",
+  "sop": [
+    "Ensure the main power isolator and inert gas supply (argon or nitrogen) are connected and the gas pressure is within the recommended range.",
+    "Switch on the main power and allow the SIEMENS color touch-screen PLC HMI to initialize; log in with authorized credentials.",
+    "Verify that the oxygen and moisture analyzers display values below 1 ppm; if not, initiate a regeneration or purge cycle before use.",
+    "On the SIEMENS HMI PID controller screen, press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., oxygen setpoint ≤ 1 ppm or chamber pressure).",
+    "Press 'SET' again to lock the value.",
+    "Purge the antechamber: place items inside, close the outer door, evacuate and refill with inert gas at least three times before transferring into the main chamber.",
+    "Transfer items into the main chamber using the GUARDIAN butyl gloves, ensuring the HEPA filters are not blocked and the gloves are not overstretched.",
+    "Monitor the HMI continuously for O2, H2O, and pressure levels; confirm the blower and purification column are active during all operations.",
+    "After use, remove samples via the antechamber, close all valves, and set the system to standby mode following the shutdown sequence.",
+    "Safety Warning: Never open both antechamber doors simultaneously, and do not introduce volatile corrosive chemicals or free water into the chamber; always wear nitrile gloves under the butyl gloves to prevent contamination and glove damage."
+  ],
+  "features": [
+    "Advanced closed-loop gas recirculation system maintaining O2 & H2O ≤ 1 ppm",
+    "High-efficiency purification column containing BASF copper catalyst & UOP molecular sieves",
+    "Integrated SIEMENS Color Touch Screen (PLC HMI) for seamless parameter control",
+    "Constructed from 3mm Stainless Steel 304 with an inclined 10mm tempered glass window",
+    "Equipped with premium GUARDIAN (USA) Butyl gloves with O-ring sealing",
+    "Fitted with Inlet & Outlet HEPA filters (>0.3µm) for particulate-free environments"
+  ],
+  "specifications": {
+    "Main Chamber Dimensions": "1900 * 760 * 900 mm (Available in 2, 3, or 4 glove port configurations)",
+    "Antechamber Configurations": "Main Antechamber (385*600 mm) & Mini Antechamber (150*300 mm)",
+    "Moisture & Oxygen Limits": "0～1000ppm with ultra-precise accuracy of 0.1ppm",
+    "Gloves & Ports": "4 Nos. Butyl gloves (GUARDIAN brand USA)",
+    "Control Interface": "SIEMENS Color touch screen PLC HMI",
+    "Internal Shelving": "2 Nos. Adjustable Stainless steel 304 shelves (800*200 mm)",
+    "Filter System": "Inlet and outlet HEPA filters (>0.3µm)",
+    "Expansion Ports": "Reserved KF40 interface on the rear side for easy upgrades",
+    "Purification Material": "BASF copper catalyst & UOP efficient absorbent molecular sieves",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/glove_box_gas_purification.glb",
+  "image": "assets/instruments/glove_box_gas_purification.webp",
+  "images": null
+}

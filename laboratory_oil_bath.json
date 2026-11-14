@@ -1,6 +1,20 @@
 {
   "name": "LABORATORY OIL BATH",
   "desc": "The INNOLAB INSTRUMENTS Laboratory Oil Bath is engineered for high-temperature chemical reactions, distillations, and materials testing that require heating well above the boiling point of water. Utilizing high-grade stainless steel, specialized thermal insulation, and an advanced PID controller, it safely handles hot silicone oils up to 200°C (or 300°C optionally) without the risk of breakdown, ensuring consistent thermal stability for complex experiments.",
+  "principle": "The INNOLAB INSTRUMENTS Laboratory Oil Bath operates on the principle of high-mass thermal reservoir heating, using thermally stable silicone or mineral oil as a heat transfer medium. Stainless steel immersion heaters uniformly raise the oil temperature, while a microprocessor PID controller with a PT100 sensor continuously compares actual and set temperatures, modulating power to maintain ±1°C accuracy. This enables stable heating far above the boiling point of water, making it essential for organic and polymer chemists conducting reflux, distillation, esterification, transesterification, polycondensation, and high-temperature nanoparticle synthesis in high-boiling solvents such as DMSO, DMF, NMP, ethylene glycol, and paraffin oil. B.Sc and M.Sc students use the bath for fractional distillation, boiling point determination, and Soxhlet extraction of botanicals. PhD researchers and quality control chemists rely on it for accelerated thermal ageing, thermal degradation studies, and ASTM/ISO viscosity, melting point, and penetration testing of lubricants, waxes, bitumen, and thermoplastics. In biomedical and clinical research laboratories, it is also used for heat-inactivation of serum, paraffin embedding, and uniform temperature calibration of probes.",
+  "sop": [
+    "Inspect the bath and confirm the oil level is sufficient to fully cover the immersion heaters but leaves headspace for expansion; use only high-grade silicone or mineral oil.",
+    "Place the reaction vessel or sample container securely in the bath using appropriate clamps or supports, ensuring no water or low-flashpoint solvent has contaminated the oil.",
+    "Connect the instrument to a grounded mains supply and switch ON the main power switch.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "If required, set the digital timer up to 99 hours for timed heating or unattended operation.",
+    "Allow the bath to reach the setpoint temperature and confirm the actual temperature with a calibrated thermometer or the PT100 display before starting the experiment.",
+    "Immerse or load the sample carefully, ensuring no obstruction of the stirring or circulation function if fitted, and close any safety cover or fume hood sash.",
+    "After completion, switch OFF the mains, leave the bath to cool below 60°C before removing samples, and do not drain hot oil.",
+    "Safety Warning: Never heat a bath containing water, low-flashpoint solvents, or degraded oil; always use a fume hood, thermal gloves, and eye protection, and never leave a high-temperature oil bath unattended during operation."
+  ],
   "features": [
     "Designed for constant high-temperature control using thermal oil",
     "Rugged double wall construction with excellent 5-sided glass wool insulation",

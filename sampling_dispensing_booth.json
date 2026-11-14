@@ -1,6 +1,22 @@
 {
   "name": "SAMPLING DISPENSING BOOTH",
   "desc": "Reverse Laminar Air Flow (RALF) Sampling and Dispensing Booth engineered for superior operator protection and containment of powder aerosols. Features an ISO Class 5 cleanroom environment powered by an advanced three-stage filtration setup achieving 99.999% containment down to sub-micron particles.",
+  "principle": "The INNOLAB INSTRUMENTS Sampling Dispensing Booth operates on the reverse laminar air flow (RALF) principle to create an ISO Class 5 (Class 100) unidirectional vertical downflow containment envelope. A three-stage filtration train—EU4 pre-filter, EU7 intermediate filter, and EU14 HEPA supply and exhaust filters with 99.999% efficiency down to sub-micron particles—draws room air, conditions it to 0.45 ± 0.05 m/s laminar flow, and captures hazardous powder aerosols before they reach the operator breathing zone. This negative-pressure workspace is engineered for safe weighing, sampling, dispensing, and subdivision of potent pharmaceutical powders, antibiotics, cytotoxic drugs, hormones, fine chemical reagents, allergens, and hygroscopic or volatile solids. Doctors and clinical pharmacists use it for compounding hazardous drugs and preparing unit doses in hospital pharmacies; B.Sc/M.Sc students and PhD researchers perform gravimetric analysis, powder transfer, and microbiological media reconstitution without cross-contamination; chemists handle strong acid precursors, respirable silica, micronized excipients, and volatile organic compounds in accordance with ISO 14644-1 and ASTM E2500 validation standards. Dual analog differential pressure gauges continuously monitor intermediate and HEPA filter loading to ensure containment integrity and operator protection.",
+  "sop": [
+    "Ensure the booth is connected to a stable 230 V AC, 50 Hz, single phase supply and that all service access panels are securely closed.",
+    "Switch ON the main isolator, then press the blower rocker switch to start the heavy-duty motor-blower assembly.",
+    "Allow the three-stage filtration system to stabilize for 10–15 minutes until the dual differential pressure gauges reach their normal operating band.",
+    "Verify the downflow air velocity is 0.45 ± 0.05 m/s using a calibrated anemometer at the work zone or through the built-in DOP validation port.",
+    "Press the 'SET' button once on the PID controller to enter setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, such as chamber downflow velocity or filter interlock pressure setpoint.",
+    "Press 'SET' again to lock the value and return the controller to normal display mode.",
+    "Switch ON the fluorescent light rocker switch for illumination; if required for decontamination, switch ON the UV light loop only when the chamber is empty.",
+    "Wipe all internal surfaces and seamless stainless steel side coving with 70% IPA or a suitable disinfectant, then place the weighing scale and materials inside the downflow zone.",
+    "Perform sampling, dispensing, and weighing activities slowly within the unidirectional downflow area, never blocking the return air perforations or rear exhaust path.",
+    "After use, remove all materials and immediately clean any powder spills with approved neutralizers suitable for acidic, caustic, or potent compound residues.",
+    "Switch OFF the UV light loop if it was used, then the fluorescent light, and finally the blower; record differential pressure readings and usage details in the equipment logbook.",
+    "Safety Warning: Never operate the booth if the HEPA filter differential pressure exceeds the manufacturer specified limit, and do not process explosive or highly flammable powders unless the unit is explicitly rated for ATEX or flammable atmosphere use."
+  ],
   "features": [
     "Certified ISO Class 5 (Class 100) containment envelope",
     "Advanced Heavy-Duty Three Stage multi-barrier filtration core",

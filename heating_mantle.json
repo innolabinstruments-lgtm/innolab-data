@@ -1,6 +1,19 @@
 {
   "name": "HEATING MANTLE",
   "desc": "1-Liter Laboratory Heating Mantle engineered for uniform thermal heating and safe distillation workflows of round bottom glass flasks. Features a robust aluminum exterior housing and an integrated temperature controller reaching up to 350°C.",
+  "principle": "The INNOLAB INSTRUMENTS Heating Mantle is a precision laboratory heating device engineered to deliver uniform, controlled thermal energy to round-bottom glass flasks for applications such as distillation, reflux, solvent extraction, and organic synthesis. The instrument employs a high-grade glass-fiber yarn mantle embedded with resistive heating elements that conform intimately to the flask's spherical contour, ensuring efficient conductive and radiant heat transfer across the entire vessel surface. This design eliminates the hazards of open flames and hot spots, enabling safe handling of volatile organic compounds (VOCs), strong acids, and temperature-sensitive reagents. The robust aluminum casing provides structural integrity and even heat distribution, while the integrated analog energy regulator allows precise adjustment up to 350°C. The heating mantle is widely used by chemists, B.Sc/M.Sc students, PhD researchers, and quality control laboratories for routine distillations, reflux reactions, and sample digestions, adhering to standard laboratory practices and relevant ISO/ASTM guidelines for thermal equipment safety and performance.",
+  "sop": [
+    "Place the heating mantle on a stable, level, heat-resistant surface and ensure the power cord is connected to a properly grounded 220-230 V AC outlet.",
+    "Insert the 1-liter round-bottom flask securely into the mantle cavity, ensuring full contact between the flask bottom and the heating element.",
+    "Turn the main power switch to the ON position (if equipped) or plug in the unit to energize the controller.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "Gradually rotate the analog energy regulator knob clockwise to increase the heating output until the desired temperature setpoint is reached, monitoring the process with a thermometer or temperature probe.",
+    "Allow the system to reach thermal equilibrium and stabilize before commencing the distillation, reflux, or extraction procedure.",
+    "After the experiment is complete, turn the energy regulator knob fully counterclockwise to zero, switch off the main power, and allow the mantle to cool to ambient temperature before removing the flask.",
+    "Safety Warning: Always wear appropriate personal protective equipment (PPE) including heat-resistant gloves, safety goggles, and a lab coat. Never operate the heating mantle near flammable solvents, explosive vapors, or in poorly ventilated areas. Do not leave the unit unattended during operation, and ensure the flask is dry and free of cracks to prevent thermal shock or spillage of hazardous chemicals."
+  ],
   "features": [
     "1 Liter (1000 ml) standard round-bottom flask compliance",
     "High-grade internal glass-fiber yarn mantle with integrated heating elements",

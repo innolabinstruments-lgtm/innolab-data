@@ -1,0 +1,53 @@
+{
+  "name": "ELECTROMAGNETIC SIEVE SHAKER",
+  "desc": "The INNOLAB INSTRUMENTS INNO-EMSS-200 Electromagnetic Sieve Shaker is a highly advanced particle analysis machine utilizing an electromagnetic drive. This drive generates a unique Tri-Dimensional (3D) motion that ensures rapid and completely accurate separation of both dry and wet fine powders in pharmaceutical, food technology, and materials science laboratories.",
+  "principle": "The INNOLAB INSTRUMENTS ELECTROMAGNETIC SIEVE SHAKER employs a high-frequency electromagnetic drive to generate a precise Tri-Dimensional (3D) sieving motion, combining vertical, horizontal, and rotational oscillations. This unique action ensures rapid and uniform particle stratification, enabling accurate size classification of dry powders and wet suspensions from 20 μm to 25 mm. B.Sc/M.Sc students, PhD researchers, and chemists rely on this instrument for particle size distribution analysis of pharmaceuticals (e.g., active pharmaceutical ingredients, excipients), food products (e.g., flour, spices, coffee), construction materials (e.g., cement, soils per ASTM D422), and fine chemicals. Wet sieving applications often involve suspensions in water, ethanol, or mild acidic solutions to disperse agglomerates, while dry sieving handles hygroscopic or free-flowing powders. The instrument complies with ISO 3310 and ASTM E11 sieve standards, ensuring reproducible results for quality control, R&D, and academic teaching.",
+  "sop": [
+    "Ensure the instrument is placed on a stable, level bench and connected to a 220V, 50Hz/60Hz power supply.",
+    "Select the appropriate sieve stack (diameters 100, 150, 200, or 203 mm) with mesh sizes ranging from 20 μm to 25 mm, and assemble them in descending order with a collecting pan at the bottom.",
+    "Weigh the sample (maximum 3 kg) and load it onto the top sieve; for wet sieving, add the suspension or solvent as required.",
+    "Secure the sieve stack onto the electromagnetic drive platform using the clamping mechanism.",
+    "Power on the instrument using the main switch; the 5-inch color touch screen will initialize.",
+    "Press the 'SET' button once to enter parameter setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the amplitude to the required value between 0.2 and 3.0 mm.",
+    "Press 'SET' again to lock the amplitude value and move to the next parameter (time setting).",
+    "Use the 'UP' and 'DOWN' arrows to set the sieving time from 1 to 99 minutes.",
+    "Press 'SET' again to lock the time; optionally set interval operation from 00 to 99 seconds using the same method.",
+    "If desired, store the parameter combination in one of the 9 program memories by pressing the memory key and selecting a slot.",
+    "Press the 'START' button on the touch screen to begin the sieving process; the electromagnetic drive will generate the 3D motion.",
+    "Monitor the operation; the instrument will stop automatically after the set time or when manually stopped.",
+    "After completion, carefully remove the sieve stack and weigh the retained material on each sieve to determine particle size distribution.",
+    "Clean the sieves and instrument thoroughly after each use, especially after wet sieving, to prevent cross-contamination.",
+    "SAFETY WARNING: Always disconnect the power supply before cleaning or maintenance, and never operate the shaker with loose clothing, hair, or jewelry that could be caught in moving parts; wear appropriate PPE including safety glasses and gloves when handling fine powders or chemical suspensions."
+  ],
+  "features": [
+    "Unique Tri-Dimensional (3D) sieving motion driven by an electromagnetic coil",
+    "5 inch color touch screen menu driven controller for parameter setting",
+    "Programmable amplitude adjustment range from 0.2 to 3.0 mm",
+    "Suitable for high-efficiency Dry and Wet sieving down to 20μm",
+    "Low noise and 100% maintenance-free mechanical operation"
+  ],
+  "specifications": {
+    "Equipment Configuration": "Advanced Electromagnetic 3D Sieve Shaker",
+    "Feed Material": "Powders, Bulk materials & Suspensions",
+    "Max. Feed Capacity": "3 kg",
+    "Measuring Range": "20μm to 25mm",
+    "Amplitude Adjustment Range": "0.2 to 3.0 mm",
+    "Time Setting": "1 to 99 min",
+    "Interval Operation Setting": "00 to 99 seconds",
+    "Sieving Drive": "Electromagnetic drive",
+    "Sieving Direction": "Tri-dimensional (3D) motion",
+    "Sieving Type": "Dry and Wet sieving",
+    "Sieve Diameters Supported": "100 / 150 / 200 / 203 mm",
+    "Program Memory": "9 Parameter combinations that can be stored",
+    "Max. Number of Fractions": "9 / 17",
+    "Rated Power": "400W",
+    "Power Supply": "220V, 50Hz/60Hz",
+    "Target Applications": "Particle Size Grading of soils, cement, grains, chemicals, coffee, pharmaceuticals",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/electromagnetic_sieve_shaker.glb",
+  "image": "assets/instruments/electromagnetic_sieve_shaker.webp",
+  "images": null
+}

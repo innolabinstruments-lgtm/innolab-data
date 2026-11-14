@@ -1,6 +1,23 @@
 {
   "name": "VDRL SHAKER",
   "desc": "The INNOLAB INSTRUMENTS INNO-VDRL-16 VDRL Shaker is a specialized orbital rotator used extensively in clinical diagnostic laboratories, hematology departments, and blood banks. It is primarily utilized for mixing and auto-agglutination tests on slides, including VDRL and syphilis screening. This compact unit delivers smooth, continuous circular motions ensuring highly reproducible diagnostic reactions.",
+  "principle": "The INNOLAB INSTRUMENTS VDRL Shaker is a specialized orbital rotator engineered to deliver smooth, continuous circular agitation at precisely controlled speeds between 150 and 200 RPM, enabling reproducible antigen-antibody flocculation reactions in Venereal Disease Research Laboratory (VDRL) slide tests. It is extensively used by pathologists, medical laboratory technologists, B.Sc/M.Sc students in microbiology, biochemistry, and clinical pathology, as well as PhD researchers and chemists investigating serological diagnostics. The instrument ensures uniform mixing of patient serum or cerebrospinal fluid with VDRL antigen containing cardiolipin, lecithin, and cholesterol, facilitating the detection of reagin antibodies indicative of Treponema pallidum infection. Its orbital motion is optimized for auto-agglutination and flocculation assays, supporting syphilis screening in blood banks, STD clinics, and diagnostic laboratories under WHO and CLSI guidelines, while aligning with ISO 15189 quality management requirements for clinical testing.",
+  "sop": [
+    "Place the INNOLAB INSTRUMENTS VDRL Shaker on a clean, level, vibration-free laboratory bench and connect it to a 220 V, 50 Hz power supply.",
+    "Ensure the 300 x 300 mm platform is clean and dry, then securely position the glass slides with patient serum or CSF and VDRL antigen into the spring holders.",
+    "Switch ON the main power button and verify that the Digital LED RPM display illuminates.",
+    "Press the 'SET' button once to enter the speed setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, typically 180 RPM for standard VDRL flocculation.",
+    "Press 'SET' again to lock the value and store the RPM setpoint.",
+    "Press the 'SET' button once more to enter the timer setting mode, then use the 'UP' and 'DOWN' arrows to set the required rotation time, usually 4 to 8 minutes according to the test protocol.",
+    "Press 'SET' again to lock the timer value.",
+    "Press the START/STOP button to begin orbital rotation and observe that the platform reaches the set RPM smoothly without vibration or slide displacement.",
+    "Allow the shaker to run for the programmed duration, monitoring the digital display to ensure speed remains stable at the target RPM.",
+    "After the timer expires or the test is complete, press the START/STOP button to stop the platform completely before opening the lid or reaching near the slides.",
+    "Carefully remove the slides and immediately read the flocculation results under a microscope or magnifying lens as per standard VDRL interpretation criteria.",
+    "Switch OFF the main power supply and disconnect the unit if not in use for an extended period.",
+    "Safety Warning: Always treat all serum, plasma, and CSF specimens as potentially infectious; wear appropriate personal protective equipment, and after each use disinfect the platform and spring holders with 70% ethanol or a suitable laboratory disinfectant to prevent cross-contamination and biohazard exposure."
+  ],
   "features": [
     "13 x 13 inches platform equipped with specialized spring holders",
     "Rotational speed strictly adjustable from 150 to 200 RPM",

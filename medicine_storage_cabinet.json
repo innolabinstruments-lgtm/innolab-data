@@ -1,6 +1,19 @@
 {
   "name": "MEDICINE STORAGE CABINET",
   "desc": "The INNOLAB INSTRUMENTS Controlled Room Temperature (CRT) Medicine Storage Cabinet is designed for medical and clinical trial applications where medicines are stored at 15°C and 25°C. Features double wall construction with stainless steel 304 interior, forced air circulation, and a microprocessor-based controller for uniform temperature distribution.",
+  "principle": "The INNOLAB INSTRUMENTS MEDICINE STORAGE CABINET is engineered to maintain validated controlled room temperature (CRT) conditions between 15°C and 25°C, aligning with USP <659> and WHO storage guidelines for temperature-sensitive pharmaceutical products. Its double-wall construction with stainless steel 304 interior and forced axial-fan air circulation ensures uniform temperature distribution, preventing thermal stratification that could compromise drug stability, potency, or sterility. The microprocessor-based PID controller continuously compares the process value (PV) to the set value (SV) and modulates the CFC-free refrigeration system to deliver precise thermal regulation with audible/visual alarms for excursion events. This cabinet is essential for doctors, B.Sc/M.Sc students, PhD researchers, and chemists who store and evaluate medicines, clinical trial kits, reference standards, reagents, antibiotics, peptides, herbal extracts, and biological buffers that require CRT stability testing or daily dispensing. The corrosion-free SS304 interior resists degradation from residual humidity and minor spills, while the forced convection design supports compliance with ISO 17025 and ASTM E1292 temperature mapping protocols.",
+  "sop": [
+    "Verify that the cabinet is placed on a level surface with at least 10 cm clearance on all sides and that the ambient room temperature is within 10°C to 35°C before switching on.",
+    "Connect the cabinet to a properly grounded 220V, 50Hz power outlet and switch ON the main power supply; allow the controller to initialize.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 20°C for CRT compliance).",
+    "Press 'SET' again to lock the value.",
+    "Allow the cabinet to stabilize for at least 30–60 minutes and verify that the displayed PV reaches the SV before loading any medicines.",
+    "Load pre-labeled medicines, clinical trial kits, or temperature-sensitive reagents into the stainless steel 304 chamber, ensuring adequate spacing between items for even forced-air circulation.",
+    "Close the door firmly and minimize door openings to preserve internal temperature stability and reduce condensation risk.",
+    "Record the temperature (PV) from the microprocessor display at scheduled intervals (e.g., morning and evening) in a logbook, and respond immediately to any audible/visual alarm.",
+    "Safety Warning: Never store explosive, flammable, or volatile organic solvents (e.g., ether, acetone, ethanol) in this cabinet, as the electrical components and fan motor may provide an ignition source; always follow chemical compatibility, SDS, and institutional protocols for medicine storage."
+  ],
   "features": [
     "15°C to 25°C standard storage temperature range",
     "Uniform temperature distribution across the chamber via Axial Fan",

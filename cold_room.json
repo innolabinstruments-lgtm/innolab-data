@@ -1,0 +1,53 @@
+{
+  "name": "COLD ROOM",
+  "desc": "Premium Walk-In Laboratory Cold Room engineered for high-capacity storage of reagent kits, culture media, and sensitive laboratory products. Features a double-walled modular structure with 200mm high-density PUF insulation and a high-efficiency air-cooled refrigeration system.",
+  "principle": "The INNOLAB INSTRUMENTS COLD ROOM is a modular walk-in environmental chamber engineered for precise temperature control from -40°C to 20°C, utilizing high-density PUF insulation and an air-cooled R-404 refrigeration system. It is designed for high-capacity storage of temperature-sensitive reagents, culture media, vaccines, enzymes, and biological samples. In clinical and research laboratories, it supports storage of blood plasma, serological reagents, and microbiological culture media such as agar plates and broths, preventing degradation of heat-labile compounds like antibiotics, vitamins, and enzymes. It is also used for stability testing of pharmaceuticals under ICH guidelines, cold chain validation for vaccines, and storage of volatile organic compounds (VOCs) and strong acids that require low-temperature containment to prevent vapor pressure buildup. The chamber meets ISO 9001 and CE standards for laboratory equipment, ensuring uniform temperature distribution and alarm systems for sample integrity.",
+  "sop": [
+    "Ensure the cold room is connected to a 440V, 3-phase power supply and the main isolator switch is ON.",
+    "Check that the door is properly sealed and no frost or ice accumulation is blocking the gasket.",
+    "Press the 'SET' button once on the microprocessor-based digital controller.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., -20°C for reagent storage or 4°C for media).",
+    "Press 'SET' again to lock the value and initiate the cooling cycle.",
+    "Allow the cold room to stabilize for at least 30 minutes before loading samples; monitor the LED display for temperature and alarm status.",
+    "Load samples in an organized manner, leaving space for air circulation; avoid blocking the evaporator fans.",
+    "Close the door securely and ensure the anti-condensation door system is engaged.",
+    "Record the temperature and time in the logbook; check for any alarm signals (high-visibility LED) indicating deviation.",
+    "Safety Warning: Never enter the cold room if the temperature is below -20°C without proper thermal protective gear, and always ensure the emergency internal door release is functional to prevent entrapment."
+  ],
+  "features": [
+    "Dynamic control from -40°C to 20°C (Deep Freeze to Positive Chill)",
+    "200 mm high-efficiency Polyurethane Foam (PUF) panels",
+    "Heavy-duty Stainless Steel floor with Aluminum Chequered Plates",
+    "Microprocessor-Based Digital Controller Layout with precision set control",
+    "High-efficiency Air-Cooled Compressor using R-404 Non-Flammable gas"
+  ],
+  "specifications": {
+    "Equipment Type": "Modular Walk-In Laboratory Cold Room Setup",
+    "Target Applications": "Storage of Reagent Kits, Microbiological Media, and Lab Products",
+    "Working Temperature Range": "Dynamic control from -40°C to 20°C (Deep Freeze to Positive Chill)",
+    "Ambient External Temperature": "Stable operation up to 45°C high-ambient conditions",
+    "Insulation Core Thickness": "200 mm high-efficiency Polyurethane Foam (PUF) panels",
+    "Internal Dimensions (L x W x H)": "120 × 10 × 8 Inches standard high-clearance enclosure layout",
+    "Overall Dimensions (L x W x H)": "93 × 93 × 96 Inches outer profile footprint",
+    "Interior Panel Material": "High-Grade Stainless Steel / Prepainted Steel Sheet options",
+    "Outer Panel Enclosure": "GI Coated, CPRCA Sheet with heavy protective Stainless Steel cladding",
+    "Floor Construction Material": "Heavy-duty Stainless Steel with Aluminum Chequered Plates anti-slip build",
+    "Cold Room Door Configuration": "Single 34 × 78 Inches heavy insulated Anti-Condensation Door system",
+    "Refrigeration Compressor": "Heavy-duty, high-performance Air-Cooled Compressor assembly",
+    "Eco-Refrigerant Specification": "R-404 Non-Flammable, CFC-Free stable cooling gas",
+    "Control System Architecture": "Microprocessor-Based Digital Controller Layout",
+    "Integrated System Features": "Precision Temperature Set Control with automated calibration setup",
+    "Safety Alarm Systems": "High-visibility LED signals to display alarm system intervention alerts",
+    "Acoustic Noise Level": "Silent industrial operations (Compressor Noise Level < 60 Decibels)",
+    "Power & Electrical Supply": "440 Volt, 3-Phase Industrial Power (Maximum consumption: 2000 Watt)",
+    "Equipment Net Weight": "Approximately 1000 Kilograms heavy-duty structural build",
+    "Preventive Maintenance Cover": "2 Dedicated compliance visits offered in a year during warranty span",
+    "Quality Certifications": "Fully Certified ISO & CE Compliant manufacturing standards",
+    "Warranty & Service Support": "12 Months (1 Year) Comprehensive Manufacturer Warranty on complete unit and spares",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/cold_room.glb",
+  "image": "assets/instruments/cold_room.webp",
+  "images": null
+}

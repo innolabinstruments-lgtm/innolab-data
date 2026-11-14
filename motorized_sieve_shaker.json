@@ -1,6 +1,21 @@
 {
   "name": "MOTORIZED SIEVE SHAKER",
   "desc": "The INNOLAB INSTRUMENTS INNO-MSS-65 Motorized Sieve Shaker (Gyratory) is a heavy-duty, floor-mounted grading unit used primarily in mining, metallurgy, and industrial quality control labs. It is designed to impart a steady circular and tapping motion, ensuring reliable and rapid segregation of heavy, granular batch samples.",
+  "principle": "The INNOLAB INSTRUMENTS MOTORIZED SIEVE SHAKER is a robust gyratory particle size analysis system engineered for precise segregation of heavy granular materials in mining, metallurgy, and industrial quality control laboratories. It employs a dual-action circular and tapping motion to efficiently stratify and separate particles according to size, ensuring compliance with international testing standards such as ASTM C136, ISO 3310, and IS 460. This instrument is indispensable for B.Sc and M.Sc geology students, PhD researchers in mineral processing, and quality control chemists who analyze ores, coal, aggregates, and abrasive powders. It safely handles dense, abrasive samples including silica, iron ore, and bauxite, while its enclosed sieve stack minimizes exposure to respirable crystalline silica dust and other hazardous particulates.",
+  "sop": [
+    "Ensure the instrument is placed on a level, vibration-absorbing surface and connected to a 220V 50Hz power supply with proper earthing.",
+    "Select the appropriate test sieves (8x2 inch or 12x2 inch) based on the required particle size fractions, and stack them in descending mesh size with a pan at the bottom and lid on top.",
+    "Place the pre-weighed sample (typically 100-500g depending on material density) into the top sieve and secure the entire stack onto the shaker platform using the provided clamps and steel rods.",
+    "Press the 'SET' button once on the digital timer (if equipped) to enter timer setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., shaking duration in minutes, typically 10-15 minutes for standard sieving).",
+    "Press 'SET' again to lock the value and exit setting mode.",
+    "Adjust the vibration speed regulator to the desired intensity (start at low speed and gradually increase to prevent sample loss).",
+    "Press the start button or switch to initiate the gyratory motion and allow the shaker to run for the set duration.",
+    "After the timer expires and the shaker stops automatically, wait for complete cessation of motion before unlocking the clamps.",
+    "Carefully remove the sieve stack and weigh the retained material on each sieve to calculate particle size distribution.",
+    "Clean all sieves, pan, and lid with a soft brush or compressed air, ensuring no residual particles remain to avoid cross-contamination.",
+    "SAFETY WARNING: Always wear appropriate PPE including dust mask, safety goggles, and gloves when handling fine powders, as sieving of heavy minerals can generate respirable dust (e.g., crystalline silica) that may cause silicosis; never open the lid while the shaker is in motion."
+  ],
   "features": [
     "Imparts a smooth Gyratory (circular and tapping) mechanical motion",
     "Rugged heavy gauge mild steel construction mounted on a cast iron base",

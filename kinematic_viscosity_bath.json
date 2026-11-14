@@ -1,6 +1,23 @@
 {
   "name": "KINEMATIC VISCOSITY BATH",
   "desc": "High-Precision Automatic High-Temperature Kinematic Viscosity Bath engineered for accurate constant-temperature fluid profiling. Features a spacious 50-liter capacity internal reservoir fully fabricated from heavy-gauge, corrosion-resistant polished Stainless Steel.",
+  "principle": "The INNOLAB INSTRUMENTS KINEMATIC VISCOSITY BATH is a high-precision constant-temperature fluid profiling workstation engineered to maintain a stable thermal environment for accurate kinematic viscosity measurements of transparent and opaque liquids in accordance with ASTM D445 and ISO 3104 standards. The system utilizes a 50-liter corrosion-resistant stainless steel reservoir with advanced high-flow uniform liquid circulation technology to eliminate thermal lag, ensuring zero-gradient temperature homogeneity across the entire bath volume. An intelligent microprocessor-based digital PID controller continuously monitors industrial-grade electronic sensors and modulates the heating element to hold the setpoint within ±0.01°C, enabling precise determination of efflux time through calibrated glass capillary viscometers. This instrument is indispensable for petrochemical laboratories analyzing lubricating oils, fuels, and hydraulic fluids; pharmaceutical R&D teams characterizing polymer solutions, protein formulations, and enzyme reaction kinetics; and academic researchers (B.Sc, M.Sc, PhD) investigating rheological behavior of colloidal suspensions, surfactants, and biological fluids. The bath's constant incubation capability supports enzymatic assays, microbial growth studies, and stability testing of temperature-sensitive reagents, while its robust construction safely accommodates aggressive media such as strong acids, alkalis, and volatile organic compounds (VOCs) when used with appropriate secondary containment.",
+  "sop": [
+    "Ensure the bath is placed on a level, stable surface and the reservoir is filled with the appropriate heat transfer fluid (distilled water, silicone oil, or ethylene glycol mixture) to the indicated level mark, never exceeding 80% capacity.",
+    "Connect the power cord to a grounded 220 V AC, 50 Hz single-phase outlet and switch ON the main power breaker.",
+    "Press the 'SET' button once on the digital temperature controller; the display will flash the current setpoint value.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 40.00°C for ASTM D445 testing of lubricants).",
+    "Press 'SET' again to lock the value; the controller will automatically begin heating and the circulation pump will start to ensure uniform temperature distribution.",
+    "Allow the bath to stabilize for at least 30–45 minutes, monitoring the display until the actual temperature matches the setpoint and remains steady without fluctuation.",
+    "Verify the low water level indicator is not illuminated and no acoustic warning is active; if the alarm sounds, immediately switch OFF the unit and top up the fluid to the safe level before restarting.",
+    "Immerse the clean, dry calibrated viscometer (e.g., Cannon-Fenske or Ubbelohde) vertically into the bath using a suitable holder, ensuring the capillary is fully submerged and the meniscus is visible through the bath window.",
+    "Allow the viscometer and sample to equilibrate for at least 15 minutes at the set temperature before introducing the test liquid.",
+    "Using a pipette or syringe, charge the viscometer with the pre-filtered sample, avoiding air bubbles, and allow it to reach thermal equilibrium for an additional 10 minutes.",
+    "Measure the efflux time of the liquid between the timing marks using a calibrated stopwatch or automatic optical sensor, repeating the measurement at least three times for reproducibility.",
+    "After completing all measurements, remove the viscometer, clean it thoroughly with an appropriate solvent (e.g., toluene or acetone for petroleum products), and dry it before storage.",
+    "Switch OFF the main power breaker, allow the bath fluid to cool to ambient temperature, and drain the reservoir if the instrument will not be used for an extended period.",
+    "SAFETY WARNING: Never operate the bath with flammable heat transfer fluids above their flash point, and always use a fume hood when testing volatile or toxic samples; the over-temperature auto cutoff is a failsafe, not a substitute for continuous operator supervision."
+  ],
   "features": [
     "50 Litre high-capacity internal processing reservoir tank",
     "Advanced high-flow uniform liquid circulation technology for zero thermal lag",

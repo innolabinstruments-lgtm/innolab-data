@@ -1,6 +1,26 @@
 {
   "name": "HORIZONTAL TUBE FURNACE",
   "desc": "High-Precision Horizontal Vacuum Atmosphere Tube Furnace workstation engineered for accurate high-temperature thermal treatments and anaerobic sintering operations. Features a high-purity quartz processing tube reaching a maximum heating temperature of 1200°C.",
+  "principle": "The INNOLAB INSTRUMENTS HORIZONTAL TUBE FURNACE is a high-precision thermal processing workstation engineered for controlled atmosphere and vacuum sintering, annealing, and chemical vapor deposition (CVD) up to 1200°C. Its high-purity quartz tube and alumina fiber insulation ensure uniform heat distribution, enabling researchers, PhD candidates, and industrial chemists to perform advanced material synthesis, such as carbon nanotube growth, graphene oxide reduction, ceramic densification, and thin film deposition. The furnace supports inert gas purging (N2, Ar) and vacuum down to 0.1 MPa, making it ideal for processing oxygen-sensitive compounds, metal-organic frameworks (MOFs), and semiconductor wafers. B.Sc/M.Sc students utilize it for basic solid-state reactions and thermogravimetric studies, while doctors and biomedical researchers may employ it for ashing biological samples or sterilizing heat-resistant instruments, adhering to ISO 9001 and ASTM E537 thermal analysis standards.",
+  "sop": [
+    "Ensure the furnace is placed on a stable, non-flammable surface and connected to a properly grounded 220V AC, 50 Hz power outlet.",
+    "Inspect the quartz tube, sealing flanges, and O-rings for cracks, debris, or wear; clean if necessary.",
+    "Connect the inert gas supply (e.g., nitrogen or argon) to the inlet port using the silicone tubing, and ensure the outlet is vented to a fume hood or safe exhaust.",
+    "If vacuum operation is required, connect the external vacuum pump to the vacuum port and verify all connections are tight.",
+    "Load the sample into a suitable crucible or boat and carefully insert it into the center of the quartz tube using a push rod, ensuring it is within the uniform heating zone.",
+    "Seal both ends of the quartz tube with the stainless steel flanges, tightening evenly to avoid stress on the tube.",
+    "Turn on the main power switch; the dual LED display will illuminate showing the current temperature (PV) and setpoint (SV).",
+    "Press the 'SET' button once; the SV display will flash.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 800°C for annealing).",
+    "Press 'SET' again to lock the value; the controller will now ramp to the setpoint according to the programmed ramp rate.",
+    "If a multi-step profile is needed, press and hold 'SET' to enter programming mode, then set each of the 30 steps (ramp rate, target temperature, dwell time) using the arrows and 'SET' to confirm each parameter.",
+    "Initiate the inert gas flow (typically 50-200 mL/min) or start the vacuum pump to achieve the desired atmosphere; monitor pressure gauge if vacuum is used.",
+    "Allow the furnace to heat up; do not leave unattended during operation.",
+    "After the process is complete, allow the furnace to cool naturally or set a controlled cooling ramp; do not open flanges until temperature is below 200°C to prevent thermal shock to the quartz tube.",
+    "Turn off the gas flow or vacuum pump, then switch off the main power.",
+    "Once cooled, carefully remove the flanges and extract the sample using heat-resistant gloves and tongs.",
+    "Safety Warning: Never open the furnace or disconnect gas/vacuum lines while the tube is hot or under positive/negative pressure; always wear appropriate PPE (heat-resistant gloves, safety goggles, lab coat) and ensure proper ventilation to avoid exposure to toxic fumes or thermal burns."
+  ],
   "features": [
     "High-intensity thermal processing peak calibrated at exactly 1200°C",
     "High-purity thermal shock resistant transparent Quartz Tube assembly",

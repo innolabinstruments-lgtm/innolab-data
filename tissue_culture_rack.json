@@ -1,6 +1,21 @@
 {
   "name": "TISSUE CULTURE RACK",
   "desc": "The INNOLAB INSTRUMENTS Tissue Culture Rack is a highly specialized environmental storage system engineered for the optimized growth and propagation of plant tissue and cell cultures in botanical laboratories, agriculture research facilities, and biotechnology industries. It provides uniformly distributed luminescence, optimal ventilation, and customizable shelving options to replicate the precise lighting spectrum required for robust photosynthesis and in-vitro development.",
+  "principle": "The INNOLAB INSTRUMENTS Tissue Culture Rack operates on the principle of controlled environmental photomorphogenesis, providing a precisely regulated light spectrum and intensity to support in-vitro plant cell totipotency, callus induction, shoot proliferation, and root differentiation. It is engineered for botanical researchers, agricultural biotechnologists, and plant physiologists who cultivate explants of species such as Nicotiana tabacum, Arabidopsis thaliana, Oryza sativa, and Solanum tuberosum on Murashige and Skoog (MS) or Gamborg B5 media supplemented with phytohormones like 6-benzylaminopurine (BAP), naphthaleneacetic acid (NAA), and 2,4-dichlorophenoxyacetic acid (2,4-D). The rack’s dual lighting system—combining 40 W cool-white fluorescent tubes for photosynthetic active radiation (PAR) and 25 W incandescent lamps for far-red and infrared supplementation—mimics the spectral quality required for chlorophyll biosynthesis and photoperiodic flowering responses. Uniform lux distribution across each 48″ x 18″ shelf minimizes positional effects on callus growth kinetics, while independent shelf switching allows researchers to run comparative light intensity studies (e.g., 2000–5000 lux) under ISO 8655-compliant environmental stability. The powder-coated mild steel or stainless steel structure resists corrosion from ethanol (70% v/v) surface sterilization, sodium hypochlorite (1–2% v/v) explant disinfection, and residual volatile organic compounds (VOCs) from laminar flow hoods, ensuring long-term aseptic integrity for PhD-level micropropagation, somatic embryogenesis, and secondary metabolite production studies.",
+  "sop": [
+    "Ensure the tissue culture rack is placed on a level surface and the castor wheels are locked to prevent movement during operation.",
+    "Connect the power cord to a 230 ± 10 V / 50 Hz grounded electrical outlet and switch on the main power supply.",
+    "For each shelf, locate the independent lighting switch and turn it ON to activate the 4 x 40 W fluorescent tubes.",
+    "If additional spectral radiation is required, switch ON the supplementary 4 x 25 W incandescent lamps on the desired shelf.",
+    "To set a photoperiod timer (if connected to an external PID or digital timer), press the 'SET' button once on the timer controller.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, such as 16 hours light / 8 hours dark for long-day plants.",
+    "Press 'SET' again to lock the value and ensure the timer display stops flashing.",
+    "Place sterilized culture vessels (e.g., magenta boxes, petri dishes, or test tubes) evenly on the shelf, leaving at least 2 cm spacing between vessels for uniform air circulation and light penetration.",
+    "Adjust the shelf height if needed by repositioning the brackets, ensuring the distance between the light source and culture vessels is 25–30 cm to avoid photobleaching or heat stress.",
+    "Monitor the internal temperature daily with a calibrated thermometer; if temperature exceeds 28°C, switch off incandescent lamps or increase room ventilation.",
+    "After use, turn off all shelf lighting switches and the main power supply before cleaning.",
+    "SAFETY WARNING: Never operate the rack with wet hands or near flammable solvents such as ethanol or acetone vapors, as the incandescent lamps generate high surface temperatures that can ignite volatile chemicals; always allow lamps to cool for at least 15 minutes before cleaning or replacing bulbs, and disconnect power before any maintenance to prevent electric shock."
+  ],
   "features": [
     "Sturdy framework constructed from premium Mild Steel (Powder Coated) or Stainless Steel",
     "Configurable racking system available in four, five, or six shelf options",

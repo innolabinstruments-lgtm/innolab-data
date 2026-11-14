@@ -1,6 +1,23 @@
 {
   "name": "ULTRASONIC CLEANER WITH FILTRATION SYSTEM",
   "desc": "The INNOLAB INSTRUMENTS Ultrasonic Cleaner with Filtration System incorporates an active circulation circuit that continuously filters out particulate contaminants. This design extends cleaning agent life and guarantees zero re-deposit of particles onto sensitive industrial components.",
+  "principle": "The INNOLAB INSTRUMENTS ULTRASONIC CLEANER WITH FILTRATION SYSTEM utilizes high-frequency 40 kHz piezoelectric transducers to generate intense cavitation within an aqueous cleaning medium, creating microscopic vacuum bubbles that implode violently and release localized shockwaves and high-velocity micro-jets capable of dislodging micron and sub-micron contaminants—such as metal chips, burnt carbon, fine polishing debris, oils, greases, proteinaceous residues, and biological films—from complex surfaces, blind holes, and crevices. The integrated active filtration circuit continuously recirculates the cleaning fluid through a filter tank, motor, and cartridge filter, extracting suspended particulates before the solution returns to the cleaning bath, thereby extending detergent life, preventing redeposition, and ensuring a zero-particle finish. This system is specifically engineered for clinical, academic, and research environments where doctors and dentists clean reusable surgical and dental instruments prior to autoclaving (removing blood, tissue, and bioburden per ISO 15883 pre-disinfection guidelines), B.Sc and M.Sc students decontaminate laboratory glassware exposed to strong acids (HCl, HNO3, H2SO4), organic solvents (acetone, ethanol, isopropyl alcohol), and polymer or dye residues, while PhD researchers and chemists use it for cleaning substrates before thin-film deposition, degassing HPLC mobile phases, dispersing nanoparticles, and removing photoresist or solder flux from MEMS devices, all under adjustable temperature (35°C–95°C) and timer control to meet ASTM G131 and ISO 13485 cleaning validation requirements.",
+  "sop": [
+    "Inspect the unit, ensure the filtration system filter is clean and properly seated, and confirm the cleaning tank is empty and dry.",
+    "Fill the stainless steel 304 tank with a compatible aqueous cleaning solution (e.g., dilute enzymatic detergent or neutral pH surfactant) to the recommended level, ensuring items will be completely submerged but the liquid does not exceed the max fill line.",
+    "Place contaminated instruments, glassware, or components into the mesh basket; avoid stacking to allow cavitation access to all surfaces.",
+    "Close the lid securely to suppress aerosol release and reduce noise.",
+    "Press the 'SET' button once to select the temperature setpoint.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 60°C for enzymatic cleaning), then press 'SET' again to lock the value.",
+    "Press the 'SET' button once again to select the timer setpoint.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 30 minutes), then press 'SET' again to lock the value.",
+    "Adjust the ultrasonic power output using the external generator control to the desired intensity (typically 40–100%) based on soil load and substrate fragility.",
+    "Switch on the integrated filtration circulation pump and verify that the cleaning solution is flowing through the filter tank and returning to the bath without leaks.",
+    "Press the main ultrasonic start button to initiate cavitation; monitor for uniform bubbling and no abnormal noise.",
+    "After the cycle completes, switch off ultrasonic and filtration systems, allow the solution to cool if heated, then remove items using appropriate tongs or gloves.",
+    "Drain the tank, rinse items thoroughly with deionized or distilled water, and dry before further use or sterilization.",
+    "Safety Warning: Never operate the ultrasonic cleaner when the tank is empty or below the minimum liquid level, and do not use flammable or explosive solvents such as pure acetone or diethyl ether in the bath—cavitation can vaporize them and create fire or explosion hazards; always use water-based detergents in a well-ventilated area and keep hands out of the active bath to avoid tissue damage from cavitation."
+  ],
   "features": [
     "Integrated circulation system with filter tank, motor, and filter",
     "Filters out metal chips, fines, and burned carbons during operation",

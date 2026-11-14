@@ -1,6 +1,23 @@
 {
   "name": "PLANETARY BALL MILL",
   "desc": "The INNOLAB INSTRUMENTS INNO-PBM-8L Planetary Ball Mill is a high-energy milling machine used extensively in nanotechnology, pharmaceuticals, and materials science. It is engineered to pulverize, mix, and mechanically alloy powders and slurries down to the sub-micron or nano level (particle size below 1 µm). This machine handles soft, medium-hard, very hard, brittle, and fibrous samples in either dry or wet mode.",
+  "principle": "The INNOLAB INSTRUMENTS PLANETARY BALL MILL operates on the principle of high-energy planetary ball milling, where grinding jars rotate around their own axis while simultaneously orbiting a central sun wheel, generating intense centrifugal and Coriolis forces. This dual motion causes grinding balls inside the jars to collide with the sample and jar walls at high impact energies, producing rapid size reduction, mechanical alloying, and homogenization down to sub-micron or nano scale (below 1 µm). The mill is extensively used by doctors, B.Sc/M.Sc students, PhD researchers, and chemists for applications such as preparing lithium-ion battery cathode materials (e.g., NMC, LFP, graphite), synthesizing amorphous pharmaceutical co-crystals and nano-suspensions, pulverizing geological rock samples for mineralogical analysis, and producing advanced ceramics like alumina and zirconia. It handles strong acids, volatile organic compounds (VOCs), and oxygen-sensitive materials when equipped with optional vacuum or inert-gas jars, and supports both dry and wet milling. The process adheres to particle size analysis standards such as ISO 13320 (laser diffraction) and ASTM B822 for metal powders, ensuring reproducible results in nanotechnology, materials science, and pharmaceutical research.",
+  "sop": [
+    "Ensure the planetary ball mill is placed on a stable, vibration-free surface and connected to a properly grounded power supply.",
+    "Select appropriate grinding jars and balls based on sample compatibility: use zirconia or agate for contamination-free milling, tungsten carbide for very hard samples, and stainless steel for general purposes.",
+    "Load the sample and grinding balls into each jar, filling approximately one-third of jar volume with sample, one-third with balls, and leaving one-third empty space; for wet milling, add a suitable solvent such as ethanol or water.",
+    "Securely clamp the jars into the four stations using the dual clamping mechanism, ensuring they are symmetrically balanced to prevent excessive vibration.",
+    "Close the safety cover completely and verify that all interlocks are engaged.",
+    "Turn on the main power switch and wait for the touch screen controller to initialize.",
+    "Press the 'SET' button once on the PID controller to enter speed setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target rotational speed (RPM) within the range of 40 to 870 rpm, depending on jar material and sample hardness.",
+    "Press 'SET' again to lock the speed value.",
+    "Press the 'SET' button once more to enter timer setting mode, then use the 'UP' and 'DOWN' arrows to set the milling duration between 1 and 9999 minutes.",
+    "Press 'SET' again to lock the timer value, and if required, configure the direction mode (forward, reverse, or pause) via the touch screen.",
+    "Press the 'START' button to begin the milling operation; monitor the process from a safe distance and never open the safety cover while the mill is running.",
+    "After the timer expires, wait for the mill to come to a complete stop before opening the cover and carefully removing the jars.",
+    "Safety Warning: Always wear appropriate personal protective equipment (safety glasses, gloves, lab coat) and never exceed the maximum recommended speed for the jar material; for oxygen-sensitive or reactive samples, use vacuum or inert-gas purged jars to prevent explosion or fire, and ensure jars are properly balanced to avoid catastrophic mechanical failure."
+  ],
   "features": [
     "Particle size below 1 µm achievable (material dependent)",
     "Color touch screen programmable controller (forward, reverse, pause)",

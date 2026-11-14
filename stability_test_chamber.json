@@ -1,6 +1,23 @@
 {
   "name": "STABILITY TEST CHAMBER",
   "desc": "Double-Walled Laboratory Stability Test Chamber engineered for precise long-term climate testing and drug stability studies. Features a 100-liter SS inner chamber, advanced CFC-free PUF insulation, and high-precision microprocessor safety control.",
+  "principle": "The INNOLAB INSTRUMENTS STABILITY TEST CHAMBER is a high-precision environmental simulation system engineered for long-term stability testing, accelerated aging studies, and shelf-life determination of pharmaceuticals, cosmetics, food products, and chemical compounds. It provides a tightly controlled microclimate with temperature range from 5°C to 60°C and relative humidity from 30% to 95% RH, maintaining accuracy of ±0.2°C and ±2% RH. The double-walled construction with CFC-free high-density PUF insulation ensures minimal thermal loss and uniform conditions, while the microprocessor-based PID controller continuously adjusts heating, cooling, and humidification/dehumidification to maintain setpoints. This chamber is essential for B.Sc/M.Sc students, PhD researchers, and quality control chemists who need to evaluate the degradation kinetics of active pharmaceutical ingredients (APIs), excipients, and formulations under ICH Q1A (R2) guidelines, as well as for testing the stability of volatile organic compounds (VOCs), hygroscopic salts, and biological specimens such as bacterial and fungal cultures under controlled climatic stress. It also supports ASTM and ISO stability testing protocols for industrial materials.",
+  "sop": [
+    "Ensure the chamber is placed on a level surface and connected to a stable 220V AC, 50Hz single-phase power supply.",
+    "Switch ON the main power switch and allow the controller to initialize.",
+    "Press the 'SET' button once on the microprocessor controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 25°C or 40°C).",
+    "Press 'SET' again to lock the temperature value.",
+    "Press the 'SET' button once more (or navigate to humidity parameter) to enter humidity setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target relative humidity (e.g., 60% RH or 75% RH).",
+    "Press 'SET' again to lock the humidity value.",
+    "Allow the chamber to stabilize for at least 30-60 minutes until the display shows stable temperature and humidity readings within tolerance.",
+    "Open the outer magnetic door and inner acrylic door, place the samples on the stainless steel wire mesh trays, ensuring adequate spacing for air circulation.",
+    "Close both doors securely, ensuring the magnetic gasket and silicone gasket seal properly.",
+    "Monitor the chamber periodically via the digital display or optional PC interface with 21 CFR Part 11 compliance for data logging.",
+    "After the test duration, record final readings, then switch OFF the chamber and allow it to return to ambient conditions before removing samples.",
+    "Safety Warning: Always wear appropriate personal protective equipment (PPE) such as gloves and safety goggles when handling samples, especially if they contain volatile, corrosive, or biologically hazardous materials; never open the chamber doors abruptly during high-humidity or high-temperature operation to avoid thermal shock or release of hazardous vapors."
+  ],
   "features": [
     "Broad operational temperature baseline from 5°C to 60°C",
     "Wide controlled moisture spectrum from 30% RH up to 95% RH",

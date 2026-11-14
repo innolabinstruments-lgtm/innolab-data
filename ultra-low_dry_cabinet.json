@@ -1,6 +1,20 @@
 {
   "name": "ULTRA-LOW DRY CABINET",
   "desc": "Premium Microprocessor-Controlled Ultra-Low Humidity Dry Storage Cabinet engineered for safe preservation of moisture-sensitive devices. Features an auto-regenerated electronic Zeolite desiccant dehumidifier maintaining an ultra-low humidity range from 1% to 50% RH.",
+  "principle": "The INNOLAB INSTRUMENTS ULTRA-LOW DRY CABINET is a microprocessor-controlled desiccation storage system engineered to maintain an ultra-low relative humidity environment from 1% to 50% RH using an auto-regenerated electronic Zeolite desiccant dehumidifier. It is designed for preservation of moisture-sensitive materials and devices in pharmaceutical, electronics, semiconductor, and analytical laboratories. Doctors and clinical researchers use it to store moisture-sensitive diagnostic kits, lyophilized reagents, and hygroscopic drug formulations; B.Sc/M.Sc students and PhD researchers use it to protect anhydrous salts, reference standards, and moisture-sensitive intermediates; chemists use it for storage of hygroscopic chemicals such as calcium chloride, lithium chloride, silica gel, and molecular sieves, as well as volatile organic compound (VOC) sampling tubes and moisture-sensitive catalysts. The cabinet complies with IPC/JEDEC J-STD-033 for moisture-sensitive surface mount devices, ASTM E104 for relative humidity conditioning, and ISO 14644 cleanroom storage practices, ensuring stable low-humidity microclimate with rapid recovery below 5% RH within 30 minutes after door opening.",
+  "sop": [
+    "Ensure the cabinet is placed on a level surface with caster brakes engaged and connected to a stable 220 V, 50 Hz single-phase power supply.",
+    "Before first use, allow the cabinet to stabilize for at least 2 hours with the door closed to reach the factory default low-humidity set point.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 5% RH for moisture-sensitive electronic components or 10% RH for hygroscopic chemicals).",
+    "Press 'SET' again to lock the value.",
+    "Wait for the display to show the current chamber humidity and temperature; confirm the humidity is trending downward toward the set point.",
+    "Open the door only when necessary, and minimize door opening time to less than 30 seconds to preserve the ultra-low humidity microclimate.",
+    "Place only clean, dry, and ESD-safe containers or trays inside; avoid introducing wet or damp materials that could overload the Zeolite desiccant.",
+    "Close the door firmly to ensure the heavy-duty airtight magnetic rubber gasket forms a continuous seal.",
+    "Monitor the display periodically; if the humidity rises above the set point after door opening, allow up to 30 minutes for recovery to below 5% RH.",
+    "Safety Warning: Do not store flammable solvents, strong oxidizing acids, or volatile corrosive chemicals inside the cabinet unless the cabinet is specifically configured for chemical storage with inert gas purging, as the electronic desiccant and electrical components may pose ignition or corrosion hazards."
+  ],
   "features": [
     "Wide precision moisture regulation spanning from 1% to 50% RH",
     "Rapid 30-minute recovery time to below 5% RH level after door opening",

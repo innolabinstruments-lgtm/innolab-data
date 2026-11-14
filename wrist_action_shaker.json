@@ -1,6 +1,18 @@
 {
   "name": "WRIST ACTION SHAKER",
   "desc": "The INNOLAB INSTRUMENTS INNO-WASK-810 Wrist Action Shaker is a robust laboratory shaking machine meticulously designed to imitate the back-and-forth shaking action of a human wrist. This heavy-duty instrument is highly utilized in chemistry, agricultural, and extraction laboratories for vigorously blending solvents and dissolving stubborn solids inside Erlenmeyer flasks.",
+  "principle": "The INNOLAB INSTRUMENTS Wrist Action Shaker is a high-torque laboratory agitation platform engineered to replicate the back-and-forth oscillatory motion of the human wrist, generating vigorous reciprocal shear within Erlenmeyer flasks. Doctors and clinical laboratory technicians use it to resuspend biological fluids, mix reagents, and prepare homogeneous suspensions, while B.Sc/M.Sc chemistry students, PhD researchers, and QC chemists rely on it for reproducible solvent blending, dissolution of stubborn solids, liquid–liquid extraction, and pesticide residue workflows such as QuEChERS-style shaking. Typical chemistries include strong organic solvents such as hexane, dichloromethane, ethyl acetate, acetonitrile, methanol, and acetone, as well as dilute acid/base digestion solutions and aqueous biological or enzyme assay suspensions. The rotary speed regulator and 0–99 minute timer allow precise control of agitation rate and duration, ensuring repeatable mass transfer and conformity to routine laboratory quality practices such as ISO 17025 and AOAC extraction protocols.",
+  "sop": [
+    "Place the INNOLAB INSTRUMENTS Wrist Action Shaker on a stable, level bench and connect it to a 220 V / 50 Hz earthed supply; ensure the speed regulator is at minimum and the timer is at zero.",
+    "Securely mount an even number of 100–500 ml Erlenmeyer flasks into the rubber-sleeved steel clamps, distributing them symmetrically to prevent imbalance.",
+    "Add the required solvents and solids (e.g., hexane, ethyl acetate, dilute acid/base solutions) to the flasks and close stoppers or caps if volatile or hazardous vapors may be produced.",
+    "Switch ON the main power and press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (shaking speed or run time in minutes).",
+    "Press 'SET' again to lock the value, then press RUN/START to begin the wrist-action agitation.",
+    "Observe the initial 1–2 minutes to confirm flasks remain secure and the motion is smooth; if necessary, adjust the rotary speed regulator slightly.",
+    "After the timer expires or the run is complete, stop the shaker, switch OFF the power, and allow the platform to come to a complete standstill before unloading.",
+    "Safety Warning: Never open, tighten, or remove flasks while the shaker is in motion; always wear chemical-resistant gloves and eye protection, and handle volatile/acidic samples in a certified fume hood."
+  ],
   "features": [
     "High-torque heavy duty motor mechanism for robust shaking",
     "Accommodates 4 or 8 flasks with capacities from 100ml to 500ml",

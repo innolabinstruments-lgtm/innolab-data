@@ -1,6 +1,24 @@
 {
   "name": "HAND WHEEL AUTOCLAVE",
   "desc": "Fully Automatic Microprocessor-Controlled Vertical Laboratory Autoclave engineered with a specialized light-weight ergonomic hand wheel locking mechanism. Features a 75-liter SS304 sterilization chamber and 3 factory-default sterilization cycles.",
+  "principle": "The INNOLAB INSTRUMENTS HAND WHEEL AUTOCLAVE is a fully automatic, microprocessor-controlled vertical steam sterilizer engineered for high-precision thermal decontamination in clinical, academic, and industrial laboratories. It operates on the principle of saturated steam under elevated pressure, achieving rapid and uniform heat penetration to destroy all forms of microbial life, including highly resistant bacterial endospores (e.g., Geobacillus stearothermophilus biological indicators), viruses, fungi, and prions. The 75-liter SS304 chamber, sealed by a heavy-duty ergonomic hand wheel locking mechanism, sustains temperatures from 105°C to 134°C and pressures up to 0.22 MPa, conforming to international standards such as ISO 17665 for moist heat sterilization and EN 285 for large steam sterilizers. Doctors, B.Sc/M.Sc students, PhD researchers, and chemists rely on this instrument for sterilizing culture media (e.g., nutrient agar, MacConkey agar, tryptic soy broth), laboratory glassware, surgical instruments, biohazardous waste, and heat-stable solutions. The integrated PID controller with multi-line LCD allows precise regulation of temperature and time, while the programmable No Exhaust or Drain option prevents boiling-over of liquid loads. Built-in safety interlocks, including low water level detection, over-temperature trip, and mechanical over-pressure valve, ensure fail-safe operation for routine microbiology assays, pharmaceutical quality control, and R&D decontamination workflows.",
+  "sop": [
+    "Ensure the autoclave is placed on a level surface, connected to a 220V AC, 50 Hz single-phase power supply, and that the water level in the chamber is above the minimum mark (check low water indicator on display).",
+    "Load the items to be sterilized into the two perforated stainless steel baskets, leaving adequate space between items for steam circulation; do not overload.",
+    "Close the lid and rotate the hand wheel clockwise until it is firmly locked; verify that the silicone rubber seal is properly seated.",
+    "Switch on the main power switch; the LCD display will illuminate and show current temperature, time, and date.",
+    "Press the 'SET' button once to enter the temperature setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 121°C for standard sterilization).",
+    "Press 'SET' again to lock the temperature value.",
+    "Press the 'SET' button once more to enter the sterilization time setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required sterilization time (e.g., 15 minutes for liquids, 20 minutes for solid waste).",
+    "Press 'SET' again to lock the time value.",
+    "Select the desired cycle: choose one of the three factory default cycles (121°C, 126°C, or 134°C) or the user-editable custom cycle; if using custom, ensure parameters are within safe limits.",
+    "Press the start button to initiate the sterilization cycle; the autoclave will automatically heat, pressurize, and maintain the set conditions.",
+    "Monitor the analog pressure gauge and LCD display throughout the cycle; the system will automatically release steam and emit an audio beep upon completion.",
+    "After the cycle ends, wait until the pressure gauge reads zero and the chamber temperature drops below 80°C before proceeding.",
+    "Safety Warning: Never attempt to open the hand wheel or force the lid while the chamber is under pressure or at high temperature; always allow the autoclave to cool completely and confirm zero pressure to avoid severe steam burns, scalding, or explosive release of superheated liquids."
+  ],
   "features": [
     "Heavy-duty light-weight rotating Hand Wheel mechanism (Clockwise lock)",
     "75 Litre flagship high-efficiency containment chamber envelope",

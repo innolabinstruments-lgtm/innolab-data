@@ -1,6 +1,20 @@
 {
   "name": "ICE LINED REFRIGERATOR (ILR)",
   "desc": "The INNOLAB INSTRUMENTS Ice Lined Refrigerator (ILR) is designed to maintain 0°C to 8°C for 20 to 25 hours without power supply. Lined with high-quality ice packs, this direct cooling refrigerator is ideal for transporting and storing vaccines, medicines, and blood bags in remote areas.",
+  "principle": "The INNOLAB INSTRUMENTS ICE LINED REFRIGERATOR (ILR) operates on a direct cooling vapour-compression cycle integrated with high-density eutectic ice packs that line the inner chamber walls, functioning as passive thermal batteries. During mains-powered operation, the microprocessor PID controller drives the compressor to lower the inner stainless steel 304 chamber to the 2°C to 8°C set point while simultaneously freezing the water-based ice packs. In the event of a power outage, the ice packs melt isothermally, absorbing heat from the chamber and maintaining the stored contents within +2°C to +8°C for 20–25 hours. The PID controller continuously reads a precision NTC thermistor and cycles the compressor to prevent thermal overshoot and stratification. This design is essential for WHO PQS and ISO 13485 compliant cold chains, enabling doctors to store vaccines, insulin, blood bags, and injectables; B.Sc/M.Sc students to preserve microbial cultures, enzymes, and agar plates; PhD researchers to hold cell culture media, PCR master mixes, and recombinant proteins; and chemists to maintain temperature-sensitive reagents, buffers, and calibration standards without degradation.",
+  "sop": [
+    "Place the ILR on a level surface away from direct sunlight, heat sources, and with at least 10 cm clearance on all sides for ventilation.",
+    "Connect the unit to a grounded 220 Volt 50Hz power supply and switch on the mains; the compressor will start and the digital controller will power up.",
+    "Press the 'SET' button once on the microprocessor PID controller to enter set point adjustment mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, typically +4°C for vaccines, blood products, and biological reagents.",
+    "Press 'SET' again to lock the value; the controller will now display the actual chamber temperature and automatically maintain the set point.",
+    "Allow the chamber to stabilize at the target temperature for at least 30 minutes before loading any temperature-sensitive items.",
+    "Load only pre-chilled vaccines, blood bags, insulin, culture media, or reagents, leaving space between items to permit cold air circulation and avoid overpacking.",
+    "Close the door firmly and monitor the digital temperature display or data logger at least twice daily; record readings in the laboratory logbook.",
+    "During a power failure, keep the door closed to maximise the 20–25 hour holdover time; transfer critical contents to an alternate cold chain if the outage is prolonged.",
+    "Defrost and clean the interior with a mild disinfectant when ice buildup exceeds 5 mm or according to the maintenance schedule, ensuring the unit is disconnected before cleaning.",
+    "SAFETY WARNING: Never store flammable or corrosive chemicals inside the ILR unless specifically validated, and always wear insulated gloves when handling frozen ice packs or metal shelves to prevent cold burns; implement a backup power or contingency plan to protect irreplaceable biologicals during extended outages."
+  ],
   "features": [
     "Over 25 hours hold over time without power",
     "Inner walls lined with high quality plastic ice packs",

@@ -1,6 +1,22 @@
 {
   "name": "VERTICAL AUTOCLAVE WING NUT",
   "desc": "The INNOLAB INSTRUMENTS INNO-WX-AU-360 Vertical Autoclave is an ergonomically designed, fully automatic laboratory sterilizer distinguished by its highly reliable wing nut lid locking mechanism. This sturdy, manual locking system ensures exceptional operator safety and prevents accidental opening during high-pressure cycles.",
+  "principle": "The INNOLAB INSTRUMENTS INNO-WX-AU-360 Vertical Autoclave is a fully automatic, microprocessor-controlled moist-heat sterilizer that uses saturated steam at 105–134 °C and 0.22 MPa working pressure to denature microbial proteins, rupture cell membranes, and irreversibly inactivate vegetative pathogens, fungi, and heat-resistant endospores. Doctors and hospital staff rely on it for terminal sterilization of surgical instruments, wrapped packs, and Bowie-Dick-type penetration tests; B.Sc/M.Sc students use it to sterilize culture media such as nutrient agar, tryptic soy broth, and Luria-Bertani broth, as well as glassware, pipette tips, and filtered membranes; PhD researchers and microbiologists employ it for decontaminating genetically modified or pathogenic cultures (e.g., E. coli, S. aureus, B. subtilis spores) and preparing aseptic media for cell biology assays; chemists and pharmaceutical analysts use it for sterilizing aqueous buffers, saline solutions, and laboratory waste before disposal. The microprocessor PID controller regulates chamber pressure and temperature, and performance can be validated using biological indicators containing Geobacillus stearothermophilus endospores according to ISO 17665 / ISO 11138 and pharmacopoeial steam sterilization standards. Materials such as strong acids, volatile organic compounds (VOCs), flammable solvents, or radioactive substances must not be autoclaved due to corrosion, explosion, or toxic vapor risks.",
+  "sop": [
+    "Place the autoclave on a level surface, lock all caster wheels, and connect the unit to a 220 V, 50 Hz power supply.",
+    "Fill the chamber with clean distilled or demineralized water up to the indicated level mark and verify the low-water protection indicator is not activated.",
+    "Load the two stainless steel sterilizing baskets with compatible items, leaving adequate space between packages for saturated steam circulation.",
+    "Close the lid evenly and hand-tighten all wing nuts in a diagonal (crisscross) sequence to compress the self-inflating silicone rubber seal uniformly.",
+    "Switch ON the main power switch; the LED display will illuminate and show current temperature, pressure, and time.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter.",
+    "Press 'SET' again to lock the value.",
+    "Repeat the SET/arrow sequence to program the sterilization timer (e.g., 121 °C for 15 minutes or 134 °C for 3 minutes) within the 0–99 minute range.",
+    "Press the 'START' or 'RUN' key to begin the fully automatic cycle; the microprocessor controller will heat to the set point, hold the programmed time, and automatically discharge steam and shut off with a beep alert.",
+    "Wait until the pressure gauge reads 0 MPa and the chamber temperature has cooled below 80 °C before proceeding.",
+    "Wearing heat-resistant gloves, slowly loosen the wing nuts in a diagonal sequence and open the lid away from your face to allow any residual steam to escape safely; remove sterilized items using sterile forceps.",
+    "Safety Warning: Never attempt to loosen any wing nut or open the lid while the chamber is pressurized or above atmospheric pressure; always confirm the pressure gauge reads zero and allow adequate cool-down to prevent explosive steam release and severe burns."
+  ],
   "features": [
     "Highly reliable Wing Nut Locking Mechanism for maximum operator safety",
     "Fully Stainless Steel 304 construction sealed with a self-inflating silicone rubber seal",

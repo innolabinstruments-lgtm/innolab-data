@@ -1,6 +1,23 @@
 {
   "name": "NON-REFRIGERATED CENTRIFUGE",
   "desc": "Premium High-Speed Benchtop Microprocessor-Based Non-Refrigerated Laboratory Centrifuge. Features a heavy-duty brushless motor with electronic drive, a 4-line jumbo LCD display for real-time parameter recall, and programmable acceleration/deceleration profiles.",
+  "principle": "The INNOLAB INSTRUMENTS NON-REFRIGERATED CENTRIFUGE is a high-speed microprocessor-controlled laboratory separation system engineered to fractionate heterogeneous biological and chemical suspensions by relative centrifugal force (RCF) up to 28,672 × g. Its dynamically balanced brushless motor and soft suspension deliver stable rotation from 500 to 16,000 RPM, enabling reproducible sedimentation of erythrocytes, leukocytes, platelets, urinary casts, bacteria, yeast, mammalian cell cultures, protein precipitates, and nucleic acid extraction phases. Clinicians routinely use it to prepare serum/plasma from whole blood, concentrate urine sediment for microscopy, and isolate coagulation factors; B.Sc/M.Sc students employ it for basic density-gradient and differential centrifugation experiments; PhD researchers and chemists use it for harvesting Escherichia coli or Saccharomyces cerevisiae biomass, clarifying lysates after ammonium sulfate precipitation, pelleting DNA/RNA following ethanol or isopropanol precipitation, and separating organic-aqueous layers in phenol-chloroform extractions. The instrument supports compliance with ISO 15189 and ASTM E1874 laboratory centrifuge and biosafety practices when sealed rotors, aerosol-tight buckets, and polypropylene tubes are used for biohazardous or volatile samples.",
+  "sop": [
+    "Visually inspect the centrifuge, rotor, lid seal, and power cord for damage or contamination before switching on.",
+    "Ensure the centrifuge is placed on a rigid, level bench away from vibration sources and that the emergency power switch is accessible.",
+    "Connect the power cable to a 220-240V AC, 50Hz grounded socket and switch on the main power supply.",
+    "Open the electronic lid and verify that the standard angular rotor is correctly seated on the motor shaft and rotates freely by hand.",
+    "Load sample tubes symmetrically, balancing opposite tubes by weight to within 0.1 g using matched tubes and equal volumes; never operate with an unbalanced rotor.",
+    "Close the centrifuge lid firmly until the electronic lid lock engages with an audible click.",
+    "Press the 'SET' button once to enter parameter set mode; the display will flash the target RPM.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, e.g., 12,000 RPM for cell debris pelleting or 3,000 RPM for urine sediment; press 'SET' again to lock the value.",
+    "Press the 'SET' button again to move to timer setting; use the 'UP' and 'DOWN' arrows to set the run time from 0 to 99 minutes as required, then press 'SET' again to lock the time.",
+    "If required, set acceleration and deceleration profiles or recall one of the 50 stored programs using the rotary encoder and confirm on the jumbo LCD display.",
+    "Press the 'START' button to initiate the run; monitor the displayed RPM, RCF, and remaining time and do not attempt to open the lid.",
+    "After the run stops and the rotor comes to a complete halt, wait for the electronic lid lock to release automatically, open the lid, and carefully remove samples.",
+    "Clean the stainless steel chamber, rotor, and accessories with a mild laboratory disinfectant or 70% ethanol; allow to dry before storing with the lid open.",
+    "SAFETY WARNING: Never centrifuge flammable, explosive, or highly corrosive liquids unless using certified sealed, chemically compatible tubes in an aerosol-tight rotor; never attempt to open the lid during rotation, and always balance the rotor to prevent catastrophic mechanical failure and aerosol release."
+  ],
   "features": [
     "High-Capacity RCF up to 28672 'G'",
     "Programmable Speed Range 500 to 16000 RPM",

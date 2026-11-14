@@ -1,0 +1,49 @@
+{
+  "name": "DIGITAL COLONY COUNTER",
+  "desc": "Premium Microprocessor-Based Digital Colony Counter engineered for rapid and high-precision enumeration of bacterial and microorganism colonies. Features a 120 mm clear working plate size integrated with a Wolf Flue gel grid glass plate and a 4-digit resettable LED digital counter.",
+  "principle": "The INNOLAB INSTRUMENTS Digital Colony Counter is a high-precision microprocessor-based enumeration workstation designed for rapid, accurate quantification of bacterial and fungal colonies on standard agar plates. It operates on the principle of uniform transmitted illumination combined with a 100 mm magnifying lens and a Wolf Flue gel grid glass plate, allowing microbiologists, pathologists, and food/water quality analysts to visually distinguish and manually mark colony-forming units (CFUs) with an automated beep confirmation and 4-digit LED tally. In medical pathology, it supports viable plate counts (VPC), total aerobic microbial count (TAMC), and total yeast and mold count (TYMC) per ISO 4833-1, ISO 21527, and USP <61>/<62>; in academic B.Sc/M.Sc laboratories it is used for Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, and Bacillus subtilis enumeration on nutrient agar, MacConkey agar, and plate count agar; in PhD research and industrial microbiology, it aids in antibiotic susceptibility testing, bioremediation viability assays, and water/wastewater analysis for heterotrophic plate count (HPC) under ISO 6222, including enumeration of microorganisms cultured in the presence of disinfectants or antimicrobial agents.",
+  "sop": [
+    "Ensure the instrument is placed on a clean, level, vibration-free bench away from direct sunlight and corrosive fumes; connect to 230 V AC, 50 Hz single phase mains and switch ON.",
+    "Clean the 120 mm Wolf Flue gel grid glass plate and 100 mm diameter magnifying lens with 70% ethanol or isopropanol using lint-free tissue; allow to dry completely.",
+    "Place the prepared agar plate (e.g., nutrient agar, MacConkey agar, plate count agar) centrally on the counting zone.",
+    "Press the 'SET' button once to enter the target count threshold mode for the batch or maximum expected CFU count.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 0 to reset baseline or 9999 count limit) as per the laboratory test protocol.",
+    "Press 'SET' again to lock the value.",
+    "Press the reset button to ensure the 4-digit LED display reads 0000 before starting a new count.",
+    "Remove the petri dish lid and observe colonies through the magnifying lens under uniform cool fluorescent illumination; mark each colony on the glass or petri dish with a felt-tip pen. The counter automatically increments by one and beeps per touch.",
+    "Record the final 4-digit LED count after complete scanning; repeat for reproducible triplicate or duplicate plates if required.",
+    "Safety Warning: Do not count open agar plates of pathogenic microorganisms (BSL-2 or higher) outside a biological safety cabinet unless proper aseptic containment and decontamination protocols are followed; after use, wipe down with 70% ethanol and dispose of marked plates as biohazardous waste to prevent cross-contamination."
+  ],
+  "features": [
+    "4 Digits high-capacity tracking up to 9999 counts scale",
+    "Expanded 120 mm diameter circular counting zone architecture",
+    "100 mm diameter heavy magnifying lens for sharp sample viewing",
+    "Automatic audio beep indicator triggered clearly at every successful count",
+    "Ergonomic manual marking pen automated detection mechanism"
+  ],
+  "specifications": {
+    "Equipment Configuration": "High-Performance Benchtop Digital Colony Counter Workstation",
+    "Primary Analytical Function": "Accurate enumeration of bacterial and microbial cell colonies",
+    "Maximum Count Capacity": "4 Digits high-capacity tracking up to 9999 counts scale",
+    "Working Plate Size Layout": "Expanded 120 mm diameter circular counting zone architecture",
+    "Integrated Optical Grid": "Professional standard Wolf Flue gel Grid glass plate layout",
+    "Optical Magnification Lens": "100 mm diameter heavy magnifying lens for sharp sample viewing",
+    "Chamber Illumination Source": "Uniform glare-free illumination via cool fluorescent tube light setup",
+    "Counting Execution Mode": "Ergonomic manual marking pen automated detection mechanism",
+    "Acoustic Confirmation Signal": "Automatic audio beep indicator triggered clearly at every successful count",
+    "Display Dashboard Type": "High-visibility bold LED digital counter display panel",
+    "Counter Reset Capability": "Instant push-button manual reset mechanism to zero baseline parameters",
+    "Chassis Housing Enclosure": "Heavy-gauge Mild Steel (MS) rigid vibration-stable body structural shell",
+    "Surface Coating Protection": "Industrial-grade chemical-resistant defensive powder coat finish",
+    "Physical Dimensions (WxDxH)": "Compact benchtop footprint sizing at 250 mm x 310 mm x 130 mm",
+    "Equipment Net Mass": "Lightweight stable layout tracking around exactly 4.5 Kg",
+    "Electrical Power Input": "Standard 230 V AC, 50 Hz, Single Phase stable Indian plug link",
+    "Target Field Applications": "Medical Pathology, Microbiology Research, Food Quality, and Water Testing Labs",
+    "Warranty Cover Protection": "1 Year Comprehensive On-site Manufacturer Warranty on complete electronic matrix",
+    "Country of Origin": "100% Made in India",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": "assets/3d_models/digital_colony_counter.glb",
+  "image": "assets/instruments/digital_colony_counter.webp",
+  "images": null
+}

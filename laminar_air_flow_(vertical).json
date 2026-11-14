@@ -1,6 +1,24 @@
 {
   "name": "LAMINAR AIR FLOW (VERTICAL)",
   "desc": "Premium Benchtop Vertical Laminar Air Flow Cabinet designed to deliver a Class 100 sterile working environment. Fully constructed from high-grade Stainless Steel 316, featuring integrated HEPA filtration with over 99.97% efficiency and a hermetically sealed glass front door.",
+  "principle": "The INNOLAB INSTRUMENTS Laminar Air Flow (Vertical) operates on the principle of unidirectional vertical laminar airflow to establish an ISO Class 5 (Class 100) aseptic workspace. Ambient air is drawn through a washable fibre pre-filter (efficient down to 10 microns) to capture coarse particulates, then pressurized by a dynamically balanced centrifugal blower. The air is subsequently forced through a main HEPA filter with >99.97% efficiency at 0.3 μm, removing bacteria, fungal spores, and sub-micron contaminants. The sterile air descends in a uniform vertical stream at 0.31–0.4 m/s across the SS 316 worktop, preventing cross-contamination and protecting samples, cultures, and operators. This cabinet is essential for B.Sc/M.Sc students and PhD researchers performing plant tissue culture, microbial enumeration, antibiotic sensitivity testing, and cell line maintenance. Doctors and clinical microbiologists use it for handling cerebrospinal fluid, blood cultures, and Mycobacterium tuberculosis specimens. Chemists employ it for preparing sterile buffers, handling strong acids like hydrochloric and nitric acid fumes, and conducting trace-metal analysis under ASTM and ISO 14644-1 cleanroom standards. The integrated germicidal UV lamp (254 nm) denatures residual DNA/RNA on surfaces, while the digital pressure gauge with audio-visual alarm ensures HEPA integrity and safe operation.",
+  "sop": [
+    "Ensure the cabinet is connected to a 230V ±10%, 50 Hz single-phase supply and the front glass door is fully closed.",
+    "Switch ON the main power isolator and verify the LCD/LED display illuminates.",
+    "Press the 'SET' button once on the microprocessor controller to enter airflow velocity setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target airflow velocity to 0.35 m/s (within 0.31–0.4 m/s).",
+    "Press 'SET' again to lock the value and exit setpoint mode.",
+    "Activate the UV lamp for 15–20 minutes to sterilize the worktop and internal surfaces. Do not enter the workspace during UV exposure.",
+    "Switch OFF the UV lamp and switch ON the visible LED illumination and blower. Allow the laminar airflow to stabilize for 5 minutes.",
+    "Check the digital pressure gauge; if the audio-visual alarm sounds or pressure drops below the manufacturer's threshold, stop work and replace the HEPA filter.",
+    "Wipe the SS 316 worktop and side panels with 70% isopropyl alcohol or 70% ethanol using a lint-free cloth before and after each session.",
+    "Raise the hermetically sealed toughened glass front door only to the minimum height required for hand entry, maintaining the vertical air curtain.",
+    "Introduce only sterile, non-shedding materials into the cabinet. Arrange items to avoid blocking the downward airflow or the rear exhaust grille.",
+    "Perform all aseptic manipulations in the central zone of the worktop, never over open containers or cultures.",
+    "After completing work, remove all materials, wipe down surfaces with 70% ethanol, close the glass door, and run the UV lamp for 15 minutes.",
+    "Switch OFF the blower, LED light, and main power isolator. Record usage, UV hours, and any alarm events in the logbook.",
+    "SAFETY WARNING: Never operate the UV lamp while the glass door is open or while personnel are exposed; UV-C radiation causes severe eye and skin burns. Do not use flammable solvents near the blower motor or electrical components, and always confirm HEPA filter integrity before handling pathogenic microorganisms."
+  ],
   "features": [
     "Class 100 sterile working environment",
     "Main HEPA filter with > 99.97% efficiency at 0.3 μm",

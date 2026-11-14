@@ -1,6 +1,21 @@
 {
   "name": "STOMACHER PADDLE BLENDER",
   "desc": "The INNOLAB INSTRUMENTS INNO-SPB-8S Stomacher Paddle Blender is a standard instrument used in food microbiology, clinical, and environmental testing labs. It is used to mechanically extract bacteria and microorganisms from solid food or clinical samples inside a sterile plastic bag. The paddles apply pressure without direct contact, completely eliminating cross-contamination risks.",
+  "principle": "The INNOLAB INSTRUMENTS STOMACHER PADDLE BLENDER (INNO-SPB-8S) employs a peristaltic paddle homogenization mechanism to mechanically disrupt solid and semi-solid matrices inside a sterile, disposable bag, thereby releasing microorganisms into a liquid diluent without direct sample contact. The microprocessor-controlled paddles compress and release the bag at adjustable speeds (3–12 strokes per second) and spacing (0–50 mm), generating shear and pressure waves that detach bacteria, yeasts, molds, and other microorganisms from food, water, soil, and clinical specimens. This technique is widely used by food microbiologists, B.Sc/M.Sc students, PhD researchers, and clinical laboratory scientists for sample preparation prior to detection of pathogens such as Salmonella spp., Listeria monocytogenes, Escherichia coli O157:H7, Staphylococcus aureus, and coliforms, as well as for total viable counts and spoilage organism enumeration. The method conforms to international sample preparation standards including ISO 6887-1, ISO 7218, and FDA BAM protocols, and is compatible with diluents such as buffered peptone water, saline, and neutralizing buffers. The closed-bag system also safely contains acidic food matrices (e.g., citrus juices, vinegar-based sauces) and volatile organic compounds from fermented products, protecting the operator from aerosols and hazardous vapors. Because the paddles never contact the sample, cross-contamination between successive samples is eliminated, ensuring reproducible and aseptic homogenization for downstream culture, PCR, ELISA, and biochemical assays.",
+  "sop": [
+    "Place the instrument on a stable, level surface and connect the power cord to a 220V 50Hz supply.",
+    "Open the stainless steel door with toughened glass window and ensure the paddle chamber is clean and dry.",
+    "Place the sterile homogenizer bag (17 x 30 cm) containing the sample and appropriate diluent (e.g., buffered peptone water) into the chamber, seating the bag evenly between the paddles.",
+    "Close the door firmly until the latch engages; the anti-pinch safety function will prevent operation if the door is not properly closed.",
+    "Press the 'SET' button once to enter the programming mode on the LCD touch screen controller.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, such as panting time (0.1–99 min 59 sec), panting speed (3–12 times/second), or panting spacing (0–50 mm).",
+    "Press 'SET' again to lock the value.",
+    "If using the 3-segment programming feature, repeat the SET and arrow adjustments for each segment as required by your protocol.",
+    "Press the START button to begin the homogenization cycle and monitor the display for elapsed time and paddle action.",
+    "After the cycle completes, the automatic stop function will halt the paddles; open the door carefully and remove the bag for downstream microbiological analysis.",
+    "Clean the chamber and door with 70% ethanol or a suitable laboratory disinfectant; avoid strong acids, abrasive cleaners, or excessive moisture near electrical components.",
+    "Safety Precaution: Always verify the door is securely latched and keep hands clear of the paddle mechanism during operation; never process samples in torn or leaking bags, and disconnect power before cleaning or maintenance to prevent pinch injuries and electrical hazards."
+  ],
   "features": [
     "Designed for 3 to 400ml sample volumes inside sterile bags (17x30 cm)",
     "Color touch screen LCD controller display with 3 Segments programming",

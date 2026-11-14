@@ -1,6 +1,24 @@
 {
   "name": "STIRRED WATER BATH",
   "desc": "The INNOLAB INSTRUMENTS Stirred Water Bath combines the functions of a precision liquid incubator and a mechanical stirrer. It is widely used in chemical extraction, distillation, enzymatic research labs, and sample warmings where constant temperature uniformity is critical. Equipped with an electric stirrer for water recirculation and a precision PID controller, it guarantees exceptional temperature stability across the entire liquid reservoir while keeping your samples in a consistent environment.",
+  "principle": "The INNOLAB INSTRUMENTS STIRRED WATER BATH is a precision thermal regulation system engineered for uniform heat transfer and active fluid circulation, essential for reproducible laboratory workflows. It integrates a PID microprocessor controller with a heavy-duty mechanical stirrer to eliminate thermal gradients, ensuring every sample experiences identical temperature conditions. Doctors and clinical researchers rely on it for incubating blood serum, urine specimens, and microbiological cultures at 37°C, while B.Sc and M.Sc students use it for enzymatic digestion, protein denaturation, and dissolution testing of pharmaceutical tablets. PhD researchers and chemists employ it for solvent extraction, reflux condensation, and viscosity measurements of polymers or oils, often following ASTM D445 or ISO 3104 standards. The bath safely warms sealed containers of strong acids like hydrochloric or sulfuric acid, volatile organic compounds (VOCs) such as ethanol or acetone, and biological media like Luria-Bertani broth, preventing direct flame hazards. Its stainless steel 304 tank resists corrosion from saline buffers and mild alkalis, while the 5-sided glass wool insulation and PID logic maintain stability within ±0.1°C, critical for ISO 6887 microbiological sample preparation and ASTM E2877 digital contact thermometry validation.",
+  "sop": [
+    "Ensure the water bath is placed on a stable, level surface away from flammable materials and electrical outlets.",
+    "Fill the inner stainless steel tank with distilled or deionized water to the recommended level, ensuring the immersion heater and stirrer paddle are fully submerged.",
+    "Connect the power cord to a 220V 50Hz grounded supply and switch on the main power button.",
+    "Press the 'SET' button once on the PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 37°C for microbiological incubation).",
+    "Press 'SET' again to lock the value; the controller will display the set value (SV) and current process value (PV) on the dual LED display.",
+    "If a timed operation is needed, press the timer button and use the arrows to set the duration up to 9999 minutes, then press 'SET' to confirm.",
+    "Turn on the stirrer using the independent stirrer on/off switch and adjust the variable speed knob to achieve gentle or vigorous circulation as required for your samples.",
+    "Allow the water bath to reach the set temperature and stabilize for at least 15 minutes; verify the PV matches the SV within ±0.5°C.",
+    "Place sample containers (test tubes, flasks, or beakers) into the bath using a rack or clamp, ensuring they are securely positioned and not blocking the stirrer paddle.",
+    "Monitor the process periodically; do not leave the bath unattended for extended periods, especially when heating volatile or hazardous substances.",
+    "After completion, turn off the stirrer and heater, then switch off the main power and unplug the unit.",
+    "Allow the water to cool to ambient temperature before draining; open the drain valve or carefully pour out the water, avoiding splashing on electrical components.",
+    "Clean the inner tank with a mild detergent and soft cloth, rinse thoroughly with distilled water, and dry completely to prevent mineral buildup or corrosion.",
+    "Safety Warning: Never operate the bath with the water level below the minimum mark, as this can cause the heater to overheat and fail; always use sealed, chemically compatible containers for strong acids, bases, or volatile solvents, and wear appropriate PPE including heat-resistant gloves and safety goggles."
+  ],
   "features": [
     "Precise stirring control with an independent stirrer on/off switch",
     "Digital PID temperature controller with bright LED display",

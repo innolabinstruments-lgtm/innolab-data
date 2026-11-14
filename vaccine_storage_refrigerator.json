@@ -1,6 +1,19 @@
 {
   "name": "VACCINE STORAGE REFRIGERATOR",
   "desc": "The INNOLAB INSTRUMENTS Vaccine Storage Refrigerator is designed for highly safe storage of vaccines, medicines, and insulin between 2°C to 8°C. It features a smart undercounter design, full-length double layered toughened glass door with frost-free feature, anti-condensation, and an in-built tamper-proof data recording facility.",
+  "principle": "The INNOLAB INSTRUMENTS Vaccine Storage Refrigerator operates on precision microprocessor-controlled forced-air cooling to maintain a stable 2°C to 8°C environment compliant with DIN 58345. It uses R600a refrigerant and frost-free circulation to prevent temperature stratification and condensation, ensuring vaccines, insulin, and temperature-sensitive biological reagents retain potency. Doctors rely on it for vaccine and insulin storage; B.Sc/M.Sc students and PhD researchers use it for enzyme reagents, serological test kits, and microbiological media; chemists store heat-labile standards and buffer solutions. Tamper-proof data logging records temperature excursions, power failures, and door openings for GLP/GMP traceability.",
+  "sop": [
+    "Ensure the door seal and interior are clean and dry; connect the unit to a 220V 50Hz supply and switch it ON.",
+    "Allow the refrigerator to run empty until the display stabilizes and confirms the internal temperature is within 2°C to 8°C before loading any vaccines or medicines.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter, e.g., 5°C for vaccine storage.",
+    "Press 'SET' again to lock the value.",
+    "Wait at least 30 minutes for temperature stabilization and verify the displayed value against a calibrated independent thermometer.",
+    "Load vaccines, insulin, or biological reagents with adequate spacing; avoid overloading and never block internal air vents.",
+    "Close the door fully, engage the lock, and record the temperature reading in the daily log or download it via the USB data recording port.",
+    "Enable visual and audible alarms for low/high temperature, door open, sensor failure, and power failure; respond immediately if they activate.",
+    "Safety Warning: Do not store flammable solvents, corrosive chemicals, or unsealed infectious materials in this refrigerator; if temperature exceeds 2°C to 8°C or a power failure occurs, quarantine contents and consult a pharmacist or supervisor before use."
+  ],
   "features": [
     "Complaint to DIN 58345 standards",
     "Small undercounter size that occupies low space",

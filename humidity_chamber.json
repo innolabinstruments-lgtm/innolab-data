@@ -1,6 +1,22 @@
 {
   "name": "HUMIDITY CHAMBER",
   "desc": "Premium Double-Walled Laboratory Humidity Chamber engineered for highly precise environmental simulation, climate testing, and stability studies. Features a 100-liter capacity with high-grade Stainless Steel 304 interior and a CFC-free hermetically sealed cooling system.",
+  "principle": "The INNOLAB INSTRUMENTS Humidity Chamber is a precision environmental simulation system engineered for controlled temperature and humidity testing. It employs a microprocessor-based PID digital controller to maintain setpoints with ultra-high accuracy (±0.1°C, ±2% RH). The chamber integrates a CFC-free hermetically sealed compressor (R134a refrigerant) for cooling and an automated steam injection method for rapid humidification, while a motorized blower ensures uniform air distribution across the 100-liter stainless steel (SS 304) interior. This chamber is essential for stability studies of pharmaceuticals, cosmetics, and packaging materials in accordance with ICH guidelines, ASTM D4332 (conditioning of containers), and ISO 2233 (packaging conditioning). It supports plant growth, insect culture, and microbial assays by providing precise climatic conditions, and is used for testing hygroscopic materials, corrosion resistance, and calibration of humidity sensors using saturated salt solutions. The double-walled construction with 70mm PUF insulation minimizes thermal loss, enabling reliable long-term experiments for B.Sc/M.Sc students, PhD researchers, and industrial quality control laboratories.",
+  "sop": [
+    "Ensure the chamber is placed on a level, vibration-free surface and connected to a properly grounded electrical outlet.",
+    "Open the chamber door and load samples onto the three removable stainless steel wire-mesh trays, maintaining at least 15 cm spacing between trays for optimal air circulation.",
+    "Close the door securely and switch on the main power supply.",
+    "Press the 'SET' button once on the PID controller to enter temperature setpoint mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target temperature (e.g., 25°C).",
+    "Press 'SET' again to lock the temperature value.",
+    "Press the 'SET' button once more to enter humidity setpoint mode (if separate, use the designated humidity key).",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target humidity (e.g., 60% RH).",
+    "Press 'SET' again to lock the humidity value.",
+    "Allow the chamber to stabilize; monitor the 5-inch digital display until both temperature and humidity reach the setpoints and remain steady.",
+    "Record initial readings and start the experiment or test duration, avoiding frequent door openings to prevent disturbance of internal conditions.",
+    "After completion, switch off the chamber and allow it to return to ambient temperature and humidity before opening the door to retrieve samples.",
+    "Safety Warning: Never place flammable, explosive, or corrosive materials inside the chamber, and always verify that the high-temperature safety cutoff mechanism is operational to prevent overheating and potential fire hazards."
+  ],
   "features": [
     "Fully adjustable Temperature Range from +10°C to 70°C",
     "Wide Humidity Control Range from 10% RH to 95% RH",

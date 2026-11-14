@@ -1,6 +1,24 @@
 {
   "name": "PHARMACEUTICAL GMP STERILIZER",
   "desc": "Fully Automatic PLC-Controlled Pharmaceutical GMP Pulse Vacuum Sterilizer engineered for high-stringency sterilization workflows. Features a 600-liter horizontal chamber fabricated from premium SS316L, driven by a heavy-duty water ring vacuum pump for deep vacuum cycles.",
+  "principle": "The INNOLAB INSTRUMENTS PHARMACEUTICAL GMP STERILIZER is a fully automatic PLC-controlled pulse vacuum steam sterilizer designed for terminal sterilization of heat- and moisture-stable pharmaceutical and laboratory loads, including glass vials, ampoules, surgical garments, silicon tubes, filter assemblies, culture media, and stainless steel tools. It generates saturated steam at 121–134°C and up to 0.23 MPa, using deep pre-vacuum pulses from a water ring vacuum pump to remove air and force steam into porous and hollow items. The moist heat irreversibly coagulates and denatures microbial proteins and nucleic acids, killing bacteria, fungi, viruses, and highly resistant spores such as Geobacillus stearothermophilus, Bacillus atrophaeus, Escherichia coli, Staphylococcus aureus, and Bacillus subtilis. Doctors and hospital CSSD staff use it to sterilize surgical instruments and gowns; B.Sc/M.Sc students sterilize nutrient agar, tryptic soy broth, and glassware; PhD researchers sterilize bioreactor components, phosphate-buffered saline, and pipette tips; chemists sterilize reagent bottles and filter assemblies. Strong acids, volatile organic compounds, and flammable solvents must be excluded or handled only in validated containers. The system complies with ISO 17665, EN 285, USP <1229>, and GMP Annex 1, and includes Bowie-Dick and leak test programs, a 0.22 µm sterile air filter, and PLC/HMI data logging for reproducible, validated cycles.",
+  "sop": [
+    "Ensure the sterilizer is connected to 380-415 V AC three-phase power, compressed air, and water supply; verify the chamber is cool and clean.",
+    "Inspect the door gasket and chamber drain strainer; remove any debris or residual water.",
+    "Load the validated items (e.g., glass vials, ampoules, garments, silicon tubes, filters, or liquids) in a manner that allows steam penetration; do not overload.",
+    "Close the motor-driven pneumatic sliding door and confirm the door-lock indicator is active.",
+    "Switch ON the main power and wait for the PLC/HMI touchscreen to complete self-diagnostics.",
+    "Select the appropriate cycle (e.g., porous load, liquid, Bowie-Dick, or leak test) from the HMI menu.",
+    "Press the 'SET' button once.",
+    "Use the 'UP' and 'DOWN' arrows to adjust to the required target parameter (e.g., 121°C for 15 minutes or 134°C for 3 minutes).",
+    "Press 'SET' again to lock the value.",
+    "Verify the maximum pressure limit is set to 0.23 MPa and the vacuum pulse count is appropriate for the load type.",
+    "Press START to initiate the cycle; monitor pre-vacuum pulses, steam heating, sterilization hold, and post-vacuum drying phases on the HMI.",
+    "At cycle completion, wait until chamber pressure reads 0 MPa and temperature is below 80°C before attempting to open the door.",
+    "Open the door slowly, remove the sterilized load using heat-resistant gloves, and allow liquids to cool gradually to prevent boil-over.",
+    "Record the cycle parameters from the built-in mini printer and sign the equipment logbook.",
+    "Safety Warning: Never attempt to open the door while the chamber is pressurized or above 80°C; live steam can cause severe burns, and never sterilize flammable solvents, volatile organic compounds, strong acids, or sealed containers without a validated liquid cycle."
+  ],
   "features": [
     "600 Litre flagship industrial high-capacity sterilization envelope",
     "Premium-grade ultra-corrosion-resistant AISI Stainless Steel 316L (SS316L)",
