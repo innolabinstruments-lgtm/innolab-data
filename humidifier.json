@@ -1,6 +1,21 @@
 {
   "name": "HUMIDIFIER",
   "desc": "Fully Automatic Large-Capacity Ultrasonic Humidifier engineered to optimize micro-climates in greenhouse and horticultural environments. Features a 13-liter tank delivering 6 liters/hour mist output, driven by an energy-efficient 500W ultrasonic transducer.",
+  "principle": "The humidifier works on the piezoelectric (inverse piezoelectric effect) principle. A ceramic transducer (typically lead zirconate titanate, PZT) immersed in the water reservoir is driven by a high-frequency AC signal (approx. 1.7 MHz). The rapid mechanical oscillation sets up capillary waves and acoustic cavitation at the water surface, which shear off the liquid as a fog of 1-5 micron droplets without any heating. Because no thermal energy is added, the mist remains a true cool mist with no heat-induced temperature rise in the chamber. A built-in digital Relative Humidity (RH) sensor continuously compares the chamber's RH against the set value and switches the transducer ON/OFF (closed-loop control) to hold the micro-climate within a narrow band. In research settings, this is vital for plant tissue culture hardening, acclimatization of micropropagated plantlets, seed germination and phytotron-style growth studies, and plant physiology and agrochemical experiments (e.g., foliar-spray uptake or pesticide/fertilizer efficacy trials) where transpiration rate, stomatal behavior and vapor pressure deficit (VPD) must be held constant. It is also useful for humidity-conditioning of hygroscopic samples, biological specimens, herbarium material, and moisture-sensitive materials in a controlled environment. Water quality matters chemically: dissolved salts such as Ca2+, Mg2+ and carbonates in hard water are aerosolized along with the mist and deposit as white scale (CaCO3) on the transducer and on leaf surfaces, which affects experimental reproducibility. Therefore, distilled or deionized (DI) water should be preferred for research-grade work, particularly in nutrient-sensitive trials and when mineral residues could interfere with foliar analysis.",
+  "sop": [
+    "Place the humidifier on a stable, level surface inside the greenhouse or growth chamber, away from direct sprinkler spray and electrical splash zones.",
+    "Open the water tank cap and fill the 13-liter reservoir with clean water (use distilled or DI water for research experiments to avoid mineral scaling). Do not exceed the MAX level mark.",
+    "Close the tank cap tightly and check that both mist outlets are open, free of obstruction, and pointed in the desired direction.",
+    "Connect the plug to a properly earthed 230 V AC, 50 Hz socket, then turn ON the main switch and MCB.",
+    "Press the 'POWER' button to start the unit and wait for the display to initialize.",
+    "Press the 'SET' button to enter the humidity setting mode.",
+    "Use the 'UP' and 'DOWN' arrows to adjust the target Relative Humidity (RH %) to your experimental requirement (e.g., 70-85% RH for plant acclimatization).",
+    "Press 'SET' again to lock the parameter.",
+    "Wait for stabilization. The ultrasonic transducer will start misting and automatically cycle ON/OFF as the built-in RH sensor tracks the chamber humidity. Verify the stable RH reading before starting your experiment.",
+    "Monitor the water level regularly. Refill when the level is low, and always switch OFF and unplug the unit before refilling.",
+    "After use, switch OFF the unit, turn OFF the main switch and MCB, drain the leftover water, and wipe the tank dry. Clean the transducer surface periodically with a soft brush or a mild descaling solution (such as dilute citric acid or white vinegar) to remove mineral deposits.",
+    "SAFETY WARNING: Never operate the unit with an empty tank (dry running can damage the transducer). Never pour water directly onto the electrical housing or touch the unit with wet hands while plugged in. Do not add chemicals, pesticides, essential oils, or acids to the water tank, as aerosolized chemicals can corrode the transducer and may be harmful if inhaled. Always switch OFF and unplug the mains supply before cleaning, refilling or maintenance."
+  ],
   "features": [
     "High-volume mist output tracking at 6 Liters per hour",
     "High-frequency Ultrasonic Transducer producing Ultra-fine Cool Mist",
