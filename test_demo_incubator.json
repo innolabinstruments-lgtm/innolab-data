@@ -1,0 +1,32 @@
+{
+  "name": "TEST DEMO SUPER INCUBATOR",
+  "desc": "This is a temporary test instrument to verify automatic website catalog syncing, search indexing, and product page generation for INNOLAB INSTRUMENTS.",
+  "principle": "Operates using microprocessor PID thermal control for uniform chamber stability during demo testing.",
+  "sop": [
+    "Connect the unit to a 230V AC supply and turn ON the main switch.",
+    "Set the required temperature using the digital PID controller.",
+    "Allow the chamber to stabilize before placing test samples."
+  ],
+  "features": [
+    "Auto-sync test instrument",
+    "Digital PID microprocessor controller",
+    "SS 304 inner chamber with toughened glass door"
+  ],
+  "specifications": {
+    "Capacity": "150 Liters",
+    "Temperature Range": "5°C to 60°C",
+    "Controller": "Digital PID",
+    "Power Supply": "220-240V AC, 50Hz",
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "model_3d": null,
+  "image": "https://raw.githubusercontent.com/innolabinstruments-lgtm/innolab-data/refs/heads/main/vaccine_refrigerator.webp",
+  "images": null,
+  "slug": "test-demo-incubator",
+  "modelNumber": "INNO-TEST-999",
+  "category": "Biotechnology",
+  "catalogueIds": [
+    "biotech",
+    "microbiology"
+  ]
+}
