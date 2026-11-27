@@ -1,0 +1,18 @@
+{
+  "name": "TEST TWO IMAGE MACHINE",
+  "desc": "Testing two product images and automatic path conversion.",
+  "features": ["Dual image gallery test"],
+  "specifications": {
+    "Brand": "INNOLAB INSTRUMENTS"
+  },
+  "image": "assets/instruments/vaccine_refrigerator.webp",
+  "images": [
+    "assets/instruments/vaccine_refrigerator.webp",
+    "bod_incubator.webp"
+  ],
+  "model_3d": null,
+  "slug": "test-two-images",
+  "modelNumber": "INNO-TEST-2IMG",
+  "category": "Pharmaceutical",
+  "catalogueIds": ["pharma"]
+}
