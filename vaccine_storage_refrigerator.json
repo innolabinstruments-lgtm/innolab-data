@@ -34,5 +34,5 @@
   },
   "model_3d": "assets/3d_models/vaccine_refrigerator.glb",
   "image": "assets/instruments/vaccine_refrigerator.webp",
-  "images": null
+  "images": "https://raw.githubusercontent.com/innolabinstruments-lgtm/innolab-data/refs/heads/main/vdrl_shaker.webp"
 }
