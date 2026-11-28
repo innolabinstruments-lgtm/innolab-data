@@ -46,5 +46,8 @@
   },
   "model_3d": "assets/3d_models/refrigerated_incubator_shaker.glb",
   "image": "assets/instruments/refrigerated_incubator_shaker.webp",
-  "images": null
+  "images": [
+   "refrigerated_incubator_shaker.webp",
+   "Refrigrated_shaking_incubatoer.webp"
+]
 }
