@@ -56,7 +56,7 @@
   "model_3d": "assets/3d_models/rotary_shaker.glb",
   "image": null,
   "images": [
-    "assets/instruments/rotary_shaker.webp",
-    "assets/instruments/rotary_shaker_02.webp"
+    "rotary_shaker.webp",
+    "rotary_shaker_new_model.webp"
   ]
 }
